@@ -1,0 +1,47 @@
+---
+schema-version: v1.2.3
+id: CCSDSA20.0-Y-4Cor.1
+title:
+- content: Corrigendum 1 to CCSDS A20.0-Y-4, issued April 2014
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/A20x0y4c1_ac1504.pdf
+  type: pdf
+docid:
+- id: CCSDS A20.0-Y-4 Cor. 1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2015-02
+edition:
+  content: 4 Cor. 1
+revdate: 2015-02
+abstract:
+- content: This Corrigendum documents changes to CCSDS A20.0-Y-4, CCSDS Publications
+    Manual (Yellow Book, Issue 4, April 2014).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: editionOf
+  bibitem:
+    id: CCSDSA20.0-Y-4
+    docid:
+    - id: CCSDS A20.0-Y-4
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS A20.0-Y-4
+      format: text/plain
+editorialgroup:
+- name: CCSDS Secretariat

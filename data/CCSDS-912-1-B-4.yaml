@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.3
+id: CCSDS912.1-B-4
+title:
+- content: Space Link Extension--Forward CLTU Service Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/912x1b4s.pdf
+  type: pdf
+docid:
+- id: CCSDS 912.1-B-4
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2016-08
+edition:
+  content: '4'
+revdate: 2016-08
+abstract:
+- content: |-
+    The Recommended Standards for Space Link Extension (SLE) services specify data services conformant to the transfer services specified in Cross Support Reference Model—Part 1: SLE Services (CCSDS 910.4-B-2).  The current drafts add clarifications and corrections, add or update production status annexes for consistency across all five SLE service specifications, and update specifications to accommodate recent additions to the CCSDS Recommended Standards for coding and synchronization.
+    <br><br>
+    This document issue was superseded by CCSDS 912.1-B-5, Space Link Extension-Forward CLTU Service Specification (Blue Book, Issue 5), released July 2023.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS912.1-B-4-S
+    docid:
+    - id: CCSDS 912.1-B-4-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 912.1-B-4-S
+      format: text/plain
+- type: adoptedAs
+  bibitem:
+    id: ISO22671
+    docid:
+    - id: ISO 22671
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 22671
+      format: text/plain
+doctype: standard
+editorialgroup:
+- name: CSS-CSTS
+ext:
+  technology_area: Cross Support Services Area

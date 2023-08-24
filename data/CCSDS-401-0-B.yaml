@@ -1,0 +1,235 @@
+---
+schema-version: v1.2.3
+id: CCSDS401.0-B
+title:
+- content: 'Radio Frequency and Modulation Systems—Part 1: Earth Stations and Spacecraft'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/401x0b10s.pdf
+  type: pdf
+docid:
+- id: CCSDS 401.0-B
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2001-06
+edition:
+  content: '2'
+revdate: 2001-06
+abstract:
+- content: This document has been withdrawn by the CCSDS.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS401.0-B-S
+    docid:
+    - id: CCSDS 401.0-B-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-S
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-14
+    docid:
+    - id: CCSDS 401.0-B-14
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-14
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-15
+    docid:
+    - id: CCSDS 401.0-B-15
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-15
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-16
+    docid:
+    - id: CCSDS 401.0-B-16
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-16
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-17
+    docid:
+    - id: CCSDS 401.0-B-17
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-17
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-18
+    docid:
+    - id: CCSDS 401.0-B-18
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-18
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-19
+    docid:
+    - id: CCSDS 401.0-B-19
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-19
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-20
+    docid:
+    - id: CCSDS 401.0-B-20
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-20
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-21Cor.1
+    docid:
+    - id: CCSDS 401.0-B-21 Cor. 1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-21 Cor. 1
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-21
+    docid:
+    - id: CCSDS 401.0-B-21
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-21
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-22
+    docid:
+    - id: CCSDS 401.0-B-22
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-22
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-23
+    docid:
+    - id: CCSDS 401.0-B-23
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-23
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-24
+    docid:
+    - id: CCSDS 401.0-B-24
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-24
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-25
+    docid:
+    - id: CCSDS 401.0-B-25
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-25
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-26
+    docid:
+    - id: CCSDS 401.0-B-26
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-26
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-27
+    docid:
+    - id: CCSDS 401.0-B-27
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-27
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-28
+    docid:
+    - id: CCSDS 401.0-B-28
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-28
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-29
+    docid:
+    - id: CCSDS 401.0-B-29
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-29
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-30
+    docid:
+    - id: CCSDS 401.0-B-30
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-30
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-31
+    docid:
+    - id: CCSDS 401.0-B-31
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-31
+      format: text/plain
+doctype: standard

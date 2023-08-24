@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: CCSDS502.0-B-1-S
+title:
+- content: Orbit Data Messages
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/502x0b1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 502.0-B-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2004-09
+edition:
+  content: '1'
+revdate: 2004-09
+abstract:
+- content: 'This Recommendation specifies two standard message formats for use in
+    transferring spacecraft orbit information between space Agencies:  the Orbit Parameter
+    Message (OPM) and the Orbit Ephemeris Message (OEM).  The document includes sets
+    of requirements and criteria that the message formats have been designed to meet.  For
+    exchanges where these requirements do not capture the needs of the participating
+    Agencies, another mechanism may be selected.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO26900
+    docid:
+    - id: ISO 26900
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 26900
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS502.0-B-1
+    docid:
+    - id: CCSDS 502.0-B-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 502.0-B-1
+      format: text/plain
+doctype: standard

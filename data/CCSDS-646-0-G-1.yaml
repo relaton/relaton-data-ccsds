@@ -1,0 +1,44 @@
+---
+schema-version: v1.2.3
+id: CCSDS646.0-G-1
+title:
+- content: The Data Description Language EAST—List of Conventions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/646x0g1.pdf
+  type: pdf
+docid:
+- id: CCSDS 646.0-G-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 1997-05
+edition:
+  content: '1'
+revdate: 1997-05
+abstract:
+- content: This Informational Report establishes an evolving list of conventions used
+    in the data generation process to produce real numbers.  These conventions are
+    referenced in EAST Data Descriptions (see CCSDS 644.0-B-3) and could be referenced
+    in other Data Description Records (DDRs), written in other Data Description Languages
+    (DDL).  The CCSDS conducts periodic reconfirmation reviews of its publications
+    to assure their continued relevance. This Informational Report has been reconfirmed
+    through June 2022.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: MOIMS-DAI
+ext:
+  technology_area: Mission Operations and Information Management Services Area

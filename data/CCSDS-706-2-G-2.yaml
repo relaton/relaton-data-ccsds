@@ -1,0 +1,40 @@
+---
+schema-version: v1.2.3
+id: CCSDS706.2-G-2
+title:
+- content: Voice Communications
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/706x2g2.pdf
+  type: pdf
+docid:
+- id: CCSDS 706.2-G-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2018-12
+edition:
+  content: '2'
+revdate: 2018-12
+abstract:
+- content: |-
+    This CCSDS Informational Report presents an overview of voice
+    communications in use in human spaceflight.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: SIS-VOICE
+ext:
+  technology_area: Space Internetworking Services Area

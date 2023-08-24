@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.3
+id: CCSDS202.1-B-2-S
+title:
+- content: Telecommand Part 2.1—Command Operation Procedures
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/202x1b2s.pdf
+  type: pdf
+docid:
+- id: CCSDS 202.1-B-2-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2001-06
+edition:
+  content: '2'
+revdate: 2001-06
+abstract:
+- content: The Command Operation Procedure forms a subpart of the Data Routing Service,
+    which is described in CCSDS 202.0-B-3. This Recommendation contains the definition
+    of the Command Operation Procedure in the form of state tables at the level of
+    detail necessary to allow cross support. The current issue clarifies and improves
+    the specification based on experience with real implementations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO12173
+    docid:
+    - id: ISO 12173
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 12173
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS202.1-B-2
+    docid:
+    - id: CCSDS 202.1-B-2
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 202.1-B-2
+      format: text/plain
+doctype: standard

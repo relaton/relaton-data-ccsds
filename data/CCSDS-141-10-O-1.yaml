@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: CCSDS141.10-O-1
+title:
+- content: Optical High Data Rate (HDR) Communication-1550 NM
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/141x10.pdf
+  type: pdf
+docid:
+- id: CCSDS 141.10-O-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2022-06
+edition:
+  content: '1'
+revdate: 2022-06
+abstract:
+- content: This Experimental Specification contains the technical specification for
+    implementing the Physical Layer and the Coding and Synchronization (sub)layer
+    of optical communication systems. It is based on the High Data Rate (HDR) scenario
+    implemented in ESA missions (EDRS series, Sentinel series).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: specification
+editorialgroup:
+- name: SLS-OPT
+ext:
+  technology_area: Space Link Services Area

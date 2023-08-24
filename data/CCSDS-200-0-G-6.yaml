@@ -1,0 +1,48 @@
+---
+schema-version: v1.2.3
+id: CCSDS200.0-G-6
+title:
+- content: Telecommand Summary of Concept and Rationale
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/200x0g6.pdf
+  type: pdf
+docid:
+- id: CCSDS 200.0-G-6
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 1987-01
+edition:
+  content: '6'
+revdate: 1987-01
+abstract:
+- content: In order to establish a common framework within which the Agencies may
+    develop standardized telecommand services, the CCSDS advocates adoption of a layered
+    systems architecture. Within this approach, specific layers of service (including
+    their operational protocol and data structuring techniques) may be selected for
+    implementation according to mission requirements. The current layered set of CCSDS
+    telecommand Recommendations was developed to match the conventional free-flying
+    mission environment, as characterized by the transmission of command data at relatively
+    low uplink data rates to spacecraft of moderate complexity. This Report summarizes
+    the principal concepts associated with the CCSDS recommended space mission telecommanding
+    architecture.  This document has been reconfirmed by the CCSDS Management Council
+    through October 2021.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: SLS-SLP
+ext:
+  technology_area: Space Link Services Area

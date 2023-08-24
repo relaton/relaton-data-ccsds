@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.3
+id: CCSDS912.1-B-2-S
+title:
+- content: Space Link Extension – Forward CLTU Service Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/912x1b2c1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 912.1-B-2-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2004-11
+edition:
+  content: '2'
+revdate: 2004-11
+abstract:
+- content: 'This Recommended Standard defines the Communications Link Transmission
+    Unit (CLTU) service in conformance with the transfer services specified in CCSDS
+    910.4-B-1, Cross Support Reference Model—Part 1: SLE Services. The Forward CLTU
+    service is a Space Link Extension (SLE) transfer service that enables a mission
+    to send CLTUs to a spacecraft.  The current version of this document contains
+    all updates through Technical Corrigendum 1, dated May 2007.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO22671
+    docid:
+    - id: ISO 22671
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 22671
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS912.1-B-2-SCor.1
+    docid:
+    - id: CCSDS 912.1-B-2-S Cor. 1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 912.1-B-2-S Cor. 1
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS912.1-B-2
+    docid:
+    - id: CCSDS 912.1-B-2
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 912.1-B-2
+      format: text/plain
+doctype: standard

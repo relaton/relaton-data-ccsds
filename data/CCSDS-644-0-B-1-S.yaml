@@ -1,0 +1,55 @@
+---
+schema-version: v1.2.3
+id: CCSDS644.0-B-1-S
+title:
+- content: The Data Description Language EAST Specification (CCSD0010)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/644x0b1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 644.0-B-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 1997-05
+edition:
+  content: '1'
+revdate: 1997-05
+abstract:
+- content: This document has been withdrawn by the CCSDS.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO15889
+    docid:
+    - id: ISO 15889
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 15889
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS644.0-B-1
+    docid:
+    - id: CCSDS 644.0-B-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 644.0-B-1
+      format: text/plain
+doctype: standard

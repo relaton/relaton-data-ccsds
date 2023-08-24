@@ -1,0 +1,54 @@
+---
+schema-version: v1.2.3
+id: CCSDS413.1-G-1
+title:
+- content: Simultaneous Transmission of GMSK Telemetry and PN Ranging
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/413x1g1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 413.1-G-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2017-05
+edition:
+  content: '1'
+revdate: 2017-05
+abstract:
+- content: "This Informational Report is an adjunct document to the CCSDS \nRecommended
+    Standard for Pseudo-Noise (PN) Ranging Systems (CCSDS 414.1-B-1).  It provides
+    background information and discussion of technical details related to the PN ranging
+    systems defined by the CCSDS Recommended Standard.\n<br><br>\nThis document issue
+    was superseded by CCSDS 413.1-G-2, Simultaneous Transmission of GMSK Telemetry
+    and PN Ranging (Green Book, Issue 2), released November 2021."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS413.1-G-1-S
+    docid:
+    - id: CCSDS 413.1-G-1-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 413.1-G-1-S
+      format: text/plain
+doctype: report
+editorialgroup:
+- name: SLS-RFM
+ext:
+  technology_area: Space Link Services Area

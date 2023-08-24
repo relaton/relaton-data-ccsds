@@ -1,0 +1,61 @@
+---
+schema-version: v1.2.3
+id: CCSDS123.0-B-1-S
+title:
+- content: Lossless Multispectral & Hyperspectral Image Compression
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/123x0b1ec1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 123.0-B-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2012-05
+edition:
+  content: '1'
+revdate: 2012-05
+abstract:
+- content: This Recommended Standard specifies a method for lossless compression of
+    multispectral and hyperspectral image data and a format for storing the compressed
+    data.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO18381
+    docid:
+    - id: ISO 18381
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 18381
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS123.0-B-1
+    docid:
+    - id: CCSDS 123.0-B-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 123.0-B-1
+      format: text/plain
+doctype: standard
+editorialgroup:
+- name: SLS-MHDC
+ext:
+  technology_area: Space Link Services Area

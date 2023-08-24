@@ -1,0 +1,64 @@
+---
+schema-version: v1.2.3
+id: CCSDS508.0-B-1-S
+title:
+- content: Conjunction Data Message
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/508x0b1e2s.pdf
+  type: pdf
+docid:
+- id: CCSDS 508.0-B-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2013-06
+edition:
+  content: '1'
+revdate: 2013-06
+abstract:
+- content: This Recommended Standard for Conjunction Data Message (CDM) specifies
+    a standard message format for use in exchanging spacecraft conjunction information
+    between data originators of conjunction assessments, satellite owner/operators,
+    and other authorized parties.  Such exchanges are used to inform satellite operator(s)
+    of conjunctions between objects in space to enable consistent warning by different
+    organizations employing diverse conjunction assessment techniques.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO19389
+    docid:
+    - id: ISO 19389
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 19389
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS508.0-B-1
+    docid:
+    - id: CCSDS 508.0-B-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 508.0-B-1
+      format: text/plain
+doctype: standard
+editorialgroup:
+- name: MOIMS-NAV
+ext:
+  technology_area: Mission Operations and Information Management Services Area

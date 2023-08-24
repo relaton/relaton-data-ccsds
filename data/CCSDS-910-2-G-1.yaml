@@ -1,0 +1,40 @@
+---
+schema-version: v1.2.3
+id: CCSDS910.2-G-1
+title:
+- content: Standard Terminology, Conventions, and Methodology (TCM) for Defining Data
+    Services
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/910x2g1.pdf
+  type: pdf
+docid:
+- id: CCSDS 910.2-G-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 1994-11
+edition:
+  content: '1'
+revdate: 1994-11
+abstract:
+- content: |-
+    This Report is a summary of, and cross-reference to, internationally adopted standards for defining data services, and is the result of a study of different data service definition conventions conducted in support of the definition of CCSDS Space Link Extension services. The material contained in the Report is not limited to Space Link Extension services and may be applicable to other data service definition activities of CCSDS and its member Agencies.
+
+    The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance.  This Informational Report has been reconfirmed through June 2022.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: CSS Area

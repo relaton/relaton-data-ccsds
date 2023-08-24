@@ -1,0 +1,44 @@
+---
+schema-version: v1.2.3
+id: CCSDS120.0-G-4
+title:
+- content: Lossless Data Compression
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/120x0g4.pdf
+  type: pdf
+docid:
+- id: CCSDS 120.0-G-4
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2021-11
+edition:
+  content: '4'
+revdate: 2021-11
+abstract:
+- content: This Report presents a summary of the key operational concepts and rationale
+    underlying the requirements for the CCSDS Recommended Standard for Lossless Data
+    Compression. Supporting performance information along with illustrations are also
+    included. This Report also provides a broad tutorial overview of the CCSDS Lossless
+    Data Compression algorithm and is aimed at helping first-time readers to understand
+    the Recommended Standard. The current issue updates material affected by revision
+    of the Lossless Data Compression Blue Book.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: SLS-DC
+ext:
+  technology_area: Space Link Services Area

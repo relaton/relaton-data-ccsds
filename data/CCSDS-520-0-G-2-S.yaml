@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.3
+id: CCSDS520.0-G-2-S
+title:
+- content: Mission Operations Services Concept
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/520x0g2s.pdf
+  type: pdf
+docid:
+- id: CCSDS 520.0-G-2-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2006-08
+edition:
+  content: '2'
+revdate: 2006-08
+abstract:
+- content: This CCSDS Report presents a set of concepts, reference architecture, and
+    service framework for spacecraft monitoring and control. The ability to standardize
+    the interfaces for Spacecraft Monitoring and Control (SM&C) by means of a service
+    oriented architecture will allow significant saving in the development of the
+    flight components and the ground segment of future space missions. In fact, it
+    will be possible to use standardized SM&C infrastructure systems to seamlessly
+    transfer data across systems, and to adopt commercial-off-the-shelf applications
+    for monitoring and control purposes.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: successorOf
+  bibitem:
+    id: CCSDS520.0-G-2
+    docid:
+    - id: CCSDS 520.0-G-2
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 520.0-G-2
+      format: text/plain
+doctype: report

@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: CCSDSA02.1-Y-4
+title:
+- content: Organization and Processes for the Consultative Committee for Space Data
+    Systems
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/A02x1y4c2.pdf
+  type: pdf
+docid:
+- id: CCSDS A02.1-Y-4
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2014-04
+edition:
+  content: '4'
+revdate: 2014-04
+abstract:
+- content: This CCSDS Record describes the CCSDS organization and defines procedures
+    used by the CCSDS. The current issue clarifies/expands online polling procedures
+    and adds procedures for online charter and project definition.  The current version
+    of this document contains all updates through corrigendum 2, dated January 2016.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: hasEdition
+  bibitem:
+    id: CCSDSA02.1-Y-4Cor.1
+    docid:
+    - id: CCSDS A02.1-Y-4 Cor. 1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS A02.1-Y-4 Cor. 1
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDSA02.1-Y-4Cor.2
+    docid:
+    - id: CCSDS A02.1-Y-4 Cor. 2
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS A02.1-Y-4 Cor. 2
+      format: text/plain
+editorialgroup:
+- name: CCSDS Secretariat

@@ -1,0 +1,40 @@
+---
+schema-version: v1.2.3
+id: CCSDS141.1-M-1
+title:
+- content: Atmospheric Characterization and Forecasting for Optical Link Operations
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/141x1m1.pdf
+  type: pdf
+docid:
+- id: CCSDS 141.1-M-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2022-01
+edition:
+  content: '1'
+revdate: 2022-01
+abstract:
+- content: This Recommended Practice provides a set of recommendations to facilitate
+    interagency collection of atmospheric data and characterization of atmospheric
+    parameters that affect space-to-ground free-space optical communications.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: practice
+editorialgroup:
+- name: SLS-OPT
+ext:
+  technology_area: Space Link Services Area

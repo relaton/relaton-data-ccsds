@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.3
+id: CCSDS520.1-M-1
+title:
+- content: Mission Operations Reference Model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/520x1m1.pdf
+  type: pdf
+docid:
+- id: CCSDS 520.1-M-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2010-07
+edition:
+  content: '1'
+revdate: 2010-07
+abstract:
+- content: This Recommended Practice defines a mission operations reference model,
+    which provides a common basis for coordinating the development of CCSDS Recommended
+    Standards for mission operations service specifications and serves as a reference
+    to maintain the consistency of those Recommended Standards.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO18201
+    docid:
+    - id: ISO 18201
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 18201
+      format: text/plain
+doctype: practice
+editorialgroup:
+- name: MOIMS-SM&C
+ext:
+  technology_area: Mission Operations and Information Management Services Area

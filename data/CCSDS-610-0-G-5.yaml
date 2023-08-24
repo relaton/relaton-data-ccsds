@@ -1,0 +1,44 @@
+---
+schema-version: v1.2.3
+id: CCSDS610.0-G-5
+title:
+- content: 'Space Data Systems Operations with Standard Formatted Data Units: System
+    and Implementation Aspects'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/610x0g5.pdf
+  type: pdf
+docid:
+- id: CCSDS 610.0-G-5
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 1987-02
+edition:
+  content: '5'
+revdate: 1987-02
+abstract:
+- content: "This Informational Report concerns space data systems operations with
+    Standard Formatted Data Units (SFDUs).  It explains the rationale for operations
+    with SFDUs, the initial operational requirements for SFDUs, and the major benefits
+    to be expected from operations with SFDUs.  The CCSDS conducts periodic reconfirmation
+    reviews of its publications to assure their continued relevance.  \n\nThis document
+    has been reconfirmed by the CCSDS Management Council through June 2024."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: MOIMS-DAI
+ext:
+  technology_area: Mission Operations and Information Management Services Area

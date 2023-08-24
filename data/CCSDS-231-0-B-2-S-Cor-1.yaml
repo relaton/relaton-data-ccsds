@@ -1,0 +1,56 @@
+---
+schema-version: v1.2.3
+id: CCSDS231.0-B-2-SCor.1
+title:
+- content: Technical Corrigendum 1 to CCSDS 231.0-B-2-S, Issued September 2010
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/231x0b2c1s_tc1308.pdf
+  type: pdf
+docid:
+- id: CCSDS 231.0-B-2-S Cor. 1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2013-04
+edition:
+  content: 2 Cor. 1
+revdate: 2013-04
+abstract:
+- content: This Technical Corrigendum documents changes to CCSDS 231.0-B-2-S, TC Synchronization
+    and Channel Coding (Silver Book, Issue 2, September 2010).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: editionOf
+  bibitem:
+    id: CCSDS231.0-B-2-S
+    docid:
+    - id: CCSDS 231.0-B-2-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 231.0-B-2-S
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS231.0-B-2Cor.1
+    docid:
+    - id: CCSDS 231.0-B-2 Cor. 1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 231.0-B-2 Cor. 1
+      format: text/plain
+doctype: standard

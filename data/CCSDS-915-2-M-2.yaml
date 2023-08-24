@@ -1,0 +1,55 @@
+---
+schema-version: v1.2.3
+id: CCSDS915.2-M-2
+title:
+- content: Space Link Extension—Application Program Interface for Return Channel Frames
+    Service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/915x2m2.pdf
+  type: pdf
+docid:
+- id: CCSDS 915.2-M-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2015-09
+edition:
+  content: '2'
+revdate: 2015-09
+abstract:
+- content: This Recommended Practice specifies a C++ Application Program Interface
+    (API) for the CCSDS Space Link Extension Return Channel Frames (RCF) Service.  The
+    API is intended for use by application programs implementing the SLE RCF Service.
+    The current issue updates text to be consistent with the current version of the
+    SLE RCF service specification and differentiates applicability by SLE RCF service
+    specification version.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO18443
+    docid:
+    - id: ISO 18443
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 18443
+      format: text/plain
+doctype: practice
+editorialgroup:
+- name: CSS-CSTS
+ext:
+  technology_area: Cross Support Services Area

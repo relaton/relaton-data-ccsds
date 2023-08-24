@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.3
+id: CCSDS350.1-G-2-S
+title:
+- content: Security Threats against Space Missions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/350x1g2s.pdf
+  type: pdf
+docid:
+- id: CCSDS 350.1-G-2-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2015-12
+edition:
+  content: '2'
+revdate: 2015-12
+abstract:
+- content: |-
+    This CCSDS Informational Report provides an overview of potential threats against various categories of civilian space missions and provides illustrative security threat data for mission planners.
+    <br><br>
+    This document issue was superseded by CCSDS 350.1-G-3, Security Threats against Space Missions (Green Book, Issue 3), released February 2022.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: successorOf
+  bibitem:
+    id: CCSDS350.1-G-2
+    docid:
+    - id: CCSDS 350.1-G-2
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 350.1-G-2
+      format: text/plain
+doctype: report
+editorialgroup:
+- name: SEA-SEC
+ext:
+  technology_area: Systems Engineering Area

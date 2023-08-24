@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: CCSDS641.0-G-2
+title:
+- content: Parameter Value Language — A Tutorial
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/641x0g2.pdf
+  type: pdf
+docid:
+- id: CCSDS 641.0-G-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2000-06
+edition:
+  content: '2'
+revdate: 2000-06
+abstract:
+- content: "This Informational Report describes the Parameter Value Language (PVL)
+    and provides a description of how and why one would use this language for information
+    interchange.  publications to assure their continued relevance. \n\nThis document
+    has been reconfirmed by the CCSDS Management Council through June 2024."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: MOIMS-DAI
+ext:
+  technology_area: Mission Operations and Information Management Services Area

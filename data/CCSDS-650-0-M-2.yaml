@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.3
+id: CCSDS650.0-M-2
+title:
+- content: Reference Model for an Open Archival Information System (OAIS)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/650x0m2.pdf
+  type: pdf
+docid:
+- id: CCSDS 650.0-M-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2012-06
+edition:
+  content: '2'
+revdate: 2012-06
+abstract:
+- content: |-
+    This Recommended Practice defines the Reference Model for an Open Archival Information System (OAIS).  The current issue includes clarifications to many concepts, in particular, Authenticity with the concept of Transformational Information Property introduced; corrections and improvements in diagrams; addition of Access Rights Information to PDI.
+    <br><br>
+    A French Translated version of this book can be found by <a href="NonEnglishVersions.aspx">clicking here</a>.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO14721
+    docid:
+    - id: ISO 14721
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 14721
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS650.0-M-2-FrenchTranslated
+    docid:
+    - id: CCSDS 650.0-M-2 - French Translated
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 650.0-M-2 - French Translated
+      format: text/plain
+doctype: practice
+editorialgroup:
+- name: MOIMS-DAI
+ext:
+  technology_area: Mission Operations and Information Management Services Area

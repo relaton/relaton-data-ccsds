@@ -1,0 +1,44 @@
+---
+schema-version: v1.2.3
+id: CCSDS350.1-G-1
+title:
+- content: Security Threats against Space Missions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/350x1g1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 350.1-G-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2006-10
+edition:
+  content: '1'
+revdate: 2006-10
+abstract:
+- language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS350.1-G-1-S
+    docid:
+    - id: CCSDS 350.1-G-1-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 350.1-G-1-S
+      format: text/plain
+doctype: report

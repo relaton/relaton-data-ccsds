@@ -1,0 +1,55 @@
+---
+schema-version: v1.2.3
+id: CCSDS911.2-B-1
+title:
+- content: Space Link Extension – Return All Frames Service Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/911x2b1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 911.2-B-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2002-04
+edition:
+  content: '2'
+revdate: 2002-04
+abstract:
+- content: 'This document has been withdrawn by the CCSDS. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS911.2-B-1-S
+    docid:
+    - id: CCSDS 911.2-B-1-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 911.2-B-1-S
+      format: text/plain
+- type: adoptedAs
+  bibitem:
+    id: ISO22670
+    docid:
+    - id: ISO 22670
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 22670
+      format: text/plain
+doctype: standard

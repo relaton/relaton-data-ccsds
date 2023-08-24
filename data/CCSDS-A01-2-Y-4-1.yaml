@@ -1,0 +1,47 @@
+---
+schema-version: v1.2.3
+id: CCSDSA01.2-Y-4.1
+title:
+- content: CCSDS Operating Plan for Standards Development - Draft Yellow Book
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/A01x2y4s.pdf
+  type: pdf
+docid:
+- id: CCSDS A01.2-Y-4.1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2006-12
+edition:
+  content: '4'
+revdate: 2006-12
+abstract:
+- content: The CCSDS Operating Plan contains the charters of all of the CCSDS Working
+    Groups that have been approved by the CCSDS Management Council.  It covers a future
+    period of roughly 24 months and is formally updated approximately once per year
+    to reflect the current program of work for CCSDS.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDSA01.2-Y-4.1-S
+    docid:
+    - id: CCSDS A01.2-Y-4.1-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS A01.2-Y-4.1-S
+      format: text/plain

@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.3
+id: CCSDS921.2-M-1
+title:
+- content: Guidelines for the Specification of Cross Support Transfer Services
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/921x2m1c1.pdf
+  type: pdf
+docid:
+- id: CCSDS 921.2-M-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2019-03
+edition:
+  content: '1'
+revdate: 2019-03
+abstract:
+- content: |-
+    This Recommended Practice defines the guidelines for the specification of CCSDS-standard Cross Support Transfer Services based on the CSTS Specification Framework.
+
+    The current version of this document contains all updates through technical corrigendum 1, dated August 2020
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: hasEdition
+  bibitem:
+    id: CCSDS921.2-M-1Cor.1
+    docid:
+    - id: CCSDS 921.2-M-1 Cor. 1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 921.2-M-1 Cor. 1
+      format: text/plain
+doctype: practice
+editorialgroup:
+- name: CSS-CSTS
+ext:
+  technology_area: Cross Support Services Area

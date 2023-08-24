@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.3
+id: CCSDS231.0-B-2-S
+title:
+- content: TC Synchronization and Channel Coding
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/231x0b2c1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 231.0-B-2-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2010-09
+edition:
+  content: '2'
+revdate: 2010-09
+abstract:
+- content: The Recommended Standard for TC Synchronization and Channel Coding contains
+    specifications for synchronization and channel coding to be used by space missions
+    with the TC Space Data Link Protocol.  The current issue adds support for optional
+    repeated transmissions of Transfer Frames.  The current version of this document
+    contains all updates through technical corrigendum 1, dated April 2013.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO22642
+    docid:
+    - id: ISO 22642
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 22642
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS231.0-B-2-SCor.1
+    docid:
+    - id: CCSDS 231.0-B-2-S Cor. 1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 231.0-B-2-S Cor. 1
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS231.0-B-2
+    docid:
+    - id: CCSDS 231.0-B-2
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 231.0-B-2
+      format: text/plain
+doctype: standard

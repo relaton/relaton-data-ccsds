@@ -1,0 +1,46 @@
+---
+schema-version: v1.2.3
+id: CCSDS130.3-G-1
+title:
+- content: Space Packet Protocols
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/130x3g1.pdf
+  type: pdf
+docid:
+- id: CCSDS 130.3-G-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2023-04
+edition:
+  content: '1'
+revdate: 2023-04
+abstract:
+- content: 'This Report presents the concept and rationale of the CCSDS Packet Protocols,
+    Space Packet Protocol (SPP) and Encapsulation Packet Protocol (EPP). It presents
+    an overview of the concepts of SPP and EPP, it provides information on how these
+    protocols should be applied for efficient development of mission systems (including
+    onboard instruments and ground-support systems) and on how these protocols should
+    be deployed in space data systems for efficient development of multi-mission infrastructures
+    (including both onboard and ground infrastructures), and it describes the key
+    distinctions between these protocols, so that both end users and developers have
+    guidance in choice of protocol. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: SLS-SLP
+ext:
+  technology_area: Space Link Services Area

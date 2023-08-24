@@ -1,0 +1,56 @@
+---
+schema-version: v1.2.3
+id: CCSDS131.4-M-1
+title:
+- content: TM Channel Coding Profiles
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/131x4m1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 131.4-M-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2011-07
+edition:
+  content: '1'
+revdate: 2011-07
+abstract:
+- content: 'This Recommended Practice provides guidance to users in the choice of
+    coding schemes for telemetry links in different mission profiles. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS131.4-M-1-S
+    docid:
+    - id: CCSDS 131.4-M-1-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 131.4-M-1-S
+      format: text/plain
+- type: adoptedAs
+  bibitem:
+    id: ISO17808
+    docid:
+    - id: ISO 17808
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 17808
+      format: text/plain
+doctype: practice

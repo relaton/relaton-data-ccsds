@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.3
+id: CCSDS650.0-B-1-S-FrenchTranslated
+title:
+- content: Modèle de référence pour un Système ouvert d’archivage d’information (OAIS)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/650x0b1s(F).pdf
+  type: pdf
+docid:
+- id: CCSDS 650.0-B-1-S - French Translated
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2005-03
+edition:
+  content: '1'
+revdate: 2005-03
+abstract:
+- content: Modèle de référence pour un Système ouvert d’archivage d’information (OAIS).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: editionOf
+  bibitem:
+    id: CCSDS650.0-B-1-S
+    docid:
+    - id: CCSDS 650.0-B-1-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 650.0-B-1-S
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS650.0-B-1-FrenchTranslated
+    docid:
+    - id: CCSDS 650.0-B-1 - French Translated
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 650.0-B-1 - French Translated
+      format: text/plain
+doctype: standard
+editorialgroup:
+- name: MOIMS-DAI
+ext:
+  technology_area: Mission Operations and Information Management Services Area

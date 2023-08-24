@@ -1,0 +1,58 @@
+---
+schema-version: v1.2.3
+id: CCSDS131.0-B-1-S
+title:
+- content: TM Synchronization and Channel Coding
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/131x0b1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 131.0-B-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2003-09
+edition:
+  content: '1'
+revdate: 2003-09
+abstract:
+- content: 'This Recommendation contains specifications for synchronization and channel
+    coding to be used on synchronous data channels. These specifications correspond
+    with those contained in Telemetry Channel Coding.   (Note: This is a restructured
+    Recommendation*.)'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO22641
+    docid:
+    - id: ISO 22641
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 22641
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS131.0-B-1
+    docid:
+    - id: CCSDS 131.0-B-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 131.0-B-1
+      format: text/plain
+doctype: standard

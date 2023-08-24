@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.3
+id: CCSDS652.1-M-1
+title:
+- content: Requirements for Bodies Providing Audit and Certification of Candidate
+    Trustworthy Digital Repositories
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/652x1m1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 652.1-M-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2011-11
+edition:
+  content: '1'
+revdate: 2011-11
+abstract:
+- content: This Recommended Practice contains binding and verifiable specifications
+    required to be fulfilled by organizations that perform ISO audits for assessing
+    the trustworthiness of digital repositories using CCSDS 652.0-M-1, Audit and Certification
+    of Trustworthy Digital Repositories, and provides the appropriate certification.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS652.1-M-1-S
+    docid:
+    - id: CCSDS 652.1-M-1-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 652.1-M-1-S
+      format: text/plain
+- type: adoptedAs
+  bibitem:
+    id: ISO16919
+    docid:
+    - id: ISO 16919
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 16919
+      format: text/plain
+doctype: practice

@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.3
+id: CCSDS211.0-B-3-S
+title:
+- content: Proximity-1 Space Link Protocol—Data Link Layer
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/211x0b3s.pdf
+  type: pdf
+docid:
+- id: CCSDS 211.0-B-3-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2004-05
+edition:
+  content: '3'
+revdate: 2004-05
+abstract:
+- content: This Recommendation details Space Data System Standards in the area of
+    Proximity space links.  Proximity space links are defined to be short-range, bi-directional,
+    fixed or mobile radio links, generally used to communicate among probes, landers,
+    rovers, orbiting constellations, and orbiting relays.  These links are characterized
+    by short time delays, moderate (not weak) signals, and short, independent sessions.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO22663
+    docid:
+    - id: ISO 22663
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 22663
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS211.0-B-3
+    docid:
+    - id: CCSDS 211.0-B-3
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 211.0-B-3
+      format: text/plain
+doctype: standard

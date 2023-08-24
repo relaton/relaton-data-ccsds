@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.3
+id: CCSDS650.0-B-1-S
+title:
+- content: Reference Model for an Open Archival Information System (OAIS)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/650x0b1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 650.0-B-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2002-01
+edition:
+  content: '1'
+revdate: 2002-01
+abstract:
+- content: |-
+    The Recommendation identified above defines the ISO Reference Model for an Open Archival Information System (OAIS). An OAIS is an archive, consisting of an organization of people and systems, that has accepted the responsibility to preserve information and make it available for a Designated Community. It meets a set of such responsibilities as defined in this document and this allows an OAIS archive to be distinguished from other uses of the term ‘archive’. The model provides a framework for the understanding and increased awareness of archival concepts needed for long-term digital information preservation and access, and for describing and comparing architectures and operations of existing and future archives. It also guides the identification and production of OAIS related standards.
+    <br><br>
+    A French Translated version of this book can be found by <a href="NonEnglishVersions.aspx">clicking here</a>.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO14721
+    docid:
+    - id: ISO 14721
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 14721
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS650.0-B-1-S-FrenchTranslated
+    docid:
+    - id: CCSDS 650.0-B-1-S - French Translated
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 650.0-B-1-S - French Translated
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS650.0-B-1
+    docid:
+    - id: CCSDS 650.0-B-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 650.0-B-1
+      format: text/plain
+doctype: standard
+editorialgroup:
+- name: MOIMS-DAI
+ext:
+  technology_area: Mission Operations and Information Management Services Area

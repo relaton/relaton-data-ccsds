@@ -1,0 +1,46 @@
+---
+schema-version: v1.2.3
+id: CCSDS611.0-Y-1-S
+title:
+- content: CCSDS Panel 2 Methodology for Development of Recommendations
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/611x0y1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 611.0-Y-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 1998-06
+edition:
+  content: '1'
+revdate: 1998-06
+abstract:
+- content: This Report details the methodology adopted by CCSDS Panel 2 for the development
+    of Recommendations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: successorOf
+  bibitem:
+    id: CCSDS611.0-Y-1
+    docid:
+    - id: CCSDS 611.0-Y-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 611.0-Y-1
+      format: text/plain
+doctype: record

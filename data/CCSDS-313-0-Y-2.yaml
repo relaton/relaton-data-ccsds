@@ -1,0 +1,54 @@
+---
+schema-version: v1.2.3
+id: CCSDS313.0-Y-2
+title:
+- content: Space Assigned Numbers Authority (SANA)--Role, Responsibilities, Policies,
+    and Procedures
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/313x0y2s.pdf
+  type: pdf
+docid:
+- id: CCSDS 313.0-Y-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2016-05
+edition:
+  content: '2'
+revdate: 2016-05
+abstract:
+- content: "This CCSDS Record defines the Space Assigned Numbers Authority (SANA),
+    its role, responsibilities, policies, and procedures within the Consultative Committee
+    for Space Data Systems (CCSDS).\n\nThis document issue was superseded by CCSDS
+    \n313.0-Y-3, Space Assigned Numbers Authority \n(SANA)—Role, Responsibilities,
+    Policies, and \nProcedures (Yellow Book, Issue 3), released October 2020.\""
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS313.0-Y-2-S
+    docid:
+    - id: CCSDS 313.0-Y-2-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 313.0-Y-2-S
+      format: text/plain
+doctype: record
+editorialgroup:
+- name: SEA-SANA
+ext:
+  technology_area: Systems Engineering Area

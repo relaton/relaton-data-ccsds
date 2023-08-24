@@ -1,0 +1,42 @@
+---
+schema-version: v1.2.3
+id: CCSDS350.4-G-2
+title:
+- content: CCSDS Guide for Secure System Interconnection
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/350x4g2.pdf
+  type: pdf
+docid:
+- id: CCSDS 350.4-G-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2019-04
+edition:
+  content: '2'
+revdate: 2019-04
+abstract:
+- content: This CCSDS Informational Report is an adaptation of United States National
+    Institute of Standards and Technology (NIST) Security Guide for Interconnecting
+    Information Technology Systems (NIST Special Publication 800-47).  The CCSDS Report
+    is tailored for the space community and provides a guide for secure space agency
+    interconnections.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: SEA-SEC
+ext:
+  technology_area: Systems Engineering Area

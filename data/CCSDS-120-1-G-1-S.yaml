@@ -1,0 +1,50 @@
+---
+schema-version: v1.2.3
+id: CCSDS120.1-G-1-S
+title:
+- content: Image Data Compression
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/120x1g1e2s.pdf
+  type: pdf
+docid:
+- id: CCSDS 120.1-G-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2007-06
+edition:
+  content: '1'
+revdate: 2007-06
+abstract:
+- content: This Informational Report presents a summary of the key operational concepts
+    and rationale which underlie the requirements for the CCSDS Recommended Standard,
+    Image Data Compression (CCSDS 122.0-B-1).  Supporting performance information
+    along with illustrations are also included.  This report provides a broad tutorial
+    overview of the CCSDS Image Data Compression algorithm and is aimed at helping
+    first-time readers to understand the Recommended Standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: successorOf
+  bibitem:
+    id: CCSDS120.1-G-1
+    docid:
+    - id: CCSDS 120.1-G-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 120.1-G-1
+      format: text/plain
+doctype: report

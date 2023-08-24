@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: CCSDS500.0-G-3
+title:
+- content: Navigation Data—Definitions and Conventions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/500x0g3s.pdf
+  type: pdf
+docid:
+- id: CCSDS 500.0-G-3
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2010-05
+edition:
+  content: '3'
+revdate: 2010-05
+abstract:
+- content: This Report contains technical material to supplement the CCSDS Recommended
+    Standards for spacecraft navigation data.  The topics covered include radiometric
+    data content, spacecraft ephemeris, planetary ephemeris, tracking station locations,
+    coordinate systems, and attitude data.  This Report deals explicitly with the
+    technical definitions and conventions associated with interagency cross-support
+    situations involving the transfer of ephemeris, tracking, and attitude data.  The
+    current issue brings the Green Book up to date with the current issue of Orbit
+    Data Messages (CCSDS 502.0-B-2) as well as the new Recommended Standards for Tracking
+    Data Message and Attitude Data Messages (CCSDS 503.0-B1 and CCSDS 504.0-B-1, respectively).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS500.0-G-3-S
+    docid:
+    - id: CCSDS 500.0-G-3-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 500.0-G-3-S
+      format: text/plain
+doctype: report
+editorialgroup:
+- name: MOIMS-NAV
+ext:
+  technology_area: Mission Operations and Information Management Services Area

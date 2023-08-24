@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.3
+id: CCSDS727.0-B-3
+title:
+- content: CCSDS File Delivery Protocol (CFDP)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/727x0b3s.pdf
+  type: pdf
+docid:
+- id: CCSDS 727.0-B-3
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2005-06
+edition:
+  content: '3'
+revdate: 2005-06
+abstract:
+- content: This Recommendation defines a protocol suitable for the transmission of
+    files to and from spacecraft data storage and capable of operating in a wide variety
+    of mission configurations.  In addition to the purely file delivery related functions,
+    the protocol includes file management services to allow control over the storage
+    medium.  Although the protocol can operate over a wide range of subnetwork services,
+    this  Recommendation assumes the use of existing CCSDS packet services.  The current
+    issue adds procedures for unacknowledged-mode handling of metadata and file data
+    received after the arrival of the EOF PDU for the same transaction.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS727.0-B-3-S
+    docid:
+    - id: CCSDS 727.0-B-3-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 727.0-B-3-S
+      format: text/plain
+- type: adoptedAs
+  bibitem:
+    id: ISO17355
+    docid:
+    - id: ISO 17355
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 17355
+      format: text/plain
+doctype: standard

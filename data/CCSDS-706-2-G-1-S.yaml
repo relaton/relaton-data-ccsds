@@ -1,0 +1,46 @@
+---
+schema-version: v1.2.3
+id: CCSDS706.2-G-1-S
+title:
+- content: Voice Communications
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/706x2g1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 706.2-G-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2010-09
+edition:
+  content: '1'
+revdate: 2010-09
+abstract:
+- content: This CCSDS Informational Report presents an overview of voice communications
+    in use in human spaceflight.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: successorOf
+  bibitem:
+    id: CCSDS706.2-G-1
+    docid:
+    - id: CCSDS 706.2-G-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 706.2-G-1
+      format: text/plain
+doctype: report

@@ -1,0 +1,42 @@
+---
+schema-version: v1.2.3
+id: CCSDS130.11-G-2
+title:
+- content: 'SCCC-Summary of Definition and Performance '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/130x11g2.pdf
+  type: pdf
+docid:
+- id: CCSDS 130.11-G-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2023-05
+edition:
+  content: '2'
+revdate: 2023-05
+abstract:
+- content: 'This document provides additional informative material for CCSDS 131.2-B-2,
+    Flexible Advanced Coding and Modulation Scheme for High Rate Telemetry Applications
+    (Blue Book, Issue 2, February 2023) and includes a tutorial overview of the CCSDS
+    specification in the Blue Book (aimed at helping first-time readers understand
+    the recommendation) together with performance information supported by illustrations. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: SLS-C&S
+ext:
+  technology_area: Space Link Services Area

@@ -1,0 +1,43 @@
+---
+schema-version: v1.2.3
+id: CCSDS621.0-G-1
+title:
+- content: Standard Formatted Data Units — A Tutorial
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/621x0g1.pdf
+  type: pdf
+docid:
+- id: CCSDS 621.0-G-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 1992-05
+edition:
+  content: '1'
+revdate: 1992-05
+abstract:
+- content: "This Informational Report explains the rationale of the Standard Formatted
+    Data Unit (SFDU) concept and outlines the Structure and Construction Rules with
+    the help of examples.  It supports the main SFDU Recommended Standard, CCSDS 620.0-B-2.
+    \ The CCSDS conducts periodic reconfirmation reviews of its publications to assure
+    their continued relevance. \n\nThis document has been reconfirmed by the CCSDS
+    Management Council through June 2024."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: MOIMS-DAI
+ext:
+  technology_area: Mission Operations and Information Management Services Area

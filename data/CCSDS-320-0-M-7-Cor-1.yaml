@@ -1,0 +1,49 @@
+---
+schema-version: v1.2.3
+id: CCSDS320.0-M-7Cor.1
+title:
+- content: Corrigendum 1 to CCSDS 320.0-M-7, Issued November 2017
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/320x0m7c1_tc1919.pdf
+  type: pdf
+docid:
+- id: CCSDS 320.0-M-7 Cor. 1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2019-07
+edition:
+  content: 7 Cor. 1
+revdate: 2019-07
+abstract:
+- content: This Technical Corrigendum documents changes to CCSDS 320.0-M-7, CCSDS
+    Spacecraft Identification Field Code Assignment Control Procedures (Magenta Book,
+    Issue 7, November 2017)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: editionOf
+  bibitem:
+    id: CCSDS320.0-M-7
+    docid:
+    - id: CCSDS 320.0-M-7
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 320.0-M-7
+      format: text/plain
+doctype: practice
+editorialgroup:
+- name: SEA Area

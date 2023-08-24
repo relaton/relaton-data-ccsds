@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.3
+id: CCSDS231.0-B-1
+title:
+- content: TC Synchronization and Channel Coding
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/231x0b1c1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 231.0-B-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2003-09
+edition:
+  content: '1'
+revdate: 2003-09
+abstract:
+- content: 'This Recommendation contains specifications for synchronization and channel
+    coding to be used by space missions on asynchronous communications links. These
+    specifications correspond with those contained in Telecommand Part 1—Channel Service.   (Note:
+    This is a restructured Recommendation*.)  The current version of this document
+    contains all updates through corrigendum 1.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS231.0-B-1-S
+    docid:
+    - id: CCSDS 231.0-B-1-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 231.0-B-1-S
+      format: text/plain
+- type: adoptedAs
+  bibitem:
+    id: ISO22642
+    docid:
+    - id: ISO 22642
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 22642
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS231.0-B-1Cor.1
+    docid:
+    - id: CCSDS 231.0-B-1 Cor. 1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 231.0-B-1 Cor. 1
+      format: text/plain
+doctype: standard

@@ -1,0 +1,61 @@
+---
+schema-version: v1.2.3
+id: CCSDS352.0-B-1-S
+title:
+- content: CCSDS Cryptographic Algorithms
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/352x0b1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 352.0-B-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2012-11
+edition:
+  content: '1'
+revdate: 2012-11
+abstract:
+- content: This Recommended Standard provides the basis for standard CCSDS security
+    algorithms.  The document recommends a single symmetric block-cipher encryption
+    algorithm and several authentication algorithms.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO20215
+    docid:
+    - id: ISO 20215
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 20215
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS352.0-B-1
+    docid:
+    - id: CCSDS 352.0-B-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 352.0-B-1
+      format: text/plain
+doctype: standard
+editorialgroup:
+- name: SEA-SEC
+ext:
+  technology_area: Systems Engineering Area

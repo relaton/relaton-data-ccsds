@@ -1,0 +1,43 @@
+---
+schema-version: v1.2.3
+id: CCSDS120.2-G-2
+title:
+- content: 'Low-Complexity Lossless and Near-Lossless Multispectral and Hyperspectral
+    Image Compression '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/120x2g2.pdf
+  type: pdf
+docid:
+- id: CCSDS 120.2-G-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2022-12
+edition:
+  content: '2'
+revdate: 2022-12
+abstract:
+- content: This Informational Report presents a summary of the key operational concepts
+    and rationale that underlie the requirements for the CCSDS Recommended Standard
+    for Low-Complexity Lossless and Near-Lossless Multispectral and Hyperspectral
+    Image Compression, CCSDS 123.0-B-2, and provides a broad tutorial overview of
+    algorithm.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: SLS-DC
+ext:
+  technology_area: Space Link Services Area

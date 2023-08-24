@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: CCSDS660.2-G-2
+title:
+- content: XML Telemetric and Command Exchange (XTCE)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/660x2g2.pdf
+  type: pdf
+docid:
+- id: CCSDS 660.2-G-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2021-02
+edition:
+  content: '2'
+revdate: 2021-02
+abstract:
+- content: 'This CCSDS Informational Report presents a set of concepts and tutorial
+    on a telemetry and telecommand database format for spacecraft monitoring and control.
+
+    '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: MOIMS-SM&C
+ext:
+  technology_area: Mission Operations and Information Management Services Area

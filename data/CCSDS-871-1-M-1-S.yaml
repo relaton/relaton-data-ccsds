@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.3
+id: CCSDS871.1-M-1-S
+title:
+- content: Spacecraft Onboard Interface Services--Device Data Pooling Service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/871x1m1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 871.1-M-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2012-11
+edition:
+  content: '1'
+revdate: 2012-11
+abstract:
+- content: This Recommended Practice specifies a set of related services to be used
+    by space missions to access pooled data acquired from devices over an onboard
+    subnetwork.  The SOIS Device Data Pooling Service provides a common service interface
+    and quality of service regardless of the particular type of data link or protocol
+    being used for communication.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO20216
+    docid:
+    - id: ISO 20216
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 20216
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS871.1-M-1
+    docid:
+    - id: CCSDS 871.1-M-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 871.1-M-1
+      format: text/plain
+doctype: practice

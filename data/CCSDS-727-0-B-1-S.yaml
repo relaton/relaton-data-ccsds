@@ -1,0 +1,55 @@
+---
+schema-version: v1.2.3
+id: CCSDS727.0-B-1-S
+title:
+- content: CCSDS File Delivery Protocol (CFDP)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/727x0b1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 727.0-B-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2002-01
+edition:
+  content: '1'
+revdate: 2002-01
+abstract:
+- content: This document has been withdrawn by the CCSDS.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO17355
+    docid:
+    - id: ISO 17355
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 17355
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS727.0-B-1
+    docid:
+    - id: CCSDS 727.0-B-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 727.0-B-1
+      format: text/plain
+doctype: standard

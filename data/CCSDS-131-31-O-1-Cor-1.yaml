@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.3
+id: CCSDS131.31-O-1Cor.1
+title:
+- content: Technical Corrigendum to CCSDS 131.31-O-1, Issued September 2021
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/131x31o1c1_tc2211.pdf
+  type: pdf
+docid:
+- id: CCSDS 131.31-O-1 Cor. 1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2022-04
+edition:
+  content: 1 Cor. 1
+revdate: 2022-04
+abstract:
+- content: This Technical Corrigendum documents changes to CCSDS 131.31-O-1, CCSDS
+    Space Link Protocols over ETSI DVB-S2X Standard (Orange Book, Issue 1, September
+    2021).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: editionOf
+  bibitem:
+    id: CCSDS131.31-O-1
+    docid:
+    - id: CCSDS 131.31-O-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 131.31-O-1
+      format: text/plain
+doctype: specification
+editorialgroup:
+- name: SLS-C&S
+ext:
+  technology_area: Space Link Services Area

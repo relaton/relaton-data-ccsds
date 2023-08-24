@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: CCSDS401.0-B-21
+title:
+- content: 'Radio Frequency and Modulation Systems—Part 1: Earth Stations and Spacecraft'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/401x0b21tc1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 401.0-B-21
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2011-07
+edition:
+  content: '21'
+revdate: 2011-07
+abstract:
+- content: Numerous concise recommendations appear in the notebook volume bearing
+    the number 401.0-B.  Each recommendation is dated, and the most recent revision
+    is shown in the table of contents.  These Recommendations are developed for conventional
+    near-Earth and deep-space missions having moderate communications requirements.  The
+    current update extends the rate for suppressed carrier telecommand systems to
+    2.048 Mb/s.  The current version of this document contains all updates through
+    technical corrigendum 1, dated May 2012.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS401.0-B-21-S
+    docid:
+    - id: CCSDS 401.0-B-21-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-21-S
+      format: text/plain
+- type: editionOf
+  bibitem:
+    id: CCSDS401.0-B
+    docid:
+    - id: CCSDS 401.0-B
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B
+      format: text/plain
+- type: editionOf
+  bibitem:
+    id: CCSDS401.0-B
+    docid:
+    - id: CCSDS 401.0-B
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B
+      format: text/plain
+- type: editionOf
+  bibitem:
+    id: CCSDS401.0-B
+    docid:
+    - id: CCSDS 401.0-B
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B
+      format: text/plain
+- type: editionOf
+  bibitem:
+    id: CCSDS401.0-B
+    docid:
+    - id: CCSDS 401.0-B
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B
+      format: text/plain
+- type: editionOf
+  bibitem:
+    id: CCSDS401.0-B
+    docid:
+    - id: CCSDS 401.0-B
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS401.0-B-21Cor.1
+    docid:
+    - id: CCSDS 401.0-B-21 Cor. 1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B-21 Cor. 1
+      format: text/plain
+doctype: standard

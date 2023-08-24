@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.3
+id: CCSDS120.2-G-1-S
+title:
+- content: Lossless Multispectral and Hyperspectral Image Compression
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/120x2g1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 120.2-G-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2015-12
+edition:
+  content: '1'
+revdate: 2015-12
+abstract:
+- content: |-
+    This Informational Report presents a summary of the key operational concepts and rationale that underlie the requirements for the CCSDS Recommended Standard for Lossless Multispectral & Hyperspectral Image Compression, CCSDS 123.0-B-1, and provides a broad tutorial overview of algorithm.
+    <br><br>
+    This document issue was superseded by CCSDS 120.2-G-2, Lossless Multispectral and Hyperspectral Image Compression (Green Book, Issue 2), released December 2022.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: successorOf
+  bibitem:
+    id: CCSDS120.2-G-1
+    docid:
+    - id: CCSDS 120.2-G-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 120.2-G-1
+      format: text/plain
+doctype: report
+editorialgroup:
+- name: SLS-DC
+ext:
+  technology_area: Space Link Services Area

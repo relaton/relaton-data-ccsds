@@ -1,0 +1,42 @@
+---
+schema-version: v1.2.3
+id: CCSDS902.12-M-1
+title:
+- content: Cross Support Service Management—Common Data Entities
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/902x12m1.pdf
+  type: pdf
+docid:
+- id: CCSDS 902.12-M-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2021-02
+edition:
+  content: '1'
+revdate: 2021-02
+abstract:
+- content: 'This Recommended Practice defines various data entities that are applicable
+    to more than one Service Management Blue Book. These data entities are referred
+    to as ‘Common’ data entities.
+
+    '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: practice
+editorialgroup:
+- name: CSS-CM
+ext:
+  technology_area: Cross Support Services Area

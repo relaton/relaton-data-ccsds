@@ -1,0 +1,42 @@
+---
+schema-version: v1.2.3
+id: CCSDS914.1-G-1
+title:
+- content: Space Link Extension—Application Program Interface for Transfer Services—Summary
+    of Concept and Rationale
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/914x1g1.pdf
+  type: pdf
+docid:
+- id: CCSDS 914.1-G-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2006-01
+edition:
+  content: '1'
+revdate: 2006-01
+abstract:
+- content: |-
+    This Report presents a summary of supplementary information supporting the CCSDS documents that specify the Application Program Interface (API) for SLE transfer services.
+
+    The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance.  This Informational Report has been reconfirmed through June 2022.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: CSS-CSTS
+ext:
+  technology_area: Cross Support Services Area

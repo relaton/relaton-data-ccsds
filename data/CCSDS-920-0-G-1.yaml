@@ -1,0 +1,40 @@
+---
+schema-version: v1.2.3
+id: CCSDS920.0-G-1
+title:
+- content: 'Cross Support Transfer Service Specification Framework '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/920x0g1.pdf
+  type: pdf
+docid:
+- id: CCSDS 920.0-G-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2023-05
+edition:
+  content: '1'
+revdate: 2023-05
+abstract:
+- content: 'This Report provides supporting descriptive and tutorial material with
+    regard to the framework for all of the Cross Support Transfer Services used in
+    exchanging data between spacecraft mission operations centers and ground stations. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: CSS-CSTS
+ext:
+  technology_area: Cross Support Services Area

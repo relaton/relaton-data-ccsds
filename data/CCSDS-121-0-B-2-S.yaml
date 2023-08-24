@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.3
+id: CCSDS121.0-B-2-S
+title:
+- content: Lossless Data Compression
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/121x0b2ec1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 121.0-B-2-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2012-04
+edition:
+  content: '2'
+revdate: 2012-04
+abstract:
+- content: "This Recommended Standard defines a source-coding data-compression algorithm
+    and specifies how data compressed using the algorithm are inserted into source
+    packets for retrieval and decoding. Issue 2:\n- increases the allowed values of
+    block length J from {8, 16} to {8, 16, 32, 64}; \n- increases the maximum allowed
+    value of the reference sample interval r from 256 to 4096;\n- allows the use of
+    a restricted set of code options\n- defines a new subfield of the Source Configuration
+    Field of the optional Compression Identification packet;\n- adds guidance for
+    selection of code option when two or more code options gave the same performance
+    for a block;\n- updates nomenclature subsection;\n- clarifies some text;\n- adds
+    a dedication to Warner Miller.\n\nThis document issue was superseded by CCSDS
+    121.0-B-3, Lossless Data Compression (Blue Book, Issue 3), released August 2020."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO15887
+    docid:
+    - id: ISO 15887
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 15887
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS121.0-B-2
+    docid:
+    - id: CCSDS 121.0-B-2
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 121.0-B-2
+      format: text/plain
+doctype: standard
+editorialgroup:
+- name: SLS-MHDC
+ext:
+  technology_area: Space Link Services Area

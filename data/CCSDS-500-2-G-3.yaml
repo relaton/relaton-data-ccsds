@@ -1,0 +1,39 @@
+---
+schema-version: v1.2.3
+id: CCSDS500.2-G-3
+title:
+- content: Navigation Data Messages Overview
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/500x2g3.pdf
+  type: pdf
+docid:
+- id: CCSDS 500.2-G-3
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2023-03
+edition:
+  content: '3'
+revdate: 2023-03
+abstract:
+- content: This Informational Report contains background and explanatory material
+    to supplement the CCSDS Recommended Standards for spacecraft navigation data.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: MOIMS-NAV
+ext:
+  technology_area: Mission Operations and Information Management Services Area

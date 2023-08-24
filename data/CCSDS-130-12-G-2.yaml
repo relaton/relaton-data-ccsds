@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: CCSDS130.12-G-2
+title:
+- content: CCSDS Protocols over DVB-S2-Summary of Definition, Implementation, and
+    Performance
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/130x12g2.pdf
+  type: pdf
+docid:
+- id: CCSDS 130.12-G-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2023-07
+edition:
+  content: '2'
+revdate: 2023-07
+abstract:
+- content: |-
+    This Informational Report contains background and explanatory material to support the CCSDS Recommended Standard for CCSDS Space Link Protocols over ETSI DVB-S2 Standard, CCSDS 131.3-B-2. It provides some useful material for engineers defining systems, or equipment manufacturers developing products, according to the CCSDS Recommended Standard.
+    130x12g2.pdf.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: SLS-C&S
+ext:
+  technology_area: Space Link Services Area

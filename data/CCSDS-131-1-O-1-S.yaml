@@ -1,0 +1,48 @@
+---
+schema-version: v1.2.3
+id: CCSDS131.1-O-1-S
+title:
+- content: Low Density Parity Check Codes for Use in Near-Earth and Deep Space Applications
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/131x1o1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 131.1-O-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2006-08
+edition:
+  content: '1'
+revdate: 2006-08
+abstract:
+- content: This CCSDS Experimental specification is a NASA contribution to the CCSDS
+    Space Link Coding and Synchronization Working Group.  The document describes a
+    set of Low Density Parity Check (LDPC) codes, including definition of their code
+    structures, encoder implementations and experimental performance results.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: successorOf
+  bibitem:
+    id: CCSDS131.1-O-1
+    docid:
+    - id: CCSDS 131.1-O-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 131.1-O-1
+      format: text/plain
+doctype: specification

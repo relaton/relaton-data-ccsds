@@ -1,0 +1,56 @@
+---
+schema-version: v1.2.3
+id: CCSDS301.0-B-3-S
+title:
+- content: Time Code Formats
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/301x0b3s.pdf
+  type: pdf
+docid:
+- id: CCSDS 301.0-B-3-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2002-01
+edition:
+  content: '3'
+revdate: 2002-01
+abstract:
+- content: 'This Recommendation establishes a common framework and provides a common
+    basis for the formats of time code data. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO11104
+    docid:
+    - id: ISO 11104
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 11104
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS301.0-B-3
+    docid:
+    - id: CCSDS 301.0-B-3
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 301.0-B-3
+      format: text/plain
+doctype: standard

@@ -1,0 +1,45 @@
+---
+schema-version: v1.2.3
+id: CCSDS401.0-B-S
+title:
+- content: 'Radio Frequency and Modulation Systems—Part 1: Earth Stations and Spacecraft'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/401x0b10s.pdf
+  type: pdf
+docid:
+- id: CCSDS 401.0-B-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2001-06
+edition:
+  content: '2'
+revdate: 2001-06
+abstract:
+- content: This document has been withdrawn by the CCSDS.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: successorOf
+  bibitem:
+    id: CCSDS401.0-B
+    docid:
+    - id: CCSDS 401.0-B
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 401.0-B
+      format: text/plain
+doctype: standard

@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: CCSDS647.4-O-1
+title:
+- content: 'Data Entity Dictionary Specification Language (DEDSL)--XML/XSD Syntax '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/647x4o1.pdf
+  type: pdf
+docid:
+- id: CCSDS 647.4-O-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2018-05
+edition:
+  content: '1'
+revdate: 2018-05
+abstract:
+- content: 'This Experimental Specification provides a new implementation of the Abstract
+    Syntax of the Data Entity Dictionary Specification Language (DEDSL) (CCSDS 647.1-B-1)
+    using the XML Schema definition for the construction and interchange of data entity
+    dictionaries, while being fully compatible with the XML/DTD Syntax (CCSDS 647.3-B-1). '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: specification
+editorialgroup:
+- name: MOIMS-DAI
+ext:
+  technology_area: Mission Operations and Information Management Services Area

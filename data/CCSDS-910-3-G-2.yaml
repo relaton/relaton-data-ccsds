@@ -1,0 +1,49 @@
+---
+schema-version: v1.2.3
+id: CCSDS910.3-G-2
+title:
+- content: 'Cross Support Concept — Part 1: Space Link Extension Services'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/910x3g2s.pdf
+  type: pdf
+docid:
+- id: CCSDS 910.3-G-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2002-04
+edition:
+  content: '2'
+revdate: 2002-04
+abstract:
+- content: This Report establishes a common framework and provides a common basis
+    for the development of SLE services. It allows the development of compatible derived
+    Standards for the SLE services that are within their cognizance. Derived Agency
+    Standards may implement only a subset of the optional features allowed by the
+    Cross Support Recommendations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS910.3-G-2-S
+    docid:
+    - id: CCSDS 910.3-G-2-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 910.3-G-2-S
+      format: text/plain
+doctype: report

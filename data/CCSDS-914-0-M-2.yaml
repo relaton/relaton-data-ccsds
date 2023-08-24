@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.3
+id: CCSDS914.0-M-2
+title:
+- content: Space Link Extension--Application Program Interface for Transfer Services--Core
+    Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/914x0m2c1.pdf
+  type: pdf
+docid:
+- id: CCSDS 914.0-M-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2015-09
+edition:
+  content: '2'
+revdate: 2015-09
+abstract:
+- content: |-
+    This Recommended Practice defines a C++ Application Program Interface (API) for CCSDS Space Link Extension (SLE) Transfer Services.  The API is intended for use by application programs implementing SLE services. The current issue updates text to be consistent with the current versions of the SLE service specifications.
+
+    The current version of this document contains all updates through technical corrigendum 1, dated August 2016.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO18441
+    docid:
+    - id: ISO 18441
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 18441
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS914.0-M-2Cor.1
+    docid:
+    - id: CCSDS 914.0-M-2 Cor. 1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 914.0-M-2 Cor. 1
+      format: text/plain
+doctype: practice
+editorialgroup:
+- name: CSS-CSTS
+ext:
+  technology_area: Cross Support Services Area

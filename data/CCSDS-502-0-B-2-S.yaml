@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.3
+id: CCSDS502.0-B-2-S
+title:
+- content: Orbit Data Messages
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/502x0b2s.pdf
+  type: pdf
+docid:
+- id: CCSDS 502.0-B-2-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2009-11
+edition:
+  content: '2'
+revdate: 2009-11
+abstract:
+- content: |-
+    The Orbit Data Message (ODM) Recommended Standard specifies message formats for use in transferring spacecraft orbit information between space agencies and commercial or governmental spacecraft operators.  Issue 2 defines a new message, the Orbit Mean-Elements Message (OMM), and adds capabilities to the messages specified in the original issue.  The current version of this document contains all updates through technical corrigendum 1, dated May 2012.
+    <br><br>
+    This document issue was superseded by CCSDS 502.0-B-3, Orbit Data Messages (Blue Book, Issue 3), released April 2023.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO26900
+    docid:
+    - id: ISO 26900
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 26900
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS502.0-B-2-SCor.1
+    docid:
+    - id: CCSDS 502.0-B-2-S Cor. 1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 502.0-B-2-S Cor. 1
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS502.0-B-2
+    docid:
+    - id: CCSDS 502.0-B-2
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 502.0-B-2
+      format: text/plain
+doctype: standard
+editorialgroup:
+- name: MOIMS-NAV
+ext:
+  technology_area: Mission Operations and Information Management Services Area

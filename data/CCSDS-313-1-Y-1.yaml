@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.3
+id: CCSDS313.1-Y-1
+title:
+- content: CCSDS SANA Registry Management Policy
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/313x1y1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 313.1-Y-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2016-06
+edition:
+  content: '1'
+revdate: 2016-06
+abstract:
+- content: "This document describes the CCSDS Space Assigned Numbers Authority (SANA)
+    Registry Management Policy and related procedures. \n\nThis document issue was
+    superseded by CCSDS 313.1-Y-2, CCSDS SANA Registry Management Policy (Yellow Book,
+    Issue 2), released October 2020."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS313.1-Y-1-S
+    docid:
+    - id: CCSDS 313.1-Y-1-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 313.1-Y-1-S
+      format: text/plain
+doctype: record
+editorialgroup:
+- name: SEA-SANA
+ext:
+  technology_area: Systems Engineering Area

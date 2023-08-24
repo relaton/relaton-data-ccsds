@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.3
+id: CCSDS121.0-B-1-S
+title:
+- content: Lossless Data Compression
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/121x0b1sc2.pdf
+  type: pdf
+docid:
+- id: CCSDS 121.0-B-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 1997-05
+edition:
+  content: '1'
+revdate: 1997-05
+abstract:
+- content: This Recommendation defines a source-coding data-compression algorithm
+    and specifies how data compressed using the algorithm are inserted into source
+    packets for retrieval and decoding.  This document has been reconfirmed by the
+    CCSDS Management Council through November 2011.  The current version of this document
+    contains all updates through Technical Corrigendum 2, dated September 2007.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO15887
+    docid:
+    - id: ISO 15887
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 15887
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS121.0-B-1-SCor.1
+    docid:
+    - id: CCSDS 121.0-B-1-S Cor. 1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 121.0-B-1-S Cor. 1
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS121.0-B-1-SCor.2
+    docid:
+    - id: CCSDS 121.0-B-1-S Cor. 2
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 121.0-B-1-S Cor. 2
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS121.0-B-1
+    docid:
+    - id: CCSDS 121.0-B-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 121.0-B-1
+      format: text/plain
+doctype: standard

@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.3
+id: CCSDS120.0-G-2-S
+title:
+- content: Lossless Data Compression
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/120x0g2s.pdf
+  type: pdf
+docid:
+- id: CCSDS 120.0-G-2-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2006-12
+edition:
+  content: '2'
+revdate: 2006-12
+abstract:
+- content: This Report presents a summary of the key operational concepts and rationale
+    underlying the requirements for the CCSDS Recommended Standard for Lossless Data
+    Compression. Supporting performance information along with illustrations are also
+    included.  This Report also provides a broad tutorial overview of the CCSDS Lossless
+    Data Compression algorithm and is aimed at helping first-time readers to understand
+    the Recommended Standard.  The current issue corrects minor errors in the original
+    and updates obsolete information.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: successorOf
+  bibitem:
+    id: CCSDS120.0-G-2
+    docid:
+    - id: CCSDS 120.0-G-2
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 120.0-G-2
+      format: text/plain
+doctype: report

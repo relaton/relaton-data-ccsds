@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.3
+id: CCSDS132.0-B-1-S
+title:
+- content: TM Space Data Link Protocol
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/132x0b1c1e1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 132.0-B-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2003-09
+edition:
+  content: '1'
+revdate: 2003-09
+abstract:
+- content: 'This Recommendation specifies the Data Link layer protocol, services,
+    and procedures pertaining to the CCSDS Version-1 Synchronous Transfer Frame. These
+    specifications correspond with the Data Link layer specifications contained in
+    Packet Telemetry and Packet Telemetry Service Specification, respectively.  (Note:
+    This is a restructured Recommendation*.)  The current version of this document
+    contains all updates through technical corrigendum 1, dated September 2012.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO22645
+    docid:
+    - id: ISO 22645
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 22645
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS132.0-B-1-SCor.1
+    docid:
+    - id: CCSDS 132.0-B-1-S Cor. 1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 132.0-B-1-S Cor. 1
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS132.0-B-1
+    docid:
+    - id: CCSDS 132.0-B-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 132.0-B-1
+      format: text/plain
+doctype: standard

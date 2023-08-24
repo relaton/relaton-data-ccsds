@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: CCSDS912.1-B-2-SCor.1
+title:
+- content: Technical Corrigendum 1 to CCSDS 912.1-B-2, Issued November 2004
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/912x1b2c1s_tca710.pdf
+  type: pdf
+docid:
+- id: CCSDS 912.1-B-2-S Cor. 1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2007-05
+edition:
+  content: 2-S Cor.1
+revdate: 2007-05
+abstract:
+- content: This Technical Corrigendum documents changes to CCSDS 912.1-B-2, Space
+    Link Extension—Forward CLTU Service Specification (Blue Book, Issue 2, December
+    2004).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: editionOf
+  bibitem:
+    id: CCSDS912.1-B-2-S
+    docid:
+    - id: CCSDS 912.1-B-2-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 912.1-B-2-S
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS912.1-B-2Cor.1
+    docid:
+    - id: CCSDS 912.1-B-2 Cor. 1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 912.1-B-2 Cor. 1
+      format: text/plain
+doctype: standard

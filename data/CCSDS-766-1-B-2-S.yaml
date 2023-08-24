@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.3
+id: CCSDS766.1-B-2-S
+title:
+- content: Digital Motion Imagery
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/766x1b2s.pdf
+  type: pdf
+docid:
+- id: CCSDS 766.1-B-2-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2016-08
+edition:
+  content: '2'
+revdate: 2016-08
+abstract:
+- content: 'This Recommended Standard provides a common reference and framework of
+    standards for digital motion imagery and provides recommendations for utilization
+    of international standards for capturing and transferring motion imagery between
+    spacecraft elements and ground systems. The current draft adds support for MPEG4
+    recording and JPEG2000 transmission.  This document issue was superseded by CCSDS
+    766.1-B-3, Digital Motion Imagery (Blue Book, Issue 3), released April 2021.
+
+    '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO21077
+    docid:
+    - id: ISO 21077
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 21077
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS766.1-B-2
+    docid:
+    - id: CCSDS 766.1-B-2
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 766.1-B-2
+      format: text/plain
+doctype: standard
+editorialgroup:
+- name: SIS-MIA
+ext:
+  technology_area: Space Internetworking Services Area

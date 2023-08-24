@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.3
+id: CCSDS103.0-B-2
+title:
+- content: Packet Telemetry Service Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/103x0b2s.pdf
+  type: pdf
+docid:
+- id: CCSDS 103.0-B-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2001-06
+edition:
+  content: '2'
+revdate: 2001-06
+abstract:
+- content: This Recommendation defines the services of a packet telemetry system.
+    To do so, it establishes a layered model of Packet Telemetry protocols and defines
+    Packet Telemetry Services by specifying the behavior at the service interfaces
+    to each layer. The current issue adds specifications that allow the CCSDS Version-1
+    Telemetry Transfer Frame to be used to transport other types of packets in addition
+    to CCSDS Version-1 Packets, including CCSDS Network Protocol (NP) Packets and
+    Internet Protocol (IP) packets. This enhanced functionality is added to the Transfer
+    Frame through the introduction of a standardized approach to interpreting the
+    packet version number field. The format of the Transfer Frame is not changed.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS103.0-B-2-S
+    docid:
+    - id: CCSDS 103.0-B-2-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 103.0-B-2-S
+      format: text/plain
+- type: adoptedAs
+  bibitem:
+    id: ISO17433
+    docid:
+    - id: ISO 17433
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 17433
+      format: text/plain
+doctype: standard

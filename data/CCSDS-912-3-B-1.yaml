@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.3
+id: CCSDS912.3-B-1
+title:
+- content: Space Link Extension – Forward Space Packet Service Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/912x3b1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 912.3-B-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2004-11
+edition:
+  content: '1'
+revdate: 2004-11
+abstract:
+- content: 'This Recommended Standard defines the Forward Space Packet (FSP) service
+    in conformance with the transfer services specified in CCSDS 910.4-B-1, Cross
+    Support Reference Model―Part 1: SLE Services. The FSP service is a Space Link
+    Extension (SLE) transfer service that enables a mission to send Space Packets
+    to a spacecraft in sequence-controlled or expedited mode.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS912.3-B-1-S
+    docid:
+    - id: CCSDS 912.3-B-1-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 912.3-B-1-S
+      format: text/plain
+- type: adoptedAs
+  bibitem:
+    id: ISO22672
+    docid:
+    - id: ISO 22672
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 22672
+      format: text/plain
+doctype: standard

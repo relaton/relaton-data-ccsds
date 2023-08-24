@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.3
+id: CCSDS914.0-M-2Cor.1
+title:
+- content: Corrigendum 1 to 914.0-M-2, issued September 2015
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/914x0m2c1_tc1615.pdf
+  type: pdf
+docid:
+- id: CCSDS 914.0-M-2 Cor. 1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2016-08
+edition:
+  content: 2 Cor. 1
+revdate: 2016-08
+abstract:
+- content: This corrigendum documents changes to CCSDS 914.0-M-2, Space Link Extension—Application
+    Program Interface for Transfer Services—Core Specification (Magenta Book, Issue
+    2, September 2015).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: editionOf
+  bibitem:
+    id: CCSDS914.0-M-2
+    docid:
+    - id: CCSDS 914.0-M-2
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 914.0-M-2
+      format: text/plain
+doctype: practice
+editorialgroup:
+- name: CSS-CSTS
+ext:
+  technology_area: Cross Support Services Area

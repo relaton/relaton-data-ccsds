@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.3
+id: CCSDS644.0-B-2
+title:
+- content: The Data Description Language EAST Specification (CCSD0010)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/644x0b2s.pdf
+  type: pdf
+docid:
+- id: CCSDS 644.0-B-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2000-11
+edition:
+  content: '2'
+revdate: 2000-11
+abstract:
+- content: This update to the original Data Description Language EAST Recommendation
+    extends EAST ability to handle repeated data items where repetition is terminated
+    by a marker. The previous specification allowed this only at the first level of
+    data hierarchy. These updates allow it at any level in the data hierarchy.  This
+    document has been reconfirmed by the CCSDS management Council through March 2011.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS644.0-B-2-S
+    docid:
+    - id: CCSDS 644.0-B-2-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 644.0-B-2-S
+      format: text/plain
+- type: adoptedAs
+  bibitem:
+    id: ISO15889
+    docid:
+    - id: ISO 15889
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 15889
+      format: text/plain
+doctype: standard

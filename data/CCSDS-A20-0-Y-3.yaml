@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.3
+id: CCSDSA20.0-Y-3
+title:
+- content: CCSDS Publications Manual
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/A20x0y3s.pdf
+  type: pdf
+docid:
+- id: CCSDS A20.0-Y-3
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2011-12
+edition:
+  content: '3'
+revdate: 2011-12
+abstract:
+- content: The CCSDS PUBLICATIONS MANUAL defines a set of style specifications intended
+    to standardize the appearance and format of CCSDS publications.  It is intended
+    to serve as both a guide for CCSDS document developers and an editorial Manual
+    for publishers of CCSDS Documents.  The current issue adds requirements indicated
+    by CCSDS A02.1-Y-3, Organization and Processes for the Consultative Committee
+    for Space Data Systems (Yellow Book, Issue 3, July 2011); eliminates obsolescent
+    materials, e.g., materials having to do with offset printing; and eliminates some
+    inconsistencies.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDSA20.0-Y-3-S
+    docid:
+    - id: CCSDS A20.0-Y-3-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS A20.0-Y-3-S
+      format: text/plain

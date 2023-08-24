@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.3
+id: CCSDS922.1-B-1-S
+title:
+- content: Cross Support Transfer Services—Monitored Data Service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/922x1b1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 922.1-B-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2017-04
+edition:
+  content: '1'
+revdate: 2017-04
+abstract:
+- content: "This Recommended Standard defines the Monitored Data Cross Support Transfer
+    Service (CSTS), which allows a spaceflight mission to receive cyclic reports on,
+    and to query the current values of, the parameters that are pertinent to cross
+    support services being provided by a Cross Support Complex. The Monitored Data
+    service also allows a spaceflight mission to receive notifications of the occurrence
+    of events of interest associated with the services that are being provided by
+    a Cross Support Complex.\n<br><br>\nThis document issue was superseded by CCSDS
+    922.1-B-2, Cross Support Transfer Services\x97Monitored Data Service (Blue Book,
+    Issue 2), released September 2022."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO23014
+    docid:
+    - id: ISO 23014
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 23014
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS922.1-B-1
+    docid:
+    - id: CCSDS 922.1-B-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 922.1-B-1
+      format: text/plain
+doctype: standard
+editorialgroup:
+- name: CSS-CSTS
+ext:
+  technology_area: Cross Support Services Area

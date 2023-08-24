@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.3
+id: CCSDSA02.1-Y-2-S
+title:
+- content: Restructured Organization and Processes for the Consultative Committee
+    for Space Data Systems
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/A02x1y2s.pdf
+  type: pdf
+docid:
+- id: CCSDS A02.1-Y-2-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2004-04
+edition:
+  content: '2'
+revdate: 2004-04
+abstract:
+- content: This Restructured Organization and Processes document was initially created
+    in response to calls to update and re-engineer the CCSDS organization at its autumn
+    2002 meeting. As a result, "CCSDS RECORD A02.1-Y-1, PROPOSAL FOR RESTRUCTURING
+    THE CCSDS ORGANIZATION AND PROCESSES" was published in March 2003.  This document
+    updates A02.1-Y-1 by removing the rationale that led to the reorganization (thus
+    streamlining the new CCSDS working procedures), and also to clarify the differences
+    between "Recommended Standard" and "Recommended Practice" on the Standards track.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: successorOf
+  bibitem:
+    id: CCSDSA02.1-Y-2
+    docid:
+    - id: CCSDS A02.1-Y-2
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS A02.1-Y-2
+      format: text/plain

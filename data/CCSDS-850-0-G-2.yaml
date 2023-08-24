@@ -1,0 +1,45 @@
+---
+schema-version: v1.2.3
+id: CCSDS850.0-G-2
+title:
+- content: Spacecraft Onboard Interface Services
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/850x0g2.pdf
+  type: pdf
+docid:
+- id: CCSDS 850.0-G-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2013-12
+edition:
+  content: '2'
+revdate: 2013-12
+abstract:
+- content: This Informational Report describes the concept and supporting rationale
+    for the Spacecraft Onboard Interface Services (SOIS).  It is intended to provide
+    an introduction and overview of the SOIS services concept upon which the detailed
+    CCSDS SOIS recommendations are based, as well as to summarize the specific individual
+    service recommendations and rationale.  The concepts described in this Informational
+    Report are the baseline concepts for the CCSDS standardization activities with
+    respect to services and generic support services to be used in the flight segment
+    of spacecraft systems.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: SOIS-APP
+ext:
+  technology_area: Spacecraft Onboard Interface Services Area

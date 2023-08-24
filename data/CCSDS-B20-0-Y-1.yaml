@@ -1,0 +1,43 @@
+---
+schema-version: v1.2.3
+id: CCSDSB20.0-Y-1
+title:
+- content: 'Proceedings of the CCSDS RF and Modulation Subpanel 1E Meeting at the
+    German Space Operations Centre September 20-24, 1993 '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/B20x0y1.pdf
+  type: pdf
+docid:
+- id: CCSDS B20.0-Y-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 1993-10
+edition:
+  content: '1'
+revdate: 1993-10
+abstract:
+- content: 'This Record is a collection of papers presented to the CCSDS RF and Modulation
+    Subpanel Meeting in September 1993. The original printed volume has been scanned
+    in order to make it available for on-lineviewing and downloading. Optical Character
+    Recognition (OCR) has been applied to the file in order to make it searchable;
+    however, OCR errors are to be expected, and only the scanned page images can be
+    considered to represent original document content with fidelity. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+editorialgroup:
+- name: SLS-RFM
+ext:
+  technology_area: Space Link Services Area

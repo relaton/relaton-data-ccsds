@@ -1,0 +1,49 @@
+---
+schema-version: v1.2.3
+id: CCSDS642.1-G-1
+title:
+- content: Language Usage in Information Interchange Tutorial
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/642x1g1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 642.1-G-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 1989-10
+edition:
+  content: '1'
+revdate: 1989-10
+abstract:
+- content: This Report is a tutorial on the use of languages for descriptive purposes
+    in information interchange. It discusses some of the challenges involved in the
+    interchange of information in the international space community.  It assumes the
+    use of the Standard Formatted Data Unit (SFDU) as a methodology for information
+    interchange.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS642.1-G-1-S
+    docid:
+    - id: CCSDS 642.1-G-1-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 642.1-G-1-S
+      format: text/plain
+doctype: report

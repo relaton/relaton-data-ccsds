@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.3
+id: CCSDS921.2-M-1Cor.1
+title:
+- content: Technical Corrigendum 1 to CCSDS 921.2-M-1, Issued March 2019
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/921x2m1c1_tc2022.pdf
+  type: pdf
+docid:
+- id: CCSDS 921.2-M-1 Cor. 1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2020-08
+edition:
+  content: 1 Cor. 1
+revdate: 2020-08
+abstract:
+- content: This Technical Corrigendum documents changes to CCSDS 921.2-M-1, Guidelines
+    for the Specification of Cross Support Transfer Services (Magenta Book, Issue
+    1, March 2019).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: editionOf
+  bibitem:
+    id: CCSDS921.2-M-1
+    docid:
+    - id: CCSDS 921.2-M-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 921.2-M-1
+      format: text/plain
+doctype: practice
+editorialgroup:
+- name: CSS-CSTS
+ext:
+  technology_area: Cross Support Services Area

@@ -1,0 +1,49 @@
+---
+schema-version: v1.2.3
+id: CCSDS320.0-B-4-S
+title:
+- content: CCSDS Global Spacecraft Identification Field Code Assignment Control Procedures
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/320x0b4s.pdf
+  type: pdf
+docid:
+- id: CCSDS 320.0-B-4-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2006-01
+edition:
+  content: '4'
+revdate: 2006-01
+abstract:
+- content: This procedural Recommendation establishes control procedures for Spacecraft
+    Identification (SCID) codes.  As such, it defines the procedure governing assignment,
+    use, relinquishment, and management of SCIDs.  This Recommendation also provides
+    a list of the CCSDS Agencies' Representatives as of the date of this document
+    and a form for requesting and relinquishing SCIDs.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: successorOf
+  bibitem:
+    id: CCSDS320.0-B-4
+    docid:
+    - id: CCSDS 320.0-B-4
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 320.0-B-4
+      format: text/plain
+doctype: standard

@@ -1,0 +1,54 @@
+---
+schema-version: v1.2.3
+id: CCSDS880.0-G-1-S
+title:
+- content: Wireless Network Communications Overview for Space Mission Operations
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/880x0g1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 880.0-G-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2010-12
+edition:
+  content: '1'
+revdate: 2010-12
+abstract:
+- content: This Informational Report contains background and explanatory material
+    to support the CCSDS wireless network communications Best Practices for networked
+    wireless communications in support of space missions.  It examines the possibilities
+    and advantages of the onboard application of wireless communications technology
+    to space missions, describes a set of driving use cases in the space domain, and
+    evaluates the utilization of existing technologies and related terrestrial commercial
+    standards to meet the resulting space-based use case requirements.  Also included
+    is relevant tutorial information intended to assist the reader in understanding
+    basic concepts of wireless transmission and networking along with possible issues
+    related to the deployment of wireless networks.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: successorOf
+  bibitem:
+    id: CCSDS880.0-G-1
+    docid:
+    - id: CCSDS 880.0-G-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 880.0-G-1
+      format: text/plain
+doctype: report

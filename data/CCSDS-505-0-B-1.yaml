@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.3
+id: CCSDS505.0-B-1
+title:
+- content: XML Specification for Navigation Data Messages
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/505x0b1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 505.0-B-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2010-12
+edition:
+  content: '1'
+revdate: 2010-12
+abstract:
+- content: |-
+    The XML Specification for Navigation Data Messages Recommended Standard describes an integrated XML schema set that is suited to interagency exchanges of navigation data messages.
+    <br><br>
+    This document issue was superseded by CCSDS 505.0-B-2, XML Specification for Navigation Data Messages (Blue Book, Issue 2), released May 2021.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    id: CCSDS505.0-B-1-S
+    docid:
+    - id: CCSDS 505.0-B-1-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 505.0-B-1-S
+      format: text/plain
+- type: adoptedAs
+  bibitem:
+    id: ISO17107
+    docid:
+    - id: ISO 17107
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 17107
+      format: text/plain
+doctype: standard
+editorialgroup:
+- name: MOIMS-NAV
+ext:
+  technology_area: Mission Operations and Information Management Services Area

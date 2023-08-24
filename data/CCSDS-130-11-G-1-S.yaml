@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.3
+id: CCSDS130.11-G-1-S
+title:
+- content: SCCC--Summary of Definition and Performance
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/130x11g1s.pdf
+  type: pdf
+docid:
+- id: CCSDS 130.11-G-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2019-04
+edition:
+  content: '1'
+revdate: 2019-04
+abstract:
+- content: |-
+    It is expected that a number of Earth Exploration Satellite Service (EESS) missions will carry payloads producing substantial data rates, that is, starting from a few hundred Mb/s. Such missions would benefit from employing transmitters using a state-of-the-art air interface that exploits link adaption, that is, achieves high spectral efficiency by adjusting the modulation and coding to the link budget.
+    <br><br>
+    This document issue was superseded by CCSDS 130.11-G-2, SCCC-Summary of Definition and Performance (Green Book, Issue 2), released May 2023.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: successorOf
+  bibitem:
+    id: CCSDS130.11-G-1
+    docid:
+    - id: CCSDS 130.11-G-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 130.11-G-1
+      format: text/plain
+doctype: report
+editorialgroup:
+- name: SLS-C&S
+ext:
+  technology_area: Space Link Services Area

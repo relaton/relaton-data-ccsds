@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.3
+id: CCSDS713.5-B-1-S
+title:
+- content: Space Communications Protocol Specification (SCPS)—Security Protocol (SCPS-SP)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/713x5b1sc1.pdf
+  type: pdf
+docid:
+- id: CCSDS 713.5-B-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 1999-05
+edition:
+  content: '1'
+revdate: 1999-05
+abstract:
+- content: |
+    This Recommendation defines the SCPS** security protocol and services.
+    -----------------------------------------------------------------------------------------------
+    Warning – This document is being considered to be retired (converted to historical status as a silver book) and removed from the CCSDS library as an active recommended document.  The planned timeframe to take action on retiring this document is April 2009.  This is being done because we believe that the document is not in use by programs or projects at this time. If this action could have a detrimental effect on your program or project, please notify the CCSDS Secretariat mailto:secretariat@mailman.ccsds.org.  The current version of this document contains all updates through technical corrigendum 1, dated August 2010.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: ISO15892
+    docid:
+    - id: ISO 15892
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: ISO 15892
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: CCSDS713.5-B-1-SCor.1
+    docid:
+    - id: CCSDS 713.5-B-1-S Cor. 1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 713.5-B-1-S Cor. 1
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS713.5-B-1
+    docid:
+    - id: CCSDS 713.5-B-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 713.5-B-1
+      format: text/plain
+doctype: standard

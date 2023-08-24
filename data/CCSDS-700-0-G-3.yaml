@@ -1,0 +1,42 @@
+---
+schema-version: v1.2.3
+id: CCSDS700.0-G-3
+title:
+- content: 'Advanced Orbiting Systems, Networks and Data Links: Summary of Concept,
+    Rationale and Performance'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/700x0g3.pdf
+  type: pdf
+docid:
+- id: CCSDS 700.0-G-3
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 1992-11
+edition:
+  content: '3'
+revdate: 1992-11
+abstract:
+- content: 'This CCSDS Report contains background and explanatory material to supplement
+    the CCSDS Recommendation, Advanced Orbiting Systems, Network and Data Links: Architectural
+    Specification, 701.0-B-2.  This document has been reconfirmed by the CCSDS Management
+    Council through October 2021.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype: report
+editorialgroup:
+- name: SLS-SLP
+ext:
+  technology_area: Space Link Services Area
