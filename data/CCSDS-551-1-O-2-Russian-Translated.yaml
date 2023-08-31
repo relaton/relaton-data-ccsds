@@ -33,6 +33,17 @@ abstract:
 docstatus:
   stage:
     value: published
+relation:
+- type: instanceOf
+  bibitem:
+    id: CCSDS551.1-O-2
+    docid:
+    - id: CCSDS 551.1-O-2
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 551.1-O-2
+      format: text/plain
 doctype: specification
 editorialgroup:
 - name: MOIMS-SM&C

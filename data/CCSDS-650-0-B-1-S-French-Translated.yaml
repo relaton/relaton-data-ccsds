@@ -42,6 +42,16 @@ relation:
     formattedref:
       content: CCSDS 650.0-B-1 - French Translated
       format: text/plain
+- type: instanceOf
+  bibitem:
+    id: CCSDS650.0-B-1-S
+    docid:
+    - id: CCSDS 650.0-B-1-S
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 650.0-B-1-S
+      format: text/plain
 doctype: standard
 editorialgroup:
 - name: MOIMS-DAI
