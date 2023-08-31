@@ -46,7 +46,7 @@ relation:
     formattedref:
       content: ISO 22642
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS231.0-B-1-SCor.1
     docid:

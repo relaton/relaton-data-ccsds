@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2007-09
 edition:
-  content: 1 Cor. 2
+  content: '1'
 revdate: 2007-09
 abstract:
 - content: This Technical Corrigendum documents changes to CCSDS 121.0-B-1-S, Lossless
@@ -33,7 +33,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS121.0-B-1-S
     docid:

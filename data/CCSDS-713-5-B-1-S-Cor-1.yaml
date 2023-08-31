@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2010-08
 edition:
-  content: 1-S Cor. 1
+  content: '1'
 revdate: 2010-08
 abstract:
 - content: This Technical Corrigendum documents changes to CCSDS 713.5-B-1-S, Space
@@ -34,7 +34,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS713.5-B-1-S
     docid:

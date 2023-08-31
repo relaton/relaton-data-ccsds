@@ -55,7 +55,7 @@ relation:
     formattedref:
       content: ISO 15892
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS713.5-B-1Cor.1
     docid:

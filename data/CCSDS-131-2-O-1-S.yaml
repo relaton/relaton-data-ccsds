@@ -38,7 +38,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS131.2-O-1-SCor.1
     docid:

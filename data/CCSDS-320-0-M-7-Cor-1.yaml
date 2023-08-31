@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2019-07
 edition:
-  content: 7 Cor. 1
+  content: '7'
 revdate: 2019-07
 abstract:
 - content: This Technical Corrigendum documents changes to CCSDS 320.0-M-7, CCSDS
@@ -34,7 +34,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS320.0-M-7
     docid:

@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2005-11
 edition:
-  content: 1-S Cor. 1
+  content: '1'
 revdate: 2005-11
 abstract:
 - language:
@@ -41,7 +41,7 @@ relation:
     formattedref:
       content: CCSDS 714.0-B-1-S Cor. 1
       format: text/plain
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS714.0-B-1
     docid:

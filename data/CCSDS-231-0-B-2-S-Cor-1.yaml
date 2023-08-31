@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2013-04
 edition:
-  content: 2 Cor. 1
+  content: '2'
 revdate: 2013-04
 abstract:
 - content: This Technical Corrigendum documents changes to CCSDS 231.0-B-2-S, TC Synchronization
@@ -33,7 +33,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS231.0-B-2-S
     docid:

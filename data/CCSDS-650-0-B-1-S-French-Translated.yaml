@@ -32,16 +32,6 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
-  bibitem:
-    id: CCSDS650.0-B-1-S
-    docid:
-    - id: CCSDS 650.0-B-1-S
-      type: CCSDS
-      primary: true
-    formattedref:
-      content: CCSDS 650.0-B-1-S
-      format: text/plain
 - type: successorOf
   bibitem:
     id: CCSDS650.0-B-1-FrenchTranslated

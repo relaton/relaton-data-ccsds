@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2010-09
 edition:
-  content: 1 Cor. 1
+  content: '1'
 revdate: 2010-09
 abstract:
 - content: This Technical Corrigendum documents changes to CCSDS 503.0-B-1, Tracking
@@ -43,7 +43,7 @@ relation:
     formattedref:
       content: CCSDS 503.0-B-1-S Cor. 1
       format: text/plain
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS503.0-B-1
     docid:

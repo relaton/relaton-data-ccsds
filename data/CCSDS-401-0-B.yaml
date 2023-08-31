@@ -42,7 +42,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-S
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-14
     docid:
@@ -52,7 +52,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-14
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-15
     docid:
@@ -62,7 +62,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-15
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-16
     docid:
@@ -72,7 +72,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-16
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-17
     docid:
@@ -82,7 +82,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-17
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-18
     docid:
@@ -92,7 +92,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-18
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-19
     docid:
@@ -102,7 +102,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-19
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-20
     docid:
@@ -112,7 +112,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-20
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-21Cor.1
     docid:
@@ -122,7 +122,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-21 Cor. 1
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-21
     docid:
@@ -132,7 +132,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-21
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-22
     docid:
@@ -142,7 +142,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-22
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-23
     docid:
@@ -152,7 +152,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-23
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-24
     docid:
@@ -162,7 +162,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-24
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-25
     docid:
@@ -172,7 +172,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-25
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-26
     docid:
@@ -182,7 +182,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-26
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-27
     docid:
@@ -192,7 +192,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-27
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-28
     docid:
@@ -202,7 +202,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-28
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-29
     docid:
@@ -212,7 +212,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-29
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-30
     docid:
@@ -222,7 +222,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-30
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS401.0-B-31
     docid:

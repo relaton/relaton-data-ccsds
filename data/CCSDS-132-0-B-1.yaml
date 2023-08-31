@@ -57,7 +57,7 @@ relation:
     formattedref:
       content: ISO 22645
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS132.0-B-1Cor.1
     docid:

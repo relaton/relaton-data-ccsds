@@ -45,7 +45,7 @@ relation:
     formattedref:
       content: CCSDS A20.0-Y-2-S
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDSA20.0-Y-2.1
     docid:

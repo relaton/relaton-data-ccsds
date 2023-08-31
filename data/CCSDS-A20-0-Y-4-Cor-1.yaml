@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2015-02
 edition:
-  content: 4 Cor. 1
+  content: '4'
 revdate: 2015-02
 abstract:
 - content: This Corrigendum documents changes to CCSDS A20.0-Y-4, CCSDS Publications
@@ -33,7 +33,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDSA20.0-Y-4
     docid:

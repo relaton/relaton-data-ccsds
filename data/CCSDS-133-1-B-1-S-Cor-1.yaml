@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2006-10
 edition:
-  content: 1 Cor. 1
+  content: '1'
 revdate: 2006-10
 abstract:
 - content: 'This Technical Corrigendum documents changes to CCSDS 133.1-B-1, Encapsulation
@@ -33,7 +33,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS133.1-B-1-S
     docid:

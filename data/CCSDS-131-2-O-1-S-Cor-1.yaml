@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2011-02
 edition:
-  content: 1 Cor. 1
+  content: '1'
 revdate: 2011-02
 abstract:
 - content: This Technical Corrigendum documents changes to CCSDS 131.2-O-1,  Flexible
@@ -34,7 +34,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS131.2-O-1-S
     docid:

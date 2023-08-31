@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2013-12
 edition:
-  content: 6 Cor. 1
+  content: '6'
 revdate: 2013-12
 abstract:
 - language:
@@ -31,7 +31,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS320.0-B-6-S
     docid:

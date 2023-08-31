@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2020-08
 edition:
-  content: 1 Cor. 1
+  content: '1'
 revdate: 2020-08
 abstract:
 - content: This Technical Corrigendum documents changes to CCSDS 921.2-M-1, Guidelines
@@ -34,7 +34,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS921.2-M-1
     docid:

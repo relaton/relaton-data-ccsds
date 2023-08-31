@@ -48,7 +48,7 @@ relation:
     formattedref:
       content: CCSDS 131.2-O-1-S
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS131.2-O-1Cor.1
     docid:

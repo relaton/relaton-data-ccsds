@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2006-06
 edition:
-  content: 1 Cor. 1
+  content: '1'
 revdate: 2006-06
 abstract:
 - language:
@@ -41,7 +41,7 @@ relation:
     formattedref:
       content: CCSDS 231.0-B-1-S Cor. 1
       format: text/plain
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS231.0-B-1
     docid:

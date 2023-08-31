@@ -20,7 +20,7 @@ date:
 - type: published
   value: 1996-11
 edition:
-  content: 1 Cor. 1
+  content: '1'
 revdate: 1996-11
 abstract:
 - content: This document has been withdrawn by the CCSDS.
@@ -43,7 +43,7 @@ relation:
     formattedref:
       content: CCSDS 320.0-B-1-S Cor. 1
       format: text/plain
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS320.0-B-1
     docid:

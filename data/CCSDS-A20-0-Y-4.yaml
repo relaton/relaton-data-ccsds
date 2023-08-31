@@ -38,7 +38,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDSA20.0-Y-4Cor.1
     docid:

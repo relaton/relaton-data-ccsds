@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2016-08
 edition:
-  content: 2 Cor. 1
+  content: '2'
 revdate: 2016-08
 abstract:
 - content: This corrigendum documents changes to CCSDS 914.0-M-2, Space Link Extension—Application
@@ -34,7 +34,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS914.0-M-2
     docid:

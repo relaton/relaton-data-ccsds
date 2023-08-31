@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2012-09
 edition:
-  content: 2 Cor. 1
+  content: '2'
 revdate: 2012-09
 abstract:
 - content: This Technical Corrigendum documents changes to CCSDS 232.0-B-2-S, TC Space
@@ -33,7 +33,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS232.0-B-2-S
     docid:

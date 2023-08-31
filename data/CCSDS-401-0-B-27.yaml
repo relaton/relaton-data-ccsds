@@ -46,7 +46,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-27-S
       format: text/plain
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS401.0-B
     docid:
@@ -56,7 +56,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B
       format: text/plain
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS401.0-B
     docid:
@@ -66,7 +66,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B
       format: text/plain
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS401.0-B
     docid:
@@ -76,7 +76,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B
       format: text/plain
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS401.0-B
     docid:
@@ -86,7 +86,7 @@ relation:
     formattedref:
       content: CCSDS 401.0-B
       format: text/plain
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS401.0-B
     docid:

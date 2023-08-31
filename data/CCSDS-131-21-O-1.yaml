@@ -35,7 +35,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS131.21-O-1Cor.1
     docid:

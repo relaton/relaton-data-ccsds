@@ -39,7 +39,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS320.0-M-7Cor.1
     docid:

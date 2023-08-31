@@ -56,7 +56,7 @@ relation:
     formattedref:
       content: ISO 15887
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS121.0-B-1Cor.1
     docid:
@@ -66,7 +66,7 @@ relation:
     formattedref:
       content: CCSDS 121.0-B-1 Cor. 1
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS121.0-B-1Cor.2
     docid:

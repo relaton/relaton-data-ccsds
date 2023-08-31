@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2010-09
 edition:
-  content: 1 Cor. 1
+  content: '1'
 revdate: 2010-09
 abstract:
 - language:
@@ -31,7 +31,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS133.0-B-1-S
     docid:

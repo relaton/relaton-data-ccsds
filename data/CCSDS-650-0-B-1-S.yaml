@@ -45,16 +45,6 @@ relation:
     formattedref:
       content: ISO 14721
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: CCSDS650.0-B-1-S-FrenchTranslated
-    docid:
-    - id: CCSDS 650.0-B-1-S - French Translated
-      type: CCSDS
-      primary: true
-    formattedref:
-      content: CCSDS 650.0-B-1-S - French Translated
-      format: text/plain
 - type: successorOf
   bibitem:
     id: CCSDS650.0-B-1
@@ -64,6 +54,16 @@ relation:
       primary: true
     formattedref:
       content: CCSDS 650.0-B-1
+      format: text/plain
+- type: hasInstance
+  bibitem:
+    id: CCSDS650.0-B-1-S-FrenchTranslated
+    docid:
+    - id: CCSDS 650.0-B-1-S - French Translated
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 650.0-B-1-S - French Translated
       format: text/plain
 doctype: standard
 editorialgroup:

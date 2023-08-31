@@ -55,7 +55,7 @@ relation:
     formattedref:
       content: ISO 26900
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS502.0-B-2Cor.1
     docid:

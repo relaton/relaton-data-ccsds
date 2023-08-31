@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2012-09
 edition:
-  content: 1 Cor. 2
+  content: '1'
 revdate: 2012-09
 abstract:
 - content: This Technical Corrigendum documents changes to CCSDS 133.0-B-1, Space
@@ -43,7 +43,7 @@ relation:
     formattedref:
       content: CCSDS 133.0-B-1-S Cor. 2
       format: text/plain
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDS133.0-B-1
     docid:

@@ -40,7 +40,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
+- type: instanceOf
   bibitem:
     id: CCSDS650.0-M-2
     docid:

@@ -32,7 +32,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS320.0-B-1-SCor.1
     docid:

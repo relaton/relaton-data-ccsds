@@ -36,7 +36,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDSA02.1-Y-4Cor.1
     docid:
@@ -46,7 +46,7 @@ relation:
     formattedref:
       content: CCSDS A02.1-Y-4 Cor. 1
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDSA02.1-Y-4Cor.2
     docid:

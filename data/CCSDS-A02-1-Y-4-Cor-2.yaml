@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2016-01
 edition:
-  content: 4 Cor. 2
+  content: '4'
 revdate: 2016-01
 abstract:
 - content: This Corrigendum documents changes to CCSDS A02.1-Y-4, Organization and
@@ -34,7 +34,7 @@ docstatus:
   stage:
     value: published
 relation:
-- type: editionOf
+- type: updates
   bibitem:
     id: CCSDSA02.1-Y-4
     docid:

@@ -59,7 +59,7 @@ relation:
     formattedref:
       content: ISO 22647
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS135.0-B-3Cor.1
     docid:

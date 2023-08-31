@@ -19,7 +19,7 @@ date:
 - type: published
   value: 2005-11
 edition:
-  content: '1 '
+  content: '1'
 revdate: 2005-11
 abstract:
 - content: 'This Recommended Standard defines an image-data compression algorithm
@@ -57,7 +57,7 @@ relation:
     formattedref:
       content: ISO 26868
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS122.0-B-1Cor.1
     docid:
@@ -67,7 +67,7 @@ relation:
     formattedref:
       content: CCSDS 122.0-B-1 Cor. 1
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS122.0-B-1Cor.2
     docid:
@@ -77,7 +77,7 @@ relation:
     formattedref:
       content: CCSDS 122.0-B-1 Cor. 2
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS122.0-B-1Cor.3
     docid:

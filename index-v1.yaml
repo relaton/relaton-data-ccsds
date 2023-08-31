@@ -144,7 +144,7 @@
 - :id: CCSDS 880.0-G-3
   :file: data/CCSDS-880-0-G-3.yaml
 - :id: CCSDS 551.1-O-2 - Russian Translated
-  :file: data/CCSDS-551-1-O-2---Russian-Translated.yaml
+  :file: data/CCSDS-551-1-O-2-Russian-Translated.yaml
 - :id: CCSDS 320.0-M-7
   :file: data/CCSDS-320-0-M-7.yaml
 - :id: CCSDS 413.0-G-3
@@ -154,7 +154,7 @@
 - :id: CCSDS 506.3-M-1
   :file: data/CCSDS-506-3-M-1.yaml
 - :id: CCSDS 650.0-M-2 - French Translated
-  :file: data/CCSDS-650-0-M-2---French-Translated.yaml
+  :file: data/CCSDS-650-0-M-2-French-Translated.yaml
 - :id: CCSDS 647.4-O-1
   :file: data/CCSDS-647-4-O-1.yaml
 - :id: CCSDS 350.5-G-1
@@ -870,9 +870,9 @@
 - :id: CCSDS 644.0-B-2-S
   :file: data/CCSDS-644-0-B-2-S.yaml
 - :id: CCSDS 650.0-B-1 - French Translated
-  :file: data/CCSDS-650-0-B-1---French-Translated.yaml
+  :file: data/CCSDS-650-0-B-1-French-Translated.yaml
 - :id: CCSDS 650.0-B-1-S - French Translated
-  :file: data/CCSDS-650-0-B-1-S---French-Translated.yaml
+  :file: data/CCSDS-650-0-B-1-S-French-Translated.yaml
 - :id: CCSDS 650.0-B-1
   :file: data/CCSDS-650-0-B-1.yaml
 - :id: CCSDS 650.0-B-1-S

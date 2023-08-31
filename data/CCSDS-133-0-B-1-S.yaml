@@ -45,7 +45,7 @@ relation:
     formattedref:
       content: ISO 22646
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS133.0-B-1-SCor.1
     docid:
@@ -55,7 +55,7 @@ relation:
     formattedref:
       content: CCSDS 133.0-B-1-S Cor. 1
       format: text/plain
-- type: hasEdition
+- type: updatedBy
   bibitem:
     id: CCSDS133.0-B-1-SCor.2
     docid:
