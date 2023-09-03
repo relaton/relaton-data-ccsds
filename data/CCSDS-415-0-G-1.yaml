@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: CCSDS415.0-G-1
 title:
 - content: Data Transmission and PN Ranging for 2 GHz CDMA Link via Data Relay Satellite

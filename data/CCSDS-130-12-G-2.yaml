@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: CCSDS130.12-G-2
 title:
 - content: CCSDS Protocols over DVB-S2-Summary of Definition, Implementation, and

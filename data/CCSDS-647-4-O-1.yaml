@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: CCSDS647.4-O-1
 title:
 - content: 'Data Entity Dictionary Specification Language (DEDSL)--XML/XSD Syntax '

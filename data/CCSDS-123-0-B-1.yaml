@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: CCSDS123.0-B-1
 title:
 - content: Lossless Multispectral & Hyperspectral Image Compression

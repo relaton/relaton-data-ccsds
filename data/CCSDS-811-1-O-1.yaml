@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: CCSDS811.1-O-1
 title:
 - content: CAST Flight Software as a CCSDS Onboard Reference Architecture
