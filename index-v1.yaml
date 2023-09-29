@@ -1321,3 +1321,7 @@
   :file: data/CCSDS-505-0-B-2.yaml
 - :id: CCSDS 505.0-B-2-S
   :file: data/CCSDS-505-0-B-2-S.yaml
+- :id: CCSDS 131.0-B-4
+  :file: data/CCSDS-131-0-B-4.yaml
+- :id: CCSDS 131.0-B-4-S
+  :file: data/CCSDS-131-0-B-4-S.yaml

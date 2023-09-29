@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.4
+id: CCSDS131.0-B-4-S
+title:
+- content: 'TM Synchronization and Channel Coding '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/131x0b4s.pdf
+  type: pdf
+docid:
+- id: CCSDS 131.0-B-4-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2022-04
+edition:
+  content: '4'
+revdate: 2022-04
+abstract:
+- content: |-
+    The Recommended Standard for TM Synchronization and Channel Coding contains specifications to be used by space missions on synchronous communications links. The current update adds support for the Unified Space Data Link Protocol and ground-to-space communications links.
+    <br><br>This document issue was superseded by CCSDS 131.0-B-5, TM Synchronization and Channel Coding (Blue Book, Issue 5), released September 2023.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: successorOf
+  bibitem:
+    id: CCSDS131.0-B-4
+    docid:
+    - id: CCSDS 131.0-B-4
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 131.0-B-4
+      format: text/plain
+doctype: standard
+editorialgroup:
+- name: SLS-C&S
+ext:
+  technology_area: Space Link Services Area
