@@ -261,6 +261,8 @@
   :file: data/CCSDS-130-12-G-2.yaml
 - :id: CCSDS 350.9-G-2
   :file: data/CCSDS-350-9-G-2.yaml
+- :id: CCSDS 142.10-O-1
+  :file: data/CCSDS-142-10-O-1.yaml
 - :id: CCSDS 211.0-B-5
   :file: data/CCSDS-211-0-B-5.yaml
 - :id: CCSDS 211.0-B-5-S
