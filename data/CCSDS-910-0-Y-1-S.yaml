@@ -22,7 +22,8 @@ edition:
   content: '1'
 revdate: 2002-04
 abstract:
-- language:
+- content: 
+  language:
   - en
   script:
   - Latn

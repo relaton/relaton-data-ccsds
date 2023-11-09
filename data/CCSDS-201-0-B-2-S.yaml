@@ -22,7 +22,8 @@ edition:
   content: '2'
 revdate: 1995-11
 abstract:
-- language:
+- content: 
+  language:
   - en
   script:
   - Latn

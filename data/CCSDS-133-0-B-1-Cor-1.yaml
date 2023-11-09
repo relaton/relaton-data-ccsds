@@ -22,7 +22,8 @@ edition:
   content: '1'
 revdate: 2010-09
 abstract:
-- language:
+- content: 
+  language:
   - en
   script:
   - Latn
