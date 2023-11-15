@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: CCSDS714.0-B-1-S
 title:
 - content: Space Communications Protocol Specification (SCPS)—Transport Protocol (SCPS-TP)

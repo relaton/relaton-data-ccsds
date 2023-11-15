@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: CCSDS523.1-M-1
 title:
 - content: Mission Operations Message Abstraction Layer--JAVA API

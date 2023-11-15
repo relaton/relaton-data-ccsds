@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: CCSDS720.2-G-2
 title:
 - content: 'CCSDS File Delivery Protocol (CFDP)—Part 2: Implementers Guide'
