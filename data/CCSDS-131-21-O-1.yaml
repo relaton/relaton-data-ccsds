@@ -45,7 +45,8 @@ relation:
     formattedref:
       content: CCSDS 131.21-O-1 Cor. 1
       format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: SLS-C&S
 ext:

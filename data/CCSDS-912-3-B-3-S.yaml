@@ -55,7 +55,8 @@ relation:
     formattedref:
       content: CCSDS 912.3-B-3
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: CSS-CSTS
 ext:

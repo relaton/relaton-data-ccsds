@@ -34,7 +34,8 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: CSS-CSTS
 ext:

@@ -48,7 +48,8 @@ relation:
     formattedref:
       content: ISO 18443
       format: text/plain
-doctype: practice
+doctype:
+  type: practice
 editorialgroup:
 - name: CSS-CSTS
 ext:

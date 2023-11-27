@@ -55,4 +55,5 @@ relation:
     formattedref:
       content: CCSDS 911.1-B-2
       format: text/plain
-doctype: standard
+doctype:
+  type: standard

@@ -44,7 +44,8 @@ relation:
     formattedref:
       content: CCSDS 350.7-G-1
       format: text/plain
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: SEA-SEC
 ext:

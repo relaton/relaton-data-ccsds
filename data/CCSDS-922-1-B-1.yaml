@@ -60,7 +60,8 @@ relation:
     formattedref:
       content: ISO 23014
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: CSS-CSTS
 ext:

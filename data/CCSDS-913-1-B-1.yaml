@@ -53,4 +53,5 @@ relation:
     formattedref:
       content: ISO 18440
       format: text/plain
-doctype: standard
+doctype:
+  type: standard

@@ -53,7 +53,8 @@ relation:
     formattedref:
       content: CCSDS 133.0-B-1 Cor. 2
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: SLS-SLP
 ext:

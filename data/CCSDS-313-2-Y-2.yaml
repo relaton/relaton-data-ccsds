@@ -33,7 +33,8 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype: record
+doctype:
+  type: record
 editorialgroup:
 - name: SEA-SANA
 ext:

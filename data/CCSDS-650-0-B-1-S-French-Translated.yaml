@@ -52,7 +52,8 @@ relation:
     formattedref:
       content: CCSDS 650.0-B-1-S
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: MOIMS-DAI
 ext:

@@ -55,7 +55,8 @@ relation:
     formattedref:
       content: CCSDS 131.3-B-1
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: SLS-C&S
 ext:

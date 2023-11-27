@@ -47,7 +47,8 @@ relation:
     formattedref:
       content: ISO 17809
       format: text/plain
-doctype: practice
+doctype:
+  type: practice
 editorialgroup:
 - name: SEA-D-DOR
 ext:

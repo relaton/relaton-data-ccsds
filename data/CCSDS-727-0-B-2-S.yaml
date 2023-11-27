@@ -57,4 +57,5 @@ relation:
     formattedref:
       content: CCSDS 727.0-B-2
       format: text/plain
-doctype: standard
+doctype:
+  type: standard

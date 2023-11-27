@@ -45,7 +45,8 @@ relation:
     formattedref:
       content: CCSDS 551.1-O-2 - Russian Translated
       format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: MOIMS-SM&C
 ext:

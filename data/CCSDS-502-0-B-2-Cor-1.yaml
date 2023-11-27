@@ -53,7 +53,8 @@ relation:
     formattedref:
       content: CCSDS 502.0-B-2
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: MOIMS-NAV
 ext:

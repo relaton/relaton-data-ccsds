@@ -45,7 +45,8 @@ relation:
     formattedref:
       content: CCSDS 720.2-G-3
       format: text/plain
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: SIS-UCE
 ext:

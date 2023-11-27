@@ -59,7 +59,8 @@ relation:
     formattedref:
       content: CCSDS 766.1-B-2
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: SIS-MIA
 ext:

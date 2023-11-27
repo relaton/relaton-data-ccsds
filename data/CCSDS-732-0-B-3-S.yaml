@@ -55,7 +55,8 @@ relation:
     formattedref:
       content: CCSDS 732.0-B-3
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: SLS-SLP
 ext:

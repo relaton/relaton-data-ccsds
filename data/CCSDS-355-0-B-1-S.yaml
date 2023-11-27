@@ -55,7 +55,8 @@ relation:
     formattedref:
       content: CCSDS 355.0-B-1
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: SLS-SEA-SDLS
 ext:

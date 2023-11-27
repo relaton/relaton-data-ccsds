@@ -58,7 +58,8 @@ relation:
     formattedref:
       content: CCSDS 133.1-B-2
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: SLS-SLP
 ext:

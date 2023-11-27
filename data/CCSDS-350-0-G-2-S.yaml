@@ -46,7 +46,8 @@ relation:
     formattedref:
       content: CCSDS 350.0-G-2
       format: text/plain
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: SEA-SEC
 ext:

@@ -45,7 +45,8 @@ relation:
     formattedref:
       content: CCSDS 130.0-G-3-S
       format: text/plain
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: SLS-SLP
 ext:

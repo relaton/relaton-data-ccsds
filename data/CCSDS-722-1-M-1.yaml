@@ -47,7 +47,8 @@ relation:
     formattedref:
       content: ISO 20105
       format: text/plain
-doctype: practice
+doctype:
+  type: practice
 editorialgroup:
 - name: SIS-CFDPV1
 ext:

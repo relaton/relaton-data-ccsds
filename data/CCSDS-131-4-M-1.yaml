@@ -53,4 +53,5 @@ relation:
     formattedref:
       content: ISO 17808
       format: text/plain
-doctype: practice
+doctype:
+  type: practice

@@ -43,7 +43,8 @@ relation:
     formattedref:
       content: ISO 18426
       format: text/plain
-doctype: practice
+doctype:
+  type: practice
 editorialgroup:
 - name: SOIS-SUBNET
 ext:

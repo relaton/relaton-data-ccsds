@@ -56,7 +56,8 @@ relation:
     formattedref:
       content: ISO 17854
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: SLS-C&S
 ext:

@@ -33,7 +33,8 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype: practice
+doctype:
+  type: practice
 editorialgroup:
 - name: SLS-OPT
 ext:

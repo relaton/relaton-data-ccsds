@@ -45,7 +45,8 @@ relation:
     formattedref:
       content: ISO 18382
       format: text/plain
-doctype: practice
+doctype:
+  type: practice
 editorialgroup:
 - name: SOIS-WIR
 ext:

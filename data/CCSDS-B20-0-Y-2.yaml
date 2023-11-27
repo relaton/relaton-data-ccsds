@@ -35,6 +35,8 @@ abstract:
 docstatus:
   stage:
     value: published
+doctype:
+  type: 
 editorialgroup:
 - name: SLS-RFM
 ext:

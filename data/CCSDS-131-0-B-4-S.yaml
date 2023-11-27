@@ -44,7 +44,8 @@ relation:
     formattedref:
       content: CCSDS 131.0-B-4
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: SLS-C&S
 ext:

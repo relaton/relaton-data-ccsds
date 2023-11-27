@@ -48,4 +48,5 @@ relation:
     formattedref:
       content: CCSDS 401.0-B-16
       format: text/plain
-doctype: standard
+doctype:
+  type: standard

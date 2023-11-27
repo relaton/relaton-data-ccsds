@@ -55,7 +55,8 @@ relation:
     formattedref:
       content: CCSDS 650.0-M-2 - French Translated
       format: text/plain
-doctype: practice
+doctype:
+  type: practice
 editorialgroup:
 - name: MOIMS-DAI
 ext:

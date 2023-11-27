@@ -45,7 +45,8 @@ relation:
     formattedref:
       content: ISO 20214
       format: text/plain
-doctype: practice
+doctype:
+  type: practice
 editorialgroup:
 - name: SEA-SEC
 ext:

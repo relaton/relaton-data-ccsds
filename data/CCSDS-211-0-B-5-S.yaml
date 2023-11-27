@@ -57,7 +57,8 @@ relation:
     formattedref:
       content: CCSDS 211.0-B-5
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: SLS-SLP
 ext:

@@ -46,7 +46,8 @@ relation:
     formattedref:
       content: CCSDS 130.12-G-1-S
       format: text/plain
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: SLS-C&S
 ext:

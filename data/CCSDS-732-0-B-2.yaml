@@ -68,4 +68,5 @@ relation:
     formattedref:
       content: CCSDS 732.0-B-2 Cor. 1
       format: text/plain
-doctype: standard
+doctype:
+  type: standard

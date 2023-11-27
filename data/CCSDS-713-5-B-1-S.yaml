@@ -65,4 +65,5 @@ relation:
     formattedref:
       content: CCSDS 713.5-B-1
       format: text/plain
-doctype: standard
+doctype:
+  type: standard

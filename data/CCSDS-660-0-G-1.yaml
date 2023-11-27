@@ -54,7 +54,8 @@ relation:
     formattedref:
       content: CCSDS 660.0-G-1-S
       format: text/plain
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: MOIMS-SM&C
 ext:

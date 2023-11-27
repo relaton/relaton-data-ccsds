@@ -55,7 +55,8 @@ relation:
     formattedref:
       content: ISO 20207
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: SLS-C&S
 ext:

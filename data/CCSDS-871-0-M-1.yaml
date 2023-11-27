@@ -58,7 +58,8 @@ relation:
     formattedref:
       content: ISO 20211
       format: text/plain
-doctype: practice
+doctype:
+  type: practice
 editorialgroup:
 - name: SOIS-APP
 ext:

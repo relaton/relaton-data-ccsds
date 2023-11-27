@@ -55,7 +55,8 @@ relation:
     formattedref:
       content: ISO 26143
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: CSS-CSTS
 ext:

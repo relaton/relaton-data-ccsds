@@ -46,4 +46,5 @@ relation:
     formattedref:
       content: CCSDS 320.0-B-4-S
       format: text/plain
-doctype: standard
+doctype:
+  type: standard

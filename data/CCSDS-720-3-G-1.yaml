@@ -33,7 +33,8 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: SIS-CIT
 ext:

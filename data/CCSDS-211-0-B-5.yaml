@@ -57,7 +57,8 @@ relation:
     formattedref:
       content: ISO 22663
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: SLS-SLP
 ext:

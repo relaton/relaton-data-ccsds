@@ -45,7 +45,8 @@ relation:
     formattedref:
       content: CCSDS 313.1-Y-1-S
       format: text/plain
-doctype: record
+doctype:
+  type: record
 editorialgroup:
 - name: SEA-SANA
 ext:

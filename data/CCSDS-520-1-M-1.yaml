@@ -45,7 +45,8 @@ relation:
     formattedref:
       content: ISO 18201
       format: text/plain
-doctype: practice
+doctype:
+  type: practice
 editorialgroup:
 - name: MOIMS-SM&C
 ext:

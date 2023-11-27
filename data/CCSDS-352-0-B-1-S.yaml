@@ -54,7 +54,8 @@ relation:
     formattedref:
       content: CCSDS 352.0-B-1
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: SEA-SEC
 ext:
