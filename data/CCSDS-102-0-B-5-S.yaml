@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: CCSDS102.0-B-5-S
 title:
 - content: Packet Telemetry

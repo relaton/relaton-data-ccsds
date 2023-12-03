@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: CCSDS131.3-B-1-S
 title:
 - content: CCSDS Space Link Protocols over ETSI DVB-S2 Standard

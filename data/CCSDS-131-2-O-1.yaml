@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: CCSDS131.2-O-1
 title:
 - content: Flexible Serially Concatenated Convolutional Turbo Codes with Near-Shannon

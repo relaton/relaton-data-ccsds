@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: CCSDS915.2-M-1-S
 title:
 - content: Space Link Extension—Application Program Interface for Return Channel Frames

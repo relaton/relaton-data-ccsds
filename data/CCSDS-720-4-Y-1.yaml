@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: CCSDS720.4-Y-1
 title:
 - content: CCSDS File Delivery Protocol (CFDP)—Notebook of Common Inter-Agency Tests

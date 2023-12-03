@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: CCSDS922.27-O-1
 title:
 - content: 'Cross Support Transfer Service-Return CFDP PDU Service '

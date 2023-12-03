@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: CCSDS873.0-M-1
 title:
 - content: Spacecraft Onboard Interface Services--File and Packet Store Services
