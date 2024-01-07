@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: CCSDS131.21-O-1
 title:
 - content: Serially Concatenated Convolutional Codes—Extension (SCCC-X)

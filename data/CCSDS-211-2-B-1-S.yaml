@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: CCSDS211.2-B-1-S
 title:
 - content: Proximity-1 Space Link Protocol—Coding and Synchronization Sublayer

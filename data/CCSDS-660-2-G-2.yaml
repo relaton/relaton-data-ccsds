@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: CCSDS660.2-G-2
 title:
 - content: XML Telemetric and Command Exchange (XTCE)
