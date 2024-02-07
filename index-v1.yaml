@@ -155,8 +155,6 @@
   :file: data/CCSDS-650-0-M-2-French-Translated.yaml
 - :id: CCSDS 647.4-O-1
   :file: data/CCSDS-647-4-O-1.yaml
-- :id: CCSDS 350.5-G-1
-  :file: data/CCSDS-350-5-G-1.yaml
 - :id: CCSDS 529.0-G-1
   :file: data/CCSDS-529-0-G-1.yaml
 - :id: CCSDS A13.1-Y-1
@@ -265,6 +263,8 @@
   :file: data/CCSDS-142-10-O-1.yaml
 - :id: CCSDS 354.0-M-1
   :file: data/CCSDS-354-0-M-1.yaml
+- :id: CCSDS 350.5-G-2
+  :file: data/CCSDS-350-5-G-2.yaml
 - :id: CCSDS 211.0-B-5
   :file: data/CCSDS-211-0-B-5.yaml
 - :id: CCSDS 211.0-B-5-S
@@ -833,6 +833,14 @@
   :file: data/CCSDS-503-0-B-1-Cor-1.yaml
 - :id: CCSDS 503.0-B-1-S Cor. 1
   :file: data/CCSDS-503-0-B-1-S-Cor-1.yaml
+- :id: CCSDS 504.0-B-1
+  :file: data/CCSDS-504-0-B-1.yaml
+- :id: CCSDS 504.0-B-1-S
+  :file: data/CCSDS-504-0-B-1-S.yaml
+- :id: CCSDS 504.0-B-1 Cor. 1
+  :file: data/CCSDS-504-0-B-1-Cor-1.yaml
+- :id: CCSDS 504.0-B-1-S Cor. 1
+  :file: data/CCSDS-504-0-B-1-S-Cor-1.yaml
 - :id: CCSDS 505.0-B-1
   :file: data/CCSDS-505-0-B-1.yaml
 - :id: CCSDS 505.0-B-1-S
@@ -1297,6 +1305,10 @@
   :file: data/CCSDS-401-0-B-28.yaml
 - :id: CCSDS 401.0-B-28-S
   :file: data/CCSDS-401-0-B-28-S.yaml
+- :id: CCSDS 350.5-G-1
+  :file: data/CCSDS-350-5-G-1.yaml
+- :id: CCSDS 350.5-G-1-S
+  :file: data/CCSDS-350-5-G-1-S.yaml
 - :id: CCSDS 508.0-B-1
   :file: data/CCSDS-508-0-B-1.yaml
 - :id: CCSDS 508.0-B-1-S
