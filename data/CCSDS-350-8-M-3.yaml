@@ -1,0 +1,40 @@
+---
+schema-version: v1.2.8
+id: CCSDS350.8-M-3
+title:
+- content: Information Security Glossary of Terms
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/350x8m3.pdf
+  type: pdf
+docid:
+- id: CCSDS 350.8-M-3
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2024-02
+edition:
+  content: '3'
+revdate: 2024-02
+abstract:
+- content: 'This document provides a central source of information-security terms
+    and definitions.  '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype:
+  type: practice
+editorialgroup:
+- name: SEA-SEC
+ext:
+  technology_area: Systems Engineering Area

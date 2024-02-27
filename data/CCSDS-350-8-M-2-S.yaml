@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.8
-id: CCSDS350.8-M-2
+id: CCSDS350.8-M-2-S
 title:
 - content: Information Security Glossary of Terms
   language:
@@ -12,7 +12,7 @@ link:
 - content: https://public.ccsds.org/Pubs/350x8m2s.pdf
   type: pdf
 docid:
-- id: CCSDS 350.8-M-2
+- id: CCSDS 350.8-M-2-S
   type: CCSDS
   primary: true
 date:
@@ -33,17 +33,17 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: published
 relation:
-- type: hasSuccessor
+- type: successorOf
   bibitem:
-    id: CCSDS350.8-M-2-S
+    id: CCSDS350.8-M-2
     docid:
-    - id: CCSDS 350.8-M-2-S
+    - id: CCSDS 350.8-M-2
       type: CCSDS
       primary: true
     formattedref:
-      content: CCSDS 350.8-M-2-S
+      content: CCSDS 350.8-M-2
       format: text/plain
 doctype:
   type: practice

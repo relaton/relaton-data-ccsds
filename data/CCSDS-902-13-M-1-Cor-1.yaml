@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.8
+id: CCSDS902.13-M-1Cor.1
+title:
+- content: Technical Corrigendum 1 to CCSDS 902.13-M-1, Issued February 2021
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/902x13m1c1_tc2405.pdf
+  type: pdf
+docid:
+- id: CCSDS 902.13-M-1 Cor. 1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2024-02
+edition:
+  content: '1'
+revdate: 2024-02
+abstract:
+- content: This Technical Corrigendum documents changes to CCSDS 902.13-M-1, Abstract
+    Event Definition (Magenta Book, Issue 1, February 2021).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: updates
+  bibitem:
+    id: CCSDS902.13-M-1
+    docid:
+    - id: CCSDS 902.13-M-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 902.13-M-1
+      format: text/plain
+doctype:
+  type: practice
+editorialgroup:
+- name: CSS-SM
+ext:
+  technology_area: Cross Support Services Area
