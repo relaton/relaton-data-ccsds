@@ -137,8 +137,6 @@
   :file: data/CCSDS-421-0-G-1.yaml
 - :id: CCSDS B20.0-Y-1
   :file: data/CCSDS-B20-0-Y-1.yaml
-- :id: CCSDS 140.1-G-1
-  :file: data/CCSDS-140-1-G-1.yaml
 - :id: CCSDS 880.0-G-3
   :file: data/CCSDS-880-0-G-3.yaml
 - :id: CCSDS 551.1-O-2 - Russian Translated
@@ -267,6 +265,12 @@
   :file: data/CCSDS-902-13-M-1-Cor-1.yaml
 - :id: CCSDS 350.8-M-3
   :file: data/CCSDS-350-8-M-3.yaml
+- :id: CCSDS 140.1-G-2
+  :file: data/CCSDS-140-1-G-2.yaml
+- :id: CCSDS 870.0-G-1
+  :file: data/CCSDS-870-0-G-1.yaml
+- :id: CCSDS 876.1-M-1
+  :file: data/CCSDS-876-1-M-1.yaml
 - :id: CCSDS 211.0-B-5
   :file: data/CCSDS-211-0-B-5.yaml
 - :id: CCSDS 211.0-B-5-S
@@ -863,6 +867,10 @@
   :file: data/CCSDS-521-0-B-1.yaml
 - :id: CCSDS 521.0-B-1-S
   :file: data/CCSDS-521-0-B-1-S.yaml
+- :id: CCSDS 521.0-B-2
+  :file: data/CCSDS-521-0-B-2.yaml
+- :id: CCSDS 521.0-B-2-S
+  :file: data/CCSDS-521-0-B-2-S.yaml
 - :id: CCSDS 551.1-O-1
   :file: data/CCSDS-551-1-O-1.yaml
 - :id: CCSDS 551.1-O-1-S
@@ -1279,6 +1287,10 @@
   :file: data/CCSDS-130-12-G-1.yaml
 - :id: CCSDS 130.12-G-1-S
   :file: data/CCSDS-130-12-G-1-S.yaml
+- :id: CCSDS 140.1-G-1
+  :file: data/CCSDS-140-1-G-1.yaml
+- :id: CCSDS 140.1-G-1-S
+  :file: data/CCSDS-140-1-G-1-S.yaml
 - :id: CCSDS 413.1-G-1
   :file: data/CCSDS-413-1-G-1.yaml
 - :id: CCSDS 413.1-G-1-S

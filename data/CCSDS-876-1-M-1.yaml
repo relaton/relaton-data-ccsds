@@ -1,0 +1,45 @@
+---
+schema-version: v1.2.8
+id: CCSDS876.1-M-1
+title:
+- content: Spacecraft Onboard Interface Services-Specification for Dictionary of Terms
+    for Electronic Data Sheets
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/876x1m1.pdf
+  type: pdf
+docid:
+- id: CCSDS 876.1-M-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2024-03
+edition:
+  content: '1'
+revdate: 2024-03
+abstract:
+- content: |-
+    This Recommended Practice defines the SOIS Specification for Dictionary of
+    Terms (DoT) for Electronic Data Sheet (EDS). The SOIS DoT provides the
+    vocabulary for electronically defining the interfaces offered by flight
+    components such as sensors, actuators, and software components over the SOIS
+    Services.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype:
+  type: practice
+editorialgroup:
+- name: SOIS-APP
+ext:
+  technology_area: Spacecraft Onboard Interface Services Area

@@ -1,0 +1,46 @@
+---
+schema-version: v1.2.8
+id: CCSDS140.1-G-2
+title:
+- content: Real-Time Weather and Atmospheric Characterization Data
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/140x1g2.pdf
+  type: pdf
+docid:
+- id: CCSDS 140.1-G-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2024-04
+edition:
+  content: '2'
+revdate: 2024-04
+abstract:
+- content: |-
+    This Informational Report identifies and describes the atmospheric
+    constituents that are most responsible for transmission losses in optical
+    communications links at wavelengths near 1550 and 1064 nm. Considerations
+    concerning the temporal measurement of the atmospheric parameters are
+    discussed, along with the possible ways the data can be used for long-term
+    ETS characterization and real-time operations, including handover prediction
+    support.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype:
+  type: report
+editorialgroup:
+- name: SLS-OPT
+ext:
+  technology_area: Space Link Services Area

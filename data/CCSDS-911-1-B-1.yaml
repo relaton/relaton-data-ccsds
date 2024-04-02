@@ -22,7 +22,8 @@ edition:
   content: '1'
 revdate: 2002-04
 abstract:
-- content: 'This document has been withdrawn by the CCSDS. '
+- content: This document issue was superseded by CCSDS 911.1-B-2, Space Link Extension-Return
+    All Frames Service Specification (Blue Book, Issue 2), released November 2024.
   language:
   - en
   script:
@@ -54,3 +55,7 @@ relation:
       format: text/plain
 doctype:
   type: standard
+editorialgroup:
+- name: CSS-CSTS
+ext:
+  technology_area: Cross Support Services Area

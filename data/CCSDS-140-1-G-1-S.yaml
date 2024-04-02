@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.8
-id: CCSDS140.1-G-1
+id: CCSDS140.1-G-1-S
 title:
 - content: Real-Time Weather and Atmospheric Characterization Data
   language:
@@ -12,7 +12,7 @@ link:
 - content: https://public.ccsds.org/Pubs/140x1g1s.pdf
   type: pdf
 docid:
-- id: CCSDS 140.1-G-1
+- id: CCSDS 140.1-G-1-S
   type: CCSDS
   primary: true
 date:
@@ -37,17 +37,17 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: published
 relation:
-- type: hasSuccessor
+- type: successorOf
   bibitem:
-    id: CCSDS140.1-G-1-S
+    id: CCSDS140.1-G-1
     docid:
-    - id: CCSDS 140.1-G-1-S
+    - id: CCSDS 140.1-G-1
       type: CCSDS
       primary: true
     formattedref:
-      content: CCSDS 140.1-G-1-S
+      content: CCSDS 140.1-G-1
       format: text/plain
 doctype:
   type: report

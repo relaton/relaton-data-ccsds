@@ -17,10 +17,10 @@ docid:
   primary: true
 date:
 - type: published
-  value: 2002-04
+  value: 2004-12
 edition:
-  content: '2'
-revdate: 2002-04
+  content: '1'
+revdate: 2004-12
 abstract:
 - content: 'This document has been withdrawn by the CCSDS. '
   language:
