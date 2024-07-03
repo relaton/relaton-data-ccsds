@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.9
+id: CCSDS901.31-Y-1
+title:
+- content: Functional Resource Registry at SANA
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/901x31y1.pdf
+  type: pdf
+docid:
+- id: CCSDS 901.31-Y-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2024-05
+edition:
+  content: '1'
+revdate: 2024-05
+abstract:
+- content: |-
+    This CCSDS Record describes how Functional Resources (FRs) are registered at
+    SANA and defines the interface for FRs between the CCSDS CSS Area and SANA.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype:
+  type: record
+editorialgroup:
+- name: CSS-CSTS
+ext:
+  technology_area: Cross Support Services Area

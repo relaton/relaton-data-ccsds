@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: CCSDS350.3-G-1-S
 title:
 - content: Authentication/Integrity Algorithm Issues Survey

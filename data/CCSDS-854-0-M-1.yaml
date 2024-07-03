@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: CCSDS854.0-M-1
 title:
 - content: Spacecraft Onboard Interface Services--Subnetwork Device Discovery Service

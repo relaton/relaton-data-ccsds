@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: CCSDS413.1-G-2
 title:
 - content: 'Simultaneous Transmission of GMSK Telemetry and PN Ranging '

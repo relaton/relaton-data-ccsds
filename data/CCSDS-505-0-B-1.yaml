@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: CCSDS505.0-B-1
 title:
 - content: XML Specification for Navigation Data Messages
