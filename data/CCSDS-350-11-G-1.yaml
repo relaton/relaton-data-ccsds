@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.9
+id: CCSDS350.11-G-1
+title:
+- content: Space Data Link Security Protocol-Extended Procedures-Summary of Concept
+    of Rationale
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/350x11g1.pdf
+  type: pdf
+docid:
+- id: CCSDS 350.11-G-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2024-07
+edition:
+  content: '1'
+revdate: 2024-07
+abstract:
+- content: This Green Book is associated to the SDLS Extended Procedures BB (355.1)
+    and provides justification, concept of operations and rationale for the SDLS EP.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+doctype:
+  type: report
+editorialgroup:
+- name: SLS-SEA-DLS
+ext:
+  technology_area: Space Link Services Area

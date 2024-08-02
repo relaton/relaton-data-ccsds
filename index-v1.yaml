@@ -57,8 +57,6 @@
   :file: data/CCSDS-652-1-M-2.yaml
 - :id: CCSDS 700.0-G-3
   :file: data/CCSDS-700-0-G-3.yaml
-- :id: CCSDS 706.1-G-2
-  :file: data/CCSDS-706-1-G-2.yaml
 - :id: CCSDS 720.3-G-1
   :file: data/CCSDS-720-3-G-1.yaml
 - :id: CCSDS 720.4-Y-1
@@ -275,6 +273,8 @@
   :file: data/CCSDS-901-3-M-1.yaml
 - :id: CCSDS 901.31-Y-1
   :file: data/CCSDS-901-31-Y-1.yaml
+- :id: CCSDS 350.11-G-1
+  :file: data/CCSDS-350-11-G-1.yaml
 - :id: CCSDS 211.0-B-5
   :file: data/CCSDS-211-0-B-5.yaml
 - :id: CCSDS 211.0-B-5-S
@@ -959,6 +959,10 @@
   :file: data/CCSDS-706-1-G-1.yaml
 - :id: CCSDS 706.1-G-1-S
   :file: data/CCSDS-706-1-G-1-S.yaml
+- :id: CCSDS 706.1-G-2
+  :file: data/CCSDS-706-1-G-2.yaml
+- :id: CCSDS 706.1-G-2-S
+  :file: data/CCSDS-706-1-G-2-S.yaml
 - :id: CCSDS 706.2-G-1
   :file: data/CCSDS-706-2-G-1.yaml
 - :id: CCSDS 706.2-G-1-S

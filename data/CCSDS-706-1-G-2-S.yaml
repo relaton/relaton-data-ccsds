@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.9
-id: CCSDS706.1-G-2
+id: CCSDS706.1-G-2-S
 title:
 - content: Motion Imagery and Applications
   language:
@@ -12,7 +12,7 @@ link:
 - content: https://public.ccsds.org/Pubs/706x1g2s.pdf
   type: pdf
 docid:
-- id: CCSDS 706.1-G-2
+- id: CCSDS 706.1-G-2-S
   type: CCSDS
   primary: true
 date:
@@ -33,17 +33,17 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: published
 relation:
-- type: hasSuccessor
+- type: successorOf
   bibitem:
-    id: CCSDS706.1-G-2-S
+    id: CCSDS706.1-G-2
     docid:
-    - id: CCSDS 706.1-G-2-S
+    - id: CCSDS 706.1-G-2
       type: CCSDS
       primary: true
     formattedref:
-      content: CCSDS 706.1-G-2-S
+      content: CCSDS 706.1-G-2
       format: text/plain
 doctype:
   type: report
