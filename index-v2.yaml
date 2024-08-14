@@ -1,0 +1,5965 @@
+---
+- :id:
+    :publisher: CCSDS
+    :number: '230'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-230-2-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-130-2-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: O
+    :part: 5
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-131-5-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '200'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '6'
+  :file: data/CCSDS-200-0-G-6.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '210'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-210-0-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '641'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-641-0-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '311'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-311-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '312'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-312-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 6
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-350-6-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '351'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-351-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '414'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-414-0-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '415'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-415-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '502'
+    :book_color: Y
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-502-1-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '520'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-520-0-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '520'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-520-1-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '523'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-523-1-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '610'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '5'
+  :file: data/CCSDS-610-0-G-5.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '621'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-621-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '631'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-631-0-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '901'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-901-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '901'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-901-1-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '902'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-902-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '645'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-645-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '646'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-646-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '650'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-650-0-M-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '651'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-651-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '652'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-652-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '652'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-652-1-M-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '700'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-700-0-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '720'
+    :book_color: G
+    :part: 3
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-720-3-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '720'
+    :book_color: Y
+    :part: 4
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-720-4-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '720'
+    :book_color: Y
+    :part: 5
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-720-5-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '720'
+    :book_color: Y
+    :part: 6
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-720-6-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '722'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-722-1-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '730'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-730-1-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '734'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-734-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '735'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-735-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '850'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-850-0-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '851'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-851-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '852'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-852-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '853'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-853-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '854'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-854-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '855'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-855-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '881'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-881-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '882'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-882-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '20'
+      :book_color: Y
+      :part: 0
+      :series: A
+      :retired: false
+      :edition: '4'
+    :type: corrigendum
+  :file: data/CCSDS-A20-0-Y-4-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '20'
+    :book_color: Y
+    :part: 1
+    :series: A
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-A20-1-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '20'
+    :book_color: Y
+    :part: 0
+    :series: B
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-B20-0-Y-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-910-2-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: G
+    :part: 3
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-910-3-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: O
+    :part: 11
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-912-11-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '914'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-914-0-M-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '914'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-914-1-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '914'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-914-2-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '915'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-915-1-M-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '915'
+    :book_color: M
+    :part: 2
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-915-2-M-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '915'
+    :book_color: M
+    :part: 5
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-915-5-M-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '916'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-916-1-M-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '916'
+    :book_color: M
+    :part: 3
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-916-3-M-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '02'
+    :book_color: Y
+    :part: 1
+    :series: A
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-A02-1-Y-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '02'
+      :book_color: Y
+      :part: 1
+      :series: A
+      :retired: false
+      :edition: '4'
+    :type: corrigendum
+  :file: data/CCSDS-A02-1-Y-4-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '2'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '02'
+      :book_color: Y
+      :part: 1
+      :series: A
+      :retired: false
+      :edition: '4'
+    :type: corrigendum
+  :file: data/CCSDS-A02-1-Y-4-Cor-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '20'
+    :book_color: Y
+    :part: 0
+    :series: A
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-A20-0-Y-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '914'
+      :book_color: M
+      :part: 0
+      :retired: false
+      :edition: '2'
+    :type: corrigendum
+  :file: data/CCSDS-914-0-M-2-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '651'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-651-2-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '540'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-540-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '421'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-421-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '20'
+    :book_color: Y
+    :part: 0
+    :series: B
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-B20-0-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '880'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-880-0-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '551'
+    :language: Russian
+    :book_color: O
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-551-1-O-2-Russian-Translated.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '320'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '7'
+  :file: data/CCSDS-320-0-M-7.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '413'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-413-0-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '506'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-506-0-M-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '506'
+    :book_color: M
+    :part: 3
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-506-3-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '650'
+    :language: French
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-650-0-M-2-French-Translated.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '647'
+    :book_color: O
+    :part: 4
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-647-4-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '529'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-529-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '13'
+    :book_color: Y
+    :part: 1
+    :series: A
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-A13-1-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '730'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-730-2-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '141'
+    :book_color: O
+    :part: 11
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-141-11-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '523'
+    :book_color: M
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-523-2-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '706'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-706-2-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-350-0-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 3
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-120-3-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '921'
+    :book_color: M
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-921-2-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 4
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-350-4-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 7
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-350-7-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '320'
+      :book_color: M
+      :part: 0
+      :retired: false
+      :edition: '7'
+    :type: corrigendum
+  :file: data/CCSDS-320-0-M-7-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-500-0-G-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-500-1-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-130-1-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '700'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-700-1-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '551'
+    :book_color: O
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-551-1-O-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '921'
+      :book_color: M
+      :part: 2
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-921-2-M-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '313'
+    :book_color: Y
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-313-0-Y-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '313'
+    :book_color: Y
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-313-1-Y-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '313'
+    :book_color: Y
+    :part: 2
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-313-2-Y-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '315'
+    :book_color: Y
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-315-1-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '371'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-371-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '660'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-660-2-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '902'
+    :book_color: M
+    :part: 12
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-902-12-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '902'
+    :book_color: M
+    :part: 13
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-902-13-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: O
+    :part: 21
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-131-21-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '720'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-720-1-G-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '720'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-720-2-G-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '660'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-660-1-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: O
+    :part: 31
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-131-31-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '230'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-230-1-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '811'
+    :book_color: O
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-811-1-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '413'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-413-1-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-120-1-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-120-0-G-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '870'
+    :book_color: Y
+    :part: 10
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-870-10-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '141'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-141-1-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-350-1-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '131'
+      :book_color: O
+      :part: 21
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-131-21-O-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '131'
+      :book_color: O
+      :part: 31
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-131-31-O-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '141'
+    :book_color: O
+    :part: 10
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-141-10-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-120-2-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-500-2-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-130-0-G-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 3
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-130-3-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '920'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-920-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '922'
+    :book_color: O
+    :part: 27
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-922-27-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 11
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-130-11-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 12
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-130-12-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 9
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-350-9-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '142'
+    :book_color: O
+    :part: 10
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-142-10-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '354'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-354-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 5
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-350-5-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '902'
+      :book_color: M
+      :part: 13
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-902-13-M-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: M
+    :part: 8
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-350-8-M-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '140'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-140-1-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '870'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-870-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '876'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-876-1-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '901'
+    :book_color: M
+    :part: 3
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-901-3-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '901'
+    :book_color: Y
+    :part: 31
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-901-31-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 11
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-350-11-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '5'
+  :file: data/CCSDS-211-0-B-5.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '5'
+  :file: data/CCSDS-211-0-B-5-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-211-1-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-211-1-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-211-1-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-211-1-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-211-1-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-211-1-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-211-2-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-211-2-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 2
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-211-2-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 2
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-211-2-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '230'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-230-1-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '230'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-230-1-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '230'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-230-1-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '230'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-230-1-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '231'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-231-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '231'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-231-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '231'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-231-0-B-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '231'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-231-0-B-1-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '231'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-231-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '231'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-231-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '231'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '2'
+    :type: corrigendum
+  :file: data/CCSDS-231-0-B-2-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '231'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '2'
+    :type: corrigendum
+  :file: data/CCSDS-231-0-B-2-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '231'
+    :book_color: O
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-231-1-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '231'
+    :book_color: O
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-231-1-O-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '232'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-232-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '232'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-232-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '232'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-232-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '232'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-232-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '232'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '2'
+    :type: corrigendum
+  :file: data/CCSDS-232-0-B-2-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '232'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '2'
+    :type: corrigendum
+  :file: data/CCSDS-232-0-B-2-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '232'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-232-0-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '232'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-232-0-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '232'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-232-1-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '232'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-232-1-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '100'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-100-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '100'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-100-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '101'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-101-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '101'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-101-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '101'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-101-0-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '101'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-101-0-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '101'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-101-0-B-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '101'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '4'
+  :file: data/CCSDS-101-0-B-4-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '101'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '5'
+  :file: data/CCSDS-101-0-B-5.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '101'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '5'
+  :file: data/CCSDS-101-0-B-5-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '101'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '6'
+  :file: data/CCSDS-101-0-B-6.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '101'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '6'
+  :file: data/CCSDS-101-0-B-6-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '102'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-102-1-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '102'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-102-1-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '102'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-102-0-B-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '102'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '4'
+  :file: data/CCSDS-102-0-B-4-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '102'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '5'
+  :file: data/CCSDS-102-0-B-5.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '102'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '5'
+  :file: data/CCSDS-102-0-B-5-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '103'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-103-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '103'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-103-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '103'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-103-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '103'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-103-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-120-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-120-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-120-0-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-120-0-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-120-0-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-120-0-G-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-120-1-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-120-1-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-120-1-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-120-1-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-120-2-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '120'
+    :book_color: G
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-120-2-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '121'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-121-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '121'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-121-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '121'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-121-0-B-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '121'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-121-0-B-1-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '2'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '121'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-121-0-B-1-Cor-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '2'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '121'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-121-0-B-1-S-Cor-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '121'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-121-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '121'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-121-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '122'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-122-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '122'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-122-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '122'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-122-0-B-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '122'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-122-0-B-1-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '2'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '122'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-122-0-B-1-Cor-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '2'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '122'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-122-0-B-1-S-Cor-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '3'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '122'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-122-0-B-1-Cor-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '3'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '122'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-122-0-B-1-S-Cor-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '123'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-123-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '123'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-123-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-130-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-130-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-130-0-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-130-0-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-130-0-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-130-0-G-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-130-1-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-130-1-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-130-1-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-130-1-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-130-2-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-130-2-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-130-2-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 2
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-130-2-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-131-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-131-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-131-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-131-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: O
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-131-1-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: O
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-131-1-O-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: O
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-131-1-O-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: O
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-131-1-O-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: B
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-131-2-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: B
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-131-2-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: O
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-131-2-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: O
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-131-2-O-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '131'
+      :book_color: O
+      :part: 2
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-131-2-O-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '131'
+      :book_color: O
+      :part: 2
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-131-2-O-1-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: B
+    :part: 3
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-131-3-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: B
+    :part: 3
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-131-3-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: M
+    :part: 4
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-131-4-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: M
+    :part: 4
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-131-4-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '132'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-132-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '132'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-132-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '132'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-132-0-B-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '132'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-132-0-B-1-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '132'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-132-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '132'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-132-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '133'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-133-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '133'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-133-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '133'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-133-0-B-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '133'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-133-0-B-1-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '2'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '133'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-133-0-B-1-Cor-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '2'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '133'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-133-0-B-1-S-Cor-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '133'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-133-1-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '133'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-133-1-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '133'
+      :book_color: B
+      :part: 1
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-133-1-B-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '133'
+      :book_color: B
+      :part: 1
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-133-1-B-1-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '133'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-133-1-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '133'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-133-1-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '135'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-135-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '135'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-135-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '135'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-135-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '135'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-135-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '135'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-135-0-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '135'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-135-0-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '135'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '3'
+    :type: corrigendum
+  :file: data/CCSDS-135-0-B-3-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '135'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '3'
+    :type: corrigendum
+  :file: data/CCSDS-135-0-B-3-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '135'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-135-0-B-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '135'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '4'
+  :file: data/CCSDS-135-0-B-4-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '201'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-201-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '201'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-201-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '201'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-201-0-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '201'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-201-0-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '202'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-202-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '202'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-202-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '202'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-202-0-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '202'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-202-0-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '202'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-202-1-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '202'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-202-1-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '202'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-202-1-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '202'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-202-1-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '203'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-203-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '203'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-203-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '203'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-203-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '203'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-203-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '210'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-210-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '210'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-210-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-211-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-211-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-211-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-211-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-211-0-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-211-0-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-211-0-B-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '211'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '4'
+  :file: data/CCSDS-211-0-B-4-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '642'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-642-1-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '642'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-642-1-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '301'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-301-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '301'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-301-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '301'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-301-0-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '301'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-301-0-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '320'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-320-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '320'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-320-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '320'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-320-0-B-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '320'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-320-0-B-1-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '320'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-320-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '320'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-320-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '320'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-320-0-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '320'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-320-0-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '320'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-320-0-B-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '320'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '4'
+  :file: data/CCSDS-320-0-B-4-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '320'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '5'
+  :file: data/CCSDS-320-0-B-5.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '320'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '5'
+  :file: data/CCSDS-320-0-B-5-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '320'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '6'
+  :file: data/CCSDS-320-0-B-6.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '320'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '6'
+  :file: data/CCSDS-320-0-B-6-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '320'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '6'
+    :type: corrigendum
+  :file: data/CCSDS-320-0-B-6-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '320'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '6'
+    :type: corrigendum
+  :file: data/CCSDS-320-0-B-6-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-350-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-350-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-350-0-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-350-0-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-350-1-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-350-1-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-350-1-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-350-1-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-350-2-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-350-2-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 3
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-350-3-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 3
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-350-3-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 4
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-350-4-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 4
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-350-4-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 7
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-350-7-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 7
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-350-7-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 8
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-350-8-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 8
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-350-8-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 9
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-350-9-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 9
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-350-9-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '352'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-352-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '352'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-352-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '355'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-355-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '355'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-355-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+  :file: data/CCSDS-401-0-B.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+  :file: data/CCSDS-401-0-B-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '14'
+  :file: data/CCSDS-401-0-B-14.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '14'
+  :file: data/CCSDS-401-0-B-14-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '15'
+  :file: data/CCSDS-401-0-B-15.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '15'
+  :file: data/CCSDS-401-0-B-15-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '16'
+  :file: data/CCSDS-401-0-B-16.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '16'
+  :file: data/CCSDS-401-0-B-16-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '17'
+  :file: data/CCSDS-401-0-B-17.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '17'
+  :file: data/CCSDS-401-0-B-17-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '18'
+  :file: data/CCSDS-401-0-B-18.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '18'
+  :file: data/CCSDS-401-0-B-18-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '19'
+  :file: data/CCSDS-401-0-B-19.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '19'
+  :file: data/CCSDS-401-0-B-19-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '20'
+  :file: data/CCSDS-401-0-B-20.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '20'
+  :file: data/CCSDS-401-0-B-20-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '401'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '21'
+    :type: corrigendum
+  :file: data/CCSDS-401-0-B-21-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '401'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '21'
+    :type: corrigendum
+  :file: data/CCSDS-401-0-B-21-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '21'
+  :file: data/CCSDS-401-0-B-21.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '21'
+  :file: data/CCSDS-401-0-B-21-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '22'
+  :file: data/CCSDS-401-0-B-22.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '22'
+  :file: data/CCSDS-401-0-B-22-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '23'
+  :file: data/CCSDS-401-0-B-23.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '23'
+  :file: data/CCSDS-401-0-B-23-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '24'
+  :file: data/CCSDS-401-0-B-24.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '24'
+  :file: data/CCSDS-401-0-B-24-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '25'
+  :file: data/CCSDS-401-0-B-25.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '25'
+  :file: data/CCSDS-401-0-B-25-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '411'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-411-0-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '411'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-411-0-G-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '412'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-412-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '412'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-412-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '413'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-413-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '413'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-413-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '413'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-413-0-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '413'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-413-0-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '414'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-414-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '414'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-414-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '414'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-414-1-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '414'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-414-1-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '414'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-414-1-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '414'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-414-1-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-500-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-500-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-500-0-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-500-0-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-500-0-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-500-0-G-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-500-1-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-500-1-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-500-2-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-500-2-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '501'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-501-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '501'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-501-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '502'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-502-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '502'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-502-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '502'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-502-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '502'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-502-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '502'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '2'
+    :type: corrigendum
+  :file: data/CCSDS-502-0-B-2-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '502'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '2'
+    :type: corrigendum
+  :file: data/CCSDS-502-0-B-2-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '503'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-503-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '503'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-503-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '503'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-503-0-B-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '503'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-503-0-B-1-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '504'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-504-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '504'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-504-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '504'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-504-0-B-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '504'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-504-0-B-1-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '505'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-505-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '505'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-505-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '506'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-506-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '506'
+    :book_color: M
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-506-0-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '520'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-520-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '520'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-520-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '520'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-520-0-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '520'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-520-0-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '521'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-521-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '521'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-521-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '521'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-521-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '521'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-521-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '551'
+    :book_color: O
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-551-1-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '551'
+    :book_color: O
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-551-1-O-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '611'
+    :book_color: Y
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-611-0-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '611'
+    :book_color: Y
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-611-0-Y-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '641'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-641-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '641'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-641-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-910-0-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-910-0-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '644'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-644-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '644'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-644-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '644'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-644-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '644'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-644-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '650'
+    :language: French
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-650-0-B-1-French-Translated.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '650'
+    :language: French
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-650-0-B-1-S-French-Translated.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '650'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-650-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '650'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-650-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '652'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-652-1-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '652'
+    :book_color: M
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-652-1-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '660'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-660-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '660'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-660-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '660'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-660-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '660'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-660-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '660'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-660-1-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '660'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-660-1-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '701'
+    :book_color: R
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-701-00-R-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '701'
+    :book_color: R
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-701-00-R-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '701'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-701-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '701'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-701-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '701'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-701-0-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '701'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-701-0-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '704'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-704-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '704'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-704-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '705'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-705-1-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '705'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-705-1-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '705'
+    :book_color: B
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-705-2-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '705'
+    :book_color: B
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-705-2-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '705'
+    :book_color: B
+    :part: 3
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-705-3-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '705'
+    :book_color: B
+    :part: 3
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-705-3-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '705'
+    :book_color: B
+    :part: 4
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-705-4-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '705'
+    :book_color: B
+    :part: 4
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-705-4-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '706'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-706-1-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '706'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-706-1-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '706'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-706-1-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '706'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-706-1-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '706'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-706-2-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '706'
+    :book_color: G
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-706-2-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '713'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-713-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '713'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-713-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '713'
+    :book_color: B
+    :part: 5
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-713-5-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '713'
+    :book_color: B
+    :part: 5
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-713-5-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '713'
+      :book_color: B
+      :part: 5
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-713-5-B-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '713'
+      :book_color: B
+      :part: 5
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-713-5-B-1-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '714'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-714-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '714'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-714-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '714'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-714-0-B-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '714'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-714-0-B-1-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '717'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-717-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '717'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-717-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '720'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-720-1-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '720'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-720-1-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '720'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-720-1-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '720'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-720-1-G-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '720'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-720-2-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '720'
+    :book_color: G
+    :part: 2
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-720-2-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '720'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-720-2-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '720'
+    :book_color: G
+    :part: 2
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-720-2-G-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '727'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-727-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '727'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-727-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '727'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-727-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '727'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-727-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '727'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-727-0-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '727'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-727-0-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '727'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-727-0-B-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '727'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '4'
+  :file: data/CCSDS-727-0-B-4-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '730'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-730-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '730'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-730-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '732'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-732-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '732'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-732-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '732'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-732-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '732'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-732-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '732'
+      :book_color: B
+      :part: 0
+      :retired: false
+      :edition: '2'
+    :type: corrigendum
+  :file: data/CCSDS-732-0-B-2-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '732'
+      :book_color: B
+      :part: 0
+      :retired: true
+      :edition: '2'
+    :type: corrigendum
+  :file: data/CCSDS-732-0-B-2-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '732'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-732-0-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '732'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-732-0-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '732'
+    :book_color: O
+    :part: 5
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-732-5-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '732'
+    :book_color: O
+    :part: 5
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-732-5-O-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '733'
+    :book_color: O
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-733-0-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '733'
+    :book_color: O
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-733-0-O-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '733'
+    :book_color: O
+    :part: 5
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-733-5-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '733'
+    :book_color: O
+    :part: 5
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-733-5-O-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '740'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-740-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '740'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-740-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '766'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-766-1-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '766'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-766-1-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '850'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-850-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '850'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-850-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '871'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-871-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '871'
+    :book_color: M
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-871-0-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '871'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-871-1-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '871'
+    :book_color: M
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-871-1-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '871'
+    :book_color: M
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-871-2-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '871'
+    :book_color: M
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-871-2-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '871'
+    :book_color: M
+    :part: 3
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-871-3-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '871'
+    :book_color: M
+    :part: 3
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-871-3-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '872'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-872-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '872'
+    :book_color: M
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-872-0-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '873'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-873-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '873'
+    :book_color: M
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-873-0-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '875'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-875-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '875'
+    :book_color: M
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-875-0-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '880'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-880-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '880'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-880-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '880'
+    :book_color: G
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-880-0-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '880'
+    :book_color: G
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-880-0-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '20'
+    :book_color: Y
+    :part: 0
+    :series: A
+    :retired: false
+    :edition: '2.1'
+  :file: data/CCSDS-A20-0-Y-2-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '20'
+    :book_color: Y
+    :part: 0
+    :series: A
+    :retired: true
+    :edition: '2.1'
+  :file: data/CCSDS-A20-0-Y-2-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '30'
+    :book_color: G
+    :part: 0
+    :series: A
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-A30-0-G-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '30'
+    :book_color: G
+    :part: 0
+    :series: A
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-A30-0-G-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '31'
+    :book_color: G
+    :part: 0
+    :series: A
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-A31-0-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '31'
+    :book_color: G
+    :part: 0
+    :series: A
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-A31-0-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: Y
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-910-0-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: Y
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-910-0-Y-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: G
+    :part: 3
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-910-3-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: G
+    :part: 3
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-910-3-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: B
+    :part: 4
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-910-4-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: B
+    :part: 4
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-910-4-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: B
+    :part: 4
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-910-4-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: B
+    :part: 4
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-910-4-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: B
+    :part: 11
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-910-11-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: B
+    :part: 11
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-910-11-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: G
+    :part: 14
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-910-14-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '910'
+    :book_color: G
+    :part: 14
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-910-14-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-911-1-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-911-1-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-911-1-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-911-1-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-911-1-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-911-1-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-911-2-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-911-2-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 2
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-911-2-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 2
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-911-2-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 5
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-911-5-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 5
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-911-5-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 5
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-911-5-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 5
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-911-5-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-912-1-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-912-1-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-912-1-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-912-1-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '912'
+      :book_color: B
+      :part: 1
+      :retired: false
+      :edition: '2'
+    :type: corrigendum
+  :file: data/CCSDS-912-1-B-2-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '912'
+      :book_color: B
+      :part: 1
+      :retired: true
+      :edition: '2'
+    :type: corrigendum
+  :file: data/CCSDS-912-1-B-2-S-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-912-1-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-912-1-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: B
+    :part: 3
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-912-3-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: B
+    :part: 3
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-912-3-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: B
+    :part: 3
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-912-3-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: B
+    :part: 3
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-912-3-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '913'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-913-1-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '913'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-913-1-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '914'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-914-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '914'
+    :book_color: M
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-914-0-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '914'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-914-2-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '914'
+    :book_color: G
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-914-2-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '915'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-915-1-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '915'
+    :book_color: M
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-915-1-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '915'
+    :book_color: M
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-915-2-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '915'
+    :book_color: M
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-915-2-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '915'
+    :book_color: M
+    :part: 5
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-915-5-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '915'
+    :book_color: M
+    :part: 5
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-915-5-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '916'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-916-1-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '916'
+    :book_color: M
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-916-1-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '916'
+    :book_color: M
+    :part: 3
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-916-3-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '916'
+    :book_color: M
+    :part: 3
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-916-3-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '00'
+    :book_color: Y
+    :part: 0
+    :series: A
+    :retired: false
+    :edition: '9'
+  :file: data/CCSDS-A00-0-Y-9.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '00'
+    :book_color: Y
+    :part: 0
+    :series: A
+    :retired: true
+    :edition: '9'
+  :file: data/CCSDS-A00-0-Y-9-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '01'
+    :book_color: Y
+    :part: 2
+    :series: A
+    :retired: false
+    :edition: '4.1'
+  :file: data/CCSDS-A01-2-Y-4-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '01'
+    :book_color: Y
+    :part: 2
+    :series: A
+    :retired: true
+    :edition: '4.1'
+  :file: data/CCSDS-A01-2-Y-4-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '02'
+    :book_color: Y
+    :part: 1
+    :series: A
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-A02-1-Y-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '02'
+    :book_color: Y
+    :part: 1
+    :series: A
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-A02-1-Y-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '02'
+    :book_color: Y
+    :part: 1
+    :series: A
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-A02-1-Y-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '02'
+    :book_color: Y
+    :part: 1
+    :series: A
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-A02-1-Y-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '20'
+    :book_color: Y
+    :part: 0
+    :series: A
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-A20-0-Y-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '20'
+    :book_color: Y
+    :part: 0
+    :series: A
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-A20-0-Y-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '20'
+    :book_color: Y
+    :part: 0
+    :series: A
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-A20-0-Y-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '20'
+    :book_color: Y
+    :part: 0
+    :series: A
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-A20-0-Y-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '313'
+    :book_color: Y
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-313-2-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '313'
+    :book_color: Y
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-313-2-Y-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '313'
+    :book_color: Y
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-313-0-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '313'
+    :book_color: Y
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-313-0-Y-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '313'
+    :book_color: Y
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-313-0-Y-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '313'
+    :book_color: Y
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-313-0-Y-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '313'
+    :book_color: Y
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-313-1-Y-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '313'
+    :book_color: Y
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-313-1-Y-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '766'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-766-1-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '766'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-766-1-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-911-1-B-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '4'
+  :file: data/CCSDS-911-1-B-4-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 5
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-911-5-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 5
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-911-5-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 2
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-911-2-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: B
+    :part: 2
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-911-2-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-912-1-B-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '4'
+  :file: data/CCSDS-912-1-B-4-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: B
+    :part: 3
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-912-3-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '912'
+    :book_color: B
+    :part: 3
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-912-3-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '26'
+  :file: data/CCSDS-401-0-B-26.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '26'
+  :file: data/CCSDS-401-0-B-26-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 12
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-130-12-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 12
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-130-12-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '140'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-140-1-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '140'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-140-1-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '413'
+    :book_color: G
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-413-1-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '413'
+    :book_color: G
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-413-1-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '921'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-921-1-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '921'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-921-1-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '922'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-922-1-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '922'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-922-1-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-131-0-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-131-0-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '231'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-231-0-B-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '231'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '3'
+  :file: data/CCSDS-231-0-B-3-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '27'
+  :file: data/CCSDS-401-0-B-27.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '27'
+  :file: data/CCSDS-401-0-B-27-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '28'
+  :file: data/CCSDS-401-0-B-28.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '28'
+  :file: data/CCSDS-401-0-B-28-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 5
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-350-5-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: G
+    :part: 5
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-350-5-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '508'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-508-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '508'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-508-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '732'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-732-1-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '732'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-732-1-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '29'
+  :file: data/CCSDS-401-0-B-29.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '29'
+  :file: data/CCSDS-401-0-B-29-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 11
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-130-11-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '130'
+    :book_color: G
+    :part: 11
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-130-11-G-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: M
+    :part: 8
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-350-8-M-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '350'
+    :book_color: M
+    :part: 8
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-350-8-M-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '30'
+  :file: data/CCSDS-401-0-B-30.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '30'
+  :file: data/CCSDS-401-0-B-30-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 2
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-500-2-G-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '500'
+    :book_color: G
+    :part: 2
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-500-2-G-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '922'
+    :book_color: B
+    :part: 2
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-922-2-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '922'
+    :book_color: B
+    :part: 2
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-922-2-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '31'
+  :file: data/CCSDS-401-0-B-31.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '401'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '31'
+  :file: data/CCSDS-401-0-B-31-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '505'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-505-0-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '505'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-505-0-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '732'
+    :book_color: B
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-732-1-B-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '732'
+    :book_color: B
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-732-1-B-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '883'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-883-0-B-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '883'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-883-0-B-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: B
+    :part: 0
+    :retired: false
+    :edition: '4'
+  :file: data/CCSDS-131-0-B-4.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '131'
+    :book_color: B
+    :part: 0
+    :retired: true
+    :edition: '4'
+  :file: data/CCSDS-131-0-B-4-S.yaml
