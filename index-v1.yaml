@@ -1383,3 +1383,7 @@
   :file: data/CCSDS-131-0-B-4.yaml
 - :id: CCSDS 131.0-B-4-S
   :file: data/CCSDS-131-0-B-4-S.yaml
+- :id: CCSDS 911.1-R-1.7
+  :file: data/CCSDS-911-1-R-1-7.yaml
+- :id: CCSDS 911.2-R-1.7
+  :file: data/CCSDS-911-2-R-1-7.yaml

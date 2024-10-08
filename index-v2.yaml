@@ -5963,3 +5963,19 @@
     :retired: true
     :edition: '4'
   :file: data/CCSDS-131-0-B-4-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: R
+    :part: 1
+    :retired: false
+    :edition: '1.7'
+  :file: data/CCSDS-911-1-R-1-7.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '911'
+    :book_color: R
+    :part: 2
+    :retired: false
+    :edition: '1.7'
+  :file: data/CCSDS-911-2-R-1-7.yaml
