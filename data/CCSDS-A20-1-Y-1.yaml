@@ -33,6 +33,6 @@ docstatus:
   stage:
     value: published
 doctype:
-  type: 
+  type:
 editorialgroup:
 - name: CCSDS Secretariat

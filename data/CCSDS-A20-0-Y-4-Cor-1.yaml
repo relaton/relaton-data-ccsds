@@ -44,6 +44,6 @@ relation:
       content: CCSDS A20.0-Y-4
       format: text/plain
 doctype:
-  type: 
+  type:
 editorialgroup:
 - name: CCSDS Secretariat
