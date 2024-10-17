@@ -22,7 +22,7 @@ edition:
   content: '6'
 revdate: 2013-12
 abstract:
-- content:
+- content: 
   language:
   - en
   script:

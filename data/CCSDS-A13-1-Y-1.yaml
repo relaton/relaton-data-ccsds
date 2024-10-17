@@ -35,7 +35,7 @@ docstatus:
   stage:
     value: published
 doctype:
-  type:
+  type: 
 editorialgroup:
 - name: SEA-SEC
 ext:
