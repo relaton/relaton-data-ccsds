@@ -45,9 +45,9 @@ relation:
     formattedref:
       content: CCSDS 350.5-G-1-S
       format: text/plain
-doctype:
-  type: report
-editorialgroup:
-- name: SLS-SEA-SDLS
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SLS-SEA-SDLS
   technology_area: Space Link Services Area

@@ -45,9 +45,9 @@ relation:
     formattedref:
       content: CCSDS 350.1-G-2-S
       format: text/plain
-doctype:
-  type: report
-editorialgroup:
-- name: SEA-SEC
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SEA-SEC
   technology_area: Systems Engineering Area

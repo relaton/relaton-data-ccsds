@@ -45,9 +45,9 @@ relation:
     formattedref:
       content: CCSDS 902.13-M-1 Cor. 1
       format: text/plain
-doctype:
-  type: practice
-editorialgroup:
-- name: CSS-SM
 ext:
+  doctype:
+    type: practice
+  editorialgroup:
+  - name: CSS-SM
   technology_area: Cross Support Services Area

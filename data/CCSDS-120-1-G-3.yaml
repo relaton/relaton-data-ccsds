@@ -36,9 +36,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: report
-editorialgroup:
-- name: SLS-DC
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SLS-DC
   technology_area: Space Link Services Area

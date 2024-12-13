@@ -49,9 +49,9 @@ relation:
     formattedref:
       content: CCSDS 140.1-G-1
       format: text/plain
-doctype:
-  type: report
-editorialgroup:
-- name: SLS-OPT
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SLS-OPT
   technology_area: Space Link Services Area

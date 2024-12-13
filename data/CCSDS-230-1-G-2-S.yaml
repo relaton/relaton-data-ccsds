@@ -45,9 +45,9 @@ relation:
     formattedref:
       content: CCSDS 230.1-G-2
       format: text/plain
-doctype:
-  type: report
-editorialgroup:
-- name: SLS-TCC
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SLS-TCC
   technology_area: Space Link Services Area

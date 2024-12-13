@@ -47,9 +47,9 @@ relation:
     formattedref:
       content: CCSDS 313.0-Y-2-S
       format: text/plain
-doctype:
-  type: record
-editorialgroup:
-- name: SEA-SANA
 ext:
+  doctype:
+    type: record
+  editorialgroup:
+  - name: SEA-SANA
   technology_area: Systems Engineering Area

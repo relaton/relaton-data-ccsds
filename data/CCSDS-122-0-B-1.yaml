@@ -87,5 +87,6 @@ relation:
     formattedref:
       content: CCSDS 122.0-B-1 Cor. 3
       format: text/plain
-doctype:
-  type: standard
+ext:
+  doctype:
+    type: standard

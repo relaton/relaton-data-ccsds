@@ -47,9 +47,9 @@ relation:
     formattedref:
       content: ISO 20105
       format: text/plain
-doctype:
-  type: practice
-editorialgroup:
-- name: SIS-CFDPV1
 ext:
+  doctype:
+    type: practice
+  editorialgroup:
+  - name: SIS-CFDPV1
   technology_area: Space Internetworking Services Area

@@ -34,9 +34,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: report
-editorialgroup:
-- name: CSS-SM
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: CSS-SM
   technology_area: Cross Support Services Area

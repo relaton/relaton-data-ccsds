@@ -49,5 +49,6 @@ relation:
     formattedref:
       content: CCSDS 850.0-G-1-S
       format: text/plain
-doctype:
-  type: report
+ext:
+  doctype:
+    type: report

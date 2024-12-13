@@ -35,9 +35,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: report
-editorialgroup:
-- name: SEA-SEC
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SEA-SEC
   technology_area: Systems Engineering Area

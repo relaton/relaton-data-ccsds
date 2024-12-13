@@ -33,9 +33,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: report
-editorialgroup:
-- name: SEA-IA
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SEA-IA
   technology_area: Systems Engineering Area

@@ -33,9 +33,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: report
-editorialgroup:
-- name: SIS-VOICE
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SIS-VOICE
   technology_area: Space Internetworking Services Area

@@ -45,9 +45,9 @@ relation:
     formattedref:
       content: CCSDS 505.0-B-2-S
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: MOIMS-NAV
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: MOIMS-NAV
   technology_area: Mission Operations and Information Management Services Area

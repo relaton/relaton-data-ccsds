@@ -53,5 +53,6 @@ relation:
     formattedref:
       content: CCSDS 231.0-B-2
       format: text/plain
-doctype:
-  type: standard
+ext:
+  doctype:
+    type: standard

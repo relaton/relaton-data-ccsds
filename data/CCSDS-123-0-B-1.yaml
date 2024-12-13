@@ -54,9 +54,9 @@ relation:
     formattedref:
       content: ISO 18381
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: SLS-MHDC
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: SLS-MHDC
   technology_area: Space Link Services Area

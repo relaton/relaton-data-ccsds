@@ -33,9 +33,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: record
-editorialgroup:
-- name: CSS-CSTS
 ext:
+  doctype:
+    type: record
+  editorialgroup:
+  - name: CSS-CSTS
   technology_area: Cross Support Services Area

@@ -34,9 +34,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: specification
-editorialgroup:
-- name: MOIMS-DAI
 ext:
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: MOIMS-DAI
   technology_area: Mission Operations and Information Management Services Area

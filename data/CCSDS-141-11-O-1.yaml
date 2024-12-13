@@ -34,9 +34,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: specification
-editorialgroup:
-- name: SLS-OPT
 ext:
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: SLS-OPT
   technology_area: Space Link Services Area

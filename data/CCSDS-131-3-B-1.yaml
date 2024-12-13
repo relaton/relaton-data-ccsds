@@ -55,9 +55,9 @@ relation:
     formattedref:
       content: ISO 20207
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: SLS-C&S
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: SLS-C&S
   technology_area: Space Link Services Area

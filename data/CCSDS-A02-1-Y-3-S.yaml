@@ -46,5 +46,6 @@ relation:
     formattedref:
       content: CCSDS A02.1-Y-3
       format: text/plain
-doctype:
-  type:
+ext:
+  doctype:
+    type:

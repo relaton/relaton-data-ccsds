@@ -34,9 +34,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: report
-editorialgroup:
-- name: MOIMS-TEL
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: MOIMS-TEL
   technology_area: Mission Operations and Information Management Services Area

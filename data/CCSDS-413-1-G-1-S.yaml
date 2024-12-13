@@ -47,9 +47,9 @@ relation:
     formattedref:
       content: CCSDS 413.1-G-1
       format: text/plain
-doctype:
-  type: report
-editorialgroup:
-- name: SLS-RFM
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SLS-RFM
   technology_area: Space Link Services Area

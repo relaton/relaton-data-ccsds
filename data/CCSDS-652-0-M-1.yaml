@@ -43,9 +43,9 @@ relation:
     formattedref:
       content: ISO 16363
       format: text/plain
-doctype:
-  type: practice
-editorialgroup:
-- name: MOIMS-DAI
 ext:
+  doctype:
+    type: practice
+  editorialgroup:
+  - name: MOIMS-DAI
   technology_area: Mission Operations and Information Management Services Area

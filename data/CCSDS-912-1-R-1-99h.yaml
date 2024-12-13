@@ -42,5 +42,6 @@ relation:
     formattedref:
       content: CCSDS 912.1-R-1.99h
       format: text/plain
-doctype:
-  type:
+ext:
+  doctype:
+    type:

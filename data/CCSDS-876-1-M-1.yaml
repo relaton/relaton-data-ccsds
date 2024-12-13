@@ -37,9 +37,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: practice
-editorialgroup:
-- name: SOIS-APP
 ext:
+  doctype:
+    type: practice
+  editorialgroup:
+  - name: SOIS-APP
   technology_area: Spacecraft Onboard Interface Services Area

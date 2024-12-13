@@ -45,9 +45,9 @@ relation:
     formattedref:
       content: CCSDS 922.2-B-1-S
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: CSS-CSTS
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: CSS-CSTS
   technology_area: Cross Support Services Area

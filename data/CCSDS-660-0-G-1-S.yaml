@@ -54,9 +54,9 @@ relation:
     formattedref:
       content: CCSDS 660.0-G-1
       format: text/plain
-doctype:
-  type: report
-editorialgroup:
-- name: MOIMS-SM&C
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: MOIMS-SM&C
   technology_area: Mission Operations and Information Management Services Area

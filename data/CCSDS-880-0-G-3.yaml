@@ -40,9 +40,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: report
-editorialgroup:
-- name: SOIS-WIR
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SOIS-WIR
   technology_area: Spacecraft Onboard Interface Services Area

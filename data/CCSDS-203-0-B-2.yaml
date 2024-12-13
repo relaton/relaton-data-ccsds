@@ -61,5 +61,6 @@ relation:
     formattedref:
       content: ISO 12174
       format: text/plain
-doctype:
-  type: standard
+ext:
+  doctype:
+    type: standard

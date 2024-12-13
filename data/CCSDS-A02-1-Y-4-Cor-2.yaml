@@ -44,7 +44,8 @@ relation:
     formattedref:
       content: CCSDS A02.1-Y-4
       format: text/plain
-doctype:
-  type:
-editorialgroup:
-- name: CCSDS Secretariat
+ext:
+  doctype:
+    type:
+  editorialgroup:
+  - name: CCSDS Secretariat

@@ -45,9 +45,9 @@ relation:
     formattedref:
       content: ISO 20205
       format: text/plain
-doctype:
-  type: practice
-editorialgroup:
-- name: SOIS-WIR
 ext:
+  doctype:
+    type: practice
+  editorialgroup:
+  - name: SOIS-WIR
   technology_area: Spacecraft Onboard Interface Services Area

@@ -45,9 +45,9 @@ relation:
     formattedref:
       content: CCSDS 910.0-G-2-S
       format: text/plain
-doctype:
-  type: report
-editorialgroup:
-- name: CSS-RASG
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: CSS-RASG
   technology_area: Cross Support Services Area

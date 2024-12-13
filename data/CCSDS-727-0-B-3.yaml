@@ -59,5 +59,6 @@ relation:
     formattedref:
       content: ISO 17355
       format: text/plain
-doctype:
-  type: standard
+ext:
+  doctype:
+    type: standard

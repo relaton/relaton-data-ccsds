@@ -45,7 +45,8 @@ relation:
     formattedref:
       content: ISO 13537
       format: text/plain
-doctype:
-  type: practice
-editorialgroup:
-- name: SEA Area
+ext:
+  doctype:
+    type: practice
+  editorialgroup:
+  - name: SEA Area

@@ -56,5 +56,6 @@ relation:
     formattedref:
       content: ISO 16919
       format: text/plain
-doctype:
-  type: practice
+ext:
+  doctype:
+    type: practice

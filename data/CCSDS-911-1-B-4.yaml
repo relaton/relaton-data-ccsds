@@ -55,9 +55,9 @@ relation:
     formattedref:
       content: ISO 22669
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: CSS-CSTS
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: CSS-CSTS
   technology_area: Cross Support Services Area

@@ -62,5 +62,6 @@ relation:
     formattedref:
       content: CCSDS 102.0-B-5
       format: text/plain
-doctype:
-  type: standard
+ext:
+  doctype:
+    type: standard

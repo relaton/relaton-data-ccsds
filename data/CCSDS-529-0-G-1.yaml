@@ -33,9 +33,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: report
-editorialgroup:
-- name: MOIMS-MP
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: MOIMS-MP
   technology_area: Mission Operations and Information Management Services Area

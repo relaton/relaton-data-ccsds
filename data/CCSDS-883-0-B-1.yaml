@@ -46,9 +46,9 @@ relation:
     formattedref:
       content: CCSDS 883.0-B-1-S
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: SOIS-WIR
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: SOIS-WIR
   technology_area: Spacecraft Onboard Interface Services Area

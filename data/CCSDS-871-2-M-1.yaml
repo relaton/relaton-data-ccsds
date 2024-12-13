@@ -55,5 +55,6 @@ relation:
     formattedref:
       content: ISO 20107
       format: text/plain
-doctype:
-  type: practice
+ext:
+  doctype:
+    type: practice

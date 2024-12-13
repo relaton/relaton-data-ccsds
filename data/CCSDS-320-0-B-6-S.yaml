@@ -58,5 +58,6 @@ relation:
     formattedref:
       content: CCSDS 320.0-B-6
       format: text/plain
-doctype:
-  type: standard
+ext:
+  doctype:
+    type: standard

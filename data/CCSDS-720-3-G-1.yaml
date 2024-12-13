@@ -33,9 +33,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: report
-editorialgroup:
-- name: SIS-CIT
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SIS-CIT
   technology_area: Space Internetworking Services Area

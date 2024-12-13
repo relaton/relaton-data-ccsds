@@ -55,9 +55,9 @@ relation:
     formattedref:
       content: ISO 21324
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: SLS-SEA-SDLS
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: SLS-SEA-SDLS
   technology_area: Space Link Services Area

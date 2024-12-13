@@ -53,5 +53,6 @@ relation:
     formattedref:
       content: CCSDS 135.0-B-3 Cor. 1
       format: text/plain
-doctype:
-  type: standard
+ext:
+  doctype:
+    type: standard

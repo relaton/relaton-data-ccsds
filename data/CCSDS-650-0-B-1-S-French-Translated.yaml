@@ -52,9 +52,9 @@ relation:
     formattedref:
       content: CCSDS 650.0-B-1-S
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: MOIMS-DAI
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: MOIMS-DAI
   technology_area: Mission Operations and Information Management Services Area

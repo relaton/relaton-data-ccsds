@@ -45,9 +45,9 @@ relation:
     formattedref:
       content: CCSDS 131.31-O-1 Cor. 1
       format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: SLS-C&S
 ext:
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: SLS-C&S
   technology_area: Space Link Services Area

@@ -55,9 +55,9 @@ relation:
     formattedref:
       content: CCSDS 910.4-B-2
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: CSS-RASG
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: CSS-RASG
   technology_area: Cross Support Services Area

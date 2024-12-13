@@ -36,9 +36,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: record
-editorialgroup:
-- name: SEA-SANA
 ext:
+  doctype:
+    type: record
+  editorialgroup:
+  - name: SEA-SANA
   technology_area: Systems Engineering Area

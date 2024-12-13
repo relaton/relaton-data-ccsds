@@ -32,7 +32,8 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type:
-editorialgroup:
-- name: CCSDS Secretariat
+ext:
+  doctype:
+    type:
+  editorialgroup:
+  - name: CCSDS Secretariat

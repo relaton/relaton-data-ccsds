@@ -58,9 +58,9 @@ relation:
     formattedref:
       content: ISO 10537
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: SLS-SLP
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: SLS-SLP
   technology_area: Space Link Services Area

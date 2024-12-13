@@ -54,9 +54,9 @@ relation:
     formattedref:
       content: CCSDS 352.0-B-1
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: SEA-SEC
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: SEA-SEC
   technology_area: Systems Engineering Area

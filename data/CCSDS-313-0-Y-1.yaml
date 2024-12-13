@@ -43,5 +43,6 @@ relation:
     formattedref:
       content: CCSDS 313.0-Y-1-S
       format: text/plain
-doctype:
-  type: record
+ext:
+  doctype:
+    type: record

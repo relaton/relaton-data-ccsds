@@ -47,5 +47,6 @@ relation:
     formattedref:
       content: CCSDS 120.1-G-1
       format: text/plain
-doctype:
-  type: report
+ext:
+  doctype:
+    type: report

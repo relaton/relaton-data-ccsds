@@ -44,7 +44,8 @@ relation:
     formattedref:
       content: CCSDS 320.0-M-7
       format: text/plain
-doctype:
-  type: practice
-editorialgroup:
-- name: SEA Area
+ext:
+  doctype:
+    type: practice
+  editorialgroup:
+  - name: SEA Area

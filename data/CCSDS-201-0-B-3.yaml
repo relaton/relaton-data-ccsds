@@ -57,5 +57,6 @@ relation:
     formattedref:
       content: ISO 12171
       format: text/plain
-doctype:
-  type: standard
+ext:
+  doctype:
+    type: standard

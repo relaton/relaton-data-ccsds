@@ -45,9 +45,9 @@ relation:
     formattedref:
       content: CCSDS 120.0-G-3-S
       format: text/plain
-doctype:
-  type: report
-editorialgroup:
-- name: SLS-DC
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SLS-DC
   technology_area: Space Link Services Area

@@ -32,9 +32,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: report
-editorialgroup:
-- name: SIS-CFDPV1
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SIS-CFDPV1
   technology_area: Space Internetworking Services Area

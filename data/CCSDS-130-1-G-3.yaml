@@ -35,9 +35,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: report
-editorialgroup:
-- name: SLS-C&S
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SLS-C&S
   technology_area: Space Link Services Area

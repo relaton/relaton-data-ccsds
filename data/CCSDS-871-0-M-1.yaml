@@ -58,9 +58,9 @@ relation:
     formattedref:
       content: ISO 20211
       format: text/plain
-doctype:
-  type: practice
-editorialgroup:
-- name: SOIS-APP
 ext:
+  doctype:
+    type: practice
+  editorialgroup:
+  - name: SOIS-APP
   technology_area: Spacecraft Onboard Interface Services Area

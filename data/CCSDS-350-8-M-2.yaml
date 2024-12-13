@@ -45,9 +45,9 @@ relation:
     formattedref:
       content: CCSDS 350.8-M-2-S
       format: text/plain
-doctype:
-  type: practice
-editorialgroup:
-- name: SEA-SEC
 ext:
+  doctype:
+    type: practice
+  editorialgroup:
+  - name: SEA-SEC
   technology_area: Systems Engineering Area

@@ -55,5 +55,6 @@ relation:
     formattedref:
       content: ISO 26143
       format: text/plain
-doctype:
-  type: standard
+ext:
+  doctype:
+    type: standard

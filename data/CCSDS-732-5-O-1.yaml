@@ -45,5 +45,6 @@ relation:
     formattedref:
       content: CCSDS 732.5-O-1-S
       format: text/plain
-doctype:
-  type: specification
+ext:
+  doctype:
+    type: specification

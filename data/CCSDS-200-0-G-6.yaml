@@ -41,9 +41,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: report
-editorialgroup:
-- name: SLS-SLP
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SLS-SLP
   technology_area: Space Link Services Area

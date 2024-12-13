@@ -62,5 +62,6 @@ relation:
     formattedref:
       content: ISO 13419
       format: text/plain
-doctype:
-  type: standard
+ext:
+  doctype:
+    type: standard

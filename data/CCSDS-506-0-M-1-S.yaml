@@ -54,5 +54,6 @@ relation:
     formattedref:
       content: CCSDS 506.0-M-1
       format: text/plain
-doctype:
-  type: practice
+ext:
+  doctype:
+    type: practice

@@ -42,5 +42,6 @@ relation:
     formattedref:
       content: CCSDS 350.1-G-1
       format: text/plain
-doctype:
-  type: report
+ext:
+  doctype:
+    type: report

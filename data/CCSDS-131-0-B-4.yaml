@@ -44,9 +44,9 @@ relation:
     formattedref:
       content: CCSDS 131.0-B-4-S
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: SLS-C&S
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: SLS-C&S
   technology_area: Space Link Services Area

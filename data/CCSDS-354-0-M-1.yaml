@@ -32,9 +32,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: practice
-editorialgroup:
-- name: SEA-SEC
 ext:
+  doctype:
+    type: practice
+  editorialgroup:
+  - name: SEA-SEC
   technology_area: Systems Engineering Area

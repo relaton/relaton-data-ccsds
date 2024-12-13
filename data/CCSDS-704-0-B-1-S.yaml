@@ -43,5 +43,6 @@ relation:
     formattedref:
       content: CCSDS 704.0-B-1
       format: text/plain
-doctype:
-  type: standard
+ext:
+  doctype:
+    type: standard

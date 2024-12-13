@@ -32,9 +32,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: record
-editorialgroup:
-- name: MOIMS-NAV
 ext:
+  doctype:
+    type: record
+  editorialgroup:
+  - name: MOIMS-NAV
   technology_area: Mission Operations and Information Management Services Area

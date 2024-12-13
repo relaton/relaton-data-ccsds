@@ -43,5 +43,6 @@ relation:
     formattedref:
       content: CCSDS A30.0-G-3
       format: text/plain
-doctype:
-  type:
+ext:
+  doctype:
+    type:

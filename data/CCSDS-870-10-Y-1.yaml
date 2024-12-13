@@ -36,9 +36,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: record
-editorialgroup:
-- name: SOIS-SUBNET
 ext:
+  doctype:
+    type: record
+  editorialgroup:
+  - name: SOIS-SUBNET
   technology_area: Spacecraft Onboard Interface Services Area

@@ -56,5 +56,6 @@ relation:
     formattedref:
       content: ISO 20217
       format: text/plain
-doctype:
-  type: practice
+ext:
+  doctype:
+    type: practice

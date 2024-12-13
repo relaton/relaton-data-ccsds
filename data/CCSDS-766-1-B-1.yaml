@@ -55,9 +55,9 @@ relation:
     formattedref:
       content: ISO 21077
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: SIS-MIA
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: SIS-MIA
   technology_area: Space Internetworking Services Area

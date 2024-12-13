@@ -56,5 +56,6 @@ relation:
     formattedref:
       content: CCSDS 873.0-M-1
       format: text/plain
-doctype:
-  type: practice
+ext:
+  doctype:
+    type: practice

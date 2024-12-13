@@ -32,9 +32,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: report
-editorialgroup:
-- name: SLS-SEA-DLS
 ext:
+  doctype:
+    type: report
+  editorialgroup:
+  - name: SLS-SEA-DLS
   technology_area: Space Link Services Area

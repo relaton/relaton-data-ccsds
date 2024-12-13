@@ -49,5 +49,6 @@ relation:
     formattedref:
       content: CCSDS A20.0-Y-3
       format: text/plain
-doctype:
-  type:
+ext:
+  doctype:
+    type:

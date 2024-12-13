@@ -45,5 +45,6 @@ relation:
     formattedref:
       content: CCSDS 701.00-R-3
       format: text/plain
-doctype:
-  type:
+ext:
+  doctype:
+    type:

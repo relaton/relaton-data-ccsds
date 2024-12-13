@@ -45,5 +45,6 @@ relation:
     formattedref:
       content: CCSDS 413.0-G-1
       format: text/plain
-doctype:
-  type: report
+ext:
+  doctype:
+    type: report

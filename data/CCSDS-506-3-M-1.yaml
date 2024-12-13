@@ -35,9 +35,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type: practice
-editorialgroup:
-- name: SEA-D-DOR
 ext:
+  doctype:
+    type: practice
+  editorialgroup:
+  - name: SEA-D-DOR
   technology_area: Systems Engineering Area

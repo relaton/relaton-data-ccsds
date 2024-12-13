@@ -54,9 +54,9 @@ relation:
     formattedref:
       content: ISO 20215
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: SEA-SEC
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: SEA-SEC
   technology_area: Systems Engineering Area

@@ -56,9 +56,9 @@ relation:
     formattedref:
       content: ISO 18202
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: MOIMS-SM&C
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: MOIMS-SM&C
   technology_area: Mission Operations and Information Management Services Area

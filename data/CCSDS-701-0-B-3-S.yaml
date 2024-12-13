@@ -60,5 +60,6 @@ relation:
     formattedref:
       content: CCSDS 701.0-B-3
       format: text/plain
-doctype:
-  type: standard
+ext:
+  doctype:
+    type: standard

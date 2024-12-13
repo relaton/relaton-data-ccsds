@@ -37,9 +37,9 @@ abstract:
 docstatus:
   stage:
     value: published
-doctype:
-  type:
-editorialgroup:
-- name: SLS-RFM
 ext:
+  doctype:
+    type:
+  editorialgroup:
+  - name: SLS-RFM
   technology_area: Space Link Services Area

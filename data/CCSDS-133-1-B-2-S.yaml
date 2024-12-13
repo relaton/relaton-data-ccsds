@@ -58,9 +58,9 @@ relation:
     formattedref:
       content: CCSDS 133.1-B-2
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: SLS-SLP
 ext:
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: SLS-SLP
   technology_area: Space Link Services Area

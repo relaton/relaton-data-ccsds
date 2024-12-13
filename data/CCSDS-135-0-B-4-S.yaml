@@ -56,5 +56,6 @@ relation:
     formattedref:
       content: CCSDS 135.0-B-4
       format: text/plain
-doctype:
-  type: standard
+ext:
+  doctype:
+    type: standard
