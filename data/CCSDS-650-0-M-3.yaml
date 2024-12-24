@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.9
+id: CCSDS650.0-M-3
+title:
+- content: Reference Model for an Open Archival Information System (OAIS)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/650x0m3.pdf
+  type: pdf
+docid:
+- id: CCSDS 650.0-M-3
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2024-12
+edition:
+  content: '3'
+revdate: 2024-12
+abstract:
+- content: The Recommended Practice defines the Reference Model for an Open Archival
+    Information System (OAIS). The current update adds to and clarifies concepts and
+    terminology.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+ext:
+  doctype:
+    type: practice
+  editorialgroup:
+  - name: MOIMS-DAI
+  technology_area: Mission Operations and Information Management Services Area

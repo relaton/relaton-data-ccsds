@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: CCSDS131.5-O-1Cor.1
+title:
+- content: Technical Corrigendum 1 to CCSDS 131.5-O-1, Issued November 2014
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://public.ccsds.org/Pubs/131x5o1c1_tc2423.pdf
+  type: pdf
+docid:
+- id: CCSDS 131.5-O-1 Cor. 1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  value: 2024-12
+edition:
+  content: '1'
+revdate: 2024-12
+abstract:
+- content: |-
+    This Technical Corrigendum documents changes to CCSDS 131.5-O-1, Erasure Correcting Codes for Use in Near-Earth and Deep-Space Communications (Orange
+    Book, Issue 1, November 2014).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+relation:
+- type: updates
+  bibitem:
+    id: CCSDS131.5-O-1
+    docid:
+    - id: CCSDS 131.5-O-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 131.5-O-1
+      format: text/plain
+ext:
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: SLS-C&S
+  technology_area: Space Link Services Area

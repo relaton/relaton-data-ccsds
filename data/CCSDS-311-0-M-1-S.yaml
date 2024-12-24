@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.9
-id: CCSDS311.0-M-1
+id: CCSDS311.0-M-1-S
 title:
 - content: Reference Architecture for Space Data Systems
   language:
@@ -12,7 +12,7 @@ link:
 - content: https://public.ccsds.org/Pubs/311x0m1s.pdf
   type: pdf
 docid:
-- id: CCSDS 311.0-M-1
+- id: CCSDS 311.0-M-1-S
   type: CCSDS
   primary: true
 date:
@@ -35,18 +35,8 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: published
 relation:
-- type: hasSuccessor
-  bibitem:
-    id: CCSDS311.0-M-1-S
-    docid:
-    - id: CCSDS 311.0-M-1-S
-      type: CCSDS
-      primary: true
-    formattedref:
-      content: CCSDS 311.0-M-1-S
-      format: text/plain
 - type: adoptedAs
   bibitem:
     id: ISO13537
@@ -56,6 +46,16 @@ relation:
       primary: true
     formattedref:
       content: ISO 13537
+      format: text/plain
+- type: successorOf
+  bibitem:
+    id: CCSDS311.0-M-1
+    docid:
+    - id: CCSDS 311.0-M-1
+      type: CCSDS
+      primary: true
+    formattedref:
+      content: CCSDS 311.0-M-1
       format: text/plain
 ext:
   doctype:

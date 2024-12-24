@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.9
-id: CCSDS650.0-M-2
+id: CCSDS650.0-M-2-S
 title:
 - content: Reference Model for an Open Archival Information System (OAIS)
   language:
@@ -12,7 +12,7 @@ link:
 - content: https://public.ccsds.org/Pubs/650x0m2s.pdf
   type: pdf
 docid:
-- id: CCSDS 650.0-M-2
+- id: CCSDS 650.0-M-2-S
   type: CCSDS
   primary: true
 date:
@@ -36,18 +36,8 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: published
 relation:
-- type: hasSuccessor
-  bibitem:
-    id: CCSDS650.0-M-2-S
-    docid:
-    - id: CCSDS 650.0-M-2-S
-      type: CCSDS
-      primary: true
-    formattedref:
-      content: CCSDS 650.0-M-2-S
-      format: text/plain
 - type: adoptedAs
   bibitem:
     id: ISO14721
@@ -58,15 +48,15 @@ relation:
     formattedref:
       content: ISO 14721
       format: text/plain
-- type: hasInstance
+- type: successorOf
   bibitem:
-    id: CCSDS650.0-M-2-FrenchTranslated
+    id: CCSDS650.0-M-2
     docid:
-    - id: CCSDS 650.0-M-2 - French Translated
+    - id: CCSDS 650.0-M-2
       type: CCSDS
       primary: true
     formattedref:
-      content: CCSDS 650.0-M-2 - French Translated
+      content: CCSDS 650.0-M-2
       format: text/plain
 ext:
   doctype:

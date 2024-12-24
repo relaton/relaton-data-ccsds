@@ -49,14 +49,6 @@
   :file: data/CCSDS-641-0-G-2.yaml
 - :id:
     :publisher: CCSDS
-    :number: '311'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
-  :file: data/CCSDS-311-0-M-1.yaml
-- :id:
-    :publisher: CCSDS
     :number: '312'
     :book_color: G
     :part: 0
@@ -193,36 +185,12 @@
   :file: data/CCSDS-646-0-G-1.yaml
 - :id:
     :publisher: CCSDS
-    :number: '650'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '2'
-  :file: data/CCSDS-650-0-M-2.yaml
-- :id:
-    :publisher: CCSDS
     :number: '651'
     :book_color: M
     :part: 0
     :retired: false
     :edition: '1'
   :file: data/CCSDS-651-0-M-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '652'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
-  :file: data/CCSDS-652-0-M-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '652'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '2'
-  :file: data/CCSDS-652-1-M-2.yaml
 - :id:
     :publisher: CCSDS
     :number: '700'
@@ -1177,6 +1145,69 @@
     :retired: false
     :edition: '1'
   :file: data/CCSDS-350-11-G-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '1'
+    :book_color: ''
+    :part: 0
+    :retired: false
+    :base:
+      :publisher: CCSDS
+      :number: '131'
+      :book_color: O
+      :part: 5
+      :retired: false
+      :edition: '1'
+    :type: corrigendum
+  :file: data/CCSDS-131-5-O-1-Cor-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '311'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-311-0-M-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '357'
+    :book_color: O
+    :part: 1
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-357-1-O-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '650'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-650-0-M-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '652'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-652-0-M-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '652'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '3'
+  :file: data/CCSDS-652-1-M-3.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '653'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-653-0-M-1.yaml
 - :id:
     :publisher: CCSDS
     :number: '211'
@@ -2815,6 +2846,22 @@
   :file: data/CCSDS-301-0-B-3-S.yaml
 - :id:
     :publisher: CCSDS
+    :number: '311'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-311-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '311'
+    :book_color: M
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-311-0-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
     :number: '320'
     :book_color: B
     :part: 0
@@ -3987,6 +4034,38 @@
   :file: data/CCSDS-650-0-B-1-S.yaml
 - :id:
     :publisher: CCSDS
+    :number: '650'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-650-0-M-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '650'
+    :book_color: M
+    :part: 0
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-650-0-M-2-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '652'
+    :book_color: M
+    :part: 0
+    :retired: false
+    :edition: '1'
+  :file: data/CCSDS-652-0-M-1.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '652'
+    :book_color: M
+    :part: 0
+    :retired: true
+    :edition: '1'
+  :file: data/CCSDS-652-0-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
     :number: '652'
     :book_color: M
     :part: 1
@@ -4001,6 +4080,22 @@
     :retired: true
     :edition: '1'
   :file: data/CCSDS-652-1-M-1-S.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '652'
+    :book_color: M
+    :part: 1
+    :retired: false
+    :edition: '2'
+  :file: data/CCSDS-652-1-M-2.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '652'
+    :book_color: M
+    :part: 1
+    :retired: true
+    :edition: '2'
+  :file: data/CCSDS-652-1-M-2-S.yaml
 - :id:
     :publisher: CCSDS
     :number: '660'
