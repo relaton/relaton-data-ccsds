@@ -37,13 +37,62 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS401.0-B-21-SCor.1
+    title:
+    - content: Technical Corrigendum 1 to CCSDS 401.0-B-21-S, Issued July 2011
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/401x0b21tc1_tc1213s.pdf
+      type: pdf
     docid:
     - id: CCSDS 401.0-B-21-S Cor. 1
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 401.0-B-21-S Cor. 1
+    date:
+    - type: published
+      value: 2012-05
+    edition:
+      content: '21'
+    revdate: 2012-05
+    abstract:
+    - content: 'This Technical Corrigendum documents changes to CCSDS 401.0-B-21,
+        Radio Frequency and Modulation Systems—Part 1: Earth Stations and Spacecraft
+        (Blue Book, Issue 21, July 2011).'
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: updates
+      bibitem:
+        id: CCSDS401.0-B-21-S
+        docid:
+        - id: CCSDS 401.0-B-21-S
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 401.0-B-21-S
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS401.0-B-21Cor.1
+        docid:
+        - id: CCSDS 401.0-B-21 Cor. 1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 401.0-B-21 Cor. 1
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
 - type: updates
   bibitem:
     id: CCSDS401.0-B

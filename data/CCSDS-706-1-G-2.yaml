@@ -38,13 +38,56 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS706.1-G-2-S
+    title:
+    - content: Motion Imagery and Applications
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/706x1g2s.pdf
+      type: pdf
     docid:
     - id: CCSDS 706.1-G-2-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 706.1-G-2-S
+    date:
+    - type: published
+      value: 2015-05
+    edition:
+      content: '2'
+    revdate: 2015-05
+    abstract:
+    - content: |-
+        This document provides a common reference and framework for development of standards for digital video and motion imagery for use in space missions, and it provides a foundation for future recommendations for utilization of international standards for sharing or distributing video and motion imagery between spacecraft elements and ground distribution systems.
+        <br><br>
+        This document was retired by CCSDS Management Council resolution CMC-R-2024-07-004, dated 23 July 2024.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: successorOf
+      bibitem:
+        id: CCSDS706.1-G-2
+        docid:
+        - id: CCSDS 706.1-G-2
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 706.1-G-2
+          format: text/plain
+    ext:
+      doctype:
+        type: report
+      editorialgroup:
+      - name: SIS-MIA
+      technology_area: Space Internetworking Services Area
 ext:
   doctype:
     type: report

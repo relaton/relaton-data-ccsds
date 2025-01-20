@@ -37,13 +37,53 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS740.0-G-1-S
+    title:
+    - content: Mars Mission Protocol Profiles--Purpose and Rationale
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/740x0g1e1s.pdf
+      type: pdf
     docid:
     - id: CCSDS 740.0-G-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 740.0-G-1-S
+    date:
+    - type: published
+      value: 2008-07
+    edition:
+      content: '1'
+    revdate: 2008-07
+    abstract:
+    - content: This CCSDS Informational Report provides an operations overview for
+        Mars mission interoperability and gives the supporting rationale for the relevant
+        communications protocols to be used in Mars end-to-end operations for packet
+        or file relaying.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: successorOf
+      bibitem:
+        id: CCSDS740.0-G-1
+        docid:
+        - id: CCSDS 740.0-G-1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 740.0-G-1
+          format: text/plain
+    ext:
+      doctype:
+        type: report
 ext:
   doctype:
     type: report

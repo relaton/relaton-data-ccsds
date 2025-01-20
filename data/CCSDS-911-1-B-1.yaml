@@ -36,13 +36,64 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS911.1-B-1-S
+    title:
+    - content: Space Link Extension – Return All Frames Service Specification
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/911x1b1s.pdf
+      type: pdf
     docid:
     - id: CCSDS 911.1-B-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 911.1-B-1-S
+    date:
+    - type: published
+      value: 2002-04
+    edition:
+      content: '1'
+    revdate: 2002-04
+    abstract:
+    - content: This document issue was superseded by CCSDS 911.1-B-2, Space Link Extension-Return
+        All Frames Service Specification (Blue Book, Issue 2), released November 2024.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: adoptedAs
+      bibitem:
+        id: ISO22669
+        docid:
+        - id: ISO 22669
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: ISO 22669
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS911.1-B-1
+        docid:
+        - id: CCSDS 911.1-B-1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 911.1-B-1
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
+      editorialgroup:
+      - name: CSS-CSTS
+      technology_area: Cross Support Services Area
 - type: adoptedAs
   bibitem:
     id: ISO22669

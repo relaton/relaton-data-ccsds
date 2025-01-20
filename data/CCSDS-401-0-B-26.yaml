@@ -40,13 +40,60 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS401.0-B-26-S
+    title:
+    - content: 'Radio Frequency and Modulation Systems--Part 1: Earth Stations and
+        Spacecraft'
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/401x0b26s.pdf
+      type: pdf
     docid:
     - id: CCSDS 401.0-B-26-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 401.0-B-26-S
+    date:
+    - type: published
+      value: 2016-10
+    edition:
+      content: '26'
+    revdate: 2016-10
+    abstract:
+    - content: 'Numerous concise recommendations appear in the notebook volume bearing
+        the number 401.0-B.  Each recommendation is dated, and the most recent revision
+        is shown in the table of contents.  These Recommendations are developed for
+        conventional near-Earth and deep-space missions having moderate communications
+        requirements.  The current issue adds new recommendation 2.4.23, Modulation
+        Methods at High Symbol Rate Transmissions, Earth Exploration Satellites (EES)
+        25.5¬27.0 GHz Band, Space-to-Earth. '
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: successorOf
+      bibitem:
+        id: CCSDS401.0-B-26
+        docid:
+        - id: CCSDS 401.0-B-26
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 401.0-B-26
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
+      editorialgroup:
+      - name: SLS-RFM
+      technology_area: Space Link Services Area
 - type: updates
   bibitem:
     id: CCSDS401.0-B

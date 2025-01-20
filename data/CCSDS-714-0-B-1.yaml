@@ -36,13 +36,72 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS714.0-B-1-S
+    title:
+    - content: Space Communications Protocol Specification (SCPS)—Transport Protocol
+        (SCPS-TP)
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/714x0b1c1s.pdf
+      type: pdf
     docid:
     - id: CCSDS 714.0-B-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 714.0-B-1-S
+    date:
+    - type: published
+      value: 1999-05
+    edition:
+      content: '1'
+    revdate: 1999-05
+    abstract:
+    - content: This Recommendation defines the SCPS** transport-layer protocols and
+        services. SCPS-TP is also known as “TCP Tranquility.”
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: adoptedAs
+      bibitem:
+        id: ISO15893
+        docid:
+        - id: ISO 15893
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: ISO 15893
+          format: text/plain
+    - type: updatedBy
+      bibitem:
+        id: CCSDS714.0-B-1-SCor.1
+        docid:
+        - id: CCSDS 714.0-B-1-S Cor. 1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 714.0-B-1-S Cor. 1
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS714.0-B-1
+        docid:
+        - id: CCSDS 714.0-B-1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 714.0-B-1
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
 - type: adoptedAs
   bibitem:
     id: ISO15893

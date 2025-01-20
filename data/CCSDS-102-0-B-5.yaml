@@ -45,13 +45,70 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS102.0-B-5-S
+    title:
+    - content: Packet Telemetry
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/102x0b5s.pdf
+      type: pdf
     docid:
     - id: CCSDS 102.0-B-5-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 102.0-B-5-S
+    date:
+    - type: published
+      value: 2000-11
+    edition:
+      content: '5'
+    revdate: 2000-11
+    abstract:
+    - content: This Recommendation establishes a common framework and provides a common
+        basis for the data structures of spacecraft telemetry streams. The Packet
+        Telemetry concept described is the baseline concept for spacecraft-to-ground
+        data communication within missions that are cross supported between Agencies
+        of the CCSDS. Issue 5 of the CCSDS Packet Telemetry Recommendation adds specifications
+        that allow the CCSDS Version-1 Telemetry Transfer Frame to be used to transport
+        other types of packets in addition to CCSDS Version-1 Packets, including CCSDS
+        Network Protocol (NP) Packets and Internet Protocol (IP) packets. This enhanced
+        functionality is added to the Transfer Frame through the introduction of a
+        standardized approach to interpreting the packet version number field. The
+        format of the Transfer Frame is not changed from the previous issue.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: adoptedAs
+      bibitem:
+        id: ISO13419
+        docid:
+        - id: ISO 13419
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: ISO 13419
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS102.0-B-5
+        docid:
+        - id: CCSDS 102.0-B-5
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 102.0-B-5
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
 - type: adoptedAs
   bibitem:
     id: ISO13419

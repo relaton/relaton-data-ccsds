@@ -39,13 +39,54 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDSA00.0-Y-9-S
+    title:
+    - content: Procedures Manual for the Consultative Committee for Space Data Systems
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/A00x0y9s.pdf
+      type: pdf
     docid:
     - id: CCSDS A00.0-Y-9-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS A00.0-Y-9-S
+    date:
+    - type: published
+      value: 2003-11
+    edition:
+      content: '9'
+    revdate: 2003-11
+    abstract:
+    - content: The CCSDS Procedures Manual specifies the procedures to be followed
+        by CCSDS participants in carrying out the business of the CCSDS. The current
+        revision reflects organizational and procedural changes brought about by adoption
+        of Proposal for Restructuring the CCSDS Organization and Processes, CCSDS
+        A02.1-Y-1, April 2003.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: successorOf
+      bibitem:
+        id: CCSDSA00.0-Y-9
+        docid:
+        - id: CCSDS A00.0-Y-9
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS A00.0-Y-9
+          format: text/plain
+    ext:
+      doctype:
+        type:
 ext:
   doctype:
     type:

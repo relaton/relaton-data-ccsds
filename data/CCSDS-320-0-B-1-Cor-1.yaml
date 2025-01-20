@@ -36,13 +36,61 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS320.0-B-1-SCor.1
+    title:
+    - content: Global Spacecraft Identification Field Code Assignment Control Procedures.
+        CCSDS 320.0-B-1 Cor. 1
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/320x0b1s-Corr.pdf
+      type: pdf
     docid:
     - id: CCSDS 320.0-B-1-S Cor. 1
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 320.0-B-1-S Cor. 1
+    date:
+    - type: published
+      value: 1996-11
+    edition:
+      content: '1'
+    revdate: 1996-11
+    abstract:
+    - content: This document has been withdrawn by the CCSDS.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: updates
+      bibitem:
+        id: CCSDS320.0-B-1-S
+        docid:
+        - id: CCSDS 320.0-B-1-S
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 320.0-B-1-S
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS320.0-B-1Cor.1
+        docid:
+        - id: CCSDS 320.0-B-1 Cor. 1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 320.0-B-1 Cor. 1
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
 - type: updates
   bibitem:
     id: CCSDS320.0-B-1
