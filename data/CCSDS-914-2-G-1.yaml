@@ -40,13 +40,55 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS914.2-G-1-S
+    title:
+    - content: Space Link Extension—Application Program Interface for Transfer Services—Application
+        Programmer's Guide
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/914x2g1s.pdf
+      type: pdf
     docid:
     - id: CCSDS 914.2-G-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 914.2-G-1-S
+    date:
+    - type: published
+      value: 2006-01
+    edition:
+      content: '1'
+    revdate: 2006-01
+    abstract:
+    - content: 'This Application Programmer''s Guide provides tutorial material for
+        software developers wishing to integrate the API into SLE user applications
+        or SLE provider applications.  In particular, it explains how to create and
+        configure API components and discusses a number of scenarios demonstrating
+        how an application can use the API. '
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: successorOf
+      bibitem:
+        id: CCSDS914.2-G-1
+        docid:
+        - id: CCSDS 914.2-G-1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 914.2-G-1
+          format: text/plain
+    ext:
+      doctype:
+        type: report
 ext:
   doctype:
     type: report

@@ -41,13 +41,69 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS650.0-M-2-S
+    title:
+    - content: Reference Model for an Open Archival Information System (OAIS)
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/650x0m2s.pdf
+      type: pdf
     docid:
     - id: CCSDS 650.0-M-2-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 650.0-M-2-S
+    date:
+    - type: published
+      value: 2012-06
+    edition:
+      content: '2'
+    revdate: 2012-06
+    abstract:
+    - content: |-
+        This Recommended Practice defines the Reference Model for an Open Archival Information System (OAIS).  The current issue includes clarifications to many concepts, in particular, Authenticity with the concept of Transformational Information Property introduced; corrections and improvements in diagrams; addition of Access Rights Information to PDI.
+        <br><br>
+        A French Translated version of this book can be found by <a href="NonEnglishVersions.aspx">clicking here</a>.
+        <br><br>
+        This document issue was superseded by CCSDS 650.0-M-3, Reference Model for an Open Archival Information System (OAIS) (Magenta Book, Issue 3), released
+        December 2024.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: adoptedAs
+      bibitem:
+        id: ISO14721
+        docid:
+        - id: ISO 14721
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: ISO 14721
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS650.0-M-2
+        docid:
+        - id: CCSDS 650.0-M-2
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 650.0-M-2
+          format: text/plain
+    ext:
+      doctype:
+        type: practice
+      editorialgroup:
+      - name: MOIMS-DAI
+      technology_area: Mission Operations and Information Management Services Area
 - type: adoptedAs
   bibitem:
     id: ISO14721

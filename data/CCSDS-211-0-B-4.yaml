@@ -37,13 +37,62 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS211.0-B-4-S
+    title:
+    - content: Proximity-1 Space Link Protocol—Data Link Layer
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/211x0b4s.pdf
+      type: pdf
     docid:
     - id: CCSDS 211.0-B-4-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 211.0-B-4-S
+    date:
+    - type: published
+      value: 2006-07
+    edition:
+      content: '4'
+    revdate: 2006-07
+    abstract:
+    - content: 'The CCSDS Recommended Standard for Proximity-1 Space Link Protocol--Data
+        Link Layer specifies the protocol, services, and procedures pertaining to
+        the CCSDS Version-3 Transfer Frame. '
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: adoptedAs
+      bibitem:
+        id: ISO22663
+        docid:
+        - id: ISO 22663
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: ISO 22663
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS211.0-B-4
+        docid:
+        - id: CCSDS 211.0-B-4
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 211.0-B-4
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
 - type: adoptedAs
   bibitem:
     id: ISO22663

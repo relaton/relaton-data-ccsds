@@ -35,13 +35,60 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS202.0-B-2-S
+    title:
+    - content: Telecommand Part 2—Data Routing Service
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/202x0b2s.pdf
+      type: pdf
     docid:
     - id: CCSDS 202.0-B-2-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 202.0-B-2-S
+    date:
+    - type: published
+      value: 1992-11
+    edition:
+      content: '2'
+    revdate: 1992-11
+    abstract:
+    - content:
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: adoptedAs
+      bibitem:
+        id: ISO12172
+        docid:
+        - id: ISO 12172
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: ISO 12172
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS202.0-B-2
+        docid:
+        - id: CCSDS 202.0-B-2
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 202.0-B-2
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
 - type: adoptedAs
   bibitem:
     id: ISO12172

@@ -38,13 +38,86 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS133.0-B-1-S
+    title:
+    - content: Space Packet Protocol
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/133x0b1s.pdf
+      type: pdf
     docid:
     - id: CCSDS 133.0-B-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 133.0-B-1-S
+    date:
+    - type: published
+      value: 2003-09
+    edition:
+      content: '1'
+    revdate: 2003-09
+    abstract:
+    - content: |-
+        This Recommendation specifies the protocols, services, and procedures pertaining to the CCSDS Packet. These specifications correspond with CCSDS Source Packet specifications contained in Packet Telemetry, Packet Telemetry Service Specification, Telecommand Part 3—Data Management Service, and Advanced Orbiting Systems, Networks and Data Links: Architectural Specification.   (Note: This is a restructured Recommendation*.)  The current version of this document contains all updates through technical corrigendum 2, dated September 2012.
+
+        This document issue was superseded by CCSDS 133.0-B-2, Space Packet Protocol (Blue Book, Issue 2, June 2020), released June 2020.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: adoptedAs
+      bibitem:
+        id: ISO22646
+        docid:
+        - id: ISO 22646
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: ISO 22646
+          format: text/plain
+    - type: updatedBy
+      bibitem:
+        id: CCSDS133.0-B-1-SCor.1
+        docid:
+        - id: CCSDS 133.0-B-1-S Cor. 1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 133.0-B-1-S Cor. 1
+          format: text/plain
+    - type: updatedBy
+      bibitem:
+        id: CCSDS133.0-B-1-SCor.2
+        docid:
+        - id: CCSDS 133.0-B-1-S Cor. 2
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 133.0-B-1-S Cor. 2
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS133.0-B-1
+        docid:
+        - id: CCSDS 133.0-B-1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 133.0-B-1
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
+      editorialgroup:
+      - name: SLS-SLP
+      technology_area: Space Link Services Area
 - type: adoptedAs
   bibitem:
     id: ISO22646

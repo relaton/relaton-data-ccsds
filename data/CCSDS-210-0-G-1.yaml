@@ -37,13 +37,52 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS210.0-G-1-S
+    title:
+    - content: Proximity-1 Space Link Protocol—Rationale, Architecture, and Scenarios
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/210x0g1s.pdf
+      type: pdf
     docid:
     - id: CCSDS 210.0-G-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 210.0-G-1-S
+    date:
+    - type: published
+      value: 2007-08
+    edition:
+      content: '1'
+    revdate: 2007-08
+    abstract:
+    - content: This Report contains background and explanatory material to support
+        the CCSDS Recommended Standards for Proximity-1 Space Link Protocol (CCSDS
+        211.0-B, CCSDS 211.1-B, and CCSDS 211.2-B).
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: successorOf
+      bibitem:
+        id: CCSDS210.0-G-1
+        docid:
+        - id: CCSDS 210.0-G-1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 210.0-G-1
+          format: text/plain
+    ext:
+      doctype:
+        type: report
 ext:
   doctype:
     type: report

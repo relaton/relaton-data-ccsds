@@ -39,13 +39,55 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS401.0-B-20-S
+    title:
+    - content: 'Radio Frequency and Modulation Systems--Part 1: Earth Stations and
+        Spacecraft'
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/401x0b20ec3s.pdf
+      type: pdf
     docid:
     - id: CCSDS 401.0-B-20-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 401.0-B-20-S
+    date:
+    - type: published
+      value: 2009-04
+    edition:
+      content: '20'
+    revdate: 2009-04
+    abstract:
+    - content: Numerous concise recommendations appear in the notebook volume bearing
+        the number 401.0-B. Each recommendation is dated, and the most recent revision
+        is shown in the table of contents.  These Recommendations are developed for
+        conventional near-Earth and deep-space missions having moderate communications
+        requirements.  The current issue updates recommendations 2.4.18 and 3.5.1.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: successorOf
+      bibitem:
+        id: CCSDS401.0-B-20
+        docid:
+        - id: CCSDS 401.0-B-20
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 401.0-B-20
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
 - type: updates
   bibitem:
     id: CCSDS401.0-B
