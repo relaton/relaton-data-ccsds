@@ -38,13 +38,63 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS211.1-B-2-S
+    title:
+    - content: Proximity-1 Space Link Protocol—Physical Layer
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/211x1b2s.pdf
+      type: pdf
     docid:
     - id: CCSDS 211.1-B-2-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 211.1-B-2-S
+    date:
+    - type: published
+      value: 2004-05
+    edition:
+      content: '2'
+    revdate: 2004-05
+    abstract:
+    - content: This Recommendation defines the Proximity-1 Space Link Protocol Physical
+        Layer.  The specification for the channel connection process, provision for
+        frequency bands and assignments, hailing channel, polarization, modulation,
+        data rates, and performance requirements are defined in this document.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: adoptedAs
+      bibitem:
+        id: ISO21460
+        docid:
+        - id: ISO 21460
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: ISO 21460
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS211.1-B-2
+        docid:
+        - id: CCSDS 211.1-B-2
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 211.1-B-2
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
 - type: adoptedAs
   bibitem:
     id: ISO21460

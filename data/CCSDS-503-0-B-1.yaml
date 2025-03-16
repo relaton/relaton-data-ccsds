@@ -38,13 +38,76 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS503.0-B-1-S
+    title:
+    - content: Tracking Data Message
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/503x0b1s.pdf
+      type: pdf
     docid:
     - id: CCSDS 503.0-B-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 503.0-B-1-S
+    date:
+    - type: published
+      value: 2007-11
+    edition:
+      content: '1'
+    revdate: 2007-11
+    abstract:
+    - content: |-
+        The Tracking Data Message (TDM) Recommended Standard specifies a standard message format for use in exchanging spacecraft tracking data between space agencies.  The current version of this document contains all updates through technical corrigendum 1, dated September 2010.
+
+        This document issue was superseded by CCSDS 503.0-B-2, Tracking Data Message (Blue Book, Issue 2), released June 2020.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: adoptedAs
+      bibitem:
+        id: ISO13526
+        docid:
+        - id: ISO 13526
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: ISO 13526
+          format: text/plain
+    - type: updatedBy
+      bibitem:
+        id: CCSDS503.0-B-1-SCor.1
+        docid:
+        - id: CCSDS 503.0-B-1-S Cor. 1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 503.0-B-1-S Cor. 1
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS503.0-B-1
+        docid:
+        - id: CCSDS 503.0-B-1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 503.0-B-1
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
+      editorialgroup:
+      - name: MOIMS-NAV
+      technology_area: Mission Operations and Information Management Services Area
 - type: adoptedAs
   bibitem:
     id: ISO13526

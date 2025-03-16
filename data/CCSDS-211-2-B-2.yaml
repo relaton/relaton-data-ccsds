@@ -42,13 +42,70 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS211.2-B-2-S
+    title:
+    - content: Proximity-1 Space Link Protocol--Coding and Synchronization Sublayer
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/211x2b2s.pdf
+      type: pdf
     docid:
     - id: CCSDS 211.2-B-2-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 211.2-B-2-S
+    date:
+    - type: published
+      value: 2013-12
+    edition:
+      content: '2'
+    revdate: 2013-12
+    abstract:
+    - content: "The CCSDS Recommended Standard for Proximity-1 Space Link Protocol—Coding
+        and Synchronization Sublayer  specifies the synchronization and channel coding
+        schemes used with the Proximity-1 Data Link Protocol.  The current issue includes
+        several improvements and clarifications-accomplishing better alignment and
+        consistency with the other Proximity-1 Blue Books—and the addition of an option
+        for Low-Density Parity-Check (LDPC) codes.\n\nThis document issue was superseded
+        by CCSDS \n211.2-B-3, Proximity-1 Space Link Protocol—Coding \nand Synchronization
+        Sublayer (Blue Book, Issue 3, \nOctober 2019), released October 2019."
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: adoptedAs
+      bibitem:
+        id: ISO21459
+        docid:
+        - id: ISO 21459
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: ISO 21459
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS211.2-B-2
+        docid:
+        - id: CCSDS 211.2-B-2
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 211.2-B-2
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
+      editorialgroup:
+      - name: SLS-C&S
+      technology_area: Space Link Services Area
 - type: adoptedAs
   bibitem:
     id: ISO21459

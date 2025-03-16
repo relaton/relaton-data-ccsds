@@ -35,13 +35,60 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS714.0-B-1-SCor.1
+    title:
+    - content: Technical Corrigendum 1 to CCSDS 714.0-B-1-S, Issued May 1999
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/714x0b1c1s_TCA532.pdf
+      type: pdf
     docid:
     - id: CCSDS 714.0-B-1-S Cor. 1
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 714.0-B-1-S Cor. 1
+    date:
+    - type: published
+      value: 2005-11
+    edition:
+      content: '1'
+    revdate: 2005-11
+    abstract:
+    - content:
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: updates
+      bibitem:
+        id: CCSDS714.0-B-1-S
+        docid:
+        - id: CCSDS 714.0-B-1-S
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 714.0-B-1-S
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS714.0-B-1Cor.1
+        docid:
+        - id: CCSDS 714.0-B-1 Cor. 1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 714.0-B-1 Cor. 1
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
 - type: updates
   bibitem:
     id: CCSDS714.0-B-1

@@ -38,13 +38,56 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS120.0-G-3-S
+    title:
+    - content: Lossless Data Compression
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/120x0g3s.pdf
+      type: pdf
     docid:
     - id: CCSDS 120.0-G-3-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 120.0-G-3-S
+    date:
+    - type: published
+      value: 2013-04
+    edition:
+      content: '3'
+    revdate: 2013-04
+    abstract:
+    - content: |-
+        This Report presents a summary of the key operational concepts and rationale underlying the requirements for the CCSDS Recommended Standard for Lossless Data Compression.  Supporting performance information along with illustrations are also included. This Report also provides a broad tutorial overview of the CCSDS Lossless Data Compression algorithm and is aimed at helping first-time readers to understand the Recommended Standard.  The current issue updates material affected by revision of the Lossless Data Compression Blue Book.
+        <br><br>
+        This document issue was superseded by CCSDS 120.0-G-4, Lossless Data Compression (Green Book, Issue 4), released November 2021.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: successorOf
+      bibitem:
+        id: CCSDS120.0-G-3
+        docid:
+        - id: CCSDS 120.0-G-3
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 120.0-G-3
+          format: text/plain
+    ext:
+      doctype:
+        type: report
+      editorialgroup:
+      - name: SLS-DC
+      technology_area: Space Link Services Area
 ext:
   doctype:
     type: report

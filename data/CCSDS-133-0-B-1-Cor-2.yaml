@@ -36,13 +36,64 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS133.0-B-1-SCor.2
+    title:
+    - content: Technical Corrigendum 2 to CCSDS 133.0-B-1, Issued September 2003
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/133x0b1s_tc1227.pdf
+      type: pdf
     docid:
     - id: CCSDS 133.0-B-1-S Cor. 2
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 133.0-B-1-S Cor. 2
+    date:
+    - type: published
+      value: 2012-09
+    edition:
+      content: '1'
+    revdate: 2012-09
+    abstract:
+    - content: This Technical Corrigendum documents changes to CCSDS 133.0-B-1, Space
+        Packet Protocol (Blue Book, Issue 1, September 2003).
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: updates
+      bibitem:
+        id: CCSDS133.0-B-1-S
+        docid:
+        - id: CCSDS 133.0-B-1-S
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 133.0-B-1-S
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS133.0-B-1Cor.2
+        docid:
+        - id: CCSDS 133.0-B-1 Cor. 2
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 133.0-B-1 Cor. 2
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
+      editorialgroup:
+      - name: SLS-SLP
+      technology_area: Space Link Services Area
 - type: updates
   bibitem:
     id: CCSDS133.0-B-1

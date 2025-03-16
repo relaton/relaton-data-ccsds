@@ -35,13 +35,60 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS320.0-B-6-SCor.1
+    title:
+    - content: Technical Corrigendum 1 to CCSDS 320.0-B-6-S
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/320x0b6c1s_tc1328.pdf
+      type: pdf
     docid:
     - id: CCSDS 320.0-B-6-S Cor. 1
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 320.0-B-6-S Cor. 1
+    date:
+    - type: published
+      value: 2013-12
+    edition:
+      content: '6'
+    revdate: 2013-12
+    abstract:
+    - content:
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: updates
+      bibitem:
+        id: CCSDS320.0-B-6-S
+        docid:
+        - id: CCSDS 320.0-B-6-S
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 320.0-B-6-S
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS320.0-B-6Cor.1
+        docid:
+        - id: CCSDS 320.0-B-6 Cor. 1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 320.0-B-6 Cor. 1
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
 - type: updates
   bibitem:
     id: CCSDS320.0-B-6

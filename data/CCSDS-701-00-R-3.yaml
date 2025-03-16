@@ -38,13 +38,54 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS701.00-R-3-S
+    title:
+    - content: 'Advanced Orbiting Systems, Networks and Data Links: Architectural
+        Specification'
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/701RB3.pdf
+      type: pdf
     docid:
     - id: CCSDS 701.00-R-3-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 701.00-R-3-S
+    date:
+    - type: published
+      value: 1989-06
+    edition:
+      content: '3'
+    revdate: 1989-06
+    abstract:
+    - content: 'This Red Book is a draft CCSDS Recommendation that was released for
+        CCSDS Agency review in June 1989.  In October 1989 it was superseded by a
+        CCSDS Blue Book, CCSDS 701.0-B-1.  This June 1989 draft is maintained here
+        for historical purposes.  It should not be used as the basis for new implementations. '
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: successorOf
+      bibitem:
+        id: CCSDS701.00-R-3
+        docid:
+        - id: CCSDS 701.00-R-3
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 701.00-R-3
+          format: text/plain
+    ext:
+      doctype:
+        type:
 ext:
   doctype:
     type:

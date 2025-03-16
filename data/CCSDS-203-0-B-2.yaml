@@ -44,13 +44,69 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS203.0-B-2-S
+    title:
+    - content: Telecommand Part 3—Data Management Service
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/203x0b2s.pdf
+      type: pdf
     docid:
     - id: CCSDS 203.0-B-2-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 203.0-B-2-S
+    date:
+    - type: published
+      value: 2001-06
+    edition:
+      content: '3'
+    revdate: 2001-06
+    abstract:
+    - content: This Recommendation was developed within the layered architectural
+        framework and embraces the standard data structures and data communication
+        procedures that may be used by conventional missions within the highest telecommand
+        layers. The current issue adds specifications that allow the CCSDS Version-1
+        Telecommand Transfer Frame to be used to transport other types of packets
+        in addition to CCSDS Version-1 Telecommand Packets, including CCSDS Network
+        Protocol (NP) Packets and Internet Protocol (IP) packets. This enhanced functionality
+        is added to the Transfer Frame through the introduction of a standardized
+        approach to interpreting the packet version number field. The format of the
+        Transfer Frame is not changed from the previous issue.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: adoptedAs
+      bibitem:
+        id: ISO12174
+        docid:
+        - id: ISO 12174
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: ISO 12174
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS203.0-B-2
+        docid:
+        - id: CCSDS 203.0-B-2
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 203.0-B-2
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
 - type: adoptedAs
   bibitem:
     id: ISO12174

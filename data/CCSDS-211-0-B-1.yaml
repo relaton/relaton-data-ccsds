@@ -35,13 +35,60 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS211.0-B-1-S
+    title:
+    - content: Proximity-1 Space Link Protocol
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/211x0b1s.pdf
+      type: pdf
     docid:
     - id: CCSDS 211.0-B-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 211.0-B-1-S
+    date:
+    - type: published
+      value: 2002-10
+    edition:
+      content: '1'
+    revdate: 2002-10
+    abstract:
+    - content: This document has been withdrawn by the CCSDS.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: adoptedAs
+      bibitem:
+        id: ISO22663
+        docid:
+        - id: ISO 22663
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: ISO 22663
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS211.0-B-1
+        docid:
+        - id: CCSDS 211.0-B-1
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 211.0-B-1
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
 - type: adoptedAs
   bibitem:
     id: ISO22663

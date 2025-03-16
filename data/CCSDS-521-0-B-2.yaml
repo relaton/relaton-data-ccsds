@@ -39,13 +39,67 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS521.0-B-2-S
+    title:
+    - content: Mission Operations Message Abstraction Layer
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/521x0b2s.pdf
+      type: pdf
     docid:
     - id: CCSDS 521.0-B-2-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 521.0-B-2-S
+    date:
+    - type: published
+      value: 2013-03
+    edition:
+      content: '2'
+    revdate: 2013-03
+    abstract:
+    - content: |
+        The Mission Operations Message Abstraction Layer (MAL) Recommended Standard defines the MAL in conformance with the service framework specified in the Mission Operations Services Concept Green Book (CCSDS 520.0-G-3).  The current issue addresses the request to add a slight restriction to the MAL data model regarding polymorphism. In addition the WG took the opportunity to make a few additional changes: external data type specifications such as XML Schemas can now be used; XML is being moved to the SANA registry; type short forms are now integers rather than strings; optional fields in composites are now shown; lists are now a template rather than explicit types; unsigned integer and File data types have been added.
+        <br><br>
+        This document issue was superseded by CCSDS 521.0-B-3, Mission Operations
+        Message Abstraction Layer (Blue Book, Issue 3), released March 2024.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: adoptedAs
+      bibitem:
+        id: ISO18202
+        docid:
+        - id: ISO 18202
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: ISO 18202
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS521.0-B-2
+        docid:
+        - id: CCSDS 521.0-B-2
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 521.0-B-2
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
+      editorialgroup:
+      - name: MOIMS-SM&C
+      technology_area: Mission Operations and Information Management Services Area
 - type: adoptedAs
   bibitem:
     id: ISO18202

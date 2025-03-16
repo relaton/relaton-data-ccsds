@@ -39,13 +39,67 @@ relation:
 - type: hasSuccessor
   bibitem:
     id: CCSDS231.0-B-3-S
+    title:
+    - content: TC Synchronization and Channel Coding
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    link:
+    - content: https://public.ccsds.org/Pubs/231x0b3s.pdf
+      type: pdf
     docid:
     - id: CCSDS 231.0-B-3-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 231.0-B-3-S
+    date:
+    - type: published
+      value: 2017-09
+    edition:
+      content: '3'
+    revdate: 2017-09
+    abstract:
+    - content: |-
+        The Recommended Standard for TC Synchronization and Channel Coding contains specifications for synchronization and channel coding to be used by space missions on asynchronous communications links.  The current issue adds LCPC coding; globally changes 'codeblock' to 'codeword' for consistency with modern usage; deletes obsolete annex detailing changes from documents retired in 2005.<br>
+        <br>
+        This document issue was superseded by CCSDS 231.0-B-4, TC
+        Synchronization and Channel Coding (Blue Book, Issue 4), released July 2021.
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
+    docstatus:
+      stage:
+        value: published
+    relation:
+    - type: adoptedAs
+      bibitem:
+        id: ISO22642
+        docid:
+        - id: ISO 22642
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: ISO 22642
+          format: text/plain
+    - type: successorOf
+      bibitem:
+        id: CCSDS231.0-B-3
+        docid:
+        - id: CCSDS 231.0-B-3
+          type: CCSDS
+          primary: true
+        formattedref:
+          content: CCSDS 231.0-B-3
+          format: text/plain
+    ext:
+      doctype:
+        type: standard
+      editorialgroup:
+      - name: SLS-C&S
+      technology_area: Space Link Services Area
 - type: adoptedAs
   bibitem:
     id: ISO22642
