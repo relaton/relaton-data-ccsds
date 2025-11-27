@@ -8,8 +8,10 @@ title:
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3160/
-- type: pdf
+- type: doc
   content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//720x6y1.doc
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//720x6y1.pdf
 docidentifier:
 - content: CCSDS 720.6-Y-1
   type: CCSDS
