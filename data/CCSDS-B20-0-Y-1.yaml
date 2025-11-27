@@ -43,3 +43,5 @@ abstract:
 status:
   stage:
     content: published
+ext:
+  technology_area: Space Link Services Area

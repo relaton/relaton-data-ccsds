@@ -52,3 +52,4 @@ relation:
 ext:
   doctype:
     content: report
+  technology_area: Systems Engineering Area

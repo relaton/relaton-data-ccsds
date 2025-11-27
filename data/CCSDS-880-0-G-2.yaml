@@ -57,3 +57,4 @@ relation:
 ext:
   doctype:
     content: report
+  technology_area: Spacecraft Onboard Interface Services Area

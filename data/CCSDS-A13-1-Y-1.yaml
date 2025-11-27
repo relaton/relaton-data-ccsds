@@ -38,3 +38,5 @@ abstract:
 status:
   stage:
     content: published
+ext:
+  technology_area: Systems Engineering Area
