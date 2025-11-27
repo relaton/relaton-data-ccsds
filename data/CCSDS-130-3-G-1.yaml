@@ -1,47 +1,50 @@
 ---
-schema-version: v1.2.9
-id: CCSDS130.3-G-1
+schema_version: v1.4.1
 title:
-- content: Space Packet Protocols
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/130x3g1.pdf
-  type: pdf
-docid:
-- id: CCSDS 130.3-G-1
+- language: en
+  script: Latn
+  content: Space Packet Protocols
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3273/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//130x3g1.pdf
+docidentifier:
+- content: CCSDS 130.3-G-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2023-04
+  at: 2023-04
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SLS-SLP
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2023-04
 abstract:
-- content: 'This Report presents the concept and rationale of the CCSDS Packet Protocols,
-    Space Packet Protocol (SPP) and Encapsulation Packet Protocol (EPP). It presents
-    an overview of the concepts of SPP and EPP, it provides information on how these
-    protocols should be applied for efficient development of mission systems (including
-    onboard instruments and ground-support systems) and on how these protocols should
-    be deployed in space data systems for efficient development of multi-mission infrastructures
-    (including both onboard and ground infrastructures), and it describes the key
-    distinctions between these protocols, so that both end users and developers have
-    guidance in choice of protocol. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>This Report presents the concept and rationale of the CCSDS Packet
+    Protocols, Space Packet Protocol (SPP) and Encapsulation Packet Protocol (EPP).
+    It presents an overview of the concepts of SPP and EPP, it provides information
+    on how these protocols should be applied for efficient development of mission
+    systems (including onboard instruments and ground-support systems) and on how
+    these protocols should be deployed in space data systems for efficient development
+    of multi-mission infrastructures (including both onboard and ground infrastructures),
+    and it describes the key distinctions between these protocols, so that both end
+    users and developers have guidance in choice of protocol.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 ext:
   doctype:
-    type: report
-  editorialgroup:
-  - name: SLS-SLP
-  technology_area: Space Link Services Area
+    content: report

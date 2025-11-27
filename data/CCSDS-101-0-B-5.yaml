@@ -1,57 +1,60 @@
 ---
-schema-version: v1.2.9
-id: CCSDS101.0-B-5
+schema_version: v1.4.1
 title:
-- content: Telemetry Channel Coding
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/101x0b5s.pdf
-  type: pdf
-docid:
-- id: CCSDS 101.0-B-5
+- language: en
+  script: Latn
+  content: Telemetry Channel Coding
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3541/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//101x0b5s.pdf
+docidentifier:
+- content: CCSDS 101.0-B-5
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2001-06
+  at: 2001-06
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
   content: '5'
-revdate: 2001-06
 abstract:
-- content: This document has been withdrawn by the CCSDS.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>This document has been withdrawn by the CCSDS.</p>\n"
+status:
   stage:
-    value: withdrawn
+    content: withdrawn
 relation:
 - type: hasSuccessor
   bibitem:
-    id: CCSDS101.0-B-5-S
-    docid:
-    - id: CCSDS 101.0-B-5-S
+    formattedref: CCSDS 101.0-B-5-S
+    docidentifier:
+    - content: CCSDS 101.0-B-5-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 101.0-B-5-S
-      format: text/plain
 - type: adoptedAs
   bibitem:
-    id: ISO11754
-    docid:
-    - id: ISO 11754
-      type: CCSDS
+    formattedref: ISO 11754:2003
+    source:
+    - type: src
+      content: https://www.iso.org/standard/33004.html?browse=tc
+    docidentifier:
+    - content: ISO 11754:2003
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 11754
-      format: text/plain
 ext:
   doctype:
-    type: standard
+    content: standard

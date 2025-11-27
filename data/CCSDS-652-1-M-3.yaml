@@ -1,42 +1,49 @@
 ---
-schema-version: v1.2.9
-id: CCSDS652.1-M-3
+schema_version: v1.4.1
 title:
-- content: Requirements for Bodies Providing Audit and Certification of Candidate
+- language: en
+  script: Latn
+  content: Requirements for Bodies Providing Audit and Certification of Candidate
     Trustworthy Digital Repositories
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/652x1m3.pdf
-  type: pdf
-docid:
-- id: CCSDS 652.1-M-3
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3057/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//652x1m3.pdf
+docidentifier:
+- content: CCSDS 652.1-M-3
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2024-12
+  at: 2024-12
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: MOIMS-DAI
+      type: technical-committee
 edition:
   content: '3'
-revdate: 2024-12
 abstract:
-- content: |-
-    The Recommended Practice for Requirements for Bodies Providing Audit and Certification of Candidate Trustworthy Digital Repositories contains binding and verifiable specifications required to be fulfilled by organizations that perform ISO audits for assessing the trustworthiness of digital repositories
-    using CCSDS 652.0-M-1, Audit and Certification of Trustworthy Digital Repositories, and provides the appropriate certification. The current issue is an update based on scheduled five-year reconfirmation review.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>The Recommended Practice for Requirements for Bodies Providing Audit
+    and Certification of Candidate Trustworthy Digital Repositories contains binding
+    and verifiable specifications required to be fulfilled by organizations that perform
+    ISO audits for assessing the trustworthiness of digital repositories using CCSDS
+    652.0-M-1, Audit and Certification of Trustworthy Digital Repositories, and provides
+    the appropriate certification. The current issue is an update based on scheduled
+    five-year reconfirmation review.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 ext:
   doctype:
-    type: practice
-  editorialgroup:
-  - name: MOIMS-DAI
-  technology_area: Mission Operations and Information Management Services Area
+    content: practice

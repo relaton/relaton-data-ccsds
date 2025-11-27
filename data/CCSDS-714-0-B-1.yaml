@@ -1,68 +1,61 @@
 ---
-schema-version: v1.2.9
-id: CCSDS714.0-B-1
+schema_version: v1.4.1
 title:
-- content: Space Communications Protocol Specification (SCPS)—Transport Protocol (SCPS-TP)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/714x0b1c1s.pdf
-  type: pdf
-docid:
-- id: CCSDS 714.0-B-1
+- language: en
+  script: Latn
+  content: Space Communications Protocol Specification (SCPS)—Transport Protocol (SCPS-TP)
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3734/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//714x0b1c1s.pdf
+docidentifier:
+- content: CCSDS 714.0-B-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 1999-05
+  at: 1999-05
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
   content: '1'
-revdate: 1999-05
 abstract:
-- content: This Recommendation defines the SCPS** transport-layer protocols and services.
-    SCPS-TP is also known as “TCP Tranquility.”
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>This Recommendation defines the SCPS** transport-layer protocols and
+    services. SCPS-TP is also known as TCP Tranquility.</p>\n"
+status:
   stage:
-    value: withdrawn
+    content: withdrawn
 relation:
 - type: hasSuccessor
   bibitem:
-    id: CCSDS714.0-B-1-S
-    docid:
-    - id: CCSDS 714.0-B-1-S
+    formattedref: CCSDS 714.0-B-1-S
+    docidentifier:
+    - content: CCSDS 714.0-B-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 714.0-B-1-S
-      format: text/plain
 - type: adoptedAs
   bibitem:
-    id: ISO15893
-    docid:
-    - id: ISO 15893
-      type: CCSDS
+    formattedref: ISO 15893:2010
+    source:
+    - type: src
+      content: https://www.iso.org/standard/45986.html?browse=tc
+    docidentifier:
+    - content: ISO 15893:2010
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 15893
-      format: text/plain
-- type: updatedBy
-  bibitem:
-    id: CCSDS714.0-B-1Cor.1
-    docid:
-    - id: CCSDS 714.0-B-1 Cor. 1
-      type: CCSDS
-      primary: true
-    formattedref:
-      content: CCSDS 714.0-B-1 Cor. 1
-      format: text/plain
 ext:
   doctype:
-    type: standard
+    content: standard

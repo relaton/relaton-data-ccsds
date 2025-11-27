@@ -2,12 +2,13 @@
 
 require 'fileutils'
 
-require 'relaton_ccsds'
+require 'relaton/ccsds/processor'
 
 FileUtils.rm Dir.glob('index-*')
 FileUtils.rm_rf 'data'
 
-RelatonCcsds::DataFetcher.fetch
+processor = Relaton::Ccsds::Processor.new
+processor.fetch_data
 
 system('zip index-v1.zip index-v1.yaml')
 system('git add index-v1.zip index-v1.yaml')

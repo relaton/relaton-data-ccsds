@@ -1,57 +1,50 @@
 ---
-schema-version: v1.2.9
-id: CCSDS231.0-B-1-SCor.1
+schema_version: v1.4.1
 title:
-- content: Technical Corrigendum 1 to CCSDS 231.0-B-1, Issued September 2003
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/231x0b1c1s_TCA613.pdf
-  type: pdf
-docid:
-- id: CCSDS 231.0-B-1-S Cor. 1
+- language: en
+  script: Latn
+  content: Technical Corrigendum 1 to CCSDS 231.0-B-1, Issued September 2003
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3620/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//231x0b1c1s_TCA613.pdf
+docidentifier:
+- content: CCSDS 231.0-B-1-S Cor. 1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2006-06
+  at: 2006-06
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
-  content: '1'
-revdate: 2006-06
+  content: 1 Cor. 1
 abstract:
-- content:
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: ''
+status:
   stage:
-    value: published
+    content: published
 relation:
-- type: updates
-  bibitem:
-    id: CCSDS231.0-B-1-S
-    docid:
-    - id: CCSDS 231.0-B-1-S
-      type: CCSDS
-      primary: true
-    formattedref:
-      content: CCSDS 231.0-B-1-S
-      format: text/plain
 - type: successorOf
   bibitem:
-    id: CCSDS231.0-B-1Cor.1
-    docid:
-    - id: CCSDS 231.0-B-1 Cor. 1
+    formattedref: CCSDS 231.0-B-1 Cor. 1
+    docidentifier:
+    - content: CCSDS 231.0-B-1 Cor. 1
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 231.0-B-1 Cor. 1
-      format: text/plain
 ext:
   doctype:
-    type: standard
+    content: standard

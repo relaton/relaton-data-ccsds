@@ -1,0 +1,43 @@
+---
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Robust Compression of Fixed-Length Housekeeping Data
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3213/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//124x0b1.pdf
+docidentifier:
+- content: CCSDS 124.0-B-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2023-02
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SLS-DC
+      type: technical-committee
+edition:
+  content: '1'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Recommended Standard specifies a robust method for lossless compression
+    of fixed length housekeeping data and a format for storing the compressed data.</p>\n"
+status:
+  stage:
+    content: published
+ext:
+  doctype:
+    content: standard

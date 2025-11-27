@@ -1,41 +1,44 @@
 ---
-schema-version: v1.2.9
-id: CCSDS350.7-G-2
+schema_version: v1.4.1
 title:
-- content: Security Guide for Mission Planners
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/350x7g2.pdf
-  type: pdf
-docid:
-- id: CCSDS 350.7-G-2
+- language: en
+  script: Latn
+  content: Security Guide for Mission Planners
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3136/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//350x7g2.pdf
+docidentifier:
+- content: CCSDS 350.7-G-2
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2019-04
+  at: 2019-04
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SEA-SEC
+      type: technical-committee
 edition:
   content: '2'
-revdate: 2019-04
 abstract:
-- content: This Informational Report provides guidance to mission planners in developing
-    the management, operational, and technical security controls appropriate to the
-    value of their system and the information processed in it.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>This Informational Report provides guidance to mission planners in
+    developing the management, operational, and technical security controls appropriate
+    to the value of their system and the information processed in it.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 ext:
   doctype:
-    type: report
-  editorialgroup:
-  - name: SEA-SEC
-  technology_area: Systems Engineering Area
+    content: report

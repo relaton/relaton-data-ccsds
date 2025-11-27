@@ -1,0 +1,55 @@
+---
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Space Communications Protocol Specification (SCPS)—Transport Protocol
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3162/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//714x0b2.pdf
+docidentifier:
+- content: CCSDS 714.0-B-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2006-10
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SIS-CSI
+      type: technical-committee
+edition:
+  content: '2'
+abstract:
+- language: en
+  script: Latn
+  content: |
+    <p>The four Space Communications Protocol Specification (SCPS) Recommendations define a protocol suite that is parallel in function to, and interoperable with, the protocols of the Earth-based Internet (FTP/TCP/IP).  The SCPS protocols have been optimized to overcome problems associated with using Internet protocols in space. This Recommendation defines the transport-layer protocols and services of the SCPS protocol suite. The current issue of Space Communications Protocol Specification (SCPS) Transport Protocol (SCPS-TP) specification: - adds optional support for Selective Acknowledgements (SACK) and Explicit Congestion Notification (ECN)- defines semantics to extend SCPS-TP signaling to allow optional inclusion of vendor- and community-specific options. The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance.</p>
+    <p>This Recommended Standard has been reconfirmed through June 2022.</p>
+status:
+  stage:
+    content: published
+relation:
+- type: adoptedAs
+  bibitem:
+    formattedref: ISO 15893:2010
+    source:
+    - type: src
+      content: https://www.iso.org/standard/45986.html?browse=tc
+    docidentifier:
+    - content: ISO 15893:2010
+      type: ISO
+      primary: true
+ext:
+  doctype:
+    content: standard

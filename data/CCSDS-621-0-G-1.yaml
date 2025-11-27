@@ -1,44 +1,44 @@
 ---
-schema-version: v1.2.9
-id: CCSDS621.0-G-1
+schema_version: v1.4.1
 title:
-- content: Standard Formatted Data Units — A Tutorial
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/621x0g1.pdf
-  type: pdf
-docid:
-- id: CCSDS 621.0-G-1
+- language: en
+  script: Latn
+  content: Standard Formatted Data Units—A Tutorial
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3046/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//621x0g1.pdf
+docidentifier:
+- content: CCSDS 621.0-G-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 1992-05
+  at: 1992-05
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: MOIMS-DAI
+      type: technical-committee
 edition:
   content: '1'
-revdate: 1992-05
 abstract:
-- content: "This Informational Report explains the rationale of the Standard Formatted
-    Data Unit (SFDU) concept and outlines the Structure and Construction Rules with
-    the help of examples.  It supports the main SFDU Recommended Standard, CCSDS 620.0-B-2.
-    \ The CCSDS conducts periodic reconfirmation reviews of its publications to assure
-    their continued relevance. \n\nThis document has been reconfirmed by the CCSDS
-    Management Council through June 2024."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: |
+    <p>This Informational Report explains the rationale of the Standard Formatted Data Unit (SFDU) concept and outlines the Structure and Construction Rules with the help of examples.  It supports the main SFDU Recommended Standard, CCSDS 620.0-B-2.  </p>
+    <p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>
+status:
   stage:
-    value: published
+    content: published
 ext:
   doctype:
-    type: report
-  editorialgroup:
-  - name: MOIMS-DAI
-  technology_area: Mission Operations and Information Management Services Area
+    content: report

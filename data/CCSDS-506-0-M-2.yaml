@@ -1,55 +1,58 @@
 ---
-schema-version: v1.2.9
-id: CCSDS506.0-M-2
+schema_version: v1.4.1
 title:
-- content: Delta-Differential One Way Ranging (Delta-DOR) Operations
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/506x0m2e1.pdf
-  type: pdf
-docid:
-- id: CCSDS 506.0-M-2
+- language: en
+  script: Latn
+  content: Delta-Differential One Way Ranging (Delta-DOR) Operations
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3111/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//506x0m2e1.pdf
+docidentifier:
+- content: CCSDS 506.0-M-2
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2018-02
+  at: 2018-02
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SEA-D-DOR
+      type: technical-committee
 edition:
   content: '2'
-revdate: 2018-02
 abstract:
-- content: This Recommended Practice specifies a set of standard practices and message
-    formats for use in the navigation technique known as Delta Differential One-Way
-    Ranging (Delta-DOR). The current issue adds clarifications, adds a subsection
+- language: en
+  script: Latn
+  content: "<p>This Recommended Practice specifies a set of standard practices and
+    message formats for use in the navigation technique known as Delta Differential
+    One-Way Ranging (Delta-DOR). The current issue adds clarifications, adds a subsection
     on quantitative validation criteria, renames 'Service Request' to 'Support Request',
     adds Support Request specifications, adds examples of Support Requests as new
-    annex, deletes section 7 in favor of reference to the Delta-DOR Quasar Catalogue.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+    annex, deletes section 7 in favor of reference to the Delta-DOR Quasar Catalogue.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 relation:
 - type: adoptedAs
   bibitem:
-    id: ISO17809
-    docid:
-    - id: ISO 17809
-      type: CCSDS
+    formattedref: ISO 17809:2014
+    source:
+    - type: src
+      content: https://www.iso.org/standard/60594.html?browse=tc
+    docidentifier:
+    - content: ISO 17809:2014
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 17809
-      format: text/plain
 ext:
   doctype:
-    type: practice
-  editorialgroup:
-  - name: SEA-D-DOR
-  technology_area: Systems Engineering Area
+    content: practice

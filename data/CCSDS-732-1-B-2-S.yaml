@@ -1,54 +1,52 @@
 ---
-schema-version: v1.2.9
-id: CCSDS732.1-B-2-S
+schema_version: v1.4.1
 title:
-- content: 'Unified Space Data Link Protocol '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/732x1b2s.pdf
-  type: pdf
-docid:
-- id: CCSDS 732.1-B-2-S
+- language: en
+  script: Latn
+  content: Unified Space Data Link Protocol
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3751/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//732x1b1s.pdf
+docidentifier:
+- content: CCSDS 732.1-B-2-S
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2021-10
+  at: 2021-10
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SLS-SLP
+      type: technical-committee
 edition:
   content: '2'
-revdate: 2021-10
 abstract:
-- content: |-
-    This CCSDS Recommended Standard specifies the Unified Space Data Link Protocol (USLP) for use by space missions over space-to-ground, ground-to-space, or space-to-space communications links. The current update adds corrections and clarifications and moves specification of the Truncated Transfer Frame to a new normative annex.
-    <br><br>
-    This document issue was superseded by CCSDS 732.1-B-3, Unified Space Data
-    Link Protocol (Blue Book, Issue 3), released June 2024.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: |
+    <p>This CCSDS Recommended Standard specifies the Unified Space Data Link Protocol (USLP) for use by space missions over space-to-ground, ground-to-space, or space-to-space communications links. The current update adds corrections and clarifications and moves specification of the Truncated Transfer Frame to a new normative annex.</p>
+    <p>This document issue was superseded by CCSDS 732.1-B-3, Unified Space Data Link Protocol (Blue Book, Issue 3), released June 2024.</p>
+status:
   stage:
-    value: published
+    content: published
 relation:
 - type: successorOf
   bibitem:
-    id: CCSDS732.1-B-2
-    docid:
-    - id: CCSDS 732.1-B-2
+    formattedref: CCSDS 732.1-B-2
+    docidentifier:
+    - content: CCSDS 732.1-B-2
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 732.1-B-2
-      format: text/plain
 ext:
   doctype:
-    type: standard
-  editorialgroup:
-  - name: SLS-SLP
-  technology_area: Space Link Services Area
+    content: standard

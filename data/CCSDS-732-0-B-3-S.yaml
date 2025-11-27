@@ -1,63 +1,62 @@
 ---
-schema-version: v1.2.9
-id: CCSDS732.0-B-3-S
+schema_version: v1.4.1
 title:
-- content: AOS Space Data Link Protocol
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/732x0b3e1s.pdf
-  type: pdf
-docid:
-- id: CCSDS 732.0-B-3-S
+- language: en
+  script: Latn
+  content: AOS Space Data Link Protocol
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3749/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//732x0b3e1s.pdf
+docidentifier:
+- content: CCSDS 732.0-B-3-S
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2015-09
+  at: 2015-09
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SLS-SLP
+      type: technical-committee
 edition:
   content: '3'
-revdate: 2015-09
 abstract:
-- content: |-
-    The CCSDS Recommended Standard for AOS Space Data Link Protocol specifies the protocol, services, and procedures pertaining to the CCSDS Version-2 Transfer Frame.  The current issue adds specifications to support  the Space Data Link Security Protocol.
-    <br><br>
-    This document issue was superseded by CCSDS 732.0-B-4, AOS Space Data Link Protocol (Blue Book, Issue 4), released October 2021.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: |
+    <p>The CCSDS Recommended Standard for AOS Space Data Link Protocol specifies the protocol, services, and procedures pertaining to the CCSDS Version-2 Transfer Frame.  The current issue adds specifications to support  the Space Data Link Security Protocol.</p>
+    <p>This document issue was superseded by CCSDS 732.0-B-4, AOS Space Data Link Protocol (Blue Book, Issue 4), released October 2021.</p>
+status:
   stage:
-    value: published
+    content: published
 relation:
 - type: adoptedAs
   bibitem:
-    id: ISO22666
-    docid:
-    - id: ISO 22666
-      type: CCSDS
+    formattedref: ISO 22666:2016
+    source:
+    - type: src
+      content: https://www.iso.org/standard/70701.html?browse=tc
+    docidentifier:
+    - content: ISO 22666:2016
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 22666
-      format: text/plain
 - type: successorOf
   bibitem:
-    id: CCSDS732.0-B-3
-    docid:
-    - id: CCSDS 732.0-B-3
+    formattedref: CCSDS 732.0-B-3
+    docidentifier:
+    - content: CCSDS 732.0-B-3
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 732.0-B-3
-      format: text/plain
 ext:
   doctype:
-    type: standard
-  editorialgroup:
-  - name: SLS-SLP
-  technology_area: Space Link Services Area
+    content: standard

@@ -1,61 +1,65 @@
 ---
-schema-version: v1.2.9
-id: CCSDS211.0-B-3
+schema_version: v1.4.1
 title:
-- content: Proximity-1 Space Link Protocol—Data Link Layer
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/211x0b3s.pdf
-  type: pdf
-docid:
-- id: CCSDS 211.0-B-3
+- language: en
+  script: Latn
+  content: Proximity-1 Space Link Protocol—Data Link Layer
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3609/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//211x0b3s.pdf
+docidentifier:
+- content: CCSDS 211.0-B-3
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2004-05
+  at: 2004-05
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
   content: '3'
-revdate: 2004-05
 abstract:
-- content: This Recommendation details Space Data System Standards in the area of
-    Proximity space links.  Proximity space links are defined to be short-range, bi-directional,
-    fixed or mobile radio links, generally used to communicate among probes, landers,
-    rovers, orbiting constellations, and orbiting relays.  These links are characterized
-    by short time delays, moderate (not weak) signals, and short, independent sessions.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>This Recommendation details Space Data System Standards in the area
+    of Proximity space links.  Proximity space links are defined to be short-range,
+    bi-directional, fixed or mobile radio links, generally used to communicate among
+    probes, landers, rovers, orbiting constellations, and orbiting relays.  These
+    links are characterized by short time delays, moderate (not weak) signals, and
+    short, independent sessions.</p>\n"
+status:
   stage:
-    value: withdrawn
+    content: withdrawn
 relation:
 - type: hasSuccessor
   bibitem:
-    id: CCSDS211.0-B-3-S
-    docid:
-    - id: CCSDS 211.0-B-3-S
+    formattedref: CCSDS 211.0-B-3-S
+    docidentifier:
+    - content: CCSDS 211.0-B-3-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 211.0-B-3-S
-      format: text/plain
 - type: adoptedAs
   bibitem:
-    id: ISO22663
-    docid:
-    - id: ISO 22663
-      type: CCSDS
+    formattedref: ISO 22663:2015
+    source:
+    - type: src
+      content: https://www.iso.org/standard/67091.html?browse=tc
+    docidentifier:
+    - content: ISO 22663:2015
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 22663
-      format: text/plain
 ext:
   doctype:
-    type: standard
+    content: standard

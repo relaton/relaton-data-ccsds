@@ -1,73 +1,64 @@
 ---
-schema-version: v1.2.9
-id: CCSDS503.0-B-1
+schema_version: v1.4.1
 title:
-- content: Tracking Data Message
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/503x0b1s.pdf
-  type: pdf
-docid:
-- id: CCSDS 503.0-B-1
+- language: en
+  script: Latn
+  content: Tracking Data Message
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3700/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//503x0b1s.pdf
+docidentifier:
+- content: CCSDS 503.0-B-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2007-11
+  at: 2007-11
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: MOIMS-NAV
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2007-11
 abstract:
-- content: |-
-    The Tracking Data Message (TDM) Recommended Standard specifies a standard message format for use in exchanging spacecraft tracking data between space agencies.  The current version of this document contains all updates through technical corrigendum 1, dated September 2010.
-
-    This document issue was superseded by CCSDS 503.0-B-2, Tracking Data Message (Blue Book, Issue 2), released June 2020.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>The Tracking Data Message (TDM) Recommended Standard specifies a standard
+    message format for use in exchanging spacecraft tracking data between space agencies.
+    \ The current version of this document contains all updates through technical
+    corrigendum 1, dated September 2010.nThis document issue was superseded by CCSDS
+    503.0-B-2, Tracking Data Message (Blue Book, Issue 2), released June 2020.</p>\n"
+status:
   stage:
-    value: withdrawn
+    content: withdrawn
 relation:
 - type: hasSuccessor
   bibitem:
-    id: CCSDS503.0-B-1-S
-    docid:
-    - id: CCSDS 503.0-B-1-S
+    formattedref: CCSDS 503.0-B-1-S
+    docidentifier:
+    - content: CCSDS 503.0-B-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 503.0-B-1-S
-      format: text/plain
 - type: adoptedAs
   bibitem:
-    id: ISO13526
-    docid:
-    - id: ISO 13526
-      type: CCSDS
+    formattedref: ISO 13526:2010
+    source:
+    - type: src
+      content: https://www.iso.org/standard/53984.html?browse=tc
+    docidentifier:
+    - content: ISO 13526:2010
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 13526
-      format: text/plain
-- type: updatedBy
-  bibitem:
-    id: CCSDS503.0-B-1Cor.1
-    docid:
-    - id: CCSDS 503.0-B-1 Cor. 1
-      type: CCSDS
-      primary: true
-    formattedref:
-      content: CCSDS 503.0-B-1 Cor. 1
-      format: text/plain
 ext:
   doctype:
-    type: standard
-  editorialgroup:
-  - name: MOIMS-NAV
-  technology_area: Mission Operations and Information Management Services Area
+    content: standard

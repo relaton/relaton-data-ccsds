@@ -1,55 +1,53 @@
 ---
-schema-version: v1.2.9
-id: CCSDS313.0-Y-2-S
+schema_version: v1.4.1
 title:
-- content: Space Assigned Numbers Authority (SANA)--Role, Responsibilities, Policies,
+- language: en
+  script: Latn
+  content: Space Assigned Numbers Authority (SANA)—Role, Responsibilities, Policies,
     and Procedures
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/313x0y2s.pdf
-  type: pdf
-docid:
-- id: CCSDS 313.0-Y-2-S
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3634/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//313x0y2s.pdf
+docidentifier:
+- content: CCSDS 313.0-Y-2-S
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2016-05
+  at: 2016-05
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SEA-SANA
+      type: technical-committee
 edition:
   content: '2'
-revdate: 2016-05
 abstract:
-- content: "This CCSDS Record defines the Space Assigned Numbers Authority (SANA),
-    its role, responsibilities, policies, and procedures within the Consultative Committee
-    for Space Data Systems (CCSDS).\n\nThis document issue was superseded by CCSDS
-    \n313.0-Y-3, Space Assigned Numbers Authority \n(SANA)—Role, Responsibilities,
-    Policies, and \nProcedures (Yellow Book, Issue 3), released October 2020.\""
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: |
+    <p>This CCSDS Record defines the Space Assigned Numbers Authority (SANA), its role, responsibilities, policies, and procedures within the Consultative Committee for Space Data Systems (CCSDS). </p>
+    <p>This document issue was superseded by CCSDS 313.0-Y-3, Space Assigned Numbers Authority (SANA)—Role, Responsibilities, Policies, and Procedures (Yellow Book, Issue 3), released October 2020."</p>
+status:
   stage:
-    value: published
+    content: published
 relation:
 - type: successorOf
   bibitem:
-    id: CCSDS313.0-Y-2
-    docid:
-    - id: CCSDS 313.0-Y-2
+    formattedref: CCSDS 313.0-Y-2
+    docidentifier:
+    - content: CCSDS 313.0-Y-2
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 313.0-Y-2
-      format: text/plain
 ext:
   doctype:
-    type: record
-  editorialgroup:
-  - name: SEA-SANA
-  technology_area: Systems Engineering Area
+    content: record

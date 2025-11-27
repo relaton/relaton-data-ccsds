@@ -1,53 +1,52 @@
 ---
-schema-version: v1.2.9
-id: CCSDS551.1-O-1
+schema_version: v1.4.1
 title:
-- content: Correlated Data Generation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/551x1o1e1s.pdf
-  type: pdf
-docid:
-- id: CCSDS 551.1-O-1
+- language: en
+  script: Latn
+  content: Correlated Data Generation
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3712/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//551x1o1e1s.pdf
+docidentifier:
+- content: CCSDS 551.1-O-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2015-07
+  at: 2015-07
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: MOIMS-SM&amp;C
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2015-07
 abstract:
-- content: "This CCSDS Experimental Specification specifies a method for correlated
-    data generation through the use of data acquired from diverse channels.  \n\nThis
-    document issue was superseded by CCSDS 551.1-O-2, Correlated Data Generation (Orange
-    Book, Issue 2), released August 2020.\""
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: |
+    <p>This CCSDS Experimental Specification specifies a method for correlated data generation through the use of data acquired from diverse channels. </p>
+    <p>This document issue was superseded by CCSDS 551.1-O-2, Correlated Data Generation (Orange Book, Issue 2), released August 2020."</p>
+status:
   stage:
-    value: withdrawn
+    content: withdrawn
 relation:
 - type: hasSuccessor
   bibitem:
-    id: CCSDS551.1-O-1-S
-    docid:
-    - id: CCSDS 551.1-O-1-S
+    formattedref: CCSDS 551.1-O-1-S
+    docidentifier:
+    - content: CCSDS 551.1-O-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 551.1-O-1-S
-      format: text/plain
 ext:
   doctype:
-    type: specification
-  editorialgroup:
-  - name: MOIMS-SM&C
-  technology_area: Mission Operations and Information Management Services Area
+    content: specification

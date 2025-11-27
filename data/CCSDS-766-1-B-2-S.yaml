@@ -1,67 +1,62 @@
 ---
-schema-version: v1.2.9
-id: CCSDS766.1-B-2-S
+schema_version: v1.4.1
 title:
-- content: Digital Motion Imagery
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/766x1b2s.pdf
-  type: pdf
-docid:
-- id: CCSDS 766.1-B-2-S
+- language: en
+  script: Latn
+  content: Digital Motion Imagery
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3757/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//766x1b2s.pdf
+docidentifier:
+- content: CCSDS 766.1-B-2-S
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2016-08
+  at: 2016-08
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SIS-MIA
+      type: technical-committee
 edition:
   content: '2'
-revdate: 2016-08
 abstract:
-- content: 'This Recommended Standard provides a common reference and framework of
-    standards for digital motion imagery and provides recommendations for utilization
-    of international standards for capturing and transferring motion imagery between
-    spacecraft elements and ground systems. The current draft adds support for MPEG4
-    recording and JPEG2000 transmission.  This document issue was superseded by CCSDS
-    766.1-B-3, Digital Motion Imagery (Blue Book, Issue 3), released April 2021.
-
-    '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: |
+    <p>This Recommended Standard provides a common reference and framework of standards for digital motion imagery and provides recommendations for utilization of international standards for capturing and transferring motion imagery between spacecraft elements and ground systems. The current draft adds support for MPEG4 recording and JPEG2000 transmission.</p>
+    <p>This document issue was superseded by CCSDS 766.1-B-3, Digital Motion Imagery (Blue Book, Issue 3), released April 2021.</p>
+status:
   stage:
-    value: published
+    content: published
 relation:
 - type: adoptedAs
   bibitem:
-    id: ISO21077
-    docid:
-    - id: ISO 21077
-      type: CCSDS
+    formattedref: ISO 21077:2016
+    source:
+    - type: src
+      content: https://www.iso.org/standard/69837.html?browse=tc
+    docidentifier:
+    - content: ISO 21077:2016
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 21077
-      format: text/plain
 - type: successorOf
   bibitem:
-    id: CCSDS766.1-B-2
-    docid:
-    - id: CCSDS 766.1-B-2
+    formattedref: CCSDS 766.1-B-2
+    docidentifier:
+    - content: CCSDS 766.1-B-2
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 766.1-B-2
-      format: text/plain
 ext:
   doctype:
-    type: standard
-  editorialgroup:
-  - name: SIS-MIA
-  technology_area: Space Internetworking Services Area
+    content: standard

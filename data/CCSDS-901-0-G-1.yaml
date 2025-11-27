@@ -1,43 +1,47 @@
 ---
-schema-version: v1.2.9
-id: CCSDS901.0-G-1
+schema_version: v1.4.1
 title:
-- content: Space Communications Cross Support--Architecture Description Document
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/901x0g1.pdf
-  type: pdf
-docid:
-- id: CCSDS 901.0-G-1
+- language: en
+  script: Latn
+  content: Space Communications Cross Support—Architecture Description Document
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/2982/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//901x0g1.pdf
+docidentifier:
+- content: CCSDS 901.0-G-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2013-11
+  at: 2013-11
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: CSS Area
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2013-11
 abstract:
-- content: This Informational Report describes an architecture in terms of CCSDS-recommended
+- language: en
+  script: Latn
+  content: "<p>This Informational Report describes an architecture in terms of CCSDS-recommended
     configurations for secure space communications cross support. This architecture
     is intended to be used as a common framework when CCSDS Agencies 1) provide and
     use space communications cross support services, and 2) develop systems that provide
-    interoperable space communications cross support services.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+    interoperable space communications cross support services.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 ext:
   doctype:
-    type: report
-  editorialgroup:
-  - name: CSS-CSA
+    content: report
   technology_area: Cross Support Services Area

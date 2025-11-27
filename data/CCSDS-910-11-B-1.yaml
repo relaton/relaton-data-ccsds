@@ -1,61 +1,64 @@
 ---
-schema-version: v1.2.9
-id: CCSDS910.11-B-1
+schema_version: v1.4.1
 title:
-- content: Space Communication Cross Support—Service Management—Service Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/910x11b1s.pdf
-  type: pdf
-docid:
-- id: CCSDS 910.11-B-1
+- language: en
+  script: Latn
+  content: Space Communication Cross Support—Service Management—Service Specification
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3771/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//910x11b1s.pdf
+docidentifier:
+- content: CCSDS 910.11-B-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2009-08
+  at: 2009-08
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2009-08
 abstract:
-- content: This Recommended Standard defines a set of Service Management services
+- language: en
+  script: Latn
+  content: "<p>This Recommended Standard defines a set of Service Management services
     by which space link service providers and space missions exchange information
     needed to arrange spacecraft contact periods and establish the operating parameters
     of the space link services and space link extension transfer services during those
-    contact periods.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+    contact periods.</p>\n"
+status:
   stage:
-    value: withdrawn
+    content: withdrawn
 relation:
 - type: hasSuccessor
   bibitem:
-    id: CCSDS910.11-B-1-S
-    docid:
-    - id: CCSDS 910.11-B-1-S
+    formattedref: CCSDS 910.11-B-1-S
+    docidentifier:
+    - content: CCSDS 910.11-B-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 910.11-B-1-S
-      format: text/plain
 - type: adoptedAs
   bibitem:
-    id: ISO18439
-    docid:
-    - id: ISO 18439
-      type: CCSDS
+    formattedref: ISO 18439:2013
+    source:
+    - type: src
+      content: https://www.iso.org/standard/62454.html?browse=tc
+    docidentifier:
+    - content: ISO 18439:2013
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 18439
-      format: text/plain
 ext:
   doctype:
-    type: standard
+    content: standard

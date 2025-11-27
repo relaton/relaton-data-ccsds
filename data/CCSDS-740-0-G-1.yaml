@@ -1,49 +1,53 @@
 ---
-schema-version: v1.2.9
-id: CCSDS740.0-G-1
+schema_version: v1.4.1
 title:
-- content: Mars Mission Protocol Profiles--Purpose and Rationale
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/740x0g1e1s.pdf
-  type: pdf
-docid:
-- id: CCSDS 740.0-G-1
+- language: en
+  script: Latn
+  content: Mars Mission Protocol Profiles—Purpose and Rationale
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3755/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//740x0g1e1s.pdf
+docidentifier:
+- content: CCSDS 740.0-G-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2008-07
+  at: 2008-07
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2008-07
 abstract:
-- content: This CCSDS Informational Report provides an operations overview for Mars
-    mission interoperability and gives the supporting rationale for the relevant communications
-    protocols to be used in Mars end-to-end operations for packet or file relaying.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>This CCSDS Informational Report provides an operations overview for
+    Mars mission interoperability and gives the supporting rationale for the relevant
+    communications protocols to be used in Mars end-to-end operations for packet or
+    file relaying.</p>\n"
+status:
   stage:
-    value: withdrawn
+    content: withdrawn
 relation:
 - type: hasSuccessor
   bibitem:
-    id: CCSDS740.0-G-1-S
-    docid:
-    - id: CCSDS 740.0-G-1-S
+    formattedref: CCSDS 740.0-G-1-S
+    docidentifier:
+    - content: CCSDS 740.0-G-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 740.0-G-1-S
-      format: text/plain
 ext:
   doctype:
-    type: report
+    content: report

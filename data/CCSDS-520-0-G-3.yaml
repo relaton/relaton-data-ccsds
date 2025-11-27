@@ -1,46 +1,49 @@
 ---
-schema-version: v1.2.9
-id: CCSDS520.0-G-3
+schema_version: v1.4.1
 title:
-- content: Mission Operations Services Concept
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/520x0g3.pdf
-  type: pdf
-docid:
-- id: CCSDS 520.0-G-3
+- language: en
+  script: Latn
+  content: Mission Operations Services Concept
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3094/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//520x0g3.pdf
+docidentifier:
+- content: CCSDS 520.0-G-3
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2010-12
+  at: 2010-12
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: MOIMS-SM&amp;C
+      type: technical-committee
 edition:
   content: '3'
-revdate: 2010-12
 abstract:
-- content: This CCSDS Informational Report presents a set of concepts, reference architecture,
-    and service framework for Spacecraft Monitoring and Control (SM&C).  The standardization
-    of the SM&C interfaces by means  of a service-oriented architecture will allow
-    development of  standardized SM&C infrastructure systems for seamless transfer
-    of data across systems, and adoption of commercial-off-the-shelf applications
-    for monitoring and control purposes.  The result will be  significant savings
-    in the development of the flight components and the ground segment of future space
-    missions.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>This CCSDS Informational Report presents a set of concepts, reference
+    architecture, and service framework for Spacecraft Monitoring and Control (SM&amp;C).
+    \ The standardization of the SM&amp;C interfaces by means  of a service-oriented
+    architecture will allow development of  standardized SM&amp;C infrastructure systems
+    for seamless transfer of data across systems, and adoption of commercial-off-the-shelf
+    applications for monitoring and control purposes.  The result will be  significant
+    savings in the development of the flight components and the ground segment of
+    future space missions.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 ext:
   doctype:
-    type: report
-  editorialgroup:
-  - name: MOIMS-SM&C
-  technology_area: Mission Operations and Information Management Services Area
+    content: report

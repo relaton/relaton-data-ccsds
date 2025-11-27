@@ -1,0 +1,55 @@
+---
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Parameter Value Language Specification (CCSD0006 and CCSD0008)
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3033/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//641x0b2.pdf
+docidentifier:
+- content: CCSDS 641.0-B-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2000-06
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: MOIMS-DAI
+      type: technical-committee
+edition:
+  content: '2'
+abstract:
+- language: en
+  script: Latn
+  content: |
+    <p>The Parameter Value Language (PVL) Recommended Standard defines a human-readable, machine-processable language for naming and expressing data values.  This update to the first issue of the Recommended Standard extends the PVL character set definitions to include the G1 set of ISO 8859-1 to support use of accented characters used in many languages.  It also includes some clarifications and corrections to the original issue, including preservation of statement order within an object, and it updates the document style for consistency with current CCSDS style guidelines.  Changes from the previous issue are flagged with change bars in the outside margin and summarized in the Document Control section (page v).  The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance.</p>
+    <p>This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>
+status:
+  stage:
+    content: published
+relation:
+- type: adoptedAs
+  bibitem:
+    formattedref: ISO 14961:2002
+    source:
+    - type: src
+      content: https://www.iso.org/standard/34701.html?browse=tc
+    docidentifier:
+    - content: ISO 14961:2002
+      type: ISO
+      primary: true
+ext:
+  doctype:
+    content: standard

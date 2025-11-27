@@ -1,50 +1,50 @@
 ---
-schema-version: v1.2.9
-id: CCSDS701.00-R-3-S
+schema_version: v1.4.1
 title:
-- content: 'Advanced Orbiting Systems, Networks and Data Links: Architectural Specification'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/701RB3.pdf
-  type: pdf
-docid:
-- id: CCSDS 701.00-R-3-S
+- language: en
+  script: Latn
+  content: 'Advanced Orbiting Systems, Networks and Data Links: Architectural Specification'
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3720/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//701RB3.pdf
+docidentifier:
+- content: CCSDS 701.00-R-3-S
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 1989-06
+  at: 1989-06
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
   content: '3'
-revdate: 1989-06
 abstract:
-- content: 'This Red Book is a draft CCSDS Recommendation that was released for CCSDS
-    Agency review in June 1989.  In October 1989 it was superseded by a CCSDS Blue
-    Book, CCSDS 701.0-B-1.  This June 1989 draft is maintained here for historical
-    purposes.  It should not be used as the basis for new implementations. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>This Red Book is a draft CCSDS Recommendation that was released for
+    CCSDS Agency review in June 1989.  In October 1989 it was superseded by a CCSDS
+    Blue Book, CCSDS 701.0-B-1.  This June 1989 draft is maintained here for historical
+    purposes.  It should not be used as the basis for new implementations.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 relation:
 - type: successorOf
   bibitem:
-    id: CCSDS701.00-R-3
-    docid:
-    - id: CCSDS 701.00-R-3
+    formattedref: CCSDS 701.00-R-3
+    docidentifier:
+    - content: CCSDS 701.00-R-3
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 701.00-R-3
-      format: text/plain
-ext:
-  doctype:
-    type:

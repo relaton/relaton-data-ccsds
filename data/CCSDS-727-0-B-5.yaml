@@ -1,0 +1,59 @@
+---
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CCSDS File Delivery Protocol (CFDP)
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3151/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//727x0b5e1.pdf
+docidentifier:
+- content: CCSDS 727.0-B-5
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2020-07
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SIS-CFDPV1
+      type: technical-committee
+edition:
+  content: '5'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The CFDP Recommended Standard defines a protocol suitable for the transmission
+    of files to and from spacecraft data storage and capable of operating in a wide
+    variety of mission configurations.  In addition to the purely file delivery related
+    functions, the protocol includes file management services to allow control over
+    the storage medium.  The current update  adds support for choice of checksum algorithm
+    from a new SANA Checksum Types registry and updates/clarifies some text based
+    on interoperability testing.</p>\n"
+status:
+  stage:
+    content: published
+relation:
+- type: adoptedAs
+  bibitem:
+    formattedref: ISO 17355:2007
+    source:
+    - type: src
+      content: https://www.iso.org/standard/43829.html?browse=tc
+    docidentifier:
+    - content: ISO 17355:2007
+      type: ISO
+      primary: true
+ext:
+  doctype:
+    content: standard

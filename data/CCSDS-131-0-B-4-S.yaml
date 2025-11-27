@@ -1,52 +1,52 @@
 ---
-schema-version: v1.2.9
-id: CCSDS131.0-B-4-S
+schema_version: v1.4.1
 title:
-- content: 'TM Synchronization and Channel Coding '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/131x0b4s.pdf
-  type: pdf
-docid:
-- id: CCSDS 131.0-B-4-S
+- language: en
+  script: Latn
+  content: TM Synchronization and Channel Coding
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3575/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//131x0b4s.pdf
+docidentifier:
+- content: CCSDS 131.0-B-4-S
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2022-04
+  at: 2022-04
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SLS-C&amp;S
+      type: technical-committee
 edition:
   content: '4'
-revdate: 2022-04
 abstract:
-- content: |-
-    The Recommended Standard for TM Synchronization and Channel Coding contains specifications to be used by space missions on synchronous communications links. The current update adds support for the Unified Space Data Link Protocol and ground-to-space communications links.
-    <br><br>This document issue was superseded by CCSDS 131.0-B-5, TM Synchronization and Channel Coding (Blue Book, Issue 5), released September 2023.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: |
+    <p>The Recommended Standard for TM Synchronization and Channel Coding contains specifications to be used by space missions on synchronous communications links. The current update adds support for the Unified Space Data Link Protocol and ground-to-space communications links.</p>
+    <p>This document issue was superseded by CCSDS 131.0-B-5, TM Synchronization and Channel Coding (Blue Book, Issue 5), released September 2023.</p>
+status:
   stage:
-    value: published
+    content: published
 relation:
 - type: successorOf
   bibitem:
-    id: CCSDS131.0-B-4
-    docid:
-    - id: CCSDS 131.0-B-4
+    formattedref: CCSDS 131.0-B-4
+    docidentifier:
+    - content: CCSDS 131.0-B-4
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 131.0-B-4
-      format: text/plain
 ext:
   doctype:
-    type: standard
-  editorialgroup:
-  - name: SLS-C&S
-  technology_area: Space Link Services Area
+    content: standard

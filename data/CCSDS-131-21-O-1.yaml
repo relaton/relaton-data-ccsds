@@ -1,53 +1,44 @@
 ---
-schema-version: v1.2.9
-id: CCSDS131.21-O-1
+schema_version: v1.4.1
 title:
-- content: Serially Concatenated Convolutional Codes—Extension (SCCC-X)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/131x21o1c1.pdf
-  type: pdf
-docid:
-- id: CCSDS 131.21-O-1
+- language: en
+  script: Latn
+  content: Serially Concatenated Convolutional Codes—Extension (SCCC-X)
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3194/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//131x21o1c1.pdf
+docidentifier:
+- content: CCSDS 131.21-O-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2021-05
+  at: 2021-05
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SLS-C&amp;S
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2021-05
 abstract:
-- content: |-
-    This CCSDS Experimental Specification extends the existing CCSDS Recommended Standard for Flexible Advanced Coding and Modulation Scheme for High Rate Telemetry Applications (CCSDS 131.2-B-1, ), in order to add new Modulation and Coding (MODCODs) options, thereby increasing the range of operating conditions to higher signal-to-noise ratios.
-    <br><br>
-    The current version of this document contains all updates through technical corrigendum 1, dated April 2022
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: |
+    <p>This CCSDS Experimental Specification extends the existing CCSDS Recommended Standard for Flexible Advanced Coding and Modulation Scheme for High Rate Telemetry Applications (CCSDS 131.2-B-1, ), in order to add new Modulation and Coding (MODCODs) options, thereby increasing the range of operating conditions to higher signal-to-noise ratios.</p>
+    <p>The current version of this document contains all updates through technical corrigendum 1, dated April 2022</p>
+status:
   stage:
-    value: published
-relation:
-- type: updatedBy
-  bibitem:
-    id: CCSDS131.21-O-1Cor.1
-    docid:
-    - id: CCSDS 131.21-O-1 Cor. 1
-      type: CCSDS
-      primary: true
-    formattedref:
-      content: CCSDS 131.21-O-1 Cor. 1
-      format: text/plain
+    content: published
 ext:
   doctype:
-    type: specification
-  editorialgroup:
-  - name: SLS-C&S
-  technology_area: Space Link Services Area
+    content: specification

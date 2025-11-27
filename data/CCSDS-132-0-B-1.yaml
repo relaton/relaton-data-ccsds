@@ -1,72 +1,62 @@
 ---
-schema-version: v1.2.9
-id: CCSDS132.0-B-1
+schema_version: v1.4.1
 title:
-- content: TM Space Data Link Protocol
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/132x0b1c1e1s.pdf
-  type: pdf
-docid:
-- id: CCSDS 132.0-B-1
+- language: en
+  script: Latn
+  content: TM Space Data Link Protocol
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3583/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//132x0b1c1e1s.pdf
+docidentifier:
+- content: CCSDS 132.0-B-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2003-09
+  at: 2003-09
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2003-09
 abstract:
-- content: 'This Recommendation specifies the Data Link layer protocol, services,
-    and procedures pertaining to the CCSDS Version-1 Synchronous Transfer Frame. These
-    specifications correspond with the Data Link layer specifications contained in
-    Packet Telemetry and Packet Telemetry Service Specification, respectively.  (Note:
-    This is a restructured Recommendation*.)  The current version of this document
-    contains all updates through technical corrigendum 1, dated September 2012.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: |
+    <p>This Recommendation specifies the Data Link layer protocol, services, and procedures pertaining to the CCSDS Version-1 Synchronous Transfer Frame. These specifications correspond with the Data Link layer specifications contained in Packet Telemetry and Packet Telemetry Service Specification, respectively.  (Note: This is a restructured Recommendation*.)  </p>
+    <p>The current version of this document contains all updates through technical corrigendum 1, dated September 2012.</p>
+status:
   stage:
-    value: withdrawn
+    content: withdrawn
 relation:
 - type: hasSuccessor
   bibitem:
-    id: CCSDS132.0-B-1-S
-    docid:
-    - id: CCSDS 132.0-B-1-S
+    formattedref: CCSDS 132.0-B-1-S
+    docidentifier:
+    - content: CCSDS 132.0-B-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 132.0-B-1-S
-      format: text/plain
 - type: adoptedAs
   bibitem:
-    id: ISO22645
-    docid:
-    - id: ISO 22645
-      type: CCSDS
+    formattedref: ISO 22645:2016
+    source:
+    - type: src
+      content: https://www.iso.org/standard/70698.html?browse=tc
+    docidentifier:
+    - content: ISO 22645:2016
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 22645
-      format: text/plain
-- type: updatedBy
-  bibitem:
-    id: CCSDS132.0-B-1Cor.1
-    docid:
-    - id: CCSDS 132.0-B-1 Cor. 1
-      type: CCSDS
-      primary: true
-    formattedref:
-      content: CCSDS 132.0-B-1 Cor. 1
-      format: text/plain
 ext:
   doctype:
-    type: standard
+    content: standard

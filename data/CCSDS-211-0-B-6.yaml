@@ -1,0 +1,56 @@
+---
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Proximity-1 Space Link Protocol—Data Link Layer
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3266/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//211x0b6e1.pdf
+docidentifier:
+- content: CCSDS 211.0-B-6
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2020-07
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SLS-SLP
+      type: technical-committee
+edition:
+  content: '6'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The CCSDS Recommended Standard for Proximity-1 Space Link Protocol-Data
+    Link Layer specifies the protocol, services, and procedures pertaining to the
+    CCSDS Version-3 Transfer Frame. The current update adds text related to use of
+    the CCSDS Version-4 (USLP) Transfer Frame.</p>\n"
+status:
+  stage:
+    content: published
+relation:
+- type: adoptedAs
+  bibitem:
+    formattedref: ISO 22663:2015
+    source:
+    - type: src
+      content: https://www.iso.org/standard/67091.html?browse=tc
+    docidentifier:
+    - content: ISO 22663:2015
+      type: ISO
+      primary: true
+ext:
+  doctype:
+    content: standard

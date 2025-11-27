@@ -1,48 +1,51 @@
 ---
-schema-version: v1.2.9
-id: CCSDS706.2-G-1-S
+schema_version: v1.4.1
 title:
-- content: Voice Communications
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/706x2g1s.pdf
-  type: pdf
-docid:
-- id: CCSDS 706.2-G-1-S
+- language: en
+  script: Latn
+  content: Voice Communications
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3730/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//706x2g1s.pdf
+docidentifier:
+- content: CCSDS 706.2-G-1-S
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2010-09
+  at: 2010-09
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2010-09
 abstract:
-- content: This CCSDS Informational Report presents an overview of voice communications
-    in use in human spaceflight.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>This CCSDS Informational Report presents an overview of voice communications
+    in use in human spaceflight.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 relation:
 - type: successorOf
   bibitem:
-    id: CCSDS706.2-G-1
-    docid:
-    - id: CCSDS 706.2-G-1
+    formattedref: CCSDS 706.2-G-1
+    docidentifier:
+    - content: CCSDS 706.2-G-1
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 706.2-G-1
-      format: text/plain
 ext:
   doctype:
-    type: report
+    content: report

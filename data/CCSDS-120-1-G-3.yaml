@@ -1,44 +1,47 @@
 ---
-schema-version: v1.2.9
-id: CCSDS120.1-G-3
+schema_version: v1.4.1
 title:
-- content: 'Image Data Compression '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/120x1g3.pdf
-  type: pdf
-docid:
-- id: CCSDS 120.1-G-3
+- language: en
+  script: Latn
+  content: Image Data Compression
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3209/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/04/120x1g3.pdf
+docidentifier:
+- content: CCSDS 120.1-G-3
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2021-11
+  at: 2021-11
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SLS-DC
+      type: technical-committee
 edition:
   content: '3'
-revdate: 2021-11
 abstract:
-- content: This Informational Report presents a summary of the key operational concepts
-    and rationale which underlie the requirements for the CCSDS Recommended Standard,
-    Image Data Compression (CCSDS 122.0-B-1). Supporting performance information along
-    with illustrations are also included. This report provides a broad tutorial overview
-    of the CCSDS Image Data Compression algorithm and is aimed at helping first-time
-    readers to understand the Recommended Standard.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>This Informational Report presents a summary of the key operational
+    concepts and rationale which underlie the requirements for the CCSDS Recommended
+    Standard, Image Data Compression (CCSDS 122.0-B-1). Supporting performance information
+    along with illustrations are also included. This report provides a broad tutorial
+    overview of the CCSDS Image Data Compression algorithm and is aimed at helping
+    first-time readers to understand the Recommended Standard.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 ext:
   doctype:
-    type: report
-  editorialgroup:
-  - name: SLS-DC
-  technology_area: Space Link Services Area
+    content: report

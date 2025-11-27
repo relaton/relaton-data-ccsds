@@ -1,28 +1,39 @@
 ---
-schema-version: v1.2.9
-id: CCSDS880.0-G-1
+schema_version: v1.4.1
 title:
-- content: Wireless Network Communications Overview for Space Mission Operations
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/880x0g1s.pdf
-  type: pdf
-docid:
-- id: CCSDS 880.0-G-1
+- language: en
+  script: Latn
+  content: Wireless Network Communications Overview for Space Mission Operations
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3766/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//880x0g1s.pdf
+docidentifier:
+- content: CCSDS 880.0-G-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2010-12
+  at: 2010-12
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2010-12
 abstract:
-- content: This Informational Report contains background and explanatory material
+- language: en
+  script: Latn
+  content: "<p>This Informational Report contains background and explanatory material
     to support the CCSDS wireless network communications Best Practices for networked
     wireless communications in support of space missions.  It examines the possibilities
     and advantages of the onboard application of wireless communications technology
@@ -31,26 +42,18 @@ abstract:
     standards to meet the resulting space-based use case requirements.  Also included
     is relevant tutorial information intended to assist the reader in understanding
     basic concepts of wireless transmission and networking along with possible issues
-    related to the deployment of wireless networks.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+    related to the deployment of wireless networks.</p>\n"
+status:
   stage:
-    value: withdrawn
+    content: withdrawn
 relation:
 - type: hasSuccessor
   bibitem:
-    id: CCSDS880.0-G-1-S
-    docid:
-    - id: CCSDS 880.0-G-1-S
+    formattedref: CCSDS 880.0-G-1-S
+    docidentifier:
+    - content: CCSDS 880.0-G-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 880.0-G-1-S
-      format: text/plain
 ext:
   doctype:
-    type: report
+    content: report

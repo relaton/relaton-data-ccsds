@@ -1,55 +1,58 @@
 ---
-schema-version: v1.2.9
-id: CCSDS722.1-M-1
+schema_version: v1.4.1
 title:
-- content: Operation of CFDP over Encapsulation Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/722x1m1.pdf
-  type: pdf
-docid:
-- id: CCSDS 722.1-M-1
+- language: en
+  script: Latn
+  content: Operation of CFDP over Encapsulation Service
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3152/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//722x1m1.pdf
+docidentifier:
+- content: CCSDS 722.1-M-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2014-03
+  at: 2014-03
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SIS-CFDPV1
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2014-03
 abstract:
-- content: This CCSDS Recommended Practice specifies how to operate the CCSDS File
-    Delivery Protocol (CFDP) over the CCSDS Encapsulation Service as provided for
-    Earth-to-spacecraft, spacecraft-to-Earth, and spacecraft-to-spacecraft communications.
+- language: en
+  script: Latn
+  content: "<p>This CCSDS Recommended Practice specifies how to operate the CCSDS
+    File Delivery Protocol (CFDP) over the CCSDS Encapsulation Service as provided
+    for Earth-to-spacecraft, spacecraft-to-Earth, and spacecraft-to-spacecraft communications.
     It sets out the communications architecture for CFDP operating over the Encapsulation
     Service.  It describes the service expected by CFDP of the underlying layers and
-    reconciles this with the service provided by the Encapsulation Service.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+    reconciles this with the service provided by the Encapsulation Service.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 relation:
 - type: adoptedAs
   bibitem:
-    id: ISO20105
-    docid:
-    - id: ISO 20105
-      type: CCSDS
+    formattedref: ISO 20105:2015
+    source:
+    - type: src
+      content: https://www.iso.org/standard/67057.html?browse=tc
+    docidentifier:
+    - content: ISO 20105:2015
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 20105
-      format: text/plain
 ext:
   doctype:
-    type: practice
-  editorialgroup:
-  - name: SIS-CFDPV1
-  technology_area: Space Internetworking Services Area
+    content: practice

@@ -1,0 +1,57 @@
+---
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CCSDS Bundle Protocol Specification
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3164/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//734x2b1.pdf
+docidentifier:
+- content: CCSDS 734.2-B-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2015-09
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SIS-DTN
+      type: technical-committee
+edition:
+  content: '1'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Recommended Standard defines a CCSDS Bundle Protocol based on
+    the Bundle Protocol of RFC 5050, with necessary extensions to support the Delay/Disruption
+    Tolerant Networking (DTN) of space applications.  The current issue incorporates
+    changes reflecting responses to comments resulting from review of the second draft
+    issue.</p>\n"
+status:
+  stage:
+    content: published
+relation:
+- type: adoptedAs
+  bibitem:
+    formattedref: ISO 21323:2016
+    source:
+    - type: src
+      content: https://www.iso.org/standard/70545.html?browse=tc
+    docidentifier:
+    - content: ISO 21323:2016
+      type: ISO
+      primary: true
+ext:
+  doctype:
+    content: standard

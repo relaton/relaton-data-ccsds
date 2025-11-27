@@ -1,70 +1,64 @@
 ---
-schema-version: v1.2.9
-id: CCSDS713.5-B-1-S
+schema_version: v1.4.1
 title:
-- content: Space Communications Protocol Specification (SCPS)—Security Protocol (SCPS-SP)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/713x5b1sc1.pdf
-  type: pdf
-docid:
-- id: CCSDS 713.5-B-1-S
+- language: en
+  script: Latn
+  content: Space Communications Protocol Specification (SCPS)—Security Protocol (SCPS-SP)
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3732/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//713x5b1sc1.pdf
+docidentifier:
+- content: CCSDS 713.5-B-1-S
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 1999-05
+  at: 1999-05
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
   content: '1'
-revdate: 1999-05
 abstract:
-- content: |
-    This Recommendation defines the SCPS** security protocol and services.
-    -----------------------------------------------------------------------------------------------
-    Warning – This document is being considered to be retired (converted to historical status as a silver book) and removed from the CCSDS library as an active recommended document.  The planned timeframe to take action on retiring this document is April 2009.  This is being done because we believe that the document is not in use by programs or projects at this time. If this action could have a detrimental effect on your program or project, please notify the CCSDS Secretariat mailto:secretariat@mailman.ccsds.org.  The current version of this document contains all updates through technical corrigendum 1, dated August 2010.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: |
+    <p>This Recommendation defines the SCPS** security protocol and services.<br />
+    -------------------------------Warning--------------------------------<br />
+    This document is being considered to be retired (converted to historical status as a silver book) and removed from the CCSDS library as an active recommended document.  The planned timeframe to take action on retiring this document is April 2009.  This is being done because we believe that the document is not in use by programs or projects at this time. If this action could have a detrimental effect on your program or project, please notify the CCSDS Secretariat mailto:secretariat@mailman.ccsds.org.</p>
+    <p>The current version of this document contains all updates through technical corrigendum 1, dated August 2010.</p>
+status:
   stage:
-    value: published
+    content: published
 relation:
 - type: adoptedAs
   bibitem:
-    id: ISO15892
-    docid:
-    - id: ISO 15892
-      type: CCSDS
+    formattedref: ISO 15892:2000
+    source:
+    - type: src
+      content: https://www.iso.org/standard/29445.html?browse=tc
+    docidentifier:
+    - content: ISO 15892:2000
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 15892
-      format: text/plain
-- type: updatedBy
-  bibitem:
-    id: CCSDS713.5-B-1-SCor.1
-    docid:
-    - id: CCSDS 713.5-B-1-S Cor. 1
-      type: CCSDS
-      primary: true
-    formattedref:
-      content: CCSDS 713.5-B-1-S Cor. 1
-      format: text/plain
 - type: successorOf
   bibitem:
-    id: CCSDS713.5-B-1
-    docid:
-    - id: CCSDS 713.5-B-1
+    formattedref: CCSDS 713.5-B-1
+    docidentifier:
+    - content: CCSDS 713.5-B-1
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 713.5-B-1
-      format: text/plain
 ext:
   doctype:
-    type: standard
+    content: standard

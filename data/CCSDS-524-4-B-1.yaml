@@ -1,0 +1,45 @@
+---
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mission Operations—Message Abstraction Layer Binding to ZMTP Transport
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3101/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//524x4b1e1.pdf
+docidentifier:
+- content: CCSDS 524.4-B-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2019-10
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: MOIMS-SM&amp;C
+      type: technical-committee
+edition:
+  content: '1'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Recommended Standard defines the binding between the Mission Operations
+    (MO) Message Abstraction Layer (MAL) and the ZeroMQ Message Transport Protocol
+    (ZMTP). This binding allows MO Services to use ZMTP as messaging technology in
+    all situations where this may be required.</p>\n"
+status:
+  stage:
+    content: published
+ext:
+  doctype:
+    content: standard

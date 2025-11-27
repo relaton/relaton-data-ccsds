@@ -1,76 +1,59 @@
 ---
-schema-version: v1.2.9
-id: CCSDS650.0-M-2
+schema_version: v1.4.1
 title:
-- content: Reference Model for an Open Archival Information System (OAIS)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/650x0m2s.pdf
-  type: pdf
-docid:
-- id: CCSDS 650.0-M-2
+- language: en
+  script: Latn
+  content: Reference Model for an Open Archival Information System (OAIS)
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3032/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//650x0m2s.pdf
+docidentifier:
+- content: CCSDS 650.0-M-2
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2012-06
+  at: 2012-06
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: MOIMS-DAI
+      type: technical-committee
 edition:
   content: '2'
-revdate: 2012-06
 abstract:
-- content: |-
-    This Recommended Practice defines the Reference Model for an Open Archival Information System (OAIS).  The current issue includes clarifications to many concepts, in particular, Authenticity with the concept of Transformational Information Property introduced; corrections and improvements in diagrams; addition of Access Rights Information to PDI.
-    <br><br>
-    A French Translated version of this book can be found by <a href="NonEnglishVersions.aspx">clicking here</a>.
-    <br><br>
-    This document issue was superseded by CCSDS 650.0-M-3, Reference Model for an Open Archival Information System (OAIS) (Magenta Book, Issue 3), released
-    December 2024.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: |
+    <p>This Recommended Practice defines the Reference Model for an Open Archival Information System (OAIS).  The current issue includes clarifications to many concepts, in particular, Authenticity with the concept of Transformational Information Property introduced; corrections and improvements in diagrams; addition of Access Rights Information to PDI.</p>
+    <p>This document issue was superseded by CCSDS 650.0-M-3</p>
+status:
   stage:
-    value: withdrawn
+    content: withdrawn
 relation:
 - type: hasSuccessor
   bibitem:
-    id: CCSDS650.0-M-2-S
-    docid:
-    - id: CCSDS 650.0-M-2-S
+    formattedref: CCSDS 650.0-M-2-S
+    docidentifier:
+    - content: CCSDS 650.0-M-2-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 650.0-M-2-S
-      format: text/plain
-- type: adoptedAs
-  bibitem:
-    id: ISO14721
-    docid:
-    - id: ISO 14721
-      type: CCSDS
-      primary: true
-    formattedref:
-      content: ISO 14721
-      format: text/plain
 - type: hasInstance
   bibitem:
-    id: CCSDS650.0-M-2-FrenchTranslated
-    docid:
-    - id: CCSDS 650.0-M-2 - French Translated
+    formattedref: CCSDS 650.0-M-2 - French Translated
+    docidentifier:
+    - content: CCSDS 650.0-M-2 - French Translated
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 650.0-M-2 - French Translated
-      format: text/plain
 ext:
   doctype:
-    type: practice
-  editorialgroup:
-  - name: MOIMS-DAI
-  technology_area: Mission Operations and Information Management Services Area
+    content: practice

@@ -1,51 +1,51 @@
 ---
-schema-version: v1.2.9
-id: CCSDSA31.0-G-1-S
+schema_version: v1.4.1
 title:
-- content: Unique Identification of CCSDS Objects and Services
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/A31x0g1s.pdf
-  type: pdf
-docid:
-- id: CCSDS A31.0-G-1-S
+- language: en
+  script: Latn
+  content: Unique Identification of CCSDS Objects and Services
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3816/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//A31x0g1s.pdf
+docidentifier:
+- content: CCSDS A31.0-G-1-S
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2000-06
+  at: 2000-06
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2000-06
 abstract:
-- content: This Report defines the highest-level CCSDS identifiers available to distinguish
-    among types of CCSDS-defined objects and services at the CCSDS level, and it describes
-    how to construct unique identifiers in the larger context of International Organization
-    for Standardization (ISO) and International Telegraph and Telephone Consultative
-    Committee (CCITT) identifiers.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>This Report defines the highest-level CCSDS identifiers available to
+    distinguish among types of CCSDS-defined objects and services at the CCSDS level,
+    and it describes how to construct unique identifiers in the larger context of
+    International Organization for Standardization (ISO) and International Telegraph
+    and Telephone Consultative Committee (CCITT) identifiers.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 relation:
 - type: successorOf
   bibitem:
-    id: CCSDSA31.0-G-1
-    docid:
-    - id: CCSDS A31.0-G-1
+    formattedref: CCSDS A31.0-G-1
+    docidentifier:
+    - content: CCSDS A31.0-G-1
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS A31.0-G-1
-      format: text/plain
-ext:
-  doctype:
-    type:

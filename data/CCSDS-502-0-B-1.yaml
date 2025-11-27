@@ -1,62 +1,65 @@
 ---
-schema-version: v1.2.9
-id: CCSDS502.0-B-1
+schema_version: v1.4.1
 title:
-- content: Orbit Data Messages
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/502x0b1s.pdf
-  type: pdf
-docid:
-- id: CCSDS 502.0-B-1
+- language: en
+  script: Latn
+  content: Orbit Data Messages
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3697/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//502x0b1s.pdf
+docidentifier:
+- content: CCSDS 502.0-B-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2004-09
+  at: 2004-09
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2004-09
 abstract:
-- content: 'This Recommendation specifies two standard message formats for use in
-    transferring spacecraft orbit information between space Agencies:  the Orbit Parameter
-    Message (OPM) and the Orbit Ephemeris Message (OEM).  The document includes sets
-    of requirements and criteria that the message formats have been designed to meet.  For
-    exchanges where these requirements do not capture the needs of the participating
-    Agencies, another mechanism may be selected.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>This Recommendation specifies two standard message formats for use
+    in transferring spacecraft orbit information between space Agencies:  the Orbit
+    Parameter Message (OPM) and the Orbit Ephemeris Message (OEM).  The document includes
+    sets of requirements and criteria that the message formats have been designed
+    to meet.  For exchanges where these requirements do not capture the needs of the
+    participating Agencies, another mechanism may be selected.</p>\n"
+status:
   stage:
-    value: withdrawn
+    content: withdrawn
 relation:
 - type: hasSuccessor
   bibitem:
-    id: CCSDS502.0-B-1-S
-    docid:
-    - id: CCSDS 502.0-B-1-S
+    formattedref: CCSDS 502.0-B-1-S
+    docidentifier:
+    - content: CCSDS 502.0-B-1-S
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 502.0-B-1-S
-      format: text/plain
 - type: adoptedAs
   bibitem:
-    id: ISO26900
-    docid:
-    - id: ISO 26900
-      type: CCSDS
+    formattedref: ISO 26900:2012
+    source:
+    - type: src
+      content: https://www.iso.org/standard/46135.html?browse=tc
+    docidentifier:
+    - content: ISO 26900:2012
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 26900
-      format: text/plain
 ext:
   doctype:
-    type: standard
+    content: standard

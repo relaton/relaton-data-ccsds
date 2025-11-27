@@ -1,59 +1,52 @@
 ---
-schema-version: v1.2.9
-id: CCSDS912.1-B-2Cor.1
+schema_version: v1.4.1
 title:
-- content: Technical Corrigendum 1 to CCSDS 912.1-B-2, Issued November 2004
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/912x1b2c1s_tca710.pdf
-  type: pdf
-docid:
-- id: CCSDS 912.1-B-2 Cor. 1
+- language: en
+  script: Latn
+  content: Technical Corrigendum 1 to CCSDS 912.1-B-2, Issued November 2004
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3790/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//912x1b2c1s_tca710.pdf
+docidentifier:
+- content: CCSDS 912.1-B-2 Cor. 1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2007-05
+  at: 2007-05
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
-  content: '2'
-revdate: 2007-05
+  content: 2 Cor. 1
 abstract:
-- content: This Technical Corrigendum documents changes to CCSDS 912.1-B-2, Space
+- language: en
+  script: Latn
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 912.1-B-2, Space
     Link Extension—Forward CLTU Service Specification (Blue Book, Issue 2, December
-    2004).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+    2004).</p>\n"
+status:
   stage:
-    value: withdrawn
+    content: withdrawn
 relation:
 - type: hasSuccessor
   bibitem:
-    id: CCSDS912.1-B-2-SCor.1
-    docid:
-    - id: CCSDS 912.1-B-2-S Cor. 1
+    formattedref: CCSDS 912.1-B-2-S Cor. 1
+    docidentifier:
+    - content: CCSDS 912.1-B-2-S Cor. 1
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 912.1-B-2-S Cor. 1
-      format: text/plain
-- type: updates
-  bibitem:
-    id: CCSDS912.1-B-2
-    docid:
-    - id: CCSDS 912.1-B-2
-      type: CCSDS
-      primary: true
-    formattedref:
-      content: CCSDS 912.1-B-2
-      format: text/plain
 ext:
   doctype:
-    type: standard
+    content: standard

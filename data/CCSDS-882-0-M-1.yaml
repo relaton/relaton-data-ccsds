@@ -1,53 +1,56 @@
 ---
-schema-version: v1.2.9
-id: CCSDS882.0-M-1
+schema_version: v1.4.1
 title:
-- content: Spacecraft Onboard Interface Systems--Low Data-Rate Wireless Communications
+- language: en
+  script: Latn
+  content: Spacecraft Onboard Interface Systems—Low Data-Rate Wireless Communications
     for Spacecraft Monitoring and Control
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/882x0m1.pdf
-  type: pdf
-docid:
-- id: CCSDS 882.0-M-1
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3303/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//882x0m1.pdf
+docidentifier:
+- content: CCSDS 882.0-M-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2013-05
+  at: 2013-05
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SOIS-WIR
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2013-05
 abstract:
-- content: This CCSDS Recommended Practice presents the recommended practices for
-    the utilization of low-data-rate wireless communication technologies in support
-    of spacecraft ground testing and flight monitoring and control applications.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>This CCSDS Recommended Practice presents the recommended practices
+    for the utilization of low-data-rate wireless communication technologies in support
+    of spacecraft ground testing and flight monitoring and control applications.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 relation:
 - type: adoptedAs
   bibitem:
-    id: ISO20205
-    docid:
-    - id: ISO 20205
-      type: CCSDS
+    formattedref: ISO 20205:2015
+    source:
+    - type: src
+      content: https://www.iso.org/standard/67300.html?browse=tc
+    docidentifier:
+    - content: ISO 20205:2015
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 20205
-      format: text/plain
 ext:
   doctype:
-    type: practice
-  editorialgroup:
-  - name: SOIS-WIR
-  technology_area: Spacecraft Onboard Interface Services Area
+    content: practice

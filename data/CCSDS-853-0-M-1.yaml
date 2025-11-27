@@ -1,52 +1,55 @@
 ---
-schema-version: v1.2.9
-id: CCSDS853.0-M-1
+schema_version: v1.4.1
 title:
-- content: Spacecraft Onboard Interface Services--Subnetwork Synchronisation Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/853x0m1.pdf
-  type: pdf
-docid:
-- id: CCSDS 853.0-M-1
+- language: en
+  script: Latn
+  content: Spacecraft Onboard Interface Services—Subnetwork Synchronisation Service
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3298/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//853x0m1.pdf
+docidentifier:
+- content: CCSDS 853.0-M-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2009-12
+  at: 2009-12
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SOIS-SUBNET
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2009-12
 abstract:
-- content: The Recommended Practice defines the services and service interfaces provided
-    by the Spacecraft Onboard Interface Services (SOIS) Subnetwork Synchronisation
-    Service.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+- language: en
+  script: Latn
+  content: "<p>The Recommended Practice defines the services and service interfaces
+    provided by the Spacecraft Onboard Interface Services (SOIS) Subnetwork Synchronisation
+    Service.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 relation:
 - type: adoptedAs
   bibitem:
-    id: ISO18427
-    docid:
-    - id: ISO 18427
-      type: CCSDS
+    formattedref: ISO 18427:2013
+    source:
+    - type: src
+      content: https://www.iso.org/standard/62451.html?browse=tc
+    docidentifier:
+    - content: ISO 18427:2013
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 18427
-      format: text/plain
 ext:
   doctype:
-    type: practice
-  editorialgroup:
-  - name: SOIS-SUBNET
-  technology_area: Spacecraft Onboard Interface Services Area
+    content: practice

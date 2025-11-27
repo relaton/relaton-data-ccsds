@@ -1,42 +1,45 @@
 ---
-schema-version: v1.2.9
-id: CCSDS730.2-G-1
+schema_version: v1.4.1
 title:
-- content: Concepts and Rationale for Streaming Services over Bundle Protocol
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/730x2g1.pdf
-  type: pdf
-docid:
-- id: CCSDS 730.2-G-1
+- language: en
+  script: Latn
+  content: Concepts and Rationale for Streaming Services over Bundle Protocol
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3174/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//730x2g1.pdf
+docidentifier:
+- content: CCSDS 730.2-G-1
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2018-09
+  at: 2018-09
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SIS-MIA
+      type: technical-committee
 edition:
   content: '1'
-revdate: 2018-09
 abstract:
-- content: 'The purpose of this document is to discuss concepts and rationale for
+- language: en
+  script: Latn
+  content: "<p>The purpose of this document is to discuss concepts and rationale for
     real-time video streaming services over Bundle Protocol. Previous testing of video
     streams over Bundle Protocol is documented.  A common test configuration for continued
-    testing and benchmarking of video (and other streaming data) is also documented. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+    testing and benchmarking of video (and other streaming data) is also documented.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 ext:
   doctype:
-    type: report
-  editorialgroup:
-  - name: SIS-MIA
-  technology_area: Space Internetworking Services Area
+    content: report

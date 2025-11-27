@@ -1,60 +1,63 @@
 ---
-schema-version: v1.2.9
-id: CCSDS211.1-B-2-S
+schema_version: v1.4.1
 title:
-- content: Proximity-1 Space Link Protocol—Physical Layer
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://public.ccsds.org/Pubs/211x1b2s.pdf
-  type: pdf
-docid:
-- id: CCSDS 211.1-B-2-S
+- language: en
+  script: Latn
+  content: Proximity-1 Space Link Protocol—Physical Layer
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3613/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//211x1b2s.pdf
+docidentifier:
+- content: CCSDS 211.1-B-2-S
   type: CCSDS
   primary: true
 date:
 - type: published
-  value: 2004-05
+  at: 2004-05
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
 edition:
   content: '2'
-revdate: 2004-05
 abstract:
-- content: This Recommendation defines the Proximity-1 Space Link Protocol Physical
+- language: en
+  script: Latn
+  content: "<p>This Recommendation defines the Proximity-1 Space Link Protocol Physical
     Layer.  The specification for the channel connection process, provision for frequency
     bands and assignments, hailing channel, polarization, modulation, data rates,
-    and performance requirements are defined in this document.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+    and performance requirements are defined in this document.</p>\n"
+status:
   stage:
-    value: published
+    content: published
 relation:
 - type: adoptedAs
   bibitem:
-    id: ISO21460
-    docid:
-    - id: ISO 21460
-      type: CCSDS
+    formattedref: ISO 21460:2015
+    source:
+    - type: src
+      content: https://www.iso.org/standard/67092.html?browse=tc
+    docidentifier:
+    - content: ISO 21460:2015
+      type: ISO
       primary: true
-    formattedref:
-      content: ISO 21460
-      format: text/plain
 - type: successorOf
   bibitem:
-    id: CCSDS211.1-B-2
-    docid:
-    - id: CCSDS 211.1-B-2
+    formattedref: CCSDS 211.1-B-2
+    docidentifier:
+    - content: CCSDS 211.1-B-2
       type: CCSDS
       primary: true
-    formattedref:
-      content: CCSDS 211.1-B-2
-      format: text/plain
 ext:
   doctype:
-    type: standard
+    content: standard
