@@ -1,4 +1,5 @@
 ---
+id: CCSDS5020B2SCor1
 schema_version: v1.4.1
 title:
 - language: en
@@ -39,6 +40,13 @@ status:
   stage:
     content: published
 relation:
+- type: updates
+  bibitem:
+    formattedref: CCSDS 502.0-B-2-S
+    docidentifier:
+    - content: CCSDS 502.0-B-2-S
+      type: CCSDS
+      primary: true
 - type: successorOf
   bibitem:
     formattedref: CCSDS 502.0-B-2 Cor. 1

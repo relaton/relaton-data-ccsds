@@ -1,4 +1,5 @@
 ---
+id: CCSDS5050B1
 schema_version: v1.4.1
 title:
 - language: en
@@ -56,6 +57,13 @@ relation:
     docidentifier:
     - content: ISO 17107:2011
       type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 505.0-B-1-S
+    docidentifier:
+    - content: CCSDS 505.0-B-1-S
+      type: CCSDS
       primary: true
 ext:
   doctype:

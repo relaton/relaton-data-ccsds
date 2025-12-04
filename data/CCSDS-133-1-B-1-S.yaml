@@ -1,4 +1,5 @@
 ---
+id: CCSDS1331B1S
 schema_version: v1.4.1
 title:
 - language: en
@@ -50,6 +51,13 @@ relation:
     docidentifier:
     - content: ISO 10537:2016
       type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 133.1-B-1-S Cor. 1
+    docidentifier:
+    - content: CCSDS 133.1-B-1-S Cor. 1
+      type: CCSDS
       primary: true
 - type: successorOf
   bibitem:

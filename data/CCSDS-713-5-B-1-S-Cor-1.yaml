@@ -1,4 +1,5 @@
 ---
+id: CCSDS7135B1SCor1
 schema_version: v1.4.1
 title:
 - language: en
@@ -40,6 +41,13 @@ status:
   stage:
     content: published
 relation:
+- type: updates
+  bibitem:
+    formattedref: CCSDS 713.5-B-1-S
+    docidentifier:
+    - content: CCSDS 713.5-B-1-S
+      type: CCSDS
+      primary: true
 - type: successorOf
   bibitem:
     formattedref: CCSDS 713.5-B-1 Cor. 1

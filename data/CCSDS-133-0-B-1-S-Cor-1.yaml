@@ -1,4 +1,5 @@
 ---
+id: CCSDS1330B1SCor1
 schema_version: v1.4.1
 title:
 - language: en
@@ -39,6 +40,13 @@ status:
   stage:
     content: published
 relation:
+- type: updates
+  bibitem:
+    formattedref: CCSDS 133.0-B-1-S
+    docidentifier:
+    - content: CCSDS 133.0-B-1-S
+      type: CCSDS
+      primary: true
 - type: successorOf
   bibitem:
     formattedref: CCSDS 133.0-B-1 Cor. 1

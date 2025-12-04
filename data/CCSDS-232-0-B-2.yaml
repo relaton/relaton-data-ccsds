@@ -1,4 +1,5 @@
 ---
+id: CCSDS2320B2
 schema_version: v1.4.1
 title:
 - language: en
@@ -56,6 +57,20 @@ relation:
     docidentifier:
     - content: ISO 22664:2016
       type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 232.0-B-2-S
+    docidentifier:
+    - content: CCSDS 232.0-B-2-S
+      type: CCSDS
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 232.0-B-2-S Cor. 1
+    docidentifier:
+    - content: CCSDS 232.0-B-2-S Cor. 1
+      type: CCSDS
       primary: true
 ext:
   doctype:

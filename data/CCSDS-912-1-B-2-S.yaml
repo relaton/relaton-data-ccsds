@@ -1,4 +1,5 @@
 ---
+id: CCSDS9121B2S
 schema_version: v1.4.1
 title:
 - language: en
@@ -49,6 +50,13 @@ relation:
     docidentifier:
     - content: ISO 22671:2011
       type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 912.1-B-2-S Cor. 1
+    docidentifier:
+    - content: CCSDS 912.1-B-2-S Cor. 1
+      type: CCSDS
       primary: true
 - type: successorOf
   bibitem:

@@ -1,4 +1,5 @@
 ---
+id: CCSDS5020B2S
 schema_version: v1.4.1
 title:
 - language: en
@@ -49,6 +50,13 @@ relation:
     docidentifier:
     - content: ISO 26900:2012
       type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 502.0-B-2-S Cor. 1
+    docidentifier:
+    - content: CCSDS 502.0-B-2-S Cor. 1
+      type: CCSDS
       primary: true
 - type: successorOf
   bibitem:

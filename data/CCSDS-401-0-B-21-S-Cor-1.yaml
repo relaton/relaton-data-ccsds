@@ -1,4 +1,5 @@
 ---
+id: CCSDS4010B21SCor1
 schema_version: v1.4.1
 title:
 - language: en
@@ -40,6 +41,13 @@ status:
   stage:
     content: published
 relation:
+- type: updates
+  bibitem:
+    formattedref: CCSDS 401.0-B-21-S
+    docidentifier:
+    - content: CCSDS 401.0-B-21-S
+      type: CCSDS
+      primary: true
 - type: successorOf
   bibitem:
     formattedref: CCSDS 401.0-B-21 Cor. 1

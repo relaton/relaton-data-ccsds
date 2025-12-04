@@ -1,4 +1,5 @@
 ---
+id: CCSDS3520B1
 schema_version: v1.4.1
 title:
 - language: en
@@ -56,6 +57,13 @@ relation:
     docidentifier:
     - content: ISO 20215:2015
       type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 352.0-B-1-S
+    docidentifier:
+    - content: CCSDS 352.0-B-1-S
+      type: CCSDS
       primary: true
 ext:
   doctype:

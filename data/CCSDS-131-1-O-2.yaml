@@ -1,4 +1,5 @@
 ---
+id: CCSDS1311O2
 schema_version: v1.4.1
 title:
 - language: en
@@ -42,6 +43,13 @@ status:
     content: withdrawn
 relation:
 - type: hasSuccessor
+  bibitem:
+    formattedref: CCSDS 131.1-O-2-S
+    docidentifier:
+    - content: CCSDS 131.1-O-2-S
+      type: CCSDS
+      primary: true
+- type: updatedBy
   bibitem:
     formattedref: CCSDS 131.1-O-2-S
     docidentifier:

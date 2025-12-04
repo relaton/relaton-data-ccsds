@@ -1,4 +1,5 @@
 ---
+id: CCSDS1210B1S
 schema_version: v1.4.1
 title:
 - language: en
@@ -49,6 +50,20 @@ relation:
     docidentifier:
     - content: ISO 15887:2013
       type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 121.0-B-1-S Cor. 1
+    docidentifier:
+    - content: CCSDS 121.0-B-1-S Cor. 1
+      type: CCSDS
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 121.0-B-1-S Cor. 2
+    docidentifier:
+    - content: CCSDS 121.0-B-1-S Cor. 2
+      type: CCSDS
       primary: true
 - type: successorOf
   bibitem:

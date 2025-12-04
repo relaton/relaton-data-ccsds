@@ -1,4 +1,5 @@
 ---
+id: CCSDS3110M1
 schema_version: v1.4.1
 title:
 - language: en
@@ -56,6 +57,13 @@ relation:
     docidentifier:
     - content: ISO 13537:2010
       type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 311.0-M-1-S
+    docidentifier:
+    - content: CCSDS 311.0-M-1-S
+      type: CCSDS
       primary: true
 ext:
   doctype:

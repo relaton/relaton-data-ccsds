@@ -1,4 +1,5 @@
 ---
+id: CCSDS9100Y1
 schema_version: v1.4.1
 title:
 - language: en
@@ -39,6 +40,13 @@ status:
     content: withdrawn
 relation:
 - type: hasSuccessor
+  bibitem:
+    formattedref: CCSDS 910.0-Y-1-S
+    docidentifier:
+    - content: CCSDS 910.0-Y-1-S
+      type: CCSDS
+      primary: true
+- type: updatedBy
   bibitem:
     formattedref: CCSDS 910.0-Y-1-S
     docidentifier:

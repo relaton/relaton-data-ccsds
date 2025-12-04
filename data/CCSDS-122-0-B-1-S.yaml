@@ -1,4 +1,5 @@
 ---
+id: CCSDS1220B1S
 schema_version: v1.4.1
 title:
 - language: en
@@ -51,6 +52,27 @@ relation:
     docidentifier:
     - content: ISO 26868:2009
       type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 122.0-B-1-S Cor. 1
+    docidentifier:
+    - content: CCSDS 122.0-B-1-S Cor. 1
+      type: CCSDS
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 122.0-B-1-S Cor. 2
+    docidentifier:
+    - content: CCSDS 122.0-B-1-S Cor. 2
+      type: CCSDS
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 122.0-B-1-S Cor. 3
+    docidentifier:
+    - content: CCSDS 122.0-B-1-S Cor. 3
+      type: CCSDS
       primary: true
 - type: successorOf
   bibitem:

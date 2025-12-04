@@ -1,4 +1,5 @@
 ---
+id: CCSDS1314M1
 schema_version: v1.4.1
 title:
 - language: en
@@ -55,6 +56,13 @@ relation:
     docidentifier:
     - content: ISO 17808:2014
       type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 131.4-M-1-S
+    docidentifier:
+    - content: CCSDS 131.4-M-1-S
+      type: CCSDS
       primary: true
 ext:
   doctype:

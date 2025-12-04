@@ -1,4 +1,5 @@
 ---
+id: CCSDSA300G3
 schema_version: v1.4.1
 title:
 - language: en
@@ -40,6 +41,13 @@ status:
     content: withdrawn
 relation:
 - type: hasSuccessor
+  bibitem:
+    formattedref: CCSDS A30.0-G-3-S
+    docidentifier:
+    - content: CCSDS A30.0-G-3-S
+      type: CCSDS
+      primary: true
+- type: updatedBy
   bibitem:
     formattedref: CCSDS A30.0-G-3-S
     docidentifier:

@@ -1,4 +1,5 @@
 ---
+id: CCSDS2112B2
 schema_version: v1.4.1
 title:
 - language: en
@@ -56,6 +57,13 @@ relation:
     docidentifier:
     - content: ISO 21459:2015
       type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 211.2-B-2-S
+    docidentifier:
+    - content: CCSDS 211.2-B-2-S
+      type: CCSDS
       primary: true
 ext:
   doctype:

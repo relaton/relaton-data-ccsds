@@ -1,4 +1,5 @@
 ---
+id: CCSDS8750M1
 schema_version: v1.4.1
 title:
 - language: en
@@ -58,6 +59,13 @@ relation:
     docidentifier:
     - content: ISO 20213:2015
       type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 875.0-M-1-S
+    docidentifier:
+    - content: CCSDS 875.0-M-1-S
+      type: CCSDS
       primary: true
 ext:
   doctype:

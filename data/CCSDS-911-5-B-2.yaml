@@ -1,4 +1,5 @@
 ---
+id: CCSDS9115B2
 schema_version: v1.4.1
 title:
 - language: en
@@ -58,6 +59,13 @@ relation:
     docidentifier:
     - content: ISO 26143:2013
       type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 911.5-B-2-S
+    docidentifier:
+    - content: CCSDS 911.5-B-2-S
+      type: CCSDS
       primary: true
 ext:
   doctype:
