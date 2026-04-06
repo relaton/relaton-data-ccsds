@@ -1,0 +1,62 @@
+---
+id: CCSDS8830B1
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Spacecraft Onboard Interface Services—High Data Rate Wireless Proximity
+    Network Communications
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3768/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//883x0b1s.pdf
+docidentifier:
+- content: CCSDS 883.0-B-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2022-02
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SOIS-WIR
+      type: technical-committee
+edition:
+  content: '1'
+abstract:
+- language: en
+  script: Latn
+  content: |
+    <p>This Recommended Standard specifies wireless proximity network communications protocol and communication standards for use in support of activities associated with space missions.</p>
+    <p>This document issue was superseded by CCSDS 883.0-B-2, Spacecraft Onboard Interface Services-High Data Rate Wireless Proximity Network Communications (Blue Book, Issue 2), released May 2024.</p>
+status:
+  stage:
+    content: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    formattedref: CCSDS 883.0-B-1-S
+    docidentifier:
+    - content: CCSDS 883.0-B-1-S
+      type: CCSDS
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 883.0-B-1-S
+    docidentifier:
+    - content: CCSDS 883.0-B-1-S
+      type: CCSDS
+      primary: true
+ext:
+  doctype:
+    content: standard
+  technology_area: Spacecraft Onboard Interface Services Area

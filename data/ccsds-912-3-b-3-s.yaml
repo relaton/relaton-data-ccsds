@@ -1,0 +1,64 @@
+---
+id: CCSDS9123B3S
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Space Link Extension—Forward Space Packet Service Specification
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3796/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//912x3b3s.pdf
+docidentifier:
+- content: CCSDS 912.3-B-3-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2016-08
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: CSS-CSTS
+      type: technical-committee
+edition:
+  content: '3'
+abstract:
+- language: en
+  script: Latn
+  content: |
+    <p>The Recommended Standards for Space Link Extension (SLE) services specify data services conformant to the transfer services specified in Cross Support Reference Model—Part 1: SLE Services (CCSDS 910.4-B-2).  The current drafts add clarifications and corrections, add or update production status annexes for consistency across all five SLE service specifications, and update specifications to accommodate recent additions to the CCSDS Recommended Standards for coding and synchronization.</p>
+    <p>This document was retired by CCSDS Management Council resolution CMC-R-2022-09-002, dated 28 September 2022.</p>
+status:
+  stage:
+    content: published
+relation:
+- type: adoptedAs
+  bibitem:
+    formattedref: ISO 22672:2021
+    source:
+    - type: src
+      content: https://www.iso.org/standard/74558.html?browse=tc
+    docidentifier:
+    - content: ISO 22672:2021
+      type: ISO
+      primary: true
+- type: successorOf
+  bibitem:
+    formattedref: CCSDS 912.3-B-3
+    docidentifier:
+    - content: CCSDS 912.3-B-3
+      type: CCSDS
+      primary: true
+ext:
+  doctype:
+    content: standard
+  technology_area: Cross Support Services Area

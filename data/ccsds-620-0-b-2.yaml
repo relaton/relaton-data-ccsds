@@ -1,0 +1,57 @@
+---
+id: CCSDS6200B2
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Standard Formatted Data Units—Structure and Construction Rules
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3028/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//620x0b2.pdf
+docidentifier:
+- content: CCSDS 620.0-B-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 1992-05
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: MOIMS-DAI
+      type: technical-committee
+edition:
+  content: '2'
+abstract:
+- language: en
+  script: Latn
+  content: |
+    <p>This Recommended Standard defines Standard Formatted Data Unit (SFDU) structures that will handle some of the problems of digital data interchange and several construction rules that will limit the SFDUs to a practical set that can exist in an open data system environment.</p>
+    <p>This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>
+status:
+  stage:
+    content: published
+relation:
+- type: adoptedAs
+  bibitem:
+    formattedref: ISO 12175:1994
+    source:
+    - type: src
+      content: https://www.iso.org/standard/21118.html?browse=tc
+    docidentifier:
+    - content: ISO 12175:1994
+      type: ISO
+      primary: true
+ext:
+  doctype:
+    content: standard
+  technology_area: Mission Operations and Information Management Services Area

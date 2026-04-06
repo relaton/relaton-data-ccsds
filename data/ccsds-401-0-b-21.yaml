@@ -1,0 +1,72 @@
+---
+id: CCSDS4010B21
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: 'Radio Frequency and Modulation Systems—Part 1: Earth Stations and Spacecraft'
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3671/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//401x0b21tc1s.pdf
+docidentifier:
+- content: CCSDS 401.0-B-21
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2011-07
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SLS-RFM
+      type: technical-committee
+edition:
+  content: '21'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>Numerous concise recommendations appear in the notebook volume bearing
+    the number 401.0-B.  Each recommendation is dated, and the most recent revision
+    is shown in the table of contents.  These Recommendations are developed for conventional
+    near-Earth and deep-space missions having moderate communications requirements.
+    \ The current update extends the rate for suppressed carrier telecommand systems
+    to 2.048 Mb/s.  The current version of this document contains all updates through
+    technical corrigendum 1, dated May 2012.</p>\n"
+status:
+  stage:
+    content: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    formattedref: CCSDS 401.0-B-21-S
+    docidentifier:
+    - content: CCSDS 401.0-B-21-S
+      type: CCSDS
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 401.0-B-21-S
+    docidentifier:
+    - content: CCSDS 401.0-B-21-S
+      type: CCSDS
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 401.0-B-21-S Cor. 1
+    docidentifier:
+    - content: CCSDS 401.0-B-21-S Cor. 1
+      type: CCSDS
+      primary: true
+ext:
+  doctype:
+    content: standard
+  technology_area: Space Link Services Area

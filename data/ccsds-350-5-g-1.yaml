@@ -1,0 +1,61 @@
+---
+id: CCSDS3505G1
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Space Data Link Security Protocol—Summary of Concept and Rationale
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3651/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//350x5g1s.pdf
+docidentifier:
+- content: CCSDS 350.5-G-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2018-06
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SLS-SEA-DLS
+      type: technical-committee
+edition:
+  content: '1'
+abstract:
+- language: en
+  script: Latn
+  content: |
+    <p>This Informational Report presents the concept and rationale for the CCSDS Recommended Standard on the Space Data Link Security Protocol.</p>
+    <p>This document issue was superseded by CCSDS 350.5-G-2, Space Data Link Security Protocol-Summary of Concept and Rationale (Green Book, Issue 2), released January 2024</p>
+status:
+  stage:
+    content: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    formattedref: CCSDS 350.5-G-1-S
+    docidentifier:
+    - content: CCSDS 350.5-G-1-S
+      type: CCSDS
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 350.5-G-1-S
+    docidentifier:
+    - content: CCSDS 350.5-G-1-S
+      type: CCSDS
+      primary: true
+ext:
+  doctype:
+    content: report
+  technology_area: Space Link Services Area

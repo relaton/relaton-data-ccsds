@@ -1,0 +1,65 @@
+---
+id: CCSDS8750M1S
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Spacecraft Onboard Interface Services—Message Transfer Service
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3765/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//875x0m1s.pdf
+docidentifier:
+- content: CCSDS 875.0-M-1-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2012-11
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
+edition:
+  content: '1'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Recommended Practice specifies a set of related services to be
+    used by space missions to command and acquire data from devices over an onboard
+    subnetwork.  The SOIS Message Transfer Service provides quality of service features
+    and also provides a common service interface regardless of the particular type
+    of data link or protocol being used for communication.</p>\n"
+status:
+  stage:
+    content: published
+relation:
+- type: adoptedAs
+  bibitem:
+    formattedref: ISO 20213:2015
+    source:
+    - type: src
+      content: https://www.iso.org/standard/67306.html?browse=tc
+    docidentifier:
+    - content: ISO 20213:2015
+      type: ISO
+      primary: true
+- type: successorOf
+  bibitem:
+    formattedref: CCSDS 875.0-M-1
+    docidentifier:
+    - content: CCSDS 875.0-M-1
+      type: CCSDS
+      primary: true
+ext:
+  doctype:
+    content: practice

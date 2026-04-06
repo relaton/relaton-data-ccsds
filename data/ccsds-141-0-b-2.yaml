@@ -1,0 +1,50 @@
+---
+id: CCSDS1410B2
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Non-Coherent Optical Communications Physical Layer
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/4662/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2026/03/141x0b2.pdf
+docidentifier:
+- content: CCSDS 141.0-B-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2026-03
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SLS-OPT
+      type: technical-committee
+edition:
+  content: '2'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The CCSDS 141.0-B-2 Recommended Standard defines the physical layer
+    specifications for non-coherent optical communications in space data systems.
+    It details essential technical parameters for optical beacons and optional data
+    transmission, including center frequencies, laser linewidths, signal emissions,
+    and modulation schemes. This document serves as a standardized baseline to ensure
+    reliable performance and interoperability across space-based optical communication
+    networks.</p>\n"
+status:
+  stage:
+    content: published
+ext:
+  doctype:
+    content: standard
+  technology_area: Space Link Services Area

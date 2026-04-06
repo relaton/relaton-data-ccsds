@@ -1,0 +1,57 @@
+---
+id: CCSDS6610B1
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: XML Formatted Data Unit (XFDU) Structure and Construction Rules
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3029/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//661x0b1.pdf
+docidentifier:
+- content: CCSDS 661.0-B-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2008-09
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: MOIMS-DAI
+      type: technical-committee
+edition:
+  content: '1'
+abstract:
+- language: en
+  script: Latn
+  content: |
+    <p>This Recommended Standard defines a technique for the packaging of data and metadata, including software, into a single package (e.g., file or message) to facilitate information transfer and archiving.  It provides a detailed specification of core packaging structures and mechanisms that meet current CCSDS agency requirements and that augment the current CCSDS packaging and language Recommended Standards to accommodate the current computing environment and meet evolving requirements.  This Recommended Standards leverages the wide community acceptance and usage of XML technologies by making the packaging manifest an XML document defined by the XML Schema specified in the document.</p>
+    <p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance.  This Recommended Standard has been reconfirmed through June 2022.</p>
+status:
+  stage:
+    content: published
+relation:
+- type: adoptedAs
+  bibitem:
+    formattedref: ISO 13527:2010
+    source:
+    - type: src
+      content: https://www.iso.org/standard/53985.html?browse=tc
+    docidentifier:
+    - content: ISO 13527:2010
+      type: ISO
+      primary: true
+ext:
+  doctype:
+    content: standard
+  technology_area: Mission Operations and Information Management Services Area

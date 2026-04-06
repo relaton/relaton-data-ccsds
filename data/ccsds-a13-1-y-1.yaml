@@ -1,0 +1,43 @@
+---
+id: CCSDSA131Y1
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: CCSDS Recommended Procedures for Cloud-Based Interoperability Testing
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3146/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//A13x1y1.pdf
+docidentifier:
+- content: CCSDS A13.1-Y-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2018-06
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SEA-SEC
+      type: technical-committee
+edition:
+  content: '1'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This CCSDS Record specifies a recommended practice for performing inter-agency
+    CCSDS standards interoperability testing using cloud technologies.</p>\n"
+status:
+  stage:
+    content: published
+ext:
+  technology_area: Systems Engineering Area

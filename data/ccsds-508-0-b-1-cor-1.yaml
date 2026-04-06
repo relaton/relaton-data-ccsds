@@ -1,0 +1,53 @@
+---
+id: CCSDS5080B1Cor1
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Technical Corrigendum 1 to CCSDS 508.0-B-1, Issued June 2013
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3081/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//508x0b1e2c2_tc1814.pdf
+docidentifier:
+- content: CCSDS 508.0-B-1 Cor. 1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2018-06
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: MOIMS-NAV
+      type: technical-committee
+edition:
+  content: 1 Cor. 1
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 508.0-B-1, Conjunction
+    Data Message (Blue Book, Issue 1, June 2013).</p>\n"
+status:
+  stage:
+    content: published
+relation:
+- type: updates
+  bibitem:
+    formattedref: CCSDS 508.0-B-1
+    docidentifier:
+    - content: CCSDS 508.0-B-1
+      type: CCSDS
+      primary: true
+ext:
+  doctype:
+    content: standard
+  technology_area: Mission Operations and Information Management Services Area

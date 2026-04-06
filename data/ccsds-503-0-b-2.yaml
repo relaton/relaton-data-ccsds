@@ -1,0 +1,64 @@
+---
+id: CCSDS5030B2
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Tracking Data Message
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3061/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//503x0b2c1.pdf
+docidentifier:
+- content: CCSDS 503.0-B-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2020-06
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: MOIMS-NAV
+      type: technical-committee
+edition:
+  content: '2'
+abstract:
+- language: en
+  script: Latn
+  content: |
+    <p>The Tracking Data Message (TDM) Recommended Standard specifies a standard message format for use in exchanging spacecraft tracking data between space agencies. The current issue includes several updates and additions, including an eXtensible Markup Language (XML) version of the TDM and new Data-Section and Metadata-Section keywords.</p>
+    <p>The current version of this document contains all updates through technical corrigendum 1, dated October 2021.</p>
+status:
+  stage:
+    content: published
+relation:
+- type: adoptedAs
+  bibitem:
+    formattedref: ISO 13526:2010
+    source:
+    - type: src
+      content: https://www.iso.org/standard/53984.html?browse=tc
+    docidentifier:
+    - content: ISO 13526:2010
+      type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 503.0-B-2 Cor. 1
+    docidentifier:
+    - content: CCSDS 503.0-B-2 Cor. 1
+      type: CCSDS
+      primary: true
+ext:
+  doctype:
+    content: standard
+  technology_area: Mission Operations and Information Management Services Area

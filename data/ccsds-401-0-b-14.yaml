@@ -1,0 +1,67 @@
+---
+id: CCSDS4010B14
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: 'Radio Frequency and Modulation Systems—Part 1: Earth Stations and Spacecraft'
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3663/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//401x0b14s.pdf
+docidentifier:
+- content: CCSDS 401.0-B-14
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2003-12
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SLS-RFM
+      type: technical-committee
+edition:
+  content: '14'
+abstract:
+- language: en
+  script: Latn
+  content: '<p>Numerous concise recommendations appear in the notebook volume bearing
+    the number 401.0-B. Each recommendation is dated, and the most recent revision
+    is shown in the table of contents. These Recommendations are developed for conventional
+    near-Earth and deep-space missions having moderate communications requirements.  The
+    current version includes all updates approved by the CCSDS Management Council
+    through March 2003. The most recent release adds one new recommendation: 2.2.8,
+    Suppressed Carrier Telecommand Systems" (Issue 1)."</p>
+
+    '
+status:
+  stage:
+    content: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    formattedref: CCSDS 401.0-B-14-S
+    docidentifier:
+    - content: CCSDS 401.0-B-14-S
+      type: CCSDS
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 401.0-B-14-S
+    docidentifier:
+    - content: CCSDS 401.0-B-14-S
+      type: CCSDS
+      primary: true
+ext:
+  doctype:
+    content: standard
+  technology_area: Space Link Services Area

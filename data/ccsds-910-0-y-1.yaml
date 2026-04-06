@@ -1,0 +1,58 @@
+---
+id: CCSDS9100Y1
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Space Link Extension Services—Executive Summary
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3770/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//910x0y1s.pdf
+docidentifier:
+- content: CCSDS 910.0-Y-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2002-04
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
+edition:
+  content: '1'
+abstract:
+- language: en
+  script: Latn
+  content: ''
+status:
+  stage:
+    content: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    formattedref: CCSDS 910.0-Y-1-S
+    docidentifier:
+    - content: CCSDS 910.0-Y-1-S
+      type: CCSDS
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 910.0-Y-1-S
+    docidentifier:
+    - content: CCSDS 910.0-Y-1-S
+      type: CCSDS
+      primary: true
+ext:
+  doctype:
+    content: record

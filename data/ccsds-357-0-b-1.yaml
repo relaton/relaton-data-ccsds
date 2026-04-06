@@ -1,0 +1,45 @@
+---
+id: CCSDS3570B1
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: CCSDS Authentication Credentials
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3144/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//357x0b1.pdf
+docidentifier:
+- content: CCSDS 357.0-B-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2019-07
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SEA-SEC
+      type: technical-committee
+edition:
+  content: '1'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This CCSDS Recommended Standard provides the specification for credentials
+    to be used for authentication by CCSDS missions and ground systems.</p>\n"
+status:
+  stage:
+    content: published
+ext:
+  doctype:
+    content: standard
+  technology_area: Systems Engineering Area

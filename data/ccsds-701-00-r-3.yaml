@@ -1,0 +1,58 @@
+---
+id: CCSDS70100R3
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: 'Advanced Orbiting Systems, Networks and Data Links: Architectural Specification'
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3720/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//701RB3.pdf
+docidentifier:
+- content: CCSDS 701.00-R-3
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 1989-06
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
+edition:
+  content: '3'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Red Book is a draft CCSDS Recommendation that was released for
+    CCSDS Agency review in June 1989.  In October 1989 it was superseded by a CCSDS
+    Blue Book, CCSDS 701.0-B-1.  This June 1989 draft is maintained here for historical
+    purposes.  It should not be used as the basis for new implementations.</p>\n"
+status:
+  stage:
+    content: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    formattedref: CCSDS 701.00-R-3-S
+    docidentifier:
+    - content: CCSDS 701.00-R-3-S
+      type: CCSDS
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 701.00-R-3-S
+    docidentifier:
+    - content: CCSDS 701.00-R-3-S
+      type: CCSDS
+      primary: true

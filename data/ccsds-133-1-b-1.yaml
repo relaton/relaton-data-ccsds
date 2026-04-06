@@ -1,0 +1,78 @@
+---
+id: CCSDS1331B1
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Encapsulation Service
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3589/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//133x1b1c1s.pdf
+docidentifier:
+- content: CCSDS 133.1-B-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2006-06
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
+edition:
+  content: '1'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The CCSDS Recommended Standard for Encapsulation Service specifies
+    a communications service to be used by space missions to transfer protocol data
+    units that are not directly transferred by the Space Data Link Protocols over
+    a ground-to-space or space-to-space communications link.</p>\n"
+status:
+  stage:
+    content: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    formattedref: CCSDS 133.1-B-1-S
+    docidentifier:
+    - content: CCSDS 133.1-B-1-S
+      type: CCSDS
+      primary: true
+- type: adoptedAs
+  bibitem:
+    formattedref: ISO 10537:2016
+    source:
+    - type: src
+      content: https://www.iso.org/standard/71058.html?browse=tc
+    docidentifier:
+    - content: ISO 10537:2016
+      type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 133.1-B-1-S
+    docidentifier:
+    - content: CCSDS 133.1-B-1-S
+      type: CCSDS
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 133.1-B-1-S Cor. 1
+    docidentifier:
+    - content: CCSDS 133.1-B-1-S Cor. 1
+      type: CCSDS
+      primary: true
+ext:
+  doctype:
+    content: standard

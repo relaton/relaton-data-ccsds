@@ -1,0 +1,70 @@
+---
+id: CCSDS2112B1
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Proximity-1 Space Link Protocol—Coding and Synchronization Sublayer
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3615/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//211x2b1s.pdf
+docidentifier:
+- content: CCSDS 211.2-B-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2003-04
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: None
+      type: technical-committee
+edition:
+  content: '1'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Recommendation specifies Proximity space links. This Recommendation
+    contains the Coding and Synchronization Sublayer specification originally published
+    as part of CCSDS 211.0-B-1, Proximity-1 Space Link Protocol.</p>\n"
+status:
+  stage:
+    content: withdrawn
+relation:
+- type: hasSuccessor
+  bibitem:
+    formattedref: CCSDS 211.2-B-1-S
+    docidentifier:
+    - content: CCSDS 211.2-B-1-S
+      type: CCSDS
+      primary: true
+- type: adoptedAs
+  bibitem:
+    formattedref: ISO 21459:2015
+    source:
+    - type: src
+      content: https://www.iso.org/standard/67093.html?browse=tc
+    docidentifier:
+    - content: ISO 21459:2015
+      type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 211.2-B-1-S
+    docidentifier:
+    - content: CCSDS 211.2-B-1-S
+      type: CCSDS
+      primary: true
+ext:
+  doctype:
+    content: standard

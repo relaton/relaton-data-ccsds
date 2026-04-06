@@ -1,0 +1,71 @@
+---
+id: CCSDS5020B2S
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Orbit Data Messages
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3698/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/03//502x0b2s.pdf
+docidentifier:
+- content: CCSDS 502.0-B-2-S
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2009-11
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: MOIMS-NAV
+      type: technical-committee
+edition:
+  content: '2'
+abstract:
+- language: en
+  script: Latn
+  content: |
+    <p>The Orbit Data Message (ODM) Recommended Standard specifies message formats for use in transferring spacecraft orbit information between space agencies and commercial or governmental spacecraft operators.  Issue 2 defines a new message, the Orbit Mean-Elements Message (OMM), and adds capabilities to the messages specified in the original issue.  The current version of this document contains all updates through technical corrigendum 1, dated May 2012.</p>
+    <p>This document issue was superseded by CCSDS 502.0-B-3, Orbit Data Messages (Blue Book, Issue 3), released April 2023.</p>
+status:
+  stage:
+    content: published
+relation:
+- type: adoptedAs
+  bibitem:
+    formattedref: ISO 26900:2012
+    source:
+    - type: src
+      content: https://www.iso.org/standard/46135.html?browse=tc
+    docidentifier:
+    - content: ISO 26900:2012
+      type: ISO
+      primary: true
+- type: updatedBy
+  bibitem:
+    formattedref: CCSDS 502.0-B-2-S Cor. 1
+    docidentifier:
+    - content: CCSDS 502.0-B-2-S Cor. 1
+      type: CCSDS
+      primary: true
+- type: successorOf
+  bibitem:
+    formattedref: CCSDS 502.0-B-2
+    docidentifier:
+    - content: CCSDS 502.0-B-2
+      type: CCSDS
+      primary: true
+ext:
+  doctype:
+    content: standard
+  technology_area: Mission Operations and Information Management Services Area

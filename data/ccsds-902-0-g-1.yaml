@@ -1,0 +1,47 @@
+---
+id: CCSDS9020G1
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Extensible Space Communication Cross Support—Service Management—Concept
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3020/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//902x0g1.pdf
+docidentifier:
+- content: CCSDS 902.0-G-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2014-09
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: CSS-SM
+      type: technical-committee
+edition:
+  content: '1'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Informational Report documents a concept for Space Communication
+    Cross Support Service Management that spans the space mission lifecycle and enables
+    the graceful evolution of Space Communication Cross Support Service Management
+    in step with the evolution of space communication technology.</p>\n"
+status:
+  stage:
+    content: published
+ext:
+  doctype:
+    content: report
+  technology_area: Cross Support Services Area

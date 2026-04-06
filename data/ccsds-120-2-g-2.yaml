@@ -1,0 +1,49 @@
+---
+id: CCSDS1202G2
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Low-Complexity Lossless and Near-Lossless Multispectral and Hyperspectral
+    Image Compression
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/3211/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2025/01//120x2g2.pdf
+docidentifier:
+- content: CCSDS 120.2-G-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2022-12
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SLS-DC
+      type: technical-committee
+edition:
+  content: '2'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Informational Report presents a summary of the key operational
+    concepts and rationale that underlie the requirements for the CCSDS Recommended
+    Standard for Low-Complexity Lossless and Near-Lossless Multispectral and Hyperspectral
+    Image Compression, CCSDS 123.0-B-2, and provides a broad tutorial overview of
+    algorithm.</p>\n"
+status:
+  stage:
+    content: published
+ext:
+  doctype:
+    content: report
+  technology_area: Space Link Services Area
