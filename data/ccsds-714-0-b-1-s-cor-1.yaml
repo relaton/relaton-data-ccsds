@@ -34,21 +34,22 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: ''
 status:
   stage:
     content: published
 relation:
 - type: updates
   bibitem:
-    formattedref: CCSDS 714.0-B-1-S
+    formattedref:
+      content: CCSDS 714.0-B-1-S
     docidentifier:
     - content: CCSDS 714.0-B-1-S
       type: CCSDS
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 714.0-B-1 Cor. 1
+    formattedref:
+      content: CCSDS 714.0-B-1 Cor. 1
     docidentifier:
     - content: CCSDS 714.0-B-1 Cor. 1
       type: CCSDS

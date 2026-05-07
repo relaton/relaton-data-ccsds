@@ -43,7 +43,8 @@ status:
 relation:
 - type: updates
   bibitem:
-    formattedref: CCSDS A02.1-Y-4
+    formattedref:
+      content: CCSDS A02.1-Y-4
     docidentifier:
     - content: CCSDS A02.1-Y-4
       type: CCSDS

@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 18427:2013
+    formattedref:
+      content: ISO 18427:2013
     source:
     - type: src
       content: https://www.iso.org/standard/62451.html?browse=tc

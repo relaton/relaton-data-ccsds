@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 17810:2014
+    formattedref:
+      content: ISO 17810:2014
     source:
     - type: src
       content: https://www.iso.org/standard/60595.html?browse=tc

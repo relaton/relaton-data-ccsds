@@ -43,14 +43,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 231.0-B-3-S
+    formattedref:
+      content: CCSDS 231.0-B-3-S
     docidentifier:
     - content: CCSDS 231.0-B-3-S
       type: CCSDS
       primary: true
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 22642:2015
+    formattedref:
+      content: ISO 22642:2015
     source:
     - type: src
       content: https://www.iso.org/standard/62446.html?browse=tc
@@ -60,7 +62,8 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 231.0-B-3-S
+    formattedref:
+      content: CCSDS 231.0-B-3-S
     docidentifier:
     - content: CCSDS 231.0-B-3-S
       type: CCSDS

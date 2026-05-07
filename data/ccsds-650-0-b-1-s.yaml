@@ -50,14 +50,16 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 650.0-B-1
+    formattedref:
+      content: CCSDS 650.0-B-1
     docidentifier:
     - content: CCSDS 650.0-B-1
       type: CCSDS
       primary: true
 - type: hasInstance
   bibitem:
-    formattedref: CCSDS 650.0-B-1-S - French Translated
+    formattedref:
+      content: CCSDS 650.0-B-1-S - French Translated
     docidentifier:
     - content: CCSDS 650.0-B-1-S - French Translated
       type: CCSDS

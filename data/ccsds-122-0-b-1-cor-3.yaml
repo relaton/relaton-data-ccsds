@@ -42,7 +42,8 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 122.0-B-1-S Cor. 3
+    formattedref:
+      content: CCSDS 122.0-B-1-S Cor. 3
     docidentifier:
     - content: CCSDS 122.0-B-1-S Cor. 3
       type: CCSDS

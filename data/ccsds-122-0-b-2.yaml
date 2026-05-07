@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 26868:2009
+    formattedref:
+      content: ISO 26868:2009
     source:
     - type: src
       content: https://www.iso.org/standard/43849.html?browse=tc

@@ -44,14 +44,16 @@ status:
 relation:
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 509.0-B-1 Cor. 1
+    formattedref:
+      content: CCSDS 509.0-B-1 Cor. 1
     docidentifier:
     - content: CCSDS 509.0-B-1 Cor. 1
       type: CCSDS
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 509.0-B-1 Cor. 2
+    formattedref:
+      content: CCSDS 509.0-B-1 Cor. 2
     docidentifier:
     - content: CCSDS 509.0-B-1 Cor. 2
       type: CCSDS

@@ -47,7 +47,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 20104:2015
+    formattedref:
+      content: ISO 20104:2015
     source:
     - type: src
       content: https://www.iso.org/standard/67056.html?browse=tc

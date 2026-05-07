@@ -45,7 +45,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 17807:2013
+    formattedref:
+      content: ISO 17807:2013
     source:
     - type: src
       content: https://www.iso.org/standard/60592.html?browse=tc

@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 20206:2015
+    formattedref:
+      content: ISO 20206:2015
     source:
     - type: src
       content: https://www.iso.org/standard/67301.html?browse=tc
@@ -53,14 +54,16 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 702.1-B-1 Cor. 1
+    formattedref:
+      content: CCSDS 702.1-B-1 Cor. 1
     docidentifier:
     - content: CCSDS 702.1-B-1 Cor. 1
       type: CCSDS
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 702.1-B-1 Cor. 2
+    formattedref:
+      content: CCSDS 702.1-B-1 Cor. 2
     docidentifier:
     - content: CCSDS 702.1-B-1 Cor. 2
       type: CCSDS

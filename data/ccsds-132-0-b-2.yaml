@@ -43,14 +43,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 132.0-B-2-S
+    formattedref:
+      content: CCSDS 132.0-B-2-S
     docidentifier:
     - content: CCSDS 132.0-B-2-S
       type: CCSDS
       primary: true
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 22645:2016
+    formattedref:
+      content: ISO 22645:2016
     source:
     - type: src
       content: https://www.iso.org/standard/70698.html?browse=tc
@@ -60,7 +62,8 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 132.0-B-2-S
+    formattedref:
+      content: CCSDS 132.0-B-2-S
     docidentifier:
     - content: CCSDS 132.0-B-2-S
       type: CCSDS

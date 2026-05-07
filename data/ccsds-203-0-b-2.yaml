@@ -50,14 +50,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 203.0-B-2-S
+    formattedref:
+      content: CCSDS 203.0-B-2-S
     docidentifier:
     - content: CCSDS 203.0-B-2-S
       type: CCSDS
       primary: true
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 12174:2003
+    formattedref:
+      content: ISO 12174:2003
     source:
     - type: src
       content: https://www.iso.org/standard/36446.html?browse=tc
@@ -67,7 +69,8 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 203.0-B-2-S
+    formattedref:
+      content: CCSDS 203.0-B-2-S
     docidentifier:
     - content: CCSDS 203.0-B-2-S
       type: CCSDS

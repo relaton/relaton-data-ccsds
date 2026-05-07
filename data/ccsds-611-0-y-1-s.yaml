@@ -42,7 +42,8 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 611.0-Y-1
+    formattedref:
+      content: CCSDS 611.0-Y-1
     docidentifier:
     - content: CCSDS 611.0-Y-1
       type: CCSDS

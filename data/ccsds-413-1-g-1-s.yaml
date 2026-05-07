@@ -41,7 +41,8 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 413.1-G-1
+    formattedref:
+      content: CCSDS 413.1-G-1
     docidentifier:
     - content: CCSDS 413.1-G-1
       type: CCSDS

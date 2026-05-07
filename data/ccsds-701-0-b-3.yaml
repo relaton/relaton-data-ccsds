@@ -49,14 +49,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 701.0-B-3-S
+    formattedref:
+      content: CCSDS 701.0-B-3-S
     docidentifier:
     - content: CCSDS 701.0-B-3-S
       type: CCSDS
       primary: true
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 13420:1997
+    formattedref:
+      content: ISO 13420:1997
     source:
     - type: src
       content: https://www.iso.org/standard/21969.html?browse=tc
@@ -66,7 +68,8 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 701.0-B-3-S
+    formattedref:
+      content: CCSDS 701.0-B-3-S
     docidentifier:
     - content: CCSDS 701.0-B-3-S
       type: CCSDS

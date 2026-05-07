@@ -46,7 +46,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 17809:2014
+    formattedref:
+      content: ISO 17809:2014
     source:
     - type: src
       content: https://www.iso.org/standard/60594.html?browse=tc

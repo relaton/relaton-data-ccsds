@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 22647:2010
+    formattedref:
+      content: ISO 22647:2010
     source:
     - type: src
       content: https://www.iso.org/standard/45987.html?browse=tc
@@ -53,7 +54,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 135.0-B-1
+    formattedref:
+      content: CCSDS 135.0-B-1
     docidentifier:
     - content: CCSDS 135.0-B-1
       type: CCSDS

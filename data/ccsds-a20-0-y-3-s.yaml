@@ -48,7 +48,8 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS A20.0-Y-3
+    formattedref:
+      content: CCSDS A20.0-Y-3
     docidentifier:
     - content: CCSDS A20.0-Y-3
       type: CCSDS

@@ -43,14 +43,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 910.4-B-2-S
+    formattedref:
+      content: CCSDS 910.4-B-2-S
     docidentifier:
     - content: CCSDS 910.4-B-2-S
       type: CCSDS
       primary: true
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 15396:2007
+    formattedref:
+      content: ISO 15396:2007
     source:
     - type: src
       content: https://www.iso.org/standard/43828.html?browse=tc
@@ -60,7 +62,8 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 910.4-B-2-S
+    formattedref:
+      content: CCSDS 910.4-B-2-S
     docidentifier:
     - content: CCSDS 910.4-B-2-S
       type: CCSDS

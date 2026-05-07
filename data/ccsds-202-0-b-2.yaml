@@ -34,21 +34,22 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: ''
 status:
   stage:
     content: withdrawn
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 202.0-B-2-S
+    formattedref:
+      content: CCSDS 202.0-B-2-S
     docidentifier:
     - content: CCSDS 202.0-B-2-S
       type: CCSDS
       primary: true
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 12172:2003
+    formattedref:
+      content: ISO 12172:2003
     source:
     - type: src
       content: https://www.iso.org/standard/36591.html?browse=tc
@@ -58,7 +59,8 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 202.0-B-2-S
+    formattedref:
+      content: CCSDS 202.0-B-2-S
     docidentifier:
     - content: CCSDS 202.0-B-2-S
       type: CCSDS

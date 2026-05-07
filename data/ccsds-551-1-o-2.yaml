@@ -42,7 +42,8 @@ status:
 relation:
 - type: hasInstance
   bibitem:
-    formattedref: CCSDS 551.1-O-2 - Russian Translated
+    formattedref:
+      content: CCSDS 551.1-O-2 - Russian Translated
     docidentifier:
     - content: CCSDS 551.1-O-2 - Russian Translated
       type: CCSDS

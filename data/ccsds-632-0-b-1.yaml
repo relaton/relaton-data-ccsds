@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 15395:1998
+    formattedref:
+      content: ISO 15395:1998
     source:
     - type: src
       content: https://www.iso.org/standard/27534.html?browse=tc

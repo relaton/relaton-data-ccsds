@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 21961:2003
+    formattedref:
+      content: ISO 21961:2003
     source:
     - type: src
       content: https://www.iso.org/standard/36036.html?browse=tc

@@ -34,21 +34,22 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: ''
 status:
   stage:
     content: published
 relation:
 - type: updates
   bibitem:
-    formattedref: CCSDS 320.0-B-6-S
+    formattedref:
+      content: CCSDS 320.0-B-6-S
     docidentifier:
     - content: CCSDS 320.0-B-6-S
       type: CCSDS
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 320.0-B-6 Cor. 1
+    formattedref:
+      content: CCSDS 320.0-B-6 Cor. 1
     docidentifier:
     - content: CCSDS 320.0-B-6 Cor. 1
       type: CCSDS

@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 13764:1996
+    formattedref:
+      content: ISO 13764:1996
     source:
     - type: src
       content: https://www.iso.org/standard/22845.html?browse=tc

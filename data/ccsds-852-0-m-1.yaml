@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 18426:2013
+    formattedref:
+      content: ISO 18426:2013
     source:
     - type: src
       content: https://www.iso.org/standard/62450.html?browse=tc

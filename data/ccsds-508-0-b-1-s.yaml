@@ -46,7 +46,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 19389:2014
+    formattedref:
+      content: ISO 19389:2014
     source:
     - type: src
       content: https://www.iso.org/standard/64784.html?browse=tc
@@ -56,14 +57,16 @@ relation:
       primary: true
 - type: updates
   bibitem:
-    formattedref: CCSDS 508.0-B-1
+    formattedref:
+      content: CCSDS 508.0-B-1
     docidentifier:
     - content: CCSDS 508.0-B-1
       type: CCSDS
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 508.0-B-1
+    formattedref:
+      content: CCSDS 508.0-B-1
     docidentifier:
     - content: CCSDS 508.0-B-1
       type: CCSDS

@@ -45,14 +45,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 912.3-B-1-S
+    formattedref:
+      content: CCSDS 912.3-B-1-S
     docidentifier:
     - content: CCSDS 912.3-B-1-S
       type: CCSDS
       primary: true
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 22672:2021
+    formattedref:
+      content: ISO 22672:2021
     source:
     - type: src
       content: https://www.iso.org/standard/74558.html?browse=tc
@@ -62,7 +64,8 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 912.3-B-1-S
+    formattedref:
+      content: CCSDS 912.3-B-1-S
     docidentifier:
     - content: CCSDS 912.3-B-1-S
       type: CCSDS

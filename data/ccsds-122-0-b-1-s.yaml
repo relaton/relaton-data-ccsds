@@ -45,7 +45,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 26868:2009
+    formattedref:
+      content: ISO 26868:2009
     source:
     - type: src
       content: https://www.iso.org/standard/43849.html?browse=tc
@@ -55,28 +56,32 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 122.0-B-1-S Cor. 1
+    formattedref:
+      content: CCSDS 122.0-B-1-S Cor. 1
     docidentifier:
     - content: CCSDS 122.0-B-1-S Cor. 1
       type: CCSDS
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 122.0-B-1-S Cor. 2
+    formattedref:
+      content: CCSDS 122.0-B-1-S Cor. 2
     docidentifier:
     - content: CCSDS 122.0-B-1-S Cor. 2
       type: CCSDS
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 122.0-B-1-S Cor. 3
+    formattedref:
+      content: CCSDS 122.0-B-1-S Cor. 3
     docidentifier:
     - content: CCSDS 122.0-B-1-S Cor. 3
       type: CCSDS
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 122.0-B-1
+    formattedref:
+      content: CCSDS 122.0-B-1
     docidentifier:
     - content: CCSDS 122.0-B-1
       type: CCSDS

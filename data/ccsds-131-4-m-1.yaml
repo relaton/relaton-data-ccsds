@@ -42,14 +42,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 131.4-M-1-S
+    formattedref:
+      content: CCSDS 131.4-M-1-S
     docidentifier:
     - content: CCSDS 131.4-M-1-S
       type: CCSDS
       primary: true
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 17808:2014
+    formattedref:
+      content: ISO 17808:2014
     source:
     - type: src
       content: https://www.iso.org/standard/60593.html?browse=tc
@@ -59,7 +61,8 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 131.4-M-1-S
+    formattedref:
+      content: CCSDS 131.4-M-1-S
     docidentifier:
     - content: CCSDS 131.4-M-1-S
       type: CCSDS

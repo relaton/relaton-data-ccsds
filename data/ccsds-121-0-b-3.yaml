@@ -44,7 +44,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 15887:2013
+    formattedref:
+      content: ISO 15887:2013
     source:
     - type: src
       content: https://www.iso.org/standard/62314.html?browse=tc

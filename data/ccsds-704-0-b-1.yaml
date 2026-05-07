@@ -42,14 +42,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 704.0-B-1-S
+    formattedref:
+      content: CCSDS 704.0-B-1-S
     docidentifier:
     - content: CCSDS 704.0-B-1-S
       type: CCSDS
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 704.0-B-1-S
+    formattedref:
+      content: CCSDS 704.0-B-1-S
     docidentifier:
     - content: CCSDS 704.0-B-1-S
       type: CCSDS

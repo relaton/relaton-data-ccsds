@@ -42,7 +42,8 @@ status:
 relation:
 - type: updates
   bibitem:
-    formattedref: CCSDS 902.13-M-1
+    formattedref:
+      content: CCSDS 902.13-M-1
     docidentifier:
     - content: CCSDS 902.13-M-1
       type: CCSDS

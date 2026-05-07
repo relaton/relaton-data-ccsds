@@ -49,7 +49,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 13420:1997
+    formattedref:
+      content: ISO 13420:1997
     source:
     - type: src
       content: https://www.iso.org/standard/21969.html?browse=tc
@@ -59,7 +60,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 701.0-B-3
+    formattedref:
+      content: CCSDS 701.0-B-3
     docidentifier:
     - content: CCSDS 701.0-B-3
       type: CCSDS

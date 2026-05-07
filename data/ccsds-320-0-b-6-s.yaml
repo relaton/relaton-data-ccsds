@@ -43,14 +43,16 @@ status:
 relation:
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 320.0-B-6-S Cor. 1
+    formattedref:
+      content: CCSDS 320.0-B-6-S Cor. 1
     docidentifier:
     - content: CCSDS 320.0-B-6-S Cor. 1
       type: CCSDS
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 320.0-B-6
+    formattedref:
+      content: CCSDS 320.0-B-6
     docidentifier:
     - content: CCSDS 320.0-B-6
       type: CCSDS

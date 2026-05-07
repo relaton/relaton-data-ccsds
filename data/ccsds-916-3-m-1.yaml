@@ -44,14 +44,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 916.3-M-1-S
+    formattedref:
+      content: CCSDS 916.3-M-1-S
     docidentifier:
     - content: CCSDS 916.3-M-1-S
       type: CCSDS
       primary: true
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 18446:2016
+    formattedref:
+      content: ISO 18446:2016
     source:
     - type: src
       content: https://www.iso.org/standard/70708.html?browse=tc
@@ -61,7 +63,8 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 916.3-M-1-S
+    formattedref:
+      content: CCSDS 916.3-M-1-S
     docidentifier:
     - content: CCSDS 916.3-M-1-S
       type: CCSDS

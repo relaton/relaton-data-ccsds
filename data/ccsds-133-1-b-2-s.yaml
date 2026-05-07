@@ -48,7 +48,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 10537:2016
+    formattedref:
+      content: ISO 10537:2016
     source:
     - type: src
       content: https://www.iso.org/standard/71058.html?browse=tc
@@ -58,7 +59,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 133.1-B-2
+    formattedref:
+      content: CCSDS 133.1-B-2
     docidentifier:
     - content: CCSDS 133.1-B-2
       type: CCSDS

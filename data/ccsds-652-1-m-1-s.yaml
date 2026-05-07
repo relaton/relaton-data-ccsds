@@ -45,7 +45,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 16919:2014
+    formattedref:
+      content: ISO 16919:2014
     source:
     - type: src
       content: https://www.iso.org/standard/57950.html?browse=tc
@@ -55,7 +56,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 652.1-M-1
+    formattedref:
+      content: CCSDS 652.1-M-1
     docidentifier:
     - content: CCSDS 652.1-M-1
       type: CCSDS

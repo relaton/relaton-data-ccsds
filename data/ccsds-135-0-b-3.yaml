@@ -48,14 +48,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 135.0-B-3-S
+    formattedref:
+      content: CCSDS 135.0-B-3-S
     docidentifier:
     - content: CCSDS 135.0-B-3-S
       type: CCSDS
       primary: true
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 22647:2010
+    formattedref:
+      content: ISO 22647:2010
     source:
     - type: src
       content: https://www.iso.org/standard/45987.html?browse=tc
@@ -65,14 +67,16 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 135.0-B-3-S
+    formattedref:
+      content: CCSDS 135.0-B-3-S
     docidentifier:
     - content: CCSDS 135.0-B-3-S
       type: CCSDS
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 135.0-B-3-S Cor. 1
+    formattedref:
+      content: CCSDS 135.0-B-3-S Cor. 1
     docidentifier:
     - content: CCSDS 135.0-B-3-S Cor. 1
       type: CCSDS

@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 20106:2015
+    formattedref:
+      content: ISO 20106:2015
     source:
     - type: src
       content: https://www.iso.org/standard/67058.html?browse=tc

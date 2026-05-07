@@ -45,7 +45,8 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 350.0-G-2
+    formattedref:
+      content: CCSDS 350.0-G-2
     docidentifier:
     - content: CCSDS 350.0-G-2
       type: CCSDS

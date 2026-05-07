@@ -42,7 +42,8 @@ status:
 relation:
 - type: updates
   bibitem:
-    formattedref: CCSDS A20.0-Y-4
+    formattedref:
+      content: CCSDS A20.0-Y-4
     docidentifier:
     - content: CCSDS A20.0-Y-4
       type: CCSDS

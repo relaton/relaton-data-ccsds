@@ -46,7 +46,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO/CD 17355
+    formattedref:
+      content: ISO/CD 17355
     source:
     - type: src
       content: https://www.iso.org/standard/70700.html?browse=tc
@@ -56,7 +57,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 727.0-B-2
+    formattedref:
+      content: CCSDS 727.0-B-2
     docidentifier:
     - content: CCSDS 727.0-B-2
       type: CCSDS

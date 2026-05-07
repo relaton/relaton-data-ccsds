@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 22670:2013
+    formattedref:
+      content: ISO 22670:2013
     source:
     - type: src
       content: https://www.iso.org/standard/61744.html?browse=tc
@@ -53,7 +54,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 911.2-B-3
+    formattedref:
+      content: CCSDS 911.2-B-3
     docidentifier:
     - content: CCSDS 911.2-B-3
       type: CCSDS

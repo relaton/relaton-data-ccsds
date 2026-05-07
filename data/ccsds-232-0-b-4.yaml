@@ -43,7 +43,8 @@ status:
 relation:
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 232.0-B-4 Cor. 1
+    formattedref:
+      content: CCSDS 232.0-B-4 Cor. 1
     docidentifier:
     - content: CCSDS 232.0-B-4 Cor. 1
       type: CCSDS

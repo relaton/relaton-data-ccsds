@@ -45,7 +45,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 22672:2021
+    formattedref:
+      content: ISO 22672:2021
     source:
     - type: src
       content: https://www.iso.org/standard/74558.html?browse=tc
@@ -55,7 +56,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 912.3-B-2
+    formattedref:
+      content: CCSDS 912.3-B-2
     docidentifier:
     - content: CCSDS 912.3-B-2
       type: CCSDS

@@ -43,7 +43,8 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 713.5-B-1-S Cor. 1
+    formattedref:
+      content: CCSDS 713.5-B-1-S Cor. 1
     docidentifier:
     - content: CCSDS 713.5-B-1-S Cor. 1
       type: CCSDS

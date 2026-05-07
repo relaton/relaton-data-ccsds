@@ -43,7 +43,8 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 140.1-G-1
+    formattedref:
+      content: CCSDS 140.1-G-1
     docidentifier:
     - content: CCSDS 140.1-G-1
       type: CCSDS

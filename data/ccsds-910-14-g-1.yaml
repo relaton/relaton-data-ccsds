@@ -45,14 +45,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 910.14-G-1-S
+    formattedref:
+      content: CCSDS 910.14-G-1-S
     docidentifier:
     - content: CCSDS 910.14-G-1-S
       type: CCSDS
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 910.14-G-1-S
+    formattedref:
+      content: CCSDS 910.14-G-1-S
     docidentifier:
     - content: CCSDS 910.14-G-1-S
       type: CCSDS

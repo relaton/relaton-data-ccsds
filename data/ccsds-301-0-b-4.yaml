@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 11104:2011
+    formattedref:
+      content: ISO 11104:2011
     source:
     - type: src
       content: https://www.iso.org/standard/59415.html?browse=tc

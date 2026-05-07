@@ -43,7 +43,8 @@ status:
 relation:
 - type: updates
   bibitem:
-    formattedref: CCSDS 320.0-M-7
+    formattedref:
+      content: CCSDS 320.0-M-7
     docidentifier:
     - content: CCSDS 320.0-M-7
       type: CCSDS

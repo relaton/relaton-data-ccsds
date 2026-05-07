@@ -44,7 +44,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 17214:2011
+    formattedref:
+      content: ISO 17214:2011
     source:
     - type: src
       content: https://www.iso.org/standard/59416.html?browse=tc
@@ -54,7 +55,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 872.0-M-1
+    formattedref:
+      content: CCSDS 872.0-M-1
     docidentifier:
     - content: CCSDS 872.0-M-1
       type: CCSDS

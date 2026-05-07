@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 21080:2016
+    formattedref:
+      content: ISO 21080:2016
     source:
     - type: src
       content: https://www.iso.org/standard/69839.html?browse=tc
@@ -53,7 +54,8 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 734.1-B-1 Cor. 1
+    formattedref:
+      content: CCSDS 734.1-B-1 Cor. 1
     docidentifier:
     - content: CCSDS 734.1-B-1 Cor. 1
       type: CCSDS

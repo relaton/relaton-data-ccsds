@@ -43,7 +43,8 @@ status:
 relation:
 - type: updates
   bibitem:
-    formattedref: CCSDS 131.31-O-1
+    formattedref:
+      content: CCSDS 131.31-O-1
     docidentifier:
     - content: CCSDS 131.31-O-1
       type: CCSDS

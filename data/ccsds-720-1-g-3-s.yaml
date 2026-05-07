@@ -43,7 +43,8 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 720.1-G-3
+    formattedref:
+      content: CCSDS 720.1-G-3
     docidentifier:
     - content: CCSDS 720.1-G-3
       type: CCSDS

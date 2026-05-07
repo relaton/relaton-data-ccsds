@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 20215:2015
+    formattedref:
+      content: ISO 20215:2015
     source:
     - type: src
       content: https://www.iso.org/standard/67308.html?browse=tc
@@ -53,7 +54,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 352.0-B-1
+    formattedref:
+      content: CCSDS 352.0-B-1
     docidentifier:
     - content: CCSDS 352.0-B-1
       type: CCSDS

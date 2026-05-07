@@ -47,14 +47,16 @@ status:
 relation:
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 401.0-B-21-S Cor. 1
+    formattedref:
+      content: CCSDS 401.0-B-21-S Cor. 1
     docidentifier:
     - content: CCSDS 401.0-B-21-S Cor. 1
       type: CCSDS
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 401.0-B-21
+    formattedref:
+      content: CCSDS 401.0-B-21
     docidentifier:
     - content: CCSDS 401.0-B-21
       type: CCSDS

@@ -44,7 +44,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 18440:2016
+    formattedref:
+      content: ISO 18440:2016
     source:
     - type: src
       content: https://www.iso.org/standard/70702.html?browse=tc

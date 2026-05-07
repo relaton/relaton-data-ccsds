@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 13537:2010
+    formattedref:
+      content: ISO 13537:2010
     source:
     - type: src
       content: https://www.iso.org/standard/53986.html?browse=tc
@@ -53,7 +54,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 311.0-M-1
+    formattedref:
+      content: CCSDS 311.0-M-1
     docidentifier:
     - content: CCSDS 311.0-M-1
       type: CCSDS

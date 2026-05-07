@@ -44,7 +44,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 21460:2015
+    formattedref:
+      content: ISO 21460:2015
     source:
     - type: src
       content: https://www.iso.org/standard/67092.html?browse=tc
@@ -54,7 +55,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 211.1-B-2
+    formattedref:
+      content: CCSDS 211.1-B-2
     docidentifier:
     - content: CCSDS 211.1-B-2
       type: CCSDS

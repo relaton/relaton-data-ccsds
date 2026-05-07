@@ -45,7 +45,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 18439:2013
+    formattedref:
+      content: ISO 18439:2013
     source:
     - type: src
       content: https://www.iso.org/standard/62454.html?browse=tc
@@ -55,7 +56,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 910.11-B-1
+    formattedref:
+      content: CCSDS 910.11-B-1
     docidentifier:
     - content: CCSDS 910.11-B-1
       type: CCSDS

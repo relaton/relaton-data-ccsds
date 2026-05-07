@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 12175:1994
+    formattedref:
+      content: ISO 12175:1994
     source:
     - type: src
       content: https://www.iso.org/standard/21118.html?browse=tc

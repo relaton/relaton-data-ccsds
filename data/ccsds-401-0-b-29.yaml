@@ -43,14 +43,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 401.0-B-29-S
+    formattedref:
+      content: CCSDS 401.0-B-29-S
     docidentifier:
     - content: CCSDS 401.0-B-29-S
       type: CCSDS
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 401.0-B-29-S
+    formattedref:
+      content: CCSDS 401.0-B-29-S
     docidentifier:
     - content: CCSDS 401.0-B-29-S
       type: CCSDS

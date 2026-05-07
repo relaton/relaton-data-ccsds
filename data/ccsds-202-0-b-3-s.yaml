@@ -50,7 +50,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 12172:2003
+    formattedref:
+      content: ISO 12172:2003
     source:
     - type: src
       content: https://www.iso.org/standard/36591.html?browse=tc
@@ -60,7 +61,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 202.0-B-3
+    formattedref:
+      content: CCSDS 202.0-B-3
     docidentifier:
     - content: CCSDS 202.0-B-3
       type: CCSDS

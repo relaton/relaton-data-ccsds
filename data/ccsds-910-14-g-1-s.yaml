@@ -45,7 +45,8 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 910.14-G-1
+    formattedref:
+      content: CCSDS 910.14-G-1
     docidentifier:
     - content: CCSDS 910.14-G-1
       type: CCSDS

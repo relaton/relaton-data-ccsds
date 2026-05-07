@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 23104:2020
+    formattedref:
+      content: ISO 23104:2020
     source:
     - type: src
       content: https://www.iso.org/standard/74562.html?browse=tc
@@ -53,7 +54,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 922.1-B-1
+    formattedref:
+      content: CCSDS 922.1-B-1
     docidentifier:
     - content: CCSDS 922.1-B-1
       type: CCSDS

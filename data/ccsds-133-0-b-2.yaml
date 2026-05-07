@@ -44,7 +44,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 22646:2005
+    formattedref:
+      content: ISO 22646:2005
     source:
     - type: src
       content: https://www.iso.org/standard/36381.html?browse=tc

@@ -44,7 +44,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 22664:2016
+    formattedref:
+      content: ISO 22664:2016
     source:
     - type: src
       content: https://www.iso.org/standard/70699.html?browse=tc
@@ -54,7 +55,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 232.0-B-1
+    formattedref:
+      content: CCSDS 232.0-B-1
     docidentifier:
     - content: CCSDS 232.0-B-1
       type: CCSDS

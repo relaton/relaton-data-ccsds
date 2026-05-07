@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 13527:2010
+    formattedref:
+      content: ISO 13527:2010
     source:
     - type: src
       content: https://www.iso.org/standard/53985.html?browse=tc

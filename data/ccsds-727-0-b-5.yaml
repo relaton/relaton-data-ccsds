@@ -47,7 +47,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 17355:2007
+    formattedref:
+      content: ISO 17355:2007
     source:
     - type: src
       content: https://www.iso.org/standard/43829.html?browse=tc

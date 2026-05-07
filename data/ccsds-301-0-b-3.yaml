@@ -42,14 +42,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 301.0-B-3-S
+    formattedref:
+      content: CCSDS 301.0-B-3-S
     docidentifier:
     - content: CCSDS 301.0-B-3-S
       type: CCSDS
       primary: true
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 11103:1991
+    formattedref:
+      content: ISO 11103:1991
     source:
     - type: src
       content: https://www.iso.org/standard/19092.html?browse=tc
@@ -59,7 +61,8 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 301.0-B-3-S
+    formattedref:
+      content: CCSDS 301.0-B-3-S
     docidentifier:
     - content: CCSDS 301.0-B-3-S
       type: CCSDS

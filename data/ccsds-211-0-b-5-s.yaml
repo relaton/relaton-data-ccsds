@@ -46,7 +46,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 22663:2015
+    formattedref:
+      content: ISO 22663:2015
     source:
     - type: src
       content: https://www.iso.org/standard/67091.html?browse=tc
@@ -56,7 +57,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 211.0-B-5
+    formattedref:
+      content: CCSDS 211.0-B-5
     docidentifier:
     - content: CCSDS 211.0-B-5
       type: CCSDS

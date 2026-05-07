@@ -41,7 +41,8 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 911.1-R-1.7
+    formattedref:
+      content: CCSDS 911.1-R-1.7
     docidentifier:
     - content: CCSDS 911.1-R-1.7
       type: CCSDS

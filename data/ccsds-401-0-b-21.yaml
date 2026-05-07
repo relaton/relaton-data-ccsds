@@ -47,21 +47,24 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 401.0-B-21-S
+    formattedref:
+      content: CCSDS 401.0-B-21-S
     docidentifier:
     - content: CCSDS 401.0-B-21-S
       type: CCSDS
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 401.0-B-21-S
+    formattedref:
+      content: CCSDS 401.0-B-21-S
     docidentifier:
     - content: CCSDS 401.0-B-21-S
       type: CCSDS
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 401.0-B-21-S Cor. 1
+    formattedref:
+      content: CCSDS 401.0-B-21-S Cor. 1
     docidentifier:
     - content: CCSDS 401.0-B-21-S Cor. 1
       type: CCSDS

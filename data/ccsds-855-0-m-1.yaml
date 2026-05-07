@@ -42,7 +42,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 18438:2013
+    formattedref:
+      content: ISO 18438:2013
     source:
     - type: src
       content: https://www.iso.org/standard/62453.html?browse=tc

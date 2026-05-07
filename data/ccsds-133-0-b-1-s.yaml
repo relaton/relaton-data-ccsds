@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 22646:2005
+    formattedref:
+      content: ISO 22646:2005
     source:
     - type: src
       content: https://www.iso.org/standard/36381.html?browse=tc
@@ -53,21 +54,24 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 133.0-B-1-S Cor. 1
+    formattedref:
+      content: CCSDS 133.0-B-1-S Cor. 1
     docidentifier:
     - content: CCSDS 133.0-B-1-S Cor. 1
       type: CCSDS
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 133.0-B-1-S Cor. 2
+    formattedref:
+      content: CCSDS 133.0-B-1-S Cor. 2
     docidentifier:
     - content: CCSDS 133.0-B-1-S Cor. 2
       type: CCSDS
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 133.0-B-1
+    formattedref:
+      content: CCSDS 133.0-B-1
     docidentifier:
     - content: CCSDS 133.0-B-1
       type: CCSDS

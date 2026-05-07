@@ -41,7 +41,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 11754:2003
+    formattedref:
+      content: ISO 11754:2003
     source:
     - type: src
       content: https://www.iso.org/standard/33004.html?browse=tc
@@ -51,7 +52,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 101.0-B-5
+    formattedref:
+      content: CCSDS 101.0-B-5
     docidentifier:
     - content: CCSDS 101.0-B-5
       type: CCSDS

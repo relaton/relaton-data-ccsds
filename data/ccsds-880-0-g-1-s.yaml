@@ -50,7 +50,8 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 880.0-G-1
+    formattedref:
+      content: CCSDS 880.0-G-1
     docidentifier:
     - content: CCSDS 880.0-G-1
       type: CCSDS

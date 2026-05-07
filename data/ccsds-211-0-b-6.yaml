@@ -44,7 +44,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 22663:2015
+    formattedref:
+      content: ISO 22663:2015
     source:
     - type: src
       content: https://www.iso.org/standard/67091.html?browse=tc

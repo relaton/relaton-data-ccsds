@@ -42,7 +42,8 @@ status:
 relation:
 - type: updates
   bibitem:
-    formattedref: CCSDS 232.1-B-2
+    formattedref:
+      content: CCSDS 232.1-B-2
     docidentifier:
     - content: CCSDS 232.1-B-2
       type: CCSDS

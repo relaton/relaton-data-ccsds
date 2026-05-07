@@ -41,7 +41,8 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 401.0-B
+    formattedref:
+      content: CCSDS 401.0-B
     docidentifier:
     - content: CCSDS 401.0-B
       type: CCSDS

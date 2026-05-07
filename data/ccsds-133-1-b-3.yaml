@@ -47,7 +47,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 10537:2016
+    formattedref:
+      content: ISO 10537:2016
     source:
     - type: src
       content: https://www.iso.org/standard/71058.html?browse=tc

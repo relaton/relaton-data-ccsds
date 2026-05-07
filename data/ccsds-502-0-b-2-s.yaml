@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 26900:2012
+    formattedref:
+      content: ISO 26900:2012
     source:
     - type: src
       content: https://www.iso.org/standard/46135.html?browse=tc
@@ -53,14 +54,16 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 502.0-B-2-S Cor. 1
+    formattedref:
+      content: CCSDS 502.0-B-2-S Cor. 1
     docidentifier:
     - content: CCSDS 502.0-B-2-S Cor. 1
       type: CCSDS
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 502.0-B-2
+    formattedref:
+      content: CCSDS 502.0-B-2
     docidentifier:
     - content: CCSDS 502.0-B-2
       type: CCSDS

@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 15888:2000
+    formattedref:
+      content: ISO 15888:2000
     source:
     - type: src
       content: https://www.iso.org/standard/29441.html?browse=tc

@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 21460:2015
+    formattedref:
+      content: ISO 21460:2015
     source:
     - type: src
       content: https://www.iso.org/standard/67092.html?browse=tc

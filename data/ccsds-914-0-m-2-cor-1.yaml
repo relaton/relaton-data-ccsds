@@ -43,7 +43,8 @@ status:
 relation:
 - type: updates
   bibitem:
-    formattedref: CCSDS 914.0-M-2
+    formattedref:
+      content: CCSDS 914.0-M-2
     docidentifier:
     - content: CCSDS 914.0-M-2
       type: CCSDS

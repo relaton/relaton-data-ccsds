@@ -43,7 +43,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 15887:2013
+    formattedref:
+      content: ISO 15887:2013
     source:
     - type: src
       content: https://www.iso.org/standard/62314.html?browse=tc
@@ -53,21 +54,24 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 121.0-B-1-S Cor. 1
+    formattedref:
+      content: CCSDS 121.0-B-1-S Cor. 1
     docidentifier:
     - content: CCSDS 121.0-B-1-S Cor. 1
       type: CCSDS
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 121.0-B-1-S Cor. 2
+    formattedref:
+      content: CCSDS 121.0-B-1-S Cor. 2
     docidentifier:
     - content: CCSDS 121.0-B-1-S Cor. 2
       type: CCSDS
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 121.0-B-1
+    formattedref:
+      content: CCSDS 121.0-B-1
     docidentifier:
     - content: CCSDS 121.0-B-1
       type: CCSDS

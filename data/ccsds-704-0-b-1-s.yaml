@@ -42,7 +42,8 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 704.0-B-1
+    formattedref:
+      content: CCSDS 704.0-B-1
     docidentifier:
     - content: CCSDS 704.0-B-1
       type: CCSDS

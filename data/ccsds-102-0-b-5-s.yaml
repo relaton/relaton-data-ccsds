@@ -51,7 +51,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 13419:2003
+    formattedref:
+      content: ISO 13419:2003
     source:
     - type: src
       content: https://www.iso.org/standard/36479.html?browse=tc
@@ -61,7 +62,8 @@ relation:
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 102.0-B-5
+    formattedref:
+      content: CCSDS 102.0-B-5
     docidentifier:
     - content: CCSDS 102.0-B-5
       type: CCSDS

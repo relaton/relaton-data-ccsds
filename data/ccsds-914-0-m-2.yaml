@@ -44,7 +44,8 @@ status:
 relation:
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 914.0-M-2 Cor. 1
+    formattedref:
+      content: CCSDS 914.0-M-2 Cor. 1
     docidentifier:
     - content: CCSDS 914.0-M-2 Cor. 1
       type: CCSDS

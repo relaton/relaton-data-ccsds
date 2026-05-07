@@ -44,7 +44,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 21082:2016
+    formattedref:
+      content: ISO 21082:2016
     source:
     - type: src
       content: https://www.iso.org/standard/69842.html?browse=tc

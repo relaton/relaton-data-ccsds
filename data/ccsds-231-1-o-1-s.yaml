@@ -43,7 +43,8 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 231.1-O-1
+    formattedref:
+      content: CCSDS 231.1-O-1
     docidentifier:
     - content: CCSDS 231.1-O-1
       type: CCSDS

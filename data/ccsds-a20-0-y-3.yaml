@@ -48,14 +48,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS A20.0-Y-3-S
+    formattedref:
+      content: CCSDS A20.0-Y-3-S
     docidentifier:
     - content: CCSDS A20.0-Y-3-S
       type: CCSDS
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS A20.0-Y-3-S
+    formattedref:
+      content: CCSDS A20.0-Y-3-S
     docidentifier:
     - content: CCSDS A20.0-Y-3-S
       type: CCSDS

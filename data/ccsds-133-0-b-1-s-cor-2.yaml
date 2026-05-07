@@ -42,14 +42,16 @@ status:
 relation:
 - type: updates
   bibitem:
-    formattedref: CCSDS 133.0-B-1-S
+    formattedref:
+      content: CCSDS 133.0-B-1-S
     docidentifier:
     - content: CCSDS 133.0-B-1-S
       type: CCSDS
       primary: true
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 133.0-B-1 Cor. 2
+    formattedref:
+      content: CCSDS 133.0-B-1 Cor. 2
     docidentifier:
     - content: CCSDS 133.0-B-1 Cor. 2
       type: CCSDS

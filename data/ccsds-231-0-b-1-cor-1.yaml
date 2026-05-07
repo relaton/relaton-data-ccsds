@@ -34,14 +34,14 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: ''
 status:
   stage:
     content: withdrawn
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 231.0-B-1-S Cor. 1
+    formattedref:
+      content: CCSDS 231.0-B-1-S Cor. 1
     docidentifier:
     - content: CCSDS 231.0-B-1-S Cor. 1
       type: CCSDS

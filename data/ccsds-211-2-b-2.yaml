@@ -43,14 +43,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 211.2-B-2-S
+    formattedref:
+      content: CCSDS 211.2-B-2-S
     docidentifier:
     - content: CCSDS 211.2-B-2-S
       type: CCSDS
       primary: true
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 21459:2015
+    formattedref:
+      content: ISO 21459:2015
     source:
     - type: src
       content: https://www.iso.org/standard/67093.html?browse=tc
@@ -60,7 +62,8 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 211.2-B-2-S
+    formattedref:
+      content: CCSDS 211.2-B-2-S
     docidentifier:
     - content: CCSDS 211.2-B-2-S
       type: CCSDS

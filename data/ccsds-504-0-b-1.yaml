@@ -43,14 +43,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 504.0-B-1-S
+    formattedref:
+      content: CCSDS 504.0-B-1-S
     docidentifier:
     - content: CCSDS 504.0-B-1-S
       type: CCSDS
       primary: true
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 13541:2010
+    formattedref:
+      content: ISO 13541:2010
     source:
     - type: src
       content: https://www.iso.org/standard/53987.html?browse=tc
@@ -60,14 +62,16 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 504.0-B-1-S
+    formattedref:
+      content: CCSDS 504.0-B-1-S
     docidentifier:
     - content: CCSDS 504.0-B-1-S
       type: CCSDS
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 504.0-B-1-S Cor. 1
+    formattedref:
+      content: CCSDS 504.0-B-1-S Cor. 1
     docidentifier:
     - content: CCSDS 504.0-B-1-S Cor. 1
       type: CCSDS

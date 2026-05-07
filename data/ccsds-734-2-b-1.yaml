@@ -45,7 +45,8 @@ status:
 relation:
 - type: adoptedAs
   bibitem:
-    formattedref: ISO 21323:2016
+    formattedref:
+      content: ISO 21323:2016
     source:
     - type: src
       content: https://www.iso.org/standard/70545.html?browse=tc

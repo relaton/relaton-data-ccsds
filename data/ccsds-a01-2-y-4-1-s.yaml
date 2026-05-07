@@ -44,7 +44,8 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS A01.2-Y-4.1
+    formattedref:
+      content: CCSDS A01.2-Y-4.1
     docidentifier:
     - content: CCSDS A01.2-Y-4.1
       type: CCSDS

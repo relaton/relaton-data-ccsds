@@ -46,14 +46,16 @@ status:
 relation:
 - type: hasSuccessor
   bibitem:
-    formattedref: CCSDS 727.0-B-2-S
+    formattedref:
+      content: CCSDS 727.0-B-2-S
     docidentifier:
     - content: CCSDS 727.0-B-2-S
       type: CCSDS
       primary: true
 - type: adoptedAs
   bibitem:
-    formattedref: ISO/CD 17355
+    formattedref:
+      content: ISO/CD 17355
     source:
     - type: src
       content: https://www.iso.org/standard/70700.html?browse=tc
@@ -63,7 +65,8 @@ relation:
       primary: true
 - type: updatedBy
   bibitem:
-    formattedref: CCSDS 727.0-B-2-S
+    formattedref:
+      content: CCSDS 727.0-B-2-S
     docidentifier:
     - content: CCSDS 727.0-B-2-S
       type: CCSDS

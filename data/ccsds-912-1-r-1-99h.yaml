@@ -41,7 +41,8 @@ status:
 relation:
 - type: successorOf
   bibitem:
-    formattedref: CCSDS 912.1-R-1.99h
+    formattedref:
+      content: CCSDS 912.1-R-1.99h
     docidentifier:
     - content: CCSDS 912.1-R-1.99h
       type: CCSDS
