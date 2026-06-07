@@ -1,0 +1,46 @@
+---
+id: CCSDS7346O1
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Custody Transfer and Compressed Bundle Status Reporting
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/4868/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2026/06/734x6o1.pdf
+docidentifier:
+- content: CCSDS 734.6-O-1
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2026-06
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SIS-DTN
+      type: technical-committee
+edition:
+  content: '1'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification defines a method for enhancing hop-by-hop and end-to-end
+    reliability in bundle transmissions through the use of Custody Transfer (CT) and
+    Compressed Bundle Status Reporting (CBSR).</p>\n"
+status:
+  stage:
+    content: published
+ext:
+  doctype:
+    content: specification
+  technology_area: Space Internetworking Services Area
