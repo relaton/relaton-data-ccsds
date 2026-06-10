@@ -5738,6 +5738,14 @@
   :file: data/ccsds-734-3-b-1.yaml
 - :id:
     :publisher: CCSDS
+    :number: '734'
+    :book_color: O
+    :part: 6
+    :retired: false
+    :edition: '1'
+  :file: data/ccsds-734-6-o-1.yaml
+- :id:
+    :publisher: CCSDS
     :number: '735'
     :book_color: G
     :part: 0
