@@ -1,0 +1,6215 @@
+---
+- :id:
+    _type: pubid:ccsds:base
+    number: '100'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-100-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '100'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-100-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '101'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-101-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '101'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-101-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '101'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-101-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '101'
+    part: '0'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-101-0-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '101'
+    part: '0'
+    edition: '4'
+    type: B
+  :file: data/ccsds-101-0-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '101'
+    part: '0'
+    edition: '4'
+    type: B
+    suffix: S
+  :file: data/ccsds-101-0-b-4-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '101'
+    part: '0'
+    edition: '5'
+    type: B
+  :file: data/ccsds-101-0-b-5.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '101'
+    part: '0'
+    edition: '5'
+    type: B
+    suffix: S
+  :file: data/ccsds-101-0-b-5-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '101'
+    part: '0'
+    edition: '6'
+    type: B
+  :file: data/ccsds-101-0-b-6.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '101'
+    part: '0'
+    edition: '6'
+    type: B
+    suffix: S
+  :file: data/ccsds-101-0-b-6-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '102'
+    part: '0'
+    edition: '4'
+    type: B
+  :file: data/ccsds-102-0-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '102'
+    part: '0'
+    edition: '4'
+    type: B
+    suffix: S
+  :file: data/ccsds-102-0-b-4-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '102'
+    part: '0'
+    edition: '5'
+    type: B
+  :file: data/ccsds-102-0-b-5.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '102'
+    part: '0'
+    edition: '5'
+    type: B
+    suffix: S
+  :file: data/ccsds-102-0-b-5-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '102'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-102-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '102'
+    part: '1'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-102-1-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '103'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-103-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '103'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-103-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '103'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-103-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '103'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-103-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-120-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-120-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '0'
+    edition: '2'
+    type: G
+  :file: data/ccsds-120-0-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '0'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-120-0-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '0'
+    edition: '3'
+    type: G
+  :file: data/ccsds-120-0-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '0'
+    edition: '3'
+    type: G
+    suffix: S
+  :file: data/ccsds-120-0-g-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '0'
+    edition: '4'
+    type: G
+  :file: data/ccsds-120-0-g-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '1'
+    edition: '1'
+    type: G
+  :file: data/ccsds-120-1-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '1'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-120-1-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '1'
+    edition: '2'
+    type: G
+  :file: data/ccsds-120-1-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '1'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-120-1-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '1'
+    edition: '3'
+    type: G
+  :file: data/ccsds-120-1-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '2'
+    edition: '1'
+    type: G
+  :file: data/ccsds-120-2-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '2'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-120-2-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '2'
+    edition: '2'
+    type: G
+  :file: data/ccsds-120-2-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '120'
+    part: '3'
+    edition: '1'
+    type: G
+  :file: data/ccsds-120-3-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '121'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-121-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '121'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-121-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '121'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-121-0-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '121'
+      part: '0'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-121-0-b-1-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '2'
+    base:
+      _type: pubid:ccsds:base
+      number: '121'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-121-0-b-1-cor-2.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '2'
+    base:
+      _type: pubid:ccsds:base
+      number: '121'
+      part: '0'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-121-0-b-1-s-cor-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '121'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-121-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '121'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-121-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '121'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-121-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '122'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-122-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '122'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-122-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '122'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-122-0-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '122'
+      part: '0'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-122-0-b-1-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '2'
+    base:
+      _type: pubid:ccsds:base
+      number: '122'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-122-0-b-1-cor-2.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '2'
+    base:
+      _type: pubid:ccsds:base
+      number: '122'
+      part: '0'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-122-0-b-1-s-cor-2.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '3'
+    base:
+      _type: pubid:ccsds:base
+      number: '122'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-122-0-b-1-cor-3.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '3'
+    base:
+      _type: pubid:ccsds:base
+      number: '122'
+      part: '0'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-122-0-b-1-s-cor-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '122'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-122-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '122'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-122-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '123'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-123-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '123'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-123-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '123'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-123-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '123'
+      part: '0'
+      edition: '2'
+      type: B
+  :file: data/ccsds-123-0-b-2-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '2'
+    base:
+      _type: pubid:ccsds:base
+      number: '123'
+      part: '0'
+      edition: '2'
+      type: B
+  :file: data/ccsds-123-0-b-2-cor-2.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '3'
+    base:
+      _type: pubid:ccsds:base
+      number: '123'
+      part: '0'
+      edition: '2'
+      type: B
+  :file: data/ccsds-123-0-b-2-cor-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '124'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-124-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-130-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-130-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '0'
+    edition: '2'
+    type: G
+  :file: data/ccsds-130-0-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '0'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-130-0-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '0'
+    edition: '3'
+    type: G
+  :file: data/ccsds-130-0-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '0'
+    edition: '3'
+    type: G
+    suffix: S
+  :file: data/ccsds-130-0-g-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '0'
+    edition: '4'
+    type: G
+  :file: data/ccsds-130-0-g-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '1'
+    edition: '1'
+    type: G
+  :file: data/ccsds-130-1-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '1'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-130-1-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '1'
+    edition: '2'
+    type: G
+  :file: data/ccsds-130-1-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '1'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-130-1-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '1'
+    edition: '3'
+    type: G
+  :file: data/ccsds-130-1-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '11'
+    edition: '1'
+    type: G
+  :file: data/ccsds-130-11-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '11'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-130-11-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '11'
+    edition: '2'
+    type: G
+  :file: data/ccsds-130-11-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '12'
+    edition: '1'
+    type: G
+  :file: data/ccsds-130-12-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '12'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-130-12-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '12'
+    edition: '2'
+    type: G
+  :file: data/ccsds-130-12-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '2'
+    edition: '1'
+    type: G
+  :file: data/ccsds-130-2-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '2'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-130-2-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '2'
+    edition: '2'
+    type: G
+  :file: data/ccsds-130-2-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '2'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-130-2-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '2'
+    edition: '3'
+    type: G
+  :file: data/ccsds-130-2-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '130'
+    part: '3'
+    edition: '1'
+    type: G
+  :file: data/ccsds-130-3-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-131-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-131-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-131-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-131-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-131-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '0'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-131-0-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '0'
+    edition: '4'
+    type: B
+  :file: data/ccsds-131-0-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '0'
+    edition: '4'
+    type: B
+    suffix: S
+  :file: data/ccsds-131-0-b-4-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '0'
+    edition: '5'
+    type: B
+  :file: data/ccsds-131-0-b-5.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '0'
+    edition: '5'
+    type: B
+    suffix: S
+  :file: data/ccsds-131-0-b-5-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '0'
+    edition: '6'
+    type: B
+  :file: data/ccsds-131-0-b-6.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '1'
+    edition: '1'
+    type: O
+  :file: data/ccsds-131-1-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '1'
+    edition: '1'
+    type: O
+    suffix: S
+  :file: data/ccsds-131-1-o-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '1'
+    edition: '2'
+    type: O
+  :file: data/ccsds-131-1-o-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '1'
+    edition: '2'
+    type: O
+    suffix: S
+  :file: data/ccsds-131-1-o-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '2'
+    edition: '1'
+    type: B
+  :file: data/ccsds-131-2-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '2'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-131-2-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '2'
+    edition: '2'
+    type: B
+  :file: data/ccsds-131-2-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '2'
+    edition: '1'
+    type: O
+  :file: data/ccsds-131-2-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '2'
+    edition: '1'
+    type: O
+    suffix: S
+  :file: data/ccsds-131-2-o-1-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '131'
+      part: '2'
+      edition: '1'
+      type: O
+  :file: data/ccsds-131-2-o-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '131'
+      part: '2'
+      edition: '1'
+      type: O
+      suffix: S
+  :file: data/ccsds-131-2-o-1-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '21'
+    edition: '1'
+    type: O
+  :file: data/ccsds-131-21-o-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '131'
+      part: '21'
+      edition: '1'
+      type: O
+  :file: data/ccsds-131-21-o-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '3'
+    edition: '1'
+    type: B
+  :file: data/ccsds-131-3-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '3'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-131-3-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '3'
+    edition: '2'
+    type: B
+  :file: data/ccsds-131-3-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '31'
+    edition: '1'
+    type: O
+  :file: data/ccsds-131-31-o-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '131'
+      part: '31'
+      edition: '1'
+      type: O
+  :file: data/ccsds-131-31-o-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '4'
+    edition: '1'
+    type: M
+  :file: data/ccsds-131-4-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '4'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-131-4-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '131'
+    part: '5'
+    edition: '1'
+    type: O
+  :file: data/ccsds-131-5-o-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '131'
+      part: '5'
+      edition: '1'
+      type: O
+  :file: data/ccsds-131-5-o-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '132'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-132-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '132'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-132-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '132'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-132-0-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '132'
+      part: '0'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-132-0-b-1-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '132'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-132-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '132'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-132-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '132'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-132-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '133'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-133-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '133'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-133-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '133'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-133-0-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '133'
+      part: '0'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-133-0-b-1-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '2'
+    base:
+      _type: pubid:ccsds:base
+      number: '133'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-133-0-b-1-cor-2.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '2'
+    base:
+      _type: pubid:ccsds:base
+      number: '133'
+      part: '0'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-133-0-b-1-s-cor-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '133'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-133-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '133'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-133-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '133'
+    part: '1'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-133-1-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '133'
+      part: '1'
+      edition: '1'
+      type: B
+  :file: data/ccsds-133-1-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '133'
+      part: '1'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-133-1-b-1-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '133'
+    part: '1'
+    edition: '2'
+    type: B
+  :file: data/ccsds-133-1-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '133'
+    part: '1'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-133-1-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '133'
+    part: '1'
+    edition: '3'
+    type: B
+  :file: data/ccsds-133-1-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '135'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-135-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '135'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-135-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '135'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-135-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '135'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-135-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '135'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-135-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '135'
+    part: '0'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-135-0-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '135'
+      part: '0'
+      edition: '3'
+      type: B
+  :file: data/ccsds-135-0-b-3-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '135'
+      part: '0'
+      edition: '3'
+      type: B
+      suffix: S
+  :file: data/ccsds-135-0-b-3-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '135'
+    part: '0'
+    edition: '4'
+    type: B
+  :file: data/ccsds-135-0-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '135'
+    part: '0'
+    edition: '4'
+    type: B
+    suffix: S
+  :file: data/ccsds-135-0-b-4-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '140'
+    part: '1'
+    edition: '1'
+    type: G
+  :file: data/ccsds-140-1-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '140'
+    part: '1'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-140-1-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '140'
+    part: '1'
+    edition: '2'
+    type: G
+  :file: data/ccsds-140-1-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '141'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-141-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '141'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-141-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '141'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-141-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '141'
+    part: '1'
+    edition: '1'
+    type: M
+  :file: data/ccsds-141-1-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '141'
+    part: '10'
+    edition: '1'
+    type: O
+  :file: data/ccsds-141-10-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '141'
+    part: '11'
+    edition: '1'
+    type: O
+  :file: data/ccsds-141-11-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '142'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-142-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '142'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-142-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '142'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-142-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '142'
+    part: '10'
+    edition: '1'
+    type: O
+  :file: data/ccsds-142-10-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '200'
+    part: '0'
+    edition: '6'
+    type: G
+  :file: data/ccsds-200-0-g-6.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '201'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-201-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '201'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-201-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '201'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-201-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '201'
+    part: '0'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-201-0-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '202'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-202-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '202'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-202-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '202'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-202-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '202'
+    part: '0'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-202-0-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '202'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-202-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '202'
+    part: '1'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-202-1-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '202'
+    part: '1'
+    edition: '2'
+    type: B
+  :file: data/ccsds-202-1-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '202'
+    part: '1'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-202-1-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '203'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-203-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '203'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-203-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '203'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-203-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '203'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-203-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '210'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-210-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '210'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-210-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '210'
+    part: '0'
+    edition: '2'
+    type: G
+  :file: data/ccsds-210-0-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-211-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-211-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-211-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-211-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-211-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '0'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-211-0-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '0'
+    edition: '4'
+    type: B
+  :file: data/ccsds-211-0-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '0'
+    edition: '4'
+    type: B
+    suffix: S
+  :file: data/ccsds-211-0-b-4-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '0'
+    edition: '5'
+    type: B
+  :file: data/ccsds-211-0-b-5.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '0'
+    edition: '5'
+    type: B
+    suffix: S
+  :file: data/ccsds-211-0-b-5-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '0'
+    edition: '6'
+    type: B
+  :file: data/ccsds-211-0-b-6.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-211-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '1'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-211-1-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '1'
+    edition: '2'
+    type: B
+  :file: data/ccsds-211-1-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '1'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-211-1-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '1'
+    edition: '3'
+    type: B
+  :file: data/ccsds-211-1-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '1'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-211-1-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '1'
+    edition: '4'
+    type: B
+  :file: data/ccsds-211-1-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '2'
+    edition: '1'
+    type: B
+  :file: data/ccsds-211-2-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '2'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-211-2-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '2'
+    edition: '2'
+    type: B
+  :file: data/ccsds-211-2-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '2'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-211-2-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '211'
+    part: '2'
+    edition: '3'
+    type: B
+  :file: data/ccsds-211-2-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '230'
+    part: '1'
+    edition: '1'
+    type: G
+  :file: data/ccsds-230-1-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '230'
+    part: '1'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-230-1-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '230'
+    part: '1'
+    edition: '2'
+    type: G
+  :file: data/ccsds-230-1-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '230'
+    part: '1'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-230-1-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '230'
+    part: '1'
+    edition: '3'
+    type: G
+  :file: data/ccsds-230-1-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '230'
+    part: '2'
+    edition: '1'
+    type: G
+  :file: data/ccsds-230-2-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '231'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-231-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '231'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-231-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '231'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-231-0-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '231'
+      part: '0'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-231-0-b-1-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '231'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-231-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '231'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-231-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '231'
+      part: '0'
+      edition: '2'
+      type: B
+  :file: data/ccsds-231-0-b-2-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '231'
+      part: '0'
+      edition: '2'
+      type: B
+      suffix: S
+  :file: data/ccsds-231-0-b-2-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '231'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-231-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '231'
+    part: '0'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-231-0-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '231'
+    part: '0'
+    edition: '4'
+    type: B
+  :file: data/ccsds-231-0-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '231'
+    part: '1'
+    edition: '1'
+    type: O
+  :file: data/ccsds-231-1-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '231'
+    part: '1'
+    edition: '1'
+    type: O
+    suffix: S
+  :file: data/ccsds-231-1-o-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '232'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-232-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '232'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-232-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '232'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-232-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '232'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-232-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '232'
+      part: '0'
+      edition: '2'
+      type: B
+  :file: data/ccsds-232-0-b-2-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '232'
+      part: '0'
+      edition: '2'
+      type: B
+      suffix: S
+  :file: data/ccsds-232-0-b-2-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '232'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-232-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '232'
+    part: '0'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-232-0-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '232'
+    part: '0'
+    edition: '4'
+    type: B
+  :file: data/ccsds-232-0-b-4.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '232'
+      part: '0'
+      edition: '4'
+      type: B
+  :file: data/ccsds-232-0-b-4-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '232'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-232-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '232'
+    part: '1'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-232-1-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '232'
+    part: '1'
+    edition: '2'
+    type: B
+  :file: data/ccsds-232-1-b-2.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '232'
+      part: '1'
+      edition: '2'
+      type: B
+  :file: data/ccsds-232-1-b-2-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '301'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-301-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '301'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-301-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '301'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-301-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '301'
+    part: '0'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-301-0-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '301'
+    part: '0'
+    edition: '4'
+    type: B
+  :file: data/ccsds-301-0-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '311'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-311-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '311'
+    part: '0'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-311-0-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '311'
+    part: '0'
+    edition: '2'
+    type: M
+  :file: data/ccsds-311-0-m-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '312'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-312-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '313'
+    part: '0'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-313-0-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '313'
+    part: '0'
+    edition: '1'
+    type: "Y"
+    suffix: S
+  :file: data/ccsds-313-0-y-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '313'
+    part: '0'
+    edition: '2'
+    type: "Y"
+  :file: data/ccsds-313-0-y-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '313'
+    part: '0'
+    edition: '2'
+    type: "Y"
+    suffix: S
+  :file: data/ccsds-313-0-y-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '313'
+    part: '0'
+    edition: '3'
+    type: "Y"
+  :file: data/ccsds-313-0-y-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '313'
+    part: '1'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-313-1-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '313'
+    part: '1'
+    edition: '1'
+    type: "Y"
+    suffix: S
+  :file: data/ccsds-313-1-y-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '313'
+    part: '1'
+    edition: '2'
+    type: "Y"
+  :file: data/ccsds-313-1-y-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '313'
+    part: '2'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-313-2-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '313'
+    part: '2'
+    edition: '1'
+    type: "Y"
+    suffix: S
+  :file: data/ccsds-313-2-y-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '313'
+    part: '2'
+    edition: '2'
+    type: "Y"
+  :file: data/ccsds-313-2-y-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '315'
+    part: '1'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-315-1-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '320'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-320-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '320'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-320-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '320'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-320-0-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '320'
+      part: '0'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-320-0-b-1-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '320'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-320-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '320'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-320-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '320'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-320-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '320'
+    part: '0'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-320-0-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '320'
+    part: '0'
+    edition: '4'
+    type: B
+  :file: data/ccsds-320-0-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '320'
+    part: '0'
+    edition: '4'
+    type: B
+    suffix: S
+  :file: data/ccsds-320-0-b-4-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '320'
+    part: '0'
+    edition: '5'
+    type: B
+  :file: data/ccsds-320-0-b-5.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '320'
+    part: '0'
+    edition: '5'
+    type: B
+    suffix: S
+  :file: data/ccsds-320-0-b-5-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '320'
+    part: '0'
+    edition: '6'
+    type: B
+  :file: data/ccsds-320-0-b-6.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '320'
+    part: '0'
+    edition: '6'
+    type: B
+    suffix: S
+  :file: data/ccsds-320-0-b-6-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '320'
+      part: '0'
+      edition: '6'
+      type: B
+  :file: data/ccsds-320-0-b-6-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '320'
+      part: '0'
+      edition: '6'
+      type: B
+      suffix: S
+  :file: data/ccsds-320-0-b-6-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '320'
+    part: '0'
+    edition: '7'
+    type: M
+  :file: data/ccsds-320-0-m-7.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '320'
+      part: '0'
+      edition: '7'
+      type: M
+  :file: data/ccsds-320-0-m-7-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-350-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-350-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '0'
+    edition: '2'
+    type: G
+  :file: data/ccsds-350-0-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '0'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-350-0-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '0'
+    edition: '3'
+    type: G
+  :file: data/ccsds-350-0-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '1'
+    edition: '1'
+    type: G
+  :file: data/ccsds-350-1-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '1'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-350-1-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '1'
+    edition: '2'
+    type: G
+  :file: data/ccsds-350-1-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '1'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-350-1-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '1'
+    edition: '3'
+    type: G
+  :file: data/ccsds-350-1-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '11'
+    edition: '1'
+    type: G
+  :file: data/ccsds-350-11-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '2'
+    edition: '1'
+    type: G
+  :file: data/ccsds-350-2-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '2'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-350-2-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '3'
+    edition: '1'
+    type: G
+  :file: data/ccsds-350-3-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '3'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-350-3-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '4'
+    edition: '1'
+    type: G
+  :file: data/ccsds-350-4-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '4'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-350-4-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '4'
+    edition: '2'
+    type: G
+  :file: data/ccsds-350-4-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '5'
+    edition: '1'
+    type: G
+  :file: data/ccsds-350-5-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '5'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-350-5-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '5'
+    edition: '2'
+    type: G
+  :file: data/ccsds-350-5-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '6'
+    edition: '1'
+    type: G
+  :file: data/ccsds-350-6-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '7'
+    edition: '1'
+    type: G
+  :file: data/ccsds-350-7-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '7'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-350-7-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '7'
+    edition: '2'
+    type: G
+  :file: data/ccsds-350-7-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '8'
+    edition: '1'
+    type: G
+  :file: data/ccsds-350-8-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '8'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-350-8-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '8'
+    edition: '2'
+    type: M
+  :file: data/ccsds-350-8-m-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '8'
+    edition: '2'
+    type: M
+    suffix: S
+  :file: data/ccsds-350-8-m-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '8'
+    edition: '3'
+    type: M
+  :file: data/ccsds-350-8-m-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '9'
+    edition: '1'
+    type: G
+  :file: data/ccsds-350-9-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '9'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-350-9-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '350'
+    part: '9'
+    edition: '2'
+    type: G
+  :file: data/ccsds-350-9-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '351'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-351-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '352'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-352-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '352'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-352-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '352'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-352-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '354'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-354-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '355'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-355-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '355'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-355-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '355'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-355-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '355'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-355-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '356'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-356-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '357'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-357-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '357'
+    part: '1'
+    edition: '1'
+    type: O
+  :file: data/ccsds-357-1-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '371'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-371-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '14'
+    type: B
+  :file: data/ccsds-401-0-b-14.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '14'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-14-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '15'
+    type: B
+  :file: data/ccsds-401-0-b-15.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '15'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-15-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '16'
+    type: B
+  :file: data/ccsds-401-0-b-16.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '16'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-16-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '17'
+    type: B
+  :file: data/ccsds-401-0-b-17.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '17'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-17-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '18'
+    type: B
+  :file: data/ccsds-401-0-b-18.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '18'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-18-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '19'
+    type: B
+  :file: data/ccsds-401-0-b-19.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '19'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-19-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '20'
+    type: B
+  :file: data/ccsds-401-0-b-20.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '20'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-20-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '21'
+    type: B
+  :file: data/ccsds-401-0-b-21.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '21'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-21-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '401'
+      part: '0'
+      edition: '21'
+      type: B
+  :file: data/ccsds-401-0-b-21-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '401'
+      part: '0'
+      edition: '21'
+      type: B
+      suffix: S
+  :file: data/ccsds-401-0-b-21-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '22'
+    type: B
+  :file: data/ccsds-401-0-b-22.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '22'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-22-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '23'
+    type: B
+  :file: data/ccsds-401-0-b-23.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '23'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-23-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '24'
+    type: B
+  :file: data/ccsds-401-0-b-24.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '24'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-24-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '25'
+    type: B
+  :file: data/ccsds-401-0-b-25.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '25'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-25-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '26'
+    type: B
+  :file: data/ccsds-401-0-b-26.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '26'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-26-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '27'
+    type: B
+  :file: data/ccsds-401-0-b-27.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '27'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-27-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '28'
+    type: B
+  :file: data/ccsds-401-0-b-28.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '28'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-28-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '29'
+    type: B
+  :file: data/ccsds-401-0-b-29.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '29'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-29-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '30'
+    type: B
+  :file: data/ccsds-401-0-b-30.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '30'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-30-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '31'
+    type: B
+  :file: data/ccsds-401-0-b-31.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '31'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-31-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    edition: '32'
+    type: B
+  :file: data/ccsds-401-0-b-32.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    type: B
+  :file: data/ccsds-401-0-b.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '401'
+    part: '0'
+    type: B
+    suffix: S
+  :file: data/ccsds-401-0-b-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '411'
+    part: '0'
+    edition: '3'
+    type: G
+  :file: data/ccsds-411-0-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '411'
+    part: '0'
+    edition: '3'
+    type: G
+    suffix: S
+  :file: data/ccsds-411-0-g-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '412'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-412-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '412'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-412-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '413'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-413-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '413'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-413-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '413'
+    part: '0'
+    edition: '2'
+    type: G
+  :file: data/ccsds-413-0-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '413'
+    part: '0'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-413-0-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '413'
+    part: '0'
+    edition: '3'
+    type: G
+  :file: data/ccsds-413-0-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '413'
+    part: '1'
+    edition: '1'
+    type: G
+  :file: data/ccsds-413-1-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '413'
+    part: '1'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-413-1-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '413'
+    part: '1'
+    edition: '2'
+    type: G
+  :file: data/ccsds-413-1-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '414'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-414-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '414'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-414-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '414'
+    part: '0'
+    edition: '2'
+    type: G
+  :file: data/ccsds-414-0-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '414'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-414-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '414'
+    part: '1'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-414-1-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '414'
+    part: '1'
+    edition: '2'
+    type: B
+  :file: data/ccsds-414-1-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '414'
+    part: '1'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-414-1-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '414'
+    part: '1'
+    edition: '3'
+    type: B
+  :file: data/ccsds-414-1-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '415'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-415-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '415'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-415-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '421'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-421-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '431'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-431-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '431'
+      part: '1'
+      edition: '1'
+      type: B
+  :file: data/ccsds-431-1-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-500-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-500-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '0'
+    edition: '2'
+    type: G
+  :file: data/ccsds-500-0-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '0'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-500-0-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '0'
+    edition: '3'
+    type: G
+  :file: data/ccsds-500-0-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '0'
+    edition: '3'
+    type: G
+    suffix: S
+  :file: data/ccsds-500-0-g-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '0'
+    edition: '4'
+    type: G
+  :file: data/ccsds-500-0-g-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '1'
+    edition: '1'
+    type: G
+  :file: data/ccsds-500-1-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '1'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-500-1-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '1'
+    edition: '2'
+    type: G
+  :file: data/ccsds-500-1-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '2'
+    edition: '1'
+    type: G
+  :file: data/ccsds-500-2-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '2'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-500-2-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '2'
+    edition: '2'
+    type: G
+  :file: data/ccsds-500-2-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '2'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-500-2-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '500'
+    part: '2'
+    edition: '3'
+    type: G
+  :file: data/ccsds-500-2-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '501'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-501-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '501'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-501-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '502'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-502-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '502'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-502-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '502'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-502-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '502'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-502-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '502'
+      part: '0'
+      edition: '2'
+      type: B
+  :file: data/ccsds-502-0-b-2-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '502'
+      part: '0'
+      edition: '2'
+      type: B
+      suffix: S
+  :file: data/ccsds-502-0-b-2-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '502'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-502-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '502'
+    part: '1'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-502-1-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '503'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-503-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '503'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-503-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '503'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-503-0-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '503'
+      part: '0'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-503-0-b-1-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '503'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-503-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '503'
+      part: '0'
+      edition: '2'
+      type: B
+  :file: data/ccsds-503-0-b-2-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '504'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-504-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '504'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-504-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '504'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-504-0-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '504'
+      part: '0'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-504-0-b-1-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '504'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-504-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '505'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-505-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '505'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-505-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '505'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-505-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '505'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-505-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '505'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-505-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '506'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-506-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '506'
+    part: '0'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-506-0-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '506'
+    part: '0'
+    edition: '2'
+    type: M
+  :file: data/ccsds-506-0-m-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '506'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-506-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '506'
+    part: '3'
+    edition: '1'
+    type: M
+  :file: data/ccsds-506-3-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '508'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-508-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '508'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-508-0-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '2'
+    base:
+      _type: pubid:ccsds:base
+      number: '508'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-508-0-b-1-cor-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '508'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-508-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '508'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-508-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '508'
+      part: '1'
+      edition: '1'
+      type: B
+  :file: data/ccsds-508-1-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '509'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-509-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '509'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-509-0-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '2'
+    base:
+      _type: pubid:ccsds:base
+      number: '509'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-509-0-b-1-cor-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '520'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-520-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '520'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-520-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '520'
+    part: '0'
+    edition: '2'
+    type: G
+  :file: data/ccsds-520-0-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '520'
+    part: '0'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-520-0-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '520'
+    part: '0'
+    edition: '3'
+    type: G
+  :file: data/ccsds-520-0-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '520'
+    part: '1'
+    edition: '1'
+    type: M
+  :file: data/ccsds-520-1-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '521'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-521-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '521'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-521-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '521'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-521-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '521'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-521-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '521'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-521-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '521'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-521-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '522'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-522-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '522'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-522-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '523'
+    part: '1'
+    edition: '1'
+    type: M
+  :file: data/ccsds-523-1-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '523'
+    part: '2'
+    edition: '1'
+    type: M
+  :file: data/ccsds-523-2-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '524'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-524-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '524'
+    part: '2'
+    edition: '1'
+    type: B
+  :file: data/ccsds-524-2-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '524'
+    part: '3'
+    edition: '1'
+    type: B
+  :file: data/ccsds-524-3-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '524'
+    part: '4'
+    edition: '1'
+    type: B
+  :file: data/ccsds-524-4-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '529'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-529-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '540'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-540-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '551'
+    part: '1'
+    edition: '1'
+    type: O
+  :file: data/ccsds-551-1-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '551'
+    part: '1'
+    edition: '1'
+    type: O
+    suffix: S
+  :file: data/ccsds-551-1-o-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '551'
+    part: '1'
+    edition: '2'
+    type: O
+  :file: data/ccsds-551-1-o-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '551'
+    part: '1'
+    edition: '2'
+    type: O
+    language: Russian
+  :file: data/ccsds-551-1-o-2-russian-translated.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '610'
+    part: '0'
+    edition: '5'
+    type: G
+  :file: data/ccsds-610-0-g-5.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '611'
+    part: '0'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-611-0-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '611'
+    part: '0'
+    edition: '1'
+    type: "Y"
+    suffix: S
+  :file: data/ccsds-611-0-y-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '620'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-620-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '621'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-621-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '622'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-622-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '630'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-630-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '631'
+    part: '0'
+    edition: '2'
+    type: G
+  :file: data/ccsds-631-0-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '632'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-632-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '641'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-641-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '641'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-641-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '641'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-641-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '641'
+    part: '0'
+    edition: '2'
+    type: G
+  :file: data/ccsds-641-0-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '642'
+    part: '1'
+    edition: '1'
+    type: G
+  :file: data/ccsds-642-1-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '642'
+    part: '1'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-642-1-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '643'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-643-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '644'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-644-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '644'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-644-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '644'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-644-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '644'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-644-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '644'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-644-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '645'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-645-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '646'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-646-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '647'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-647-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '647'
+    part: '2'
+    edition: '1'
+    type: B
+  :file: data/ccsds-647-2-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '647'
+    part: '3'
+    edition: '1'
+    type: B
+  :file: data/ccsds-647-3-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '647'
+    part: '4'
+    edition: '1'
+    type: O
+  :file: data/ccsds-647-4-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '650'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-650-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '650'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-650-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '650'
+    part: '0'
+    edition: '1'
+    type: B
+    language: French
+  :file: data/ccsds-650-0-b-1-french-translated.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '650'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+    language: French
+  :file: data/ccsds-650-0-b-1-s-french-translated.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '650'
+    part: '0'
+    edition: '2'
+    type: M
+    language: French
+  :file: data/ccsds-650-0-m-2-french-translated.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '650'
+    part: '0'
+    edition: '2'
+    type: M
+  :file: data/ccsds-650-0-m-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '650'
+    part: '0'
+    edition: '2'
+    type: M
+    suffix: S
+  :file: data/ccsds-650-0-m-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '650'
+    part: '0'
+    edition: '3'
+    type: M
+  :file: data/ccsds-650-0-m-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '651'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-651-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '651'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-651-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '651'
+    part: '2'
+    edition: '1'
+    type: G
+  :file: data/ccsds-651-2-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '652'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-652-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '652'
+    part: '0'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-652-0-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '652'
+    part: '0'
+    edition: '2'
+    type: M
+  :file: data/ccsds-652-0-m-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '652'
+    part: '1'
+    edition: '1'
+    type: M
+  :file: data/ccsds-652-1-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '652'
+    part: '1'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-652-1-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '652'
+    part: '1'
+    edition: '2'
+    type: M
+  :file: data/ccsds-652-1-m-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '652'
+    part: '1'
+    edition: '2'
+    type: M
+    suffix: S
+  :file: data/ccsds-652-1-m-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '652'
+    part: '1'
+    edition: '3'
+    type: M
+  :file: data/ccsds-652-1-m-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '653'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-653-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '660'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-660-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '660'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-660-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '660'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-660-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '660'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-660-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '660'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-660-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '660'
+    part: '1'
+    edition: '1'
+    type: G
+  :file: data/ccsds-660-1-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '660'
+    part: '1'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-660-1-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '660'
+    part: '1'
+    edition: '2'
+    type: G
+  :file: data/ccsds-660-1-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '660'
+    part: '2'
+    edition: '2'
+    type: G
+  :file: data/ccsds-660-2-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '661'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-661-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '700'
+    part: '0'
+    edition: '3'
+    type: G
+  :file: data/ccsds-700-0-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '700'
+    part: '1'
+    edition: '1'
+    type: G
+  :file: data/ccsds-700-1-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '701'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-701-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '701'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-701-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '701'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-701-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '701'
+    part: '0'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-701-0-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '701'
+    part: '00'
+    edition: '3'
+    type: R
+  :file: data/ccsds-701-00-r-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '701'
+    part: '00'
+    edition: '3'
+    type: R
+    suffix: S
+  :file: data/ccsds-701-00-r-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '702'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-702-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '702'
+      part: '1'
+      edition: '1'
+      type: B
+  :file: data/ccsds-702-1-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '2'
+    base:
+      _type: pubid:ccsds:base
+      number: '702'
+      part: '1'
+      edition: '1'
+      type: B
+  :file: data/ccsds-702-1-b-1-cor-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '704'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-704-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '704'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-704-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '705'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-705-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '705'
+    part: '1'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-705-1-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '705'
+    part: '2'
+    edition: '1'
+    type: B
+  :file: data/ccsds-705-2-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '705'
+    part: '2'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-705-2-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '705'
+    part: '3'
+    edition: '1'
+    type: B
+  :file: data/ccsds-705-3-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '705'
+    part: '3'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-705-3-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '705'
+    part: '4'
+    edition: '1'
+    type: B
+  :file: data/ccsds-705-4-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '705'
+    part: '4'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-705-4-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '706'
+    part: '1'
+    edition: '1'
+    type: G
+  :file: data/ccsds-706-1-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '706'
+    part: '1'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-706-1-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '706'
+    part: '1'
+    edition: '2'
+    type: G
+  :file: data/ccsds-706-1-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '706'
+    part: '1'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-706-1-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '706'
+    part: '2'
+    edition: '1'
+    type: G
+  :file: data/ccsds-706-2-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '706'
+    part: '2'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-706-2-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '706'
+    part: '2'
+    edition: '2'
+    type: G
+  :file: data/ccsds-706-2-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '713'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-713-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '713'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-713-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '713'
+    part: '5'
+    edition: '1'
+    type: B
+  :file: data/ccsds-713-5-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '713'
+    part: '5'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-713-5-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '713'
+      part: '5'
+      edition: '1'
+      type: B
+  :file: data/ccsds-713-5-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '713'
+      part: '5'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-713-5-b-1-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '714'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-714-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '714'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-714-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '714'
+      part: '0'
+      edition: '1'
+      type: B
+  :file: data/ccsds-714-0-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '714'
+      part: '0'
+      edition: '1'
+      type: B
+      suffix: S
+  :file: data/ccsds-714-0-b-1-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '714'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-714-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '717'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-717-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '717'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-717-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '720'
+    part: '1'
+    edition: '2'
+    type: G
+  :file: data/ccsds-720-1-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '720'
+    part: '1'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-720-1-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '720'
+    part: '1'
+    edition: '3'
+    type: G
+  :file: data/ccsds-720-1-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '720'
+    part: '1'
+    edition: '3'
+    type: G
+    suffix: S
+  :file: data/ccsds-720-1-g-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '720'
+    part: '1'
+    edition: '4'
+    type: G
+  :file: data/ccsds-720-1-g-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '720'
+    part: '2'
+    edition: '2'
+    type: G
+  :file: data/ccsds-720-2-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '720'
+    part: '2'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-720-2-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '720'
+    part: '2'
+    edition: '3'
+    type: G
+  :file: data/ccsds-720-2-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '720'
+    part: '2'
+    edition: '3'
+    type: G
+    suffix: S
+  :file: data/ccsds-720-2-g-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '720'
+    part: '2'
+    edition: '4'
+    type: G
+  :file: data/ccsds-720-2-g-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '720'
+    part: '3'
+    edition: '1'
+    type: G
+  :file: data/ccsds-720-3-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '720'
+    part: '4'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-720-4-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '720'
+    part: '5'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-720-5-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '720'
+    part: '6'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-720-6-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '722'
+    part: '1'
+    edition: '1'
+    type: M
+  :file: data/ccsds-722-1-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '727'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-727-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '727'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-727-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '727'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-727-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '727'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-727-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '727'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-727-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '727'
+    part: '0'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-727-0-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '727'
+    part: '0'
+    edition: '4'
+    type: B
+  :file: data/ccsds-727-0-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '727'
+    part: '0'
+    edition: '4'
+    type: B
+    suffix: S
+  :file: data/ccsds-727-0-b-4-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '727'
+    part: '0'
+    edition: '5'
+    type: B
+  :file: data/ccsds-727-0-b-5.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '730'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-730-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '730'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-730-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '730'
+    part: '1'
+    edition: '1'
+    type: G
+  :file: data/ccsds-730-1-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '730'
+    part: '2'
+    edition: '1'
+    type: G
+  :file: data/ccsds-730-2-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-732-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-732-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-732-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '0'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-732-0-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '732'
+      part: '0'
+      edition: '2'
+      type: B
+  :file: data/ccsds-732-0-b-2-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '732'
+      part: '0'
+      edition: '2'
+      type: B
+      suffix: S
+  :file: data/ccsds-732-0-b-2-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '0'
+    edition: '3'
+    type: B
+  :file: data/ccsds-732-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '0'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-732-0-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '0'
+    edition: '4'
+    type: B
+  :file: data/ccsds-732-0-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '0'
+    edition: '4'
+    type: B
+    suffix: S
+  :file: data/ccsds-732-0-b-4-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '0'
+    edition: '5'
+    type: B
+  :file: data/ccsds-732-0-b-5.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-732-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '1'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-732-1-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '1'
+    edition: '2'
+    type: B
+  :file: data/ccsds-732-1-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '1'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-732-1-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '1'
+    edition: '3'
+    type: B
+  :file: data/ccsds-732-1-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '5'
+    edition: '1'
+    type: O
+  :file: data/ccsds-732-5-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '732'
+    part: '5'
+    edition: '1'
+    type: O
+    suffix: S
+  :file: data/ccsds-732-5-o-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '733'
+    part: '0'
+    edition: '1'
+    type: O
+  :file: data/ccsds-733-0-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '733'
+    part: '0'
+    edition: '1'
+    type: O
+    suffix: S
+  :file: data/ccsds-733-0-o-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '733'
+    part: '5'
+    edition: '1'
+    type: O
+  :file: data/ccsds-733-5-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '733'
+    part: '5'
+    edition: '1'
+    type: O
+    suffix: S
+  :file: data/ccsds-733-5-o-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '734'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-734-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '734'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-734-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '734'
+      part: '1'
+      edition: '1'
+      type: B
+  :file: data/ccsds-734-1-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '734'
+    part: '2'
+    edition: '1'
+    type: B
+  :file: data/ccsds-734-2-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '734'
+    part: '20'
+    edition: '1'
+    type: O
+  :file: data/ccsds-734-20-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '734'
+    part: '3'
+    edition: '1'
+    type: B
+  :file: data/ccsds-734-3-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '734'
+    part: '6'
+    edition: '1'
+    type: O
+  :file: data/ccsds-734-6-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '735'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-735-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '735'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-735-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '740'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-740-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '740'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-740-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '766'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-766-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '766'
+    part: '1'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-766-1-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '766'
+    part: '1'
+    edition: '2'
+    type: B
+  :file: data/ccsds-766-1-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '766'
+    part: '1'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-766-1-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '766'
+    part: '1'
+    edition: '3'
+    type: B
+  :file: data/ccsds-766-1-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '766'
+    part: '2'
+    edition: '1'
+    type: B
+  :file: data/ccsds-766-2-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '811'
+    part: '1'
+    edition: '1'
+    type: O
+  :file: data/ccsds-811-1-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '850'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-850-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '850'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-850-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '850'
+    part: '0'
+    edition: '2'
+    type: G
+  :file: data/ccsds-850-0-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '851'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-851-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '852'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-852-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '853'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-853-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '854'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-854-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '855'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-855-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '870'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-870-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '870'
+    part: '10'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-870-10-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '871'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-871-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '871'
+    part: '0'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-871-0-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '871'
+    part: '1'
+    edition: '1'
+    type: M
+  :file: data/ccsds-871-1-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '871'
+    part: '1'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-871-1-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '871'
+    part: '2'
+    edition: '1'
+    type: M
+  :file: data/ccsds-871-2-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '871'
+    part: '2'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-871-2-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '871'
+    part: '3'
+    edition: '1'
+    type: M
+  :file: data/ccsds-871-3-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '871'
+    part: '3'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-871-3-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '872'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-872-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '872'
+    part: '0'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-872-0-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '873'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-873-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '873'
+    part: '0'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-873-0-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '875'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-875-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '875'
+    part: '0'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-875-0-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '876'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-876-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '876'
+    part: '1'
+    edition: '1'
+    type: M
+  :file: data/ccsds-876-1-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '880'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-880-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '880'
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-880-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '880'
+    part: '0'
+    edition: '2'
+    type: G
+  :file: data/ccsds-880-0-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '880'
+    part: '0'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-880-0-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '880'
+    part: '0'
+    edition: '3'
+    type: G
+  :file: data/ccsds-880-0-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '881'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-881-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '881'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-881-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '882'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-882-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '883'
+    part: '0'
+    edition: '1'
+    type: B
+  :file: data/ccsds-883-0-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '883'
+    part: '0'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-883-0-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '883'
+    part: '0'
+    edition: '2'
+    type: B
+  :file: data/ccsds-883-0-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '901'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-901-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '901'
+    part: '1'
+    edition: '1'
+    type: M
+  :file: data/ccsds-901-1-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '901'
+    part: '3'
+    edition: '1'
+    type: M
+  :file: data/ccsds-901-3-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '901'
+    part: '31'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-901-31-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '902'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-902-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '902'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-902-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '902'
+      part: '1'
+      edition: '1'
+      type: B
+  :file: data/ccsds-902-1-b-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '902'
+    part: '12'
+    edition: '1'
+    type: M
+  :file: data/ccsds-902-12-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '902'
+    part: '13'
+    edition: '1'
+    type: M
+  :file: data/ccsds-902-13-m-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '902'
+      part: '13'
+      edition: '1'
+      type: M
+  :file: data/ccsds-902-13-m-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '902'
+    part: '2'
+    edition: '1'
+    type: B
+  :file: data/ccsds-902-2-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '0'
+    edition: '2'
+    type: G
+  :file: data/ccsds-910-0-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '0'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-910-0-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '0'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-910-0-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '0'
+    edition: '1'
+    type: "Y"
+    suffix: S
+  :file: data/ccsds-910-0-y-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '11'
+    edition: '1'
+    type: B
+  :file: data/ccsds-910-11-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '11'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-910-11-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '14'
+    edition: '1'
+    type: G
+  :file: data/ccsds-910-14-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '14'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-910-14-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '2'
+    edition: '1'
+    type: G
+  :file: data/ccsds-910-2-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '3'
+    edition: '2'
+    type: G
+  :file: data/ccsds-910-3-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '3'
+    edition: '2'
+    type: G
+    suffix: S
+  :file: data/ccsds-910-3-g-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '3'
+    edition: '3'
+    type: G
+  :file: data/ccsds-910-3-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '4'
+    edition: '1'
+    type: B
+  :file: data/ccsds-910-4-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '4'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-910-4-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '4'
+    edition: '2'
+    type: B
+  :file: data/ccsds-910-4-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '910'
+    part: '4'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-910-4-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-911-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '1'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-911-1-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '1'
+    edition: '2'
+    type: B
+  :file: data/ccsds-911-1-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '1'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-911-1-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '1'
+    edition: '3'
+    type: B
+  :file: data/ccsds-911-1-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '1'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-911-1-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '1'
+    edition: '4'
+    type: B
+  :file: data/ccsds-911-1-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '1'
+    edition: '4'
+    type: B
+    suffix: S
+  :file: data/ccsds-911-1-b-4-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '1'
+    edition: '5'
+    type: B
+  :file: data/ccsds-911-1-b-5.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '1'
+    edition: '1.7'
+    type: R
+  :file: data/ccsds-911-1-r-1-7.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '2'
+    edition: '1'
+    type: B
+  :file: data/ccsds-911-2-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '2'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-911-2-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '2'
+    edition: '2'
+    type: B
+  :file: data/ccsds-911-2-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '2'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-911-2-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '2'
+    edition: '3'
+    type: B
+  :file: data/ccsds-911-2-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '2'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-911-2-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '2'
+    edition: '4'
+    type: B
+  :file: data/ccsds-911-2-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '2'
+    edition: '1.7'
+    type: R
+  :file: data/ccsds-911-2-r-1-7.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '5'
+    edition: '1'
+    type: B
+  :file: data/ccsds-911-5-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '5'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-911-5-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '5'
+    edition: '2'
+    type: B
+  :file: data/ccsds-911-5-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '5'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-911-5-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '5'
+    edition: '3'
+    type: B
+  :file: data/ccsds-911-5-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '5'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-911-5-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '911'
+    part: '5'
+    edition: '4'
+    type: B
+  :file: data/ccsds-911-5-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-912-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '1'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-912-1-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '1'
+    edition: '2'
+    type: B
+  :file: data/ccsds-912-1-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '1'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-912-1-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '912'
+      part: '1'
+      edition: '2'
+      type: B
+  :file: data/ccsds-912-1-b-2-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '912'
+      part: '1'
+      edition: '2'
+      type: B
+      suffix: S
+  :file: data/ccsds-912-1-b-2-s-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '1'
+    edition: '3'
+    type: B
+  :file: data/ccsds-912-1-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '1'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-912-1-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '1'
+    edition: '4'
+    type: B
+  :file: data/ccsds-912-1-b-4.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '1'
+    edition: '4'
+    type: B
+    suffix: S
+  :file: data/ccsds-912-1-b-4-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '1'
+    edition: '5'
+    type: B
+  :file: data/ccsds-912-1-b-5.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '1'
+    edition: 1.99h
+    type: R
+  :file: data/ccsds-912-1-r-1-99h.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '11'
+    edition: '1'
+    type: O
+  :file: data/ccsds-912-11-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '3'
+    edition: '1'
+    type: B
+  :file: data/ccsds-912-3-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '3'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-912-3-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '3'
+    edition: '2'
+    type: B
+  :file: data/ccsds-912-3-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '3'
+    edition: '2'
+    type: B
+    suffix: S
+  :file: data/ccsds-912-3-b-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '3'
+    edition: '3'
+    type: B
+  :file: data/ccsds-912-3-b-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '912'
+    part: '3'
+    edition: '3'
+    type: B
+    suffix: S
+  :file: data/ccsds-912-3-b-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '913'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-913-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '913'
+    part: '1'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-913-1-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '913'
+    part: '1'
+    edition: '2'
+    type: B
+  :file: data/ccsds-913-1-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '914'
+    part: '0'
+    edition: '1'
+    type: M
+  :file: data/ccsds-914-0-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '914'
+    part: '0'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-914-0-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '914'
+    part: '0'
+    edition: '2'
+    type: M
+  :file: data/ccsds-914-0-m-2.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '914'
+      part: '0'
+      edition: '2'
+      type: M
+  :file: data/ccsds-914-0-m-2-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '914'
+    part: '1'
+    edition: '1'
+    type: G
+  :file: data/ccsds-914-1-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '914'
+    part: '2'
+    edition: '1'
+    type: G
+  :file: data/ccsds-914-2-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '914'
+    part: '2'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-914-2-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '914'
+    part: '2'
+    edition: '2'
+    type: G
+  :file: data/ccsds-914-2-g-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '915'
+    part: '1'
+    edition: '1'
+    type: M
+  :file: data/ccsds-915-1-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '915'
+    part: '1'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-915-1-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '915'
+    part: '1'
+    edition: '2'
+    type: M
+  :file: data/ccsds-915-1-m-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '915'
+    part: '2'
+    edition: '1'
+    type: M
+  :file: data/ccsds-915-2-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '915'
+    part: '2'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-915-2-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '915'
+    part: '2'
+    edition: '2'
+    type: M
+  :file: data/ccsds-915-2-m-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '915'
+    part: '5'
+    edition: '1'
+    type: M
+  :file: data/ccsds-915-5-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '915'
+    part: '5'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-915-5-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '915'
+    part: '5'
+    edition: '2'
+    type: M
+  :file: data/ccsds-915-5-m-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '916'
+    part: '1'
+    edition: '1'
+    type: M
+  :file: data/ccsds-916-1-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '916'
+    part: '1'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-916-1-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '916'
+    part: '1'
+    edition: '2'
+    type: M
+  :file: data/ccsds-916-1-m-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '916'
+    part: '3'
+    edition: '1'
+    type: M
+  :file: data/ccsds-916-3-m-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '916'
+    part: '3'
+    edition: '1'
+    type: M
+    suffix: S
+  :file: data/ccsds-916-3-m-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '916'
+    part: '3'
+    edition: '2'
+    type: M
+  :file: data/ccsds-916-3-m-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '920'
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-920-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '921'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-921-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '921'
+    part: '1'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-921-1-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '921'
+    part: '1'
+    edition: '2'
+    type: B
+  :file: data/ccsds-921-1-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '921'
+    part: '2'
+    edition: '1'
+    type: M
+  :file: data/ccsds-921-2-m-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '921'
+      part: '2'
+      edition: '1'
+      type: M
+  :file: data/ccsds-921-2-m-1-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '922'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-922-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '922'
+    part: '1'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-922-1-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '922'
+    part: '1'
+    edition: '2'
+    type: B
+  :file: data/ccsds-922-1-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '922'
+    part: '2'
+    edition: '1'
+    type: B
+  :file: data/ccsds-922-2-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '922'
+    part: '2'
+    edition: '1'
+    type: B
+    suffix: S
+  :file: data/ccsds-922-2-b-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '922'
+    part: '2'
+    edition: '2'
+    type: B
+  :file: data/ccsds-922-2-b-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '922'
+    part: '27'
+    edition: '1'
+    type: O
+  :file: data/ccsds-922-27-o-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '922'
+    part: '3'
+    edition: '1'
+    type: B
+  :file: data/ccsds-922-3-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: '927'
+    part: '1'
+    edition: '1'
+    type: B
+  :file: data/ccsds-927-1-b-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A00
+    part: '0'
+    edition: '9'
+    type: "Y"
+  :file: data/ccsds-a00-0-y-9.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A00
+    part: '0'
+    edition: '9'
+    type: "Y"
+    suffix: S
+  :file: data/ccsds-a00-0-y-9-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A01
+    part: '2'
+    edition: '4.1'
+    type: "Y"
+  :file: data/ccsds-a01-2-y-4-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A01
+    part: '2'
+    edition: '4.1'
+    type: "Y"
+    suffix: S
+  :file: data/ccsds-a01-2-y-4-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A02
+    part: '1'
+    edition: '2'
+    type: "Y"
+  :file: data/ccsds-a02-1-y-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A02
+    part: '1'
+    edition: '2'
+    type: "Y"
+    suffix: S
+  :file: data/ccsds-a02-1-y-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A02
+    part: '1'
+    edition: '3'
+    type: "Y"
+  :file: data/ccsds-a02-1-y-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A02
+    part: '1'
+    edition: '3'
+    type: "Y"
+    suffix: S
+  :file: data/ccsds-a02-1-y-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A02
+    part: '1'
+    edition: '4'
+    type: "Y"
+  :file: data/ccsds-a02-1-y-4.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: A02
+      part: '1'
+      edition: '4'
+      type: "Y"
+  :file: data/ccsds-a02-1-y-4-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '2'
+    base:
+      _type: pubid:ccsds:base
+      number: A02
+      part: '1'
+      edition: '4'
+      type: "Y"
+  :file: data/ccsds-a02-1-y-4-cor-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A13
+    part: '1'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-a13-1-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A20
+    part: '0'
+    edition: '2'
+    type: "Y"
+  :file: data/ccsds-a20-0-y-2.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A20
+    part: '0'
+    edition: '2'
+    type: "Y"
+    suffix: S
+  :file: data/ccsds-a20-0-y-2-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A20
+    part: '0'
+    edition: '2.1'
+    type: "Y"
+  :file: data/ccsds-a20-0-y-2-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A20
+    part: '0'
+    edition: '2.1'
+    type: "Y"
+    suffix: S
+  :file: data/ccsds-a20-0-y-2-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A20
+    part: '0'
+    edition: '3'
+    type: "Y"
+  :file: data/ccsds-a20-0-y-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A20
+    part: '0'
+    edition: '3'
+    type: "Y"
+    suffix: S
+  :file: data/ccsds-a20-0-y-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A20
+    part: '0'
+    edition: '4'
+    type: "Y"
+  :file: data/ccsds-a20-0-y-4.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: A20
+      part: '0'
+      edition: '4'
+      type: "Y"
+  :file: data/ccsds-a20-0-y-4-cor-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A20
+    part: '1'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-a20-1-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A30
+    part: '0'
+    edition: '3'
+    type: G
+  :file: data/ccsds-a30-0-g-3.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A30
+    part: '0'
+    edition: '3'
+    type: G
+    suffix: S
+  :file: data/ccsds-a30-0-g-3-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A31
+    part: '0'
+    edition: '1'
+    type: G
+  :file: data/ccsds-a31-0-g-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: A31
+    part: '0'
+    edition: '1'
+    type: G
+    suffix: S
+  :file: data/ccsds-a31-0-g-1-s.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: B20
+    part: '0'
+    edition: '1'
+    type: "Y"
+  :file: data/ccsds-b20-0-y-1.yaml
+- :id:
+    _type: pubid:ccsds:base
+    number: B20
+    part: '0'
+    edition: '2'
+    type: "Y"
+  :file: data/ccsds-b20-0-y-2.yaml

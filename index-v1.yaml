@@ -1,7068 +1,1631 @@
 ---
-- :id:
-    :publisher: CCSDS
-    :number: '00'
-    :book_color: "Y"
-    :part: 0
-    :series: A
-    :retired: false
-    :edition: '9'
-  :file: data/ccsds-a00-0-y-9.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '00'
-    :book_color: "Y"
-    :part: 0
-    :series: A
-    :retired: true
-    :edition: '9'
-  :file: data/ccsds-a00-0-y-9-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '01'
-    :book_color: "Y"
-    :part: 2
-    :series: A
-    :retired: false
-    :edition: '4.1'
-  :file: data/ccsds-a01-2-y-4-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '01'
-    :book_color: "Y"
-    :part: 2
-    :series: A
-    :retired: true
-    :edition: '4.1'
-  :file: data/ccsds-a01-2-y-4-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '02'
-    :book_color: "Y"
-    :part: 1
-    :series: A
-    :retired: false
-    :edition: '2'
-  :file: data/ccsds-a02-1-y-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '02'
-    :book_color: "Y"
-    :part: 1
-    :series: A
-    :retired: true
-    :edition: '2'
-  :file: data/ccsds-a02-1-y-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '02'
-    :book_color: "Y"
-    :part: 1
-    :series: A
-    :retired: false
-    :edition: '3'
-  :file: data/ccsds-a02-1-y-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '02'
-    :book_color: "Y"
-    :part: 1
-    :series: A
-    :retired: true
-    :edition: '3'
-  :file: data/ccsds-a02-1-y-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '02'
-    :book_color: "Y"
-    :part: 1
-    :series: A
-    :retired: false
-    :edition: '4'
-  :file: data/ccsds-a02-1-y-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '02'
-      :book_color: "Y"
-      :part: 1
-      :series: A
-      :retired: false
-      :edition: '4'
-    :type: corrigendum
-  :file: data/ccsds-a02-1-y-4-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '2'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '02'
-      :book_color: "Y"
-      :part: 1
-      :series: A
-      :retired: false
-      :edition: '4'
-    :type: corrigendum
-  :file: data/ccsds-a02-1-y-4-cor-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '100'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 100.0-G-1
   :file: data/ccsds-100-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '100'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 100.0-G-1-S
   :file: data/ccsds-100-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '101'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 101.0-B-1
   :file: data/ccsds-101-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '101'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 101.0-B-1-S
   :file: data/ccsds-101-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '101'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 101.0-B-3
   :file: data/ccsds-101-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '101'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 101.0-B-3-S
   :file: data/ccsds-101-0-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '101'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 101.0-B-4
   :file: data/ccsds-101-0-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '101'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '4'
+- :id: CCSDS 101.0-B-4-S
   :file: data/ccsds-101-0-b-4-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '101'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '5'
+- :id: CCSDS 101.0-B-5
   :file: data/ccsds-101-0-b-5.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '101'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '5'
+- :id: CCSDS 101.0-B-5-S
   :file: data/ccsds-101-0-b-5-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '101'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '6'
+- :id: CCSDS 101.0-B-6
   :file: data/ccsds-101-0-b-6.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '101'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '6'
+- :id: CCSDS 101.0-B-6-S
   :file: data/ccsds-101-0-b-6-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '102'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 102.0-B-4
   :file: data/ccsds-102-0-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '102'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '4'
+- :id: CCSDS 102.0-B-4-S
   :file: data/ccsds-102-0-b-4-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '102'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '5'
+- :id: CCSDS 102.0-B-5
   :file: data/ccsds-102-0-b-5.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '102'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '5'
+- :id: CCSDS 102.0-B-5-S
   :file: data/ccsds-102-0-b-5-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '102'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 102.1-B-1
   :file: data/ccsds-102-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '102'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 102.1-B-1-S
   :file: data/ccsds-102-1-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '103'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 103.0-B-1
   :file: data/ccsds-103-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '103'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 103.0-B-1-S
   :file: data/ccsds-103-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '103'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 103.0-B-2
   :file: data/ccsds-103-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '103'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 103.0-B-2-S
   :file: data/ccsds-103-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 120.0-G-1
   :file: data/ccsds-120-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 120.0-G-1-S
   :file: data/ccsds-120-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 120.0-G-2
   :file: data/ccsds-120-0-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 120.0-G-2-S
   :file: data/ccsds-120-0-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 120.0-G-3
   :file: data/ccsds-120-0-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 120.0-G-3-S
   :file: data/ccsds-120-0-g-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 120.0-G-4
   :file: data/ccsds-120-0-g-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 120.1-G-1
   :file: data/ccsds-120-1-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 120.1-G-1-S
   :file: data/ccsds-120-1-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 120.1-G-2
   :file: data/ccsds-120-1-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 120.1-G-2-S
   :file: data/ccsds-120-1-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 120.1-G-3
   :file: data/ccsds-120-1-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 120.2-G-1
   :file: data/ccsds-120-2-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 120.2-G-1-S
   :file: data/ccsds-120-2-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 120.2-G-2
   :file: data/ccsds-120-2-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '120'
-    :book_color: G
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 120.3-G-1
   :file: data/ccsds-120-3-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '121'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 121.0-B-1
   :file: data/ccsds-121-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '121'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 121.0-B-1-S
   :file: data/ccsds-121-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '121'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 121.0-B-1 Cor. 1
   :file: data/ccsds-121-0-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '121'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 121.0-B-1-S Cor. 1
   :file: data/ccsds-121-0-b-1-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '2'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '121'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 121.0-B-1 Cor. 2
   :file: data/ccsds-121-0-b-1-cor-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '2'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '121'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 121.0-B-1-S Cor. 2
   :file: data/ccsds-121-0-b-1-s-cor-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '121'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 121.0-B-2
   :file: data/ccsds-121-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '121'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 121.0-B-2-S
   :file: data/ccsds-121-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '121'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 121.0-B-3
   :file: data/ccsds-121-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '122'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 122.0-B-1
   :file: data/ccsds-122-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '122'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 122.0-B-1-S
   :file: data/ccsds-122-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '122'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 122.0-B-1 Cor. 1
   :file: data/ccsds-122-0-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '122'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 122.0-B-1-S Cor. 1
   :file: data/ccsds-122-0-b-1-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '2'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '122'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 122.0-B-1 Cor. 2
   :file: data/ccsds-122-0-b-1-cor-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '2'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '122'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 122.0-B-1-S Cor. 2
   :file: data/ccsds-122-0-b-1-s-cor-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '3'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '122'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 122.0-B-1 Cor. 3
   :file: data/ccsds-122-0-b-1-cor-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '3'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '122'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 122.0-B-1-S Cor. 3
   :file: data/ccsds-122-0-b-1-s-cor-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '122'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 122.0-B-2
   :file: data/ccsds-122-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '122'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 122.1-B-1
   :file: data/ccsds-122-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '123'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 123.0-B-1
   :file: data/ccsds-123-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '123'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 123.0-B-1-S
   :file: data/ccsds-123-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '123'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 123.0-B-2
   :file: data/ccsds-123-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '123'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 123.0-B-2 Cor. 1
   :file: data/ccsds-123-0-b-2-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '2'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '123'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 123.0-B-2 Cor. 2
   :file: data/ccsds-123-0-b-2-cor-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '3'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '123'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 123.0-B-2 Cor. 3
   :file: data/ccsds-123-0-b-2-cor-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '124'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 124.0-B-1
   :file: data/ccsds-124-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '13'
-    :book_color: "Y"
-    :part: 1
-    :series: A
-    :retired: false
-    :edition: '1'
-  :file: data/ccsds-a13-1-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 130.0-G-1
   :file: data/ccsds-130-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 130.0-G-1-S
   :file: data/ccsds-130-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 130.0-G-2
   :file: data/ccsds-130-0-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 130.0-G-2-S
   :file: data/ccsds-130-0-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 130.0-G-3
   :file: data/ccsds-130-0-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 130.0-G-3-S
   :file: data/ccsds-130-0-g-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 130.0-G-4
   :file: data/ccsds-130-0-g-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 130.1-G-1
   :file: data/ccsds-130-1-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 130.1-G-1-S
   :file: data/ccsds-130-1-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 130.1-G-2
   :file: data/ccsds-130-1-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 130.1-G-2-S
   :file: data/ccsds-130-1-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 130.1-G-3
   :file: data/ccsds-130-1-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 11
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 130.11-G-1
   :file: data/ccsds-130-11-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 11
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 130.11-G-1-S
   :file: data/ccsds-130-11-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 11
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 130.11-G-2
   :file: data/ccsds-130-11-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 12
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 130.12-G-1
   :file: data/ccsds-130-12-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 12
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 130.12-G-1-S
   :file: data/ccsds-130-12-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 12
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 130.12-G-2
   :file: data/ccsds-130-12-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 130.2-G-1
   :file: data/ccsds-130-2-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 130.2-G-1-S
   :file: data/ccsds-130-2-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 130.2-G-2
   :file: data/ccsds-130-2-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 2
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 130.2-G-2-S
   :file: data/ccsds-130-2-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 130.2-G-3
   :file: data/ccsds-130-2-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '130'
-    :book_color: G
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 130.3-G-1
   :file: data/ccsds-130-3-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 131.0-B-1
   :file: data/ccsds-131-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 131.0-B-1-S
   :file: data/ccsds-131-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 131.0-B-2
   :file: data/ccsds-131-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 131.0-B-2-S
   :file: data/ccsds-131-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 131.0-B-3
   :file: data/ccsds-131-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 131.0-B-3-S
   :file: data/ccsds-131-0-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 131.0-B-4
   :file: data/ccsds-131-0-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '4'
+- :id: CCSDS 131.0-B-4-S
   :file: data/ccsds-131-0-b-4-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '5'
+- :id: CCSDS 131.0-B-5
   :file: data/ccsds-131-0-b-5.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '5'
+- :id: CCSDS 131.0-B-5-S
   :file: data/ccsds-131-0-b-5-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '6'
+- :id: CCSDS 131.0-B-6
   :file: data/ccsds-131-0-b-6.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: O
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 131.1-O-1
   :file: data/ccsds-131-1-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: O
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 131.1-O-1-S
   :file: data/ccsds-131-1-o-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: O
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 131.1-O-2
   :file: data/ccsds-131-1-o-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: O
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 131.1-O-2-S
   :file: data/ccsds-131-1-o-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 131.2-B-1
   :file: data/ccsds-131-2-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 131.2-B-1-S
   :file: data/ccsds-131-2-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 131.2-B-2
   :file: data/ccsds-131-2-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: O
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 131.2-O-1
   :file: data/ccsds-131-2-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: O
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 131.2-O-1-S
   :file: data/ccsds-131-2-o-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '131'
-      :book_color: O
-      :part: 2
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 131.2-O-1 Cor. 1
   :file: data/ccsds-131-2-o-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '131'
-      :book_color: O
-      :part: 2
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 131.2-O-1-S Cor. 1
   :file: data/ccsds-131-2-o-1-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: O
-    :part: 21
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 131.21-O-1
   :file: data/ccsds-131-21-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '131'
-      :book_color: O
-      :part: 21
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 131.21-O-1 Cor. 1
   :file: data/ccsds-131-21-o-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 131.3-B-1
   :file: data/ccsds-131-3-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 3
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 131.3-B-1-S
   :file: data/ccsds-131-3-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: B
-    :part: 3
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 131.3-B-2
   :file: data/ccsds-131-3-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: O
-    :part: 31
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 131.31-O-1
   :file: data/ccsds-131-31-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '131'
-      :book_color: O
-      :part: 31
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 131.31-O-1 Cor. 1
   :file: data/ccsds-131-31-o-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: M
-    :part: 4
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 131.4-M-1
   :file: data/ccsds-131-4-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: M
-    :part: 4
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 131.4-M-1-S
   :file: data/ccsds-131-4-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '131'
-    :book_color: O
-    :part: 5
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 131.5-O-1
   :file: data/ccsds-131-5-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '131'
-      :book_color: O
-      :part: 5
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 131.5-O-1 Cor. 1
   :file: data/ccsds-131-5-o-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '132'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 132.0-B-1
   :file: data/ccsds-132-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '132'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 132.0-B-1-S
   :file: data/ccsds-132-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '132'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 132.0-B-1 Cor. 1
   :file: data/ccsds-132-0-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '132'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 132.0-B-1-S Cor. 1
   :file: data/ccsds-132-0-b-1-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '132'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 132.0-B-2
   :file: data/ccsds-132-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '132'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 132.0-B-2-S
   :file: data/ccsds-132-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '132'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 132.0-B-3
   :file: data/ccsds-132-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '133'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 133.0-B-1
   :file: data/ccsds-133-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '133'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 133.0-B-1-S
   :file: data/ccsds-133-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '133'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 133.0-B-1 Cor. 1
   :file: data/ccsds-133-0-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '133'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 133.0-B-1-S Cor. 1
   :file: data/ccsds-133-0-b-1-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '2'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '133'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 133.0-B-1 Cor. 2
   :file: data/ccsds-133-0-b-1-cor-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '2'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '133'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 133.0-B-1-S Cor. 2
   :file: data/ccsds-133-0-b-1-s-cor-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '133'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 133.0-B-2
   :file: data/ccsds-133-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '133'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 133.1-B-1
   :file: data/ccsds-133-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '133'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 133.1-B-1-S
   :file: data/ccsds-133-1-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '133'
-      :book_color: B
-      :part: 1
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 133.1-B-1 Cor. 1
   :file: data/ccsds-133-1-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '133'
-      :book_color: B
-      :part: 1
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 133.1-B-1-S Cor. 1
   :file: data/ccsds-133-1-b-1-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '133'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 133.1-B-2
   :file: data/ccsds-133-1-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '133'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 133.1-B-2-S
   :file: data/ccsds-133-1-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '133'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 133.1-B-3
   :file: data/ccsds-133-1-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '135'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 135.0-B-1
   :file: data/ccsds-135-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '135'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 135.0-B-1-S
   :file: data/ccsds-135-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '135'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 135.0-B-2
   :file: data/ccsds-135-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '135'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 135.0-B-2-S
   :file: data/ccsds-135-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '135'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 135.0-B-3
   :file: data/ccsds-135-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '135'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 135.0-B-3-S
   :file: data/ccsds-135-0-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '135'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '3'
-    :type: corrigendum
+- :id: CCSDS 135.0-B-3 Cor. 1
   :file: data/ccsds-135-0-b-3-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '135'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '3'
-    :type: corrigendum
+- :id: CCSDS 135.0-B-3-S Cor. 1
   :file: data/ccsds-135-0-b-3-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '135'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 135.0-B-4
   :file: data/ccsds-135-0-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '135'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '4'
+- :id: CCSDS 135.0-B-4-S
   :file: data/ccsds-135-0-b-4-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '140'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 140.1-G-1
   :file: data/ccsds-140-1-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '140'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 140.1-G-1-S
   :file: data/ccsds-140-1-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '140'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 140.1-G-2
   :file: data/ccsds-140-1-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '141'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 141.0-B-1
   :file: data/ccsds-141-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '141'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 141.0-B-1-S
   :file: data/ccsds-141-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '141'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 141.0-B-2
   :file: data/ccsds-141-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '141'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 141.1-M-1
   :file: data/ccsds-141-1-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '141'
-    :book_color: O
-    :part: 10
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 141.10-O-1
   :file: data/ccsds-141-10-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '141'
-    :book_color: O
-    :part: 11
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 141.11-O-1
   :file: data/ccsds-141-11-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '142'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 142.0-B-1
   :file: data/ccsds-142-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '142'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 142.0-B-1-S
   :file: data/ccsds-142-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '142'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 142.0-B-2
   :file: data/ccsds-142-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '142'
-    :book_color: O
-    :part: 10
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 142.10-O-1
   :file: data/ccsds-142-10-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '20'
-    :book_color: "Y"
-    :part: 0
-    :series: A
-    :retired: false
-    :edition: '2'
-  :file: data/ccsds-a20-0-y-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '20'
-    :book_color: "Y"
-    :part: 0
-    :series: A
-    :retired: true
-    :edition: '2'
-  :file: data/ccsds-a20-0-y-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '20'
-    :book_color: "Y"
-    :part: 0
-    :series: A
-    :retired: false
-    :edition: '2.1'
-  :file: data/ccsds-a20-0-y-2-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '20'
-    :book_color: "Y"
-    :part: 0
-    :series: A
-    :retired: true
-    :edition: '2.1'
-  :file: data/ccsds-a20-0-y-2-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '20'
-    :book_color: "Y"
-    :part: 0
-    :series: A
-    :retired: false
-    :edition: '3'
-  :file: data/ccsds-a20-0-y-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '20'
-    :book_color: "Y"
-    :part: 0
-    :series: A
-    :retired: true
-    :edition: '3'
-  :file: data/ccsds-a20-0-y-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '20'
-    :book_color: "Y"
-    :part: 0
-    :series: A
-    :retired: false
-    :edition: '4'
-  :file: data/ccsds-a20-0-y-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '20'
-      :book_color: "Y"
-      :part: 0
-      :series: A
-      :retired: false
-      :edition: '4'
-    :type: corrigendum
-  :file: data/ccsds-a20-0-y-4-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '20'
-    :book_color: "Y"
-    :part: 1
-    :series: A
-    :retired: false
-    :edition: '1'
-  :file: data/ccsds-a20-1-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '20'
-    :book_color: "Y"
-    :part: 0
-    :series: B
-    :retired: false
-    :edition: '1'
-  :file: data/ccsds-b20-0-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '20'
-    :book_color: "Y"
-    :part: 0
-    :series: B
-    :retired: false
-    :edition: '2'
-  :file: data/ccsds-b20-0-y-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '200'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '6'
+- :id: CCSDS 200.0-G-6
   :file: data/ccsds-200-0-g-6.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '201'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 201.0-B-2
   :file: data/ccsds-201-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '201'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 201.0-B-2-S
   :file: data/ccsds-201-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '201'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 201.0-B-3
   :file: data/ccsds-201-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '201'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 201.0-B-3-S
   :file: data/ccsds-201-0-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '202'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 202.0-B-2
   :file: data/ccsds-202-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '202'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 202.0-B-2-S
   :file: data/ccsds-202-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '202'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 202.0-B-3
   :file: data/ccsds-202-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '202'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 202.0-B-3-S
   :file: data/ccsds-202-0-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '202'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 202.1-B-1
   :file: data/ccsds-202-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '202'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 202.1-B-1-S
   :file: data/ccsds-202-1-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '202'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 202.1-B-2
   :file: data/ccsds-202-1-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '202'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 202.1-B-2-S
   :file: data/ccsds-202-1-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '203'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 203.0-B-1
   :file: data/ccsds-203-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '203'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 203.0-B-1-S
   :file: data/ccsds-203-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '203'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 203.0-B-2
   :file: data/ccsds-203-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '203'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 203.0-B-2-S
   :file: data/ccsds-203-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '210'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 210.0-G-1
   :file: data/ccsds-210-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '210'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 210.0-G-1-S
   :file: data/ccsds-210-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '210'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 210.0-G-2
   :file: data/ccsds-210-0-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 211.0-B-1
   :file: data/ccsds-211-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 211.0-B-1-S
   :file: data/ccsds-211-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 211.0-B-2
   :file: data/ccsds-211-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 211.0-B-2-S
   :file: data/ccsds-211-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 211.0-B-3
   :file: data/ccsds-211-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 211.0-B-3-S
   :file: data/ccsds-211-0-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 211.0-B-4
   :file: data/ccsds-211-0-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '4'
+- :id: CCSDS 211.0-B-4-S
   :file: data/ccsds-211-0-b-4-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '5'
+- :id: CCSDS 211.0-B-5
   :file: data/ccsds-211-0-b-5.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '5'
+- :id: CCSDS 211.0-B-5-S
   :file: data/ccsds-211-0-b-5-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '6'
+- :id: CCSDS 211.0-B-6
   :file: data/ccsds-211-0-b-6.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 211.1-B-1
   :file: data/ccsds-211-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 211.1-B-1-S
   :file: data/ccsds-211-1-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 211.1-B-2
   :file: data/ccsds-211-1-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 211.1-B-2-S
   :file: data/ccsds-211-1-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 211.1-B-3
   :file: data/ccsds-211-1-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 211.1-B-3-S
   :file: data/ccsds-211-1-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 211.1-B-4
   :file: data/ccsds-211-1-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 211.2-B-1
   :file: data/ccsds-211-2-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 211.2-B-1-S
   :file: data/ccsds-211-2-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 211.2-B-2
   :file: data/ccsds-211-2-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 2
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 211.2-B-2-S
   :file: data/ccsds-211-2-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '211'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 211.2-B-3
   :file: data/ccsds-211-2-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '230'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 230.1-G-1
   :file: data/ccsds-230-1-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '230'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 230.1-G-1-S
   :file: data/ccsds-230-1-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '230'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 230.1-G-2
   :file: data/ccsds-230-1-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '230'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 230.1-G-2-S
   :file: data/ccsds-230-1-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '230'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 230.1-G-3
   :file: data/ccsds-230-1-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '230'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 230.2-G-1
   :file: data/ccsds-230-2-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '231'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 231.0-B-1
   :file: data/ccsds-231-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '231'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 231.0-B-1-S
   :file: data/ccsds-231-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '231'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 231.0-B-1 Cor. 1
   :file: data/ccsds-231-0-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '231'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 231.0-B-1-S Cor. 1
   :file: data/ccsds-231-0-b-1-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '231'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 231.0-B-2
   :file: data/ccsds-231-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '231'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 231.0-B-2-S
   :file: data/ccsds-231-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '231'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 231.0-B-2 Cor. 1
   :file: data/ccsds-231-0-b-2-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '231'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 231.0-B-2-S Cor. 1
   :file: data/ccsds-231-0-b-2-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '231'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 231.0-B-3
   :file: data/ccsds-231-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '231'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 231.0-B-3-S
   :file: data/ccsds-231-0-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '231'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 231.0-B-4
   :file: data/ccsds-231-0-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '231'
-    :book_color: O
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 231.1-O-1
   :file: data/ccsds-231-1-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '231'
-    :book_color: O
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 231.1-O-1-S
   :file: data/ccsds-231-1-o-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '232'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 232.0-B-1
   :file: data/ccsds-232-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '232'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 232.0-B-1-S
   :file: data/ccsds-232-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '232'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 232.0-B-2
   :file: data/ccsds-232-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '232'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 232.0-B-2-S
   :file: data/ccsds-232-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '232'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 232.0-B-2 Cor. 1
   :file: data/ccsds-232-0-b-2-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '232'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 232.0-B-2-S Cor. 1
   :file: data/ccsds-232-0-b-2-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '232'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 232.0-B-3
   :file: data/ccsds-232-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '232'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 232.0-B-3-S
   :file: data/ccsds-232-0-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '232'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 232.0-B-4
   :file: data/ccsds-232-0-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '232'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '4'
-    :type: corrigendum
+- :id: CCSDS 232.0-B-4 Cor. 1
   :file: data/ccsds-232-0-b-4-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '232'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 232.1-B-1
   :file: data/ccsds-232-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '232'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 232.1-B-1-S
   :file: data/ccsds-232-1-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '232'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 232.1-B-2
   :file: data/ccsds-232-1-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '232'
-      :book_color: B
-      :part: 1
-      :retired: false
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 232.1-B-2 Cor. 1
   :file: data/ccsds-232-1-b-2-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '30'
-    :book_color: G
-    :part: 0
-    :series: A
-    :retired: false
-    :edition: '3'
-  :file: data/ccsds-a30-0-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '30'
-    :book_color: G
-    :part: 0
-    :series: A
-    :retired: true
-    :edition: '3'
-  :file: data/ccsds-a30-0-g-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '301'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 301.0-B-2
   :file: data/ccsds-301-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '301'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 301.0-B-2-S
   :file: data/ccsds-301-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '301'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 301.0-B-3
   :file: data/ccsds-301-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '301'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 301.0-B-3-S
   :file: data/ccsds-301-0-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '301'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 301.0-B-4
   :file: data/ccsds-301-0-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '31'
-    :book_color: G
-    :part: 0
-    :series: A
-    :retired: false
-    :edition: '1'
-  :file: data/ccsds-a31-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '31'
-    :book_color: G
-    :part: 0
-    :series: A
-    :retired: true
-    :edition: '1'
-  :file: data/ccsds-a31-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '311'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 311.0-M-1
   :file: data/ccsds-311-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '311'
-    :book_color: M
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 311.0-M-1-S
   :file: data/ccsds-311-0-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '311'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 311.0-M-2
   :file: data/ccsds-311-0-m-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '312'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 312.0-G-1
   :file: data/ccsds-312-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '313'
-    :book_color: "Y"
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 313.0-Y-1
   :file: data/ccsds-313-0-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '313'
-    :book_color: "Y"
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 313.0-Y-1-S
   :file: data/ccsds-313-0-y-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '313'
-    :book_color: "Y"
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 313.0-Y-2
   :file: data/ccsds-313-0-y-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '313'
-    :book_color: "Y"
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 313.0-Y-2-S
   :file: data/ccsds-313-0-y-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '313'
-    :book_color: "Y"
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 313.0-Y-3
   :file: data/ccsds-313-0-y-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '313'
-    :book_color: "Y"
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 313.1-Y-1
   :file: data/ccsds-313-1-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '313'
-    :book_color: "Y"
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 313.1-Y-1-S
   :file: data/ccsds-313-1-y-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '313'
-    :book_color: "Y"
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 313.1-Y-2
   :file: data/ccsds-313-1-y-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '313'
-    :book_color: "Y"
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 313.2-Y-1
   :file: data/ccsds-313-2-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '313'
-    :book_color: "Y"
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 313.2-Y-1-S
   :file: data/ccsds-313-2-y-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '313'
-    :book_color: "Y"
-    :part: 2
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 313.2-Y-2
   :file: data/ccsds-313-2-y-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '315'
-    :book_color: "Y"
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 315.1-Y-1
   :file: data/ccsds-315-1-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '320'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 320.0-B-1
   :file: data/ccsds-320-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '320'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 320.0-B-1-S
   :file: data/ccsds-320-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '320'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 320.0-B-1 Cor. 1
   :file: data/ccsds-320-0-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '320'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 320.0-B-1-S Cor. 1
   :file: data/ccsds-320-0-b-1-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '320'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 320.0-B-2
   :file: data/ccsds-320-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '320'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 320.0-B-2-S
   :file: data/ccsds-320-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '320'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 320.0-B-3
   :file: data/ccsds-320-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '320'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 320.0-B-3-S
   :file: data/ccsds-320-0-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '320'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 320.0-B-4
   :file: data/ccsds-320-0-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '320'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '4'
+- :id: CCSDS 320.0-B-4-S
   :file: data/ccsds-320-0-b-4-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '320'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '5'
+- :id: CCSDS 320.0-B-5
   :file: data/ccsds-320-0-b-5.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '320'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '5'
+- :id: CCSDS 320.0-B-5-S
   :file: data/ccsds-320-0-b-5-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '320'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '6'
+- :id: CCSDS 320.0-B-6
   :file: data/ccsds-320-0-b-6.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '320'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '6'
+- :id: CCSDS 320.0-B-6-S
   :file: data/ccsds-320-0-b-6-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '320'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '6'
-    :type: corrigendum
+- :id: CCSDS 320.0-B-6 Cor. 1
   :file: data/ccsds-320-0-b-6-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '320'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '6'
-    :type: corrigendum
+- :id: CCSDS 320.0-B-6-S Cor. 1
   :file: data/ccsds-320-0-b-6-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '320'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '7'
+- :id: CCSDS 320.0-M-7
   :file: data/ccsds-320-0-m-7.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '320'
-      :book_color: M
-      :part: 0
-      :retired: false
-      :edition: '7'
-    :type: corrigendum
+- :id: CCSDS 320.0-M-7 Cor. 1
   :file: data/ccsds-320-0-m-7-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 350.0-G-1
   :file: data/ccsds-350-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 350.0-G-1-S
   :file: data/ccsds-350-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 350.0-G-2
   :file: data/ccsds-350-0-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 350.0-G-2-S
   :file: data/ccsds-350-0-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 350.0-G-3
   :file: data/ccsds-350-0-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 350.1-G-1
   :file: data/ccsds-350-1-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 350.1-G-1-S
   :file: data/ccsds-350-1-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 350.1-G-2
   :file: data/ccsds-350-1-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 350.1-G-2-S
   :file: data/ccsds-350-1-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 350.1-G-3
   :file: data/ccsds-350-1-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 11
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 350.11-G-1
   :file: data/ccsds-350-11-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 350.2-G-1
   :file: data/ccsds-350-2-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 350.2-G-1-S
   :file: data/ccsds-350-2-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 350.3-G-1
   :file: data/ccsds-350-3-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 3
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 350.3-G-1-S
   :file: data/ccsds-350-3-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 4
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 350.4-G-1
   :file: data/ccsds-350-4-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 4
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 350.4-G-1-S
   :file: data/ccsds-350-4-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 4
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 350.4-G-2
   :file: data/ccsds-350-4-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 5
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 350.5-G-1
   :file: data/ccsds-350-5-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 5
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 350.5-G-1-S
   :file: data/ccsds-350-5-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 5
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 350.5-G-2
   :file: data/ccsds-350-5-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 6
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 350.6-G-1
   :file: data/ccsds-350-6-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 7
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 350.7-G-1
   :file: data/ccsds-350-7-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 7
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 350.7-G-1-S
   :file: data/ccsds-350-7-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 7
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 350.7-G-2
   :file: data/ccsds-350-7-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 8
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 350.8-G-1
   :file: data/ccsds-350-8-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 8
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 350.8-G-1-S
   :file: data/ccsds-350-8-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: M
-    :part: 8
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 350.8-M-2
   :file: data/ccsds-350-8-m-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: M
-    :part: 8
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 350.8-M-2-S
   :file: data/ccsds-350-8-m-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: M
-    :part: 8
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 350.8-M-3
   :file: data/ccsds-350-8-m-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 9
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 350.9-G-1
   :file: data/ccsds-350-9-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 9
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 350.9-G-1-S
   :file: data/ccsds-350-9-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '350'
-    :book_color: G
-    :part: 9
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 350.9-G-2
   :file: data/ccsds-350-9-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '351'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 351.0-M-1
   :file: data/ccsds-351-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '352'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 352.0-B-1
   :file: data/ccsds-352-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '352'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 352.0-B-1-S
   :file: data/ccsds-352-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '352'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 352.0-B-2
   :file: data/ccsds-352-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '354'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 354.0-M-1
   :file: data/ccsds-354-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '355'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 355.0-B-1
   :file: data/ccsds-355-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '355'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 355.0-B-1-S
   :file: data/ccsds-355-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '355'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 355.0-B-2
   :file: data/ccsds-355-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '355'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 355.1-B-1
   :file: data/ccsds-355-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '356'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 356.0-B-1
   :file: data/ccsds-356-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '357'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 357.0-B-1
   :file: data/ccsds-357-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '357'
-    :book_color: O
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 357.1-O-1
   :file: data/ccsds-357-1-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '371'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 371.0-G-1
   :file: data/ccsds-371-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '14'
+- :id: CCSDS 401.0-B-14
   :file: data/ccsds-401-0-b-14.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '14'
+- :id: CCSDS 401.0-B-14-S
   :file: data/ccsds-401-0-b-14-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '15'
+- :id: CCSDS 401.0-B-15
   :file: data/ccsds-401-0-b-15.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '15'
+- :id: CCSDS 401.0-B-15-S
   :file: data/ccsds-401-0-b-15-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '16'
+- :id: CCSDS 401.0-B-16
   :file: data/ccsds-401-0-b-16.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '16'
+- :id: CCSDS 401.0-B-16-S
   :file: data/ccsds-401-0-b-16-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '17'
+- :id: CCSDS 401.0-B-17
   :file: data/ccsds-401-0-b-17.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '17'
+- :id: CCSDS 401.0-B-17-S
   :file: data/ccsds-401-0-b-17-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '18'
+- :id: CCSDS 401.0-B-18
   :file: data/ccsds-401-0-b-18.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '18'
+- :id: CCSDS 401.0-B-18-S
   :file: data/ccsds-401-0-b-18-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '19'
+- :id: CCSDS 401.0-B-19
   :file: data/ccsds-401-0-b-19.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '19'
+- :id: CCSDS 401.0-B-19-S
   :file: data/ccsds-401-0-b-19-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '20'
+- :id: CCSDS 401.0-B-20
   :file: data/ccsds-401-0-b-20.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '20'
+- :id: CCSDS 401.0-B-20-S
   :file: data/ccsds-401-0-b-20-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '21'
+- :id: CCSDS 401.0-B-21
   :file: data/ccsds-401-0-b-21.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '21'
+- :id: CCSDS 401.0-B-21-S
   :file: data/ccsds-401-0-b-21-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '401'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '21'
-    :type: corrigendum
+- :id: CCSDS 401.0-B-21 Cor. 1
   :file: data/ccsds-401-0-b-21-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '401'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '21'
-    :type: corrigendum
+- :id: CCSDS 401.0-B-21-S Cor. 1
   :file: data/ccsds-401-0-b-21-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '22'
+- :id: CCSDS 401.0-B-22
   :file: data/ccsds-401-0-b-22.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '22'
+- :id: CCSDS 401.0-B-22-S
   :file: data/ccsds-401-0-b-22-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '23'
+- :id: CCSDS 401.0-B-23
   :file: data/ccsds-401-0-b-23.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '23'
+- :id: CCSDS 401.0-B-23-S
   :file: data/ccsds-401-0-b-23-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '24'
+- :id: CCSDS 401.0-B-24
   :file: data/ccsds-401-0-b-24.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '24'
+- :id: CCSDS 401.0-B-24-S
   :file: data/ccsds-401-0-b-24-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '25'
+- :id: CCSDS 401.0-B-25
   :file: data/ccsds-401-0-b-25.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '25'
+- :id: CCSDS 401.0-B-25-S
   :file: data/ccsds-401-0-b-25-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '26'
+- :id: CCSDS 401.0-B-26
   :file: data/ccsds-401-0-b-26.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '26'
+- :id: CCSDS 401.0-B-26-S
   :file: data/ccsds-401-0-b-26-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '27'
+- :id: CCSDS 401.0-B-27
   :file: data/ccsds-401-0-b-27.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '27'
+- :id: CCSDS 401.0-B-27-S
   :file: data/ccsds-401-0-b-27-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '28'
+- :id: CCSDS 401.0-B-28
   :file: data/ccsds-401-0-b-28.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '28'
+- :id: CCSDS 401.0-B-28-S
   :file: data/ccsds-401-0-b-28-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '29'
+- :id: CCSDS 401.0-B-29
   :file: data/ccsds-401-0-b-29.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '29'
+- :id: CCSDS 401.0-B-29-S
   :file: data/ccsds-401-0-b-29-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '30'
+- :id: CCSDS 401.0-B-30
   :file: data/ccsds-401-0-b-30.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '30'
+- :id: CCSDS 401.0-B-30-S
   :file: data/ccsds-401-0-b-30-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '31'
+- :id: CCSDS 401.0-B-31
   :file: data/ccsds-401-0-b-31.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '31'
+- :id: CCSDS 401.0-B-31-S
   :file: data/ccsds-401-0-b-31-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '32'
+- :id: CCSDS 401.0-B-32
   :file: data/ccsds-401-0-b-32.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: false
+- :id: CCSDS 401.0-B
   :file: data/ccsds-401-0-b.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '401'
-    :book_color: B
-    :part: 0
-    :retired: true
+- :id: CCSDS 401.0-B-S
   :file: data/ccsds-401-0-b-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '411'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 411.0-G-3
   :file: data/ccsds-411-0-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '411'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 411.0-G-3-S
   :file: data/ccsds-411-0-g-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '412'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 412.0-G-1
   :file: data/ccsds-412-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '412'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 412.0-G-1-S
   :file: data/ccsds-412-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '413'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 413.0-G-1
   :file: data/ccsds-413-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '413'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 413.0-G-1-S
   :file: data/ccsds-413-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '413'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 413.0-G-2
   :file: data/ccsds-413-0-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '413'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 413.0-G-2-S
   :file: data/ccsds-413-0-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '413'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 413.0-G-3
   :file: data/ccsds-413-0-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '413'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 413.1-G-1
   :file: data/ccsds-413-1-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '413'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 413.1-G-1-S
   :file: data/ccsds-413-1-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '413'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 413.1-G-2
   :file: data/ccsds-413-1-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '414'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 414.0-G-1
   :file: data/ccsds-414-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '414'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 414.0-G-1-S
   :file: data/ccsds-414-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '414'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 414.0-G-2
   :file: data/ccsds-414-0-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '414'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 414.1-B-1
   :file: data/ccsds-414-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '414'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 414.1-B-1-S
   :file: data/ccsds-414-1-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '414'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 414.1-B-2
   :file: data/ccsds-414-1-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '414'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 414.1-B-2-S
   :file: data/ccsds-414-1-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '414'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 414.1-B-3
   :file: data/ccsds-414-1-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '415'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 415.0-G-1
   :file: data/ccsds-415-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '415'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 415.1-B-1
   :file: data/ccsds-415-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '421'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 421.0-G-1
   :file: data/ccsds-421-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '431'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 431.1-B-1
   :file: data/ccsds-431-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '431'
-      :book_color: B
-      :part: 1
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 431.1-B-1 Cor. 1
   :file: data/ccsds-431-1-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 500.0-G-1
   :file: data/ccsds-500-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 500.0-G-1-S
   :file: data/ccsds-500-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 500.0-G-2
   :file: data/ccsds-500-0-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 500.0-G-2-S
   :file: data/ccsds-500-0-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 500.0-G-3
   :file: data/ccsds-500-0-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 500.0-G-3-S
   :file: data/ccsds-500-0-g-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 500.0-G-4
   :file: data/ccsds-500-0-g-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 500.1-G-1
   :file: data/ccsds-500-1-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 500.1-G-1-S
   :file: data/ccsds-500-1-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 500.1-G-2
   :file: data/ccsds-500-1-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 500.2-G-1
   :file: data/ccsds-500-2-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 500.2-G-1-S
   :file: data/ccsds-500-2-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 500.2-G-2
   :file: data/ccsds-500-2-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 2
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 500.2-G-2-S
   :file: data/ccsds-500-2-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '500'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 500.2-G-3
   :file: data/ccsds-500-2-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '501'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 501.0-B-1
   :file: data/ccsds-501-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '501'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 501.0-B-1-S
   :file: data/ccsds-501-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '502'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 502.0-B-1
   :file: data/ccsds-502-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '502'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 502.0-B-1-S
   :file: data/ccsds-502-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '502'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 502.0-B-2
   :file: data/ccsds-502-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '502'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 502.0-B-2-S
   :file: data/ccsds-502-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '502'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 502.0-B-2 Cor. 1
   :file: data/ccsds-502-0-b-2-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '502'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 502.0-B-2-S Cor. 1
   :file: data/ccsds-502-0-b-2-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '502'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 502.0-B-3
   :file: data/ccsds-502-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '502'
-    :book_color: "Y"
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 502.1-Y-1
   :file: data/ccsds-502-1-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '503'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 503.0-B-1
   :file: data/ccsds-503-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '503'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 503.0-B-1-S
   :file: data/ccsds-503-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '503'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 503.0-B-1 Cor. 1
   :file: data/ccsds-503-0-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '503'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 503.0-B-1-S Cor. 1
   :file: data/ccsds-503-0-b-1-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '503'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 503.0-B-2
   :file: data/ccsds-503-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '503'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 503.0-B-2 Cor. 1
   :file: data/ccsds-503-0-b-2-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '504'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 504.0-B-1
   :file: data/ccsds-504-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '504'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 504.0-B-1-S
   :file: data/ccsds-504-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '504'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 504.0-B-1 Cor. 1
   :file: data/ccsds-504-0-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '504'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 504.0-B-1-S Cor. 1
   :file: data/ccsds-504-0-b-1-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '504'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 504.0-B-2
   :file: data/ccsds-504-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '505'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 505.0-B-1
   :file: data/ccsds-505-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '505'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 505.0-B-1-S
   :file: data/ccsds-505-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '505'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 505.0-B-2
   :file: data/ccsds-505-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '505'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 505.0-B-2-S
   :file: data/ccsds-505-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '505'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 505.0-B-3
   :file: data/ccsds-505-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '506'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 506.0-M-1
   :file: data/ccsds-506-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '506'
-    :book_color: M
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 506.0-M-1-S
   :file: data/ccsds-506-0-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '506'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 506.0-M-2
   :file: data/ccsds-506-0-m-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '506'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 506.1-B-1
   :file: data/ccsds-506-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '506'
-    :book_color: M
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 506.3-M-1
   :file: data/ccsds-506-3-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '508'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 508.0-B-1
   :file: data/ccsds-508-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '508'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 508.0-B-1 Cor. 1
   :file: data/ccsds-508-0-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '2'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '508'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 508.0-B-1 Cor. 2
   :file: data/ccsds-508-0-b-1-cor-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '508'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 508.0-B-1-S
   :file: data/ccsds-508-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '508'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 508.1-B-1
   :file: data/ccsds-508-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '508'
-      :book_color: B
-      :part: 1
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 508.1-B-1 Cor. 1
   :file: data/ccsds-508-1-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '509'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 509.0-B-1
   :file: data/ccsds-509-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '509'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 509.0-B-1 Cor. 1
   :file: data/ccsds-509-0-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '2'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '509'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 509.0-B-1 Cor. 2
   :file: data/ccsds-509-0-b-1-cor-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '520'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 520.0-G-1
   :file: data/ccsds-520-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '520'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 520.0-G-1-S
   :file: data/ccsds-520-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '520'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 520.0-G-2
   :file: data/ccsds-520-0-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '520'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 520.0-G-2-S
   :file: data/ccsds-520-0-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '520'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 520.0-G-3
   :file: data/ccsds-520-0-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '520'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 520.1-M-1
   :file: data/ccsds-520-1-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '521'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 521.0-B-1
   :file: data/ccsds-521-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '521'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 521.0-B-1-S
   :file: data/ccsds-521-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '521'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 521.0-B-2
   :file: data/ccsds-521-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '521'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 521.0-B-2-S
   :file: data/ccsds-521-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '521'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 521.0-B-3
   :file: data/ccsds-521-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '521'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 521.1-B-1
   :file: data/ccsds-521-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '522'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 522.0-B-1
   :file: data/ccsds-522-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '522'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 522.1-B-1
   :file: data/ccsds-522-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '523'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 523.1-M-1
   :file: data/ccsds-523-1-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '523'
-    :book_color: M
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 523.2-M-1
   :file: data/ccsds-523-2-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '524'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 524.1-B-1
   :file: data/ccsds-524-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '524'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 524.2-B-1
   :file: data/ccsds-524-2-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '524'
-    :book_color: B
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 524.3-B-1
   :file: data/ccsds-524-3-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '524'
-    :book_color: B
-    :part: 4
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 524.4-B-1
   :file: data/ccsds-524-4-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '529'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 529.0-G-1
   :file: data/ccsds-529-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '540'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 540.0-G-1
   :file: data/ccsds-540-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '551'
-    :book_color: O
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 551.1-O-1
   :file: data/ccsds-551-1-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '551'
-    :book_color: O
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 551.1-O-1-S
   :file: data/ccsds-551-1-o-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '551'
-    :book_color: O
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 551.1-O-2
   :file: data/ccsds-551-1-o-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '551'
-    :language: Russian
-    :book_color: O
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 551.1-O-2 - Russian Translated
   :file: data/ccsds-551-1-o-2-russian-translated.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '610'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '5'
+- :id: CCSDS 610.0-G-5
   :file: data/ccsds-610-0-g-5.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '611'
-    :book_color: "Y"
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 611.0-Y-1
   :file: data/ccsds-611-0-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '611'
-    :book_color: "Y"
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 611.0-Y-1-S
   :file: data/ccsds-611-0-y-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '620'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 620.0-B-2
   :file: data/ccsds-620-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '621'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 621.0-G-1
   :file: data/ccsds-621-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '622'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 622.0-B-1
   :file: data/ccsds-622-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '630'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 630.0-B-1
   :file: data/ccsds-630-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '631'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 631.0-G-2
   :file: data/ccsds-631-0-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '632'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 632.0-B-1
   :file: data/ccsds-632-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '641'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 641.0-B-1
   :file: data/ccsds-641-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '641'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 641.0-B-1-S
   :file: data/ccsds-641-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '641'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 641.0-B-2
   :file: data/ccsds-641-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '641'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 641.0-G-2
   :file: data/ccsds-641-0-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '642'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 642.1-G-1
   :file: data/ccsds-642-1-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '642'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 642.1-G-1-S
   :file: data/ccsds-642-1-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '643'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 643.0-B-1
   :file: data/ccsds-643-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '644'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 644.0-B-1
   :file: data/ccsds-644-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '644'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 644.0-B-1-S
   :file: data/ccsds-644-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '644'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 644.0-B-2
   :file: data/ccsds-644-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '644'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 644.0-B-2-S
   :file: data/ccsds-644-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '644'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 644.0-B-3
   :file: data/ccsds-644-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '645'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 645.0-G-1
   :file: data/ccsds-645-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '646'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 646.0-G-1
   :file: data/ccsds-646-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '647'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 647.1-B-1
   :file: data/ccsds-647-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '647'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 647.2-B-1
   :file: data/ccsds-647-2-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '647'
-    :book_color: B
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 647.3-B-1
   :file: data/ccsds-647-3-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '647'
-    :book_color: O
-    :part: 4
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 647.4-O-1
   :file: data/ccsds-647-4-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '650'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 650.0-B-1
   :file: data/ccsds-650-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '650'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 650.0-B-1-S
   :file: data/ccsds-650-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '650'
-    :language: French
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 650.0-B-1 - French Translated
   :file: data/ccsds-650-0-b-1-french-translated.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '650'
-    :language: French
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 650.0-B-1-S - French Translated
   :file: data/ccsds-650-0-b-1-s-french-translated.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '650'
-    :language: French
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 650.0-M-2 - French Translated
   :file: data/ccsds-650-0-m-2-french-translated.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '650'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 650.0-M-2
   :file: data/ccsds-650-0-m-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '650'
-    :book_color: M
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 650.0-M-2-S
   :file: data/ccsds-650-0-m-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '650'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 650.0-M-3
   :file: data/ccsds-650-0-m-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '651'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 651.0-M-1
   :file: data/ccsds-651-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '651'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 651.1-B-1
   :file: data/ccsds-651-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '651'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 651.2-G-1
   :file: data/ccsds-651-2-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '652'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 652.0-M-1
   :file: data/ccsds-652-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '652'
-    :book_color: M
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 652.0-M-1-S
   :file: data/ccsds-652-0-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '652'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 652.0-M-2
   :file: data/ccsds-652-0-m-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '652'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 652.1-M-1
   :file: data/ccsds-652-1-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '652'
-    :book_color: M
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 652.1-M-1-S
   :file: data/ccsds-652-1-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '652'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 652.1-M-2
   :file: data/ccsds-652-1-m-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '652'
-    :book_color: M
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 652.1-M-2-S
   :file: data/ccsds-652-1-m-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '652'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 652.1-M-3
   :file: data/ccsds-652-1-m-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '653'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 653.0-M-1
   :file: data/ccsds-653-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '660'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 660.0-B-1
   :file: data/ccsds-660-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '660'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 660.0-B-1-S
   :file: data/ccsds-660-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '660'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 660.0-B-2
   :file: data/ccsds-660-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '660'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 660.0-G-1
   :file: data/ccsds-660-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '660'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 660.0-G-1-S
   :file: data/ccsds-660-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '660'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 660.1-G-1
   :file: data/ccsds-660-1-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '660'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 660.1-G-1-S
   :file: data/ccsds-660-1-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '660'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 660.1-G-2
   :file: data/ccsds-660-1-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '660'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 660.2-G-2
   :file: data/ccsds-660-2-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '661'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 661.0-B-1
   :file: data/ccsds-661-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '700'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 700.0-G-3
   :file: data/ccsds-700-0-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '700'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 700.1-G-1
   :file: data/ccsds-700-1-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '701'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 701.0-B-2
   :file: data/ccsds-701-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '701'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 701.0-B-2-S
   :file: data/ccsds-701-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '701'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 701.0-B-3
   :file: data/ccsds-701-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '701'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 701.0-B-3-S
   :file: data/ccsds-701-0-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '701'
-    :book_color: R
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 701.00-R-3
   :file: data/ccsds-701-00-r-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '701'
-    :book_color: R
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 701.00-R-3-S
   :file: data/ccsds-701-00-r-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '702'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 702.1-B-1
   :file: data/ccsds-702-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '702'
-      :book_color: B
-      :part: 1
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 702.1-B-1 Cor. 1
   :file: data/ccsds-702-1-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '2'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '702'
-      :book_color: B
-      :part: 1
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 702.1-B-1 Cor. 2
   :file: data/ccsds-702-1-b-1-cor-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '704'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 704.0-B-1
   :file: data/ccsds-704-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '704'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 704.0-B-1-S
   :file: data/ccsds-704-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '705'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 705.1-B-1
   :file: data/ccsds-705-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '705'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 705.1-B-1-S
   :file: data/ccsds-705-1-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '705'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 705.2-B-1
   :file: data/ccsds-705-2-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '705'
-    :book_color: B
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 705.2-B-1-S
   :file: data/ccsds-705-2-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '705'
-    :book_color: B
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 705.3-B-1
   :file: data/ccsds-705-3-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '705'
-    :book_color: B
-    :part: 3
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 705.3-B-1-S
   :file: data/ccsds-705-3-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '705'
-    :book_color: B
-    :part: 4
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 705.4-B-1
   :file: data/ccsds-705-4-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '705'
-    :book_color: B
-    :part: 4
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 705.4-B-1-S
   :file: data/ccsds-705-4-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '706'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 706.1-G-1
   :file: data/ccsds-706-1-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '706'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 706.1-G-1-S
   :file: data/ccsds-706-1-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '706'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 706.1-G-2
   :file: data/ccsds-706-1-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '706'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 706.1-G-2-S
   :file: data/ccsds-706-1-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '706'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 706.2-G-1
   :file: data/ccsds-706-2-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '706'
-    :book_color: G
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 706.2-G-1-S
   :file: data/ccsds-706-2-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '706'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 706.2-G-2
   :file: data/ccsds-706-2-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '713'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 713.0-B-1
   :file: data/ccsds-713-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '713'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 713.0-B-1-S
   :file: data/ccsds-713-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '713'
-    :book_color: B
-    :part: 5
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 713.5-B-1
   :file: data/ccsds-713-5-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '713'
-    :book_color: B
-    :part: 5
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 713.5-B-1-S
   :file: data/ccsds-713-5-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '713'
-      :book_color: B
-      :part: 5
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 713.5-B-1 Cor. 1
   :file: data/ccsds-713-5-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '713'
-      :book_color: B
-      :part: 5
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 713.5-B-1-S Cor. 1
   :file: data/ccsds-713-5-b-1-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '714'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 714.0-B-1
   :file: data/ccsds-714-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '714'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 714.0-B-1-S
   :file: data/ccsds-714-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '714'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 714.0-B-1 Cor. 1
   :file: data/ccsds-714-0-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '714'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 714.0-B-1-S Cor. 1
   :file: data/ccsds-714-0-b-1-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '714'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 714.0-B-2
   :file: data/ccsds-714-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '717'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 717.0-B-1
   :file: data/ccsds-717-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '717'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 717.0-B-1-S
   :file: data/ccsds-717-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '720'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 720.1-G-2
   :file: data/ccsds-720-1-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '720'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 720.1-G-2-S
   :file: data/ccsds-720-1-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '720'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 720.1-G-3
   :file: data/ccsds-720-1-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '720'
-    :book_color: G
-    :part: 1
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 720.1-G-3-S
   :file: data/ccsds-720-1-g-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '720'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 720.1-G-4
   :file: data/ccsds-720-1-g-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '720'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 720.2-G-2
   :file: data/ccsds-720-2-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '720'
-    :book_color: G
-    :part: 2
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 720.2-G-2-S
   :file: data/ccsds-720-2-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '720'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 720.2-G-3
   :file: data/ccsds-720-2-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '720'
-    :book_color: G
-    :part: 2
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 720.2-G-3-S
   :file: data/ccsds-720-2-g-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '720'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 720.2-G-4
   :file: data/ccsds-720-2-g-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '720'
-    :book_color: G
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 720.3-G-1
   :file: data/ccsds-720-3-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '720'
-    :book_color: "Y"
-    :part: 4
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 720.4-Y-1
   :file: data/ccsds-720-4-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '720'
-    :book_color: "Y"
-    :part: 5
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 720.5-Y-1
   :file: data/ccsds-720-5-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '720'
-    :book_color: "Y"
-    :part: 6
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 720.6-Y-1
   :file: data/ccsds-720-6-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '722'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 722.1-M-1
   :file: data/ccsds-722-1-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '727'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 727.0-B-1
   :file: data/ccsds-727-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '727'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 727.0-B-1-S
   :file: data/ccsds-727-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '727'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 727.0-B-2
   :file: data/ccsds-727-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '727'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 727.0-B-2-S
   :file: data/ccsds-727-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '727'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 727.0-B-3
   :file: data/ccsds-727-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '727'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 727.0-B-3-S
   :file: data/ccsds-727-0-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '727'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 727.0-B-4
   :file: data/ccsds-727-0-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '727'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '4'
+- :id: CCSDS 727.0-B-4-S
   :file: data/ccsds-727-0-b-4-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '727'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '5'
+- :id: CCSDS 727.0-B-5
   :file: data/ccsds-727-0-b-5.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '730'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 730.0-G-1
   :file: data/ccsds-730-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '730'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 730.0-G-1-S
   :file: data/ccsds-730-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '730'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 730.1-G-1
   :file: data/ccsds-730-1-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '730'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 730.2-G-1
   :file: data/ccsds-730-2-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 732.0-B-1
   :file: data/ccsds-732-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 732.0-B-1-S
   :file: data/ccsds-732-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 732.0-B-2
   :file: data/ccsds-732-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 732.0-B-2-S
   :file: data/ccsds-732-0-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '732'
-      :book_color: B
-      :part: 0
-      :retired: false
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 732.0-B-2 Cor. 1
   :file: data/ccsds-732-0-b-2-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '732'
-      :book_color: B
-      :part: 0
-      :retired: true
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 732.0-B-2-S Cor. 1
   :file: data/ccsds-732-0-b-2-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 732.0-B-3
   :file: data/ccsds-732-0-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 732.0-B-3-S
   :file: data/ccsds-732-0-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 732.0-B-4
   :file: data/ccsds-732-0-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '4'
+- :id: CCSDS 732.0-B-4-S
   :file: data/ccsds-732-0-b-4-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '5'
+- :id: CCSDS 732.0-B-5
   :file: data/ccsds-732-0-b-5.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 732.1-B-1
   :file: data/ccsds-732-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 732.1-B-1-S
   :file: data/ccsds-732-1-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 732.1-B-2
   :file: data/ccsds-732-1-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 732.1-B-2-S
   :file: data/ccsds-732-1-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 732.1-B-3
   :file: data/ccsds-732-1-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: O
-    :part: 5
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 732.5-O-1
   :file: data/ccsds-732-5-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '732'
-    :book_color: O
-    :part: 5
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 732.5-O-1-S
   :file: data/ccsds-732-5-o-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '733'
-    :book_color: O
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 733.0-O-1
   :file: data/ccsds-733-0-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '733'
-    :book_color: O
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 733.0-O-1-S
   :file: data/ccsds-733-0-o-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '733'
-    :book_color: O
-    :part: 5
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 733.5-O-1
   :file: data/ccsds-733-5-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '733'
-    :book_color: O
-    :part: 5
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 733.5-O-1-S
   :file: data/ccsds-733-5-o-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '734'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 734.0-G-1
   :file: data/ccsds-734-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '734'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 734.1-B-1
   :file: data/ccsds-734-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '734'
-      :book_color: B
-      :part: 1
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 734.1-B-1 Cor. 1
   :file: data/ccsds-734-1-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '734'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 734.2-B-1
   :file: data/ccsds-734-2-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '734'
-    :book_color: O
-    :part: 20
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 734.20-O-1
   :file: data/ccsds-734-20-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '734'
-    :book_color: B
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 734.3-B-1
   :file: data/ccsds-734-3-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '734'
-    :book_color: O
-    :part: 6
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 734.6-O-1
   :file: data/ccsds-734-6-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '735'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 735.0-G-1
   :file: data/ccsds-735-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '735'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 735.1-B-1
   :file: data/ccsds-735-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '740'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 740.0-G-1
   :file: data/ccsds-740-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '740'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 740.0-G-1-S
   :file: data/ccsds-740-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '766'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 766.1-B-1
   :file: data/ccsds-766-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '766'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 766.1-B-1-S
   :file: data/ccsds-766-1-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '766'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 766.1-B-2
   :file: data/ccsds-766-1-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '766'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 766.1-B-2-S
   :file: data/ccsds-766-1-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '766'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 766.1-B-3
   :file: data/ccsds-766-1-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '766'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 766.2-B-1
   :file: data/ccsds-766-2-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '811'
-    :book_color: O
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 811.1-O-1
   :file: data/ccsds-811-1-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '850'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 850.0-G-1
   :file: data/ccsds-850-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '850'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 850.0-G-1-S
   :file: data/ccsds-850-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '850'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 850.0-G-2
   :file: data/ccsds-850-0-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '851'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 851.0-M-1
   :file: data/ccsds-851-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '852'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 852.0-M-1
   :file: data/ccsds-852-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '853'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 853.0-M-1
   :file: data/ccsds-853-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '854'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 854.0-M-1
   :file: data/ccsds-854-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '855'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 855.0-M-1
   :file: data/ccsds-855-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '870'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 870.0-G-1
   :file: data/ccsds-870-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '870'
-    :book_color: "Y"
-    :part: 10
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 870.10-Y-1
   :file: data/ccsds-870-10-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '871'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 871.0-M-1
   :file: data/ccsds-871-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '871'
-    :book_color: M
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 871.0-M-1-S
   :file: data/ccsds-871-0-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '871'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 871.1-M-1
   :file: data/ccsds-871-1-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '871'
-    :book_color: M
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 871.1-M-1-S
   :file: data/ccsds-871-1-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '871'
-    :book_color: M
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 871.2-M-1
   :file: data/ccsds-871-2-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '871'
-    :book_color: M
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 871.2-M-1-S
   :file: data/ccsds-871-2-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '871'
-    :book_color: M
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 871.3-M-1
   :file: data/ccsds-871-3-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '871'
-    :book_color: M
-    :part: 3
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 871.3-M-1-S
   :file: data/ccsds-871-3-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '872'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 872.0-M-1
   :file: data/ccsds-872-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '872'
-    :book_color: M
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 872.0-M-1-S
   :file: data/ccsds-872-0-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '873'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 873.0-M-1
   :file: data/ccsds-873-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '873'
-    :book_color: M
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 873.0-M-1-S
   :file: data/ccsds-873-0-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '875'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 875.0-M-1
   :file: data/ccsds-875-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '875'
-    :book_color: M
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 875.0-M-1-S
   :file: data/ccsds-875-0-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '876'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 876.0-B-1
   :file: data/ccsds-876-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '876'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 876.1-M-1
   :file: data/ccsds-876-1-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '880'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 880.0-G-1
   :file: data/ccsds-880-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '880'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 880.0-G-1-S
   :file: data/ccsds-880-0-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '880'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 880.0-G-2
   :file: data/ccsds-880-0-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '880'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 880.0-G-2-S
   :file: data/ccsds-880-0-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '880'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 880.0-G-3
   :file: data/ccsds-880-0-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '881'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 881.0-M-1
   :file: data/ccsds-881-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '881'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 881.1-B-1
   :file: data/ccsds-881-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '882'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 882.0-M-1
   :file: data/ccsds-882-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '883'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 883.0-B-1
   :file: data/ccsds-883-0-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '883'
-    :book_color: B
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 883.0-B-1-S
   :file: data/ccsds-883-0-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '883'
-    :book_color: B
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 883.0-B-2
   :file: data/ccsds-883-0-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '901'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 901.0-G-1
   :file: data/ccsds-901-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '901'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 901.1-M-1
   :file: data/ccsds-901-1-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '901'
-    :book_color: M
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 901.3-M-1
   :file: data/ccsds-901-3-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '901'
-    :book_color: "Y"
-    :part: 31
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 901.31-Y-1
   :file: data/ccsds-901-31-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '902'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 902.0-G-1
   :file: data/ccsds-902-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '902'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 902.1-B-1
   :file: data/ccsds-902-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '902'
-      :book_color: B
-      :part: 1
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 902.1-B-1 Cor. 1
   :file: data/ccsds-902-1-b-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '902'
-    :book_color: M
-    :part: 12
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 902.12-M-1
   :file: data/ccsds-902-12-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '902'
-    :book_color: M
-    :part: 13
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 902.13-M-1
   :file: data/ccsds-902-13-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '902'
-      :book_color: M
-      :part: 13
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 902.13-M-1 Cor. 1
   :file: data/ccsds-902-13-m-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '902'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 902.2-B-1
   :file: data/ccsds-902-2-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 910.0-G-2
   :file: data/ccsds-910-0-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: G
-    :part: 0
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 910.0-G-2-S
   :file: data/ccsds-910-0-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: "Y"
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 910.0-Y-1
   :file: data/ccsds-910-0-y-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: "Y"
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 910.0-Y-1-S
   :file: data/ccsds-910-0-y-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: B
-    :part: 11
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 910.11-B-1
   :file: data/ccsds-910-11-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: B
-    :part: 11
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 910.11-B-1-S
   :file: data/ccsds-910-11-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: G
-    :part: 14
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 910.14-G-1
   :file: data/ccsds-910-14-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: G
-    :part: 14
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 910.14-G-1-S
   :file: data/ccsds-910-14-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 910.2-G-1
   :file: data/ccsds-910-2-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: G
-    :part: 3
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 910.3-G-2
   :file: data/ccsds-910-3-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: G
-    :part: 3
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 910.3-G-2-S
   :file: data/ccsds-910-3-g-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: G
-    :part: 3
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 910.3-G-3
   :file: data/ccsds-910-3-g-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: B
-    :part: 4
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 910.4-B-1
   :file: data/ccsds-910-4-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: B
-    :part: 4
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 910.4-B-1-S
   :file: data/ccsds-910-4-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: B
-    :part: 4
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 910.4-B-2
   :file: data/ccsds-910-4-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '910'
-    :book_color: B
-    :part: 4
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 910.4-B-2-S
   :file: data/ccsds-910-4-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 911.1-B-1
   :file: data/ccsds-911-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 911.1-B-1-S
   :file: data/ccsds-911-1-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 911.1-B-2
   :file: data/ccsds-911-1-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 911.1-B-2-S
   :file: data/ccsds-911-1-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 911.1-B-3
   :file: data/ccsds-911-1-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 911.1-B-3-S
   :file: data/ccsds-911-1-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 911.1-B-4
   :file: data/ccsds-911-1-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '4'
+- :id: CCSDS 911.1-B-4-S
   :file: data/ccsds-911-1-b-4-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '5'
+- :id: CCSDS 911.1-B-5
   :file: data/ccsds-911-1-b-5.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: R
-    :part: 1
-    :retired: false
-    :edition: '1.7'
+- :id: CCSDS 911.1-R-1.7
   :file: data/ccsds-911-1-r-1-7.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 911.2-B-1
   :file: data/ccsds-911-2-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 911.2-B-1-S
   :file: data/ccsds-911-2-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 911.2-B-2
   :file: data/ccsds-911-2-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 2
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 911.2-B-2-S
   :file: data/ccsds-911-2-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 911.2-B-3
   :file: data/ccsds-911-2-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 2
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 911.2-B-3-S
   :file: data/ccsds-911-2-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 911.2-B-4
   :file: data/ccsds-911-2-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: R
-    :part: 2
-    :retired: false
-    :edition: '1.7'
+- :id: CCSDS 911.2-R-1.7
   :file: data/ccsds-911-2-r-1-7.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 5
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 911.5-B-1
   :file: data/ccsds-911-5-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 5
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 911.5-B-1-S
   :file: data/ccsds-911-5-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 5
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 911.5-B-2
   :file: data/ccsds-911-5-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 5
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 911.5-B-2-S
   :file: data/ccsds-911-5-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 5
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 911.5-B-3
   :file: data/ccsds-911-5-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 5
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 911.5-B-3-S
   :file: data/ccsds-911-5-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '911'
-    :book_color: B
-    :part: 5
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 911.5-B-4
   :file: data/ccsds-911-5-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 912.1-B-1
   :file: data/ccsds-912-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 912.1-B-1-S
   :file: data/ccsds-912-1-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 912.1-B-2
   :file: data/ccsds-912-1-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 912.1-B-2-S
   :file: data/ccsds-912-1-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '912'
-      :book_color: B
-      :part: 1
-      :retired: false
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 912.1-B-2 Cor. 1
   :file: data/ccsds-912-1-b-2-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '912'
-      :book_color: B
-      :part: 1
-      :retired: true
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 912.1-B-2-S Cor. 1
   :file: data/ccsds-912-1-b-2-s-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 912.1-B-3
   :file: data/ccsds-912-1-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 912.1-B-3-S
   :file: data/ccsds-912-1-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '4'
+- :id: CCSDS 912.1-B-4
   :file: data/ccsds-912-1-b-4.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '4'
+- :id: CCSDS 912.1-B-4-S
   :file: data/ccsds-912-1-b-4-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '5'
+- :id: CCSDS 912.1-B-5
   :file: data/ccsds-912-1-b-5.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: R
-    :part: 1
-    :retired: false
-    :edition: 1.99h
+- :id: CCSDS 912.1-R-1.99h
   :file: data/ccsds-912-1-r-1-99h.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: O
-    :part: 11
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 912.11-O-1
   :file: data/ccsds-912-11-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 912.3-B-1
   :file: data/ccsds-912-3-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 3
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 912.3-B-1-S
   :file: data/ccsds-912-3-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 3
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 912.3-B-2
   :file: data/ccsds-912-3-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 3
-    :retired: true
-    :edition: '2'
+- :id: CCSDS 912.3-B-2-S
   :file: data/ccsds-912-3-b-2-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 3
-    :retired: false
-    :edition: '3'
+- :id: CCSDS 912.3-B-3
   :file: data/ccsds-912-3-b-3.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '912'
-    :book_color: B
-    :part: 3
-    :retired: true
-    :edition: '3'
+- :id: CCSDS 912.3-B-3-S
   :file: data/ccsds-912-3-b-3-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '913'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 913.1-B-1
   :file: data/ccsds-913-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '913'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 913.1-B-1-S
   :file: data/ccsds-913-1-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '913'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 913.1-B-2
   :file: data/ccsds-913-1-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '914'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 914.0-M-1
   :file: data/ccsds-914-0-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '914'
-    :book_color: M
-    :part: 0
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 914.0-M-1-S
   :file: data/ccsds-914-0-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '914'
-    :book_color: M
-    :part: 0
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 914.0-M-2
   :file: data/ccsds-914-0-m-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '914'
-      :book_color: M
-      :part: 0
-      :retired: false
-      :edition: '2'
-    :type: corrigendum
+- :id: CCSDS 914.0-M-2 Cor. 1
   :file: data/ccsds-914-0-m-2-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '914'
-    :book_color: G
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 914.1-G-1
   :file: data/ccsds-914-1-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '914'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 914.2-G-1
   :file: data/ccsds-914-2-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '914'
-    :book_color: G
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 914.2-G-1-S
   :file: data/ccsds-914-2-g-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '914'
-    :book_color: G
-    :part: 2
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 914.2-G-2
   :file: data/ccsds-914-2-g-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '915'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 915.1-M-1
   :file: data/ccsds-915-1-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '915'
-    :book_color: M
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 915.1-M-1-S
   :file: data/ccsds-915-1-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '915'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 915.1-M-2
   :file: data/ccsds-915-1-m-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '915'
-    :book_color: M
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 915.2-M-1
   :file: data/ccsds-915-2-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '915'
-    :book_color: M
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 915.2-M-1-S
   :file: data/ccsds-915-2-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '915'
-    :book_color: M
-    :part: 2
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 915.2-M-2
   :file: data/ccsds-915-2-m-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '915'
-    :book_color: M
-    :part: 5
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 915.5-M-1
   :file: data/ccsds-915-5-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '915'
-    :book_color: M
-    :part: 5
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 915.5-M-1-S
   :file: data/ccsds-915-5-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '915'
-    :book_color: M
-    :part: 5
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 915.5-M-2
   :file: data/ccsds-915-5-m-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '916'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 916.1-M-1
   :file: data/ccsds-916-1-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '916'
-    :book_color: M
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 916.1-M-1-S
   :file: data/ccsds-916-1-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '916'
-    :book_color: M
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 916.1-M-2
   :file: data/ccsds-916-1-m-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '916'
-    :book_color: M
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 916.3-M-1
   :file: data/ccsds-916-3-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '916'
-    :book_color: M
-    :part: 3
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 916.3-M-1-S
   :file: data/ccsds-916-3-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '916'
-    :book_color: M
-    :part: 3
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 916.3-M-2
   :file: data/ccsds-916-3-m-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '920'
-    :book_color: G
-    :part: 0
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 920.0-G-1
   :file: data/ccsds-920-0-g-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '921'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 921.1-B-1
   :file: data/ccsds-921-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '921'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 921.1-B-1-S
   :file: data/ccsds-921-1-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '921'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 921.1-B-2
   :file: data/ccsds-921-1-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '921'
-    :book_color: M
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 921.2-M-1
   :file: data/ccsds-921-2-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '1'
-    :book_color: ''
-    :part: 0
-    :retired: false
-    :base:
-      :publisher: CCSDS
-      :number: '921'
-      :book_color: M
-      :part: 2
-      :retired: false
-      :edition: '1'
-    :type: corrigendum
+- :id: CCSDS 921.2-M-1 Cor. 1
   :file: data/ccsds-921-2-m-1-cor-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '922'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 922.1-B-1
   :file: data/ccsds-922-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '922'
-    :book_color: B
-    :part: 1
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 922.1-B-1-S
   :file: data/ccsds-922-1-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '922'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 922.1-B-2
   :file: data/ccsds-922-1-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '922'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 922.2-B-1
   :file: data/ccsds-922-2-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '922'
-    :book_color: B
-    :part: 2
-    :retired: true
-    :edition: '1'
+- :id: CCSDS 922.2-B-1-S
   :file: data/ccsds-922-2-b-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '922'
-    :book_color: B
-    :part: 2
-    :retired: false
-    :edition: '2'
+- :id: CCSDS 922.2-B-2
   :file: data/ccsds-922-2-b-2.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '922'
-    :book_color: O
-    :part: 27
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 922.27-O-1
   :file: data/ccsds-922-27-o-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '922'
-    :book_color: B
-    :part: 3
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 922.3-B-1
   :file: data/ccsds-922-3-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '927'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
+- :id: CCSDS 927.1-B-1
   :file: data/ccsds-927-1-b-1.yaml
+- :id: CCSDS A00.0-Y-9
+  :file: data/ccsds-a00-0-y-9.yaml
+- :id: CCSDS A00.0-Y-9-S
+  :file: data/ccsds-a00-0-y-9-s.yaml
+- :id: CCSDS A01.2-Y-4.1
+  :file: data/ccsds-a01-2-y-4-1.yaml
+- :id: CCSDS A01.2-Y-4.1-S
+  :file: data/ccsds-a01-2-y-4-1-s.yaml
+- :id: CCSDS A02.1-Y-2
+  :file: data/ccsds-a02-1-y-2.yaml
+- :id: CCSDS A02.1-Y-2-S
+  :file: data/ccsds-a02-1-y-2-s.yaml
+- :id: CCSDS A02.1-Y-3
+  :file: data/ccsds-a02-1-y-3.yaml
+- :id: CCSDS A02.1-Y-3-S
+  :file: data/ccsds-a02-1-y-3-s.yaml
+- :id: CCSDS A02.1-Y-4
+  :file: data/ccsds-a02-1-y-4.yaml
+- :id: CCSDS A02.1-Y-4 Cor. 1
+  :file: data/ccsds-a02-1-y-4-cor-1.yaml
+- :id: CCSDS A02.1-Y-4 Cor. 2
+  :file: data/ccsds-a02-1-y-4-cor-2.yaml
+- :id: CCSDS A13.1-Y-1
+  :file: data/ccsds-a13-1-y-1.yaml
+- :id: CCSDS A20.0-Y-2
+  :file: data/ccsds-a20-0-y-2.yaml
+- :id: CCSDS A20.0-Y-2-S
+  :file: data/ccsds-a20-0-y-2-s.yaml
+- :id: CCSDS A20.0-Y-2.1
+  :file: data/ccsds-a20-0-y-2-1.yaml
+- :id: CCSDS A20.0-Y-2.1-S
+  :file: data/ccsds-a20-0-y-2-1-s.yaml
+- :id: CCSDS A20.0-Y-3
+  :file: data/ccsds-a20-0-y-3.yaml
+- :id: CCSDS A20.0-Y-3-S
+  :file: data/ccsds-a20-0-y-3-s.yaml
+- :id: CCSDS A20.0-Y-4
+  :file: data/ccsds-a20-0-y-4.yaml
+- :id: CCSDS A20.0-Y-4 Cor. 1
+  :file: data/ccsds-a20-0-y-4-cor-1.yaml
+- :id: CCSDS A20.1-Y-1
+  :file: data/ccsds-a20-1-y-1.yaml
+- :id: CCSDS A30.0-G-3
+  :file: data/ccsds-a30-0-g-3.yaml
+- :id: CCSDS A30.0-G-3-S
+  :file: data/ccsds-a30-0-g-3-s.yaml
+- :id: CCSDS A31.0-G-1
+  :file: data/ccsds-a31-0-g-1.yaml
+- :id: CCSDS A31.0-G-1-S
+  :file: data/ccsds-a31-0-g-1-s.yaml
+- :id: CCSDS B20.0-Y-1
+  :file: data/ccsds-b20-0-y-1.yaml
+- :id: CCSDS B20.0-Y-2
+  :file: data/ccsds-b20-0-y-2.yaml
