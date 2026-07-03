@@ -4,16 +4,9 @@ source "https://rubygems.org"
 
 gem "psych", "~> 5.2.6" # to avoid psych 5.3.0 breaking yaml parsing
 
-# relaton-ccsds now lives in the relaton/relaton monorepo. Pull it and its
-# unpublished 2.2.x sibling gems from the monorepo's main branch (HTTPS so the
-# crawler GH action can clone the public repo anonymously, without an SSH key).
-git "https://github.com/relaton/relaton.git", branch: "main", glob: "gems/*/*.gemspec" do
-  gem "relaton-ccsds"
-  gem "relaton-bib"
-  gem "relaton-core"
-  gem "relaton-index"
-  gem "relaton-logger"
-end
-
-# pubid 2.x is unpublished; track the lutaml-model branch (lean CCSDS to_hash).
-gem "pubid", git: "https://github.com/metanorma/pubid.git", branch: "rt-new-lutaml-model"
+# relaton-ccsds now ships inside the single combined `relaton` gem in the
+# relaton/relaton monorepo (flavors merged into one gem, gemspec at repo root).
+# Pull it from the monorepo's main branch (HTTPS so the crawler GH action can
+# clone the public repo anonymously, without an SSH key). Its own dependencies —
+# including the released pubid 2.x it needs — resolve transitively.
+gem "relaton", git: "https://github.com/relaton/relaton.git", branch: "main"
