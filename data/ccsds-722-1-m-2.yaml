@@ -1,0 +1,50 @@
+---
+id: CCSDS7221M2
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: CFDP Unitdata Transfer Layers
+source:
+- type: src
+  content: https://ccsds.org/publications/ccsdsallpubs/entry/4888/
+- type: pdf
+  content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2026/07/722x1m2.pdf
+docidentifier:
+- content: CCSDS 722.1-M-2
+  type: CCSDS
+  primary: true
+date:
+- type: published
+  at: 2026-07
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CCSDS
+    subdivision:
+    - name:
+      - content: SIS-CFDPV1
+      type: technical-committee
+edition:
+  content: '2'
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This CCSDS Recommended Practice is to specify the operation of CFDP
+    over the CCSDS Encapsulation Packet Protocol (EPP), CCSDS Space Packet Protocol
+    (SPP), CCSDS Bundle Protocol (BP), and CCSDS Licklider Transmission Protocol (LTP)
+    as provided for Earth-to-spacecraft, spacecraft-to-Earth, and spacecraft-to-spacecraft
+    communications. In addition, it specifies CFDP UT Layers for User Datagram Protocol
+    (UDP) and Transmission Control Protocol (TCP), which might be used in terrestrial
+    testing or in combination with CCSDS IP Encapsulation.</p>\n"
+status:
+  stage:
+    content: published
+ext:
+  doctype:
+    content: practice
+  technology_area: Space Internetworking Services Area
