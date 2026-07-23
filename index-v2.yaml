@@ -4502,13 +4502,6 @@
   :file: data/ccsds-722-1-m-1.yaml
 - :id:
     _type: pubid:ccsds:base
-    number: '722'
-    part: '1'
-    edition: '2'
-    type: M
-  :file: data/ccsds-722-1-m-2.yaml
-- :id:
-    _type: pubid:ccsds:base
     number: '727'
     part: '0'
     edition: '1'
