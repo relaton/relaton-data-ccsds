@@ -1,5 +1,5 @@
 ---
-id: CCSDS7221M1
+id: CCSDS7221M1S
 schema_version: v1.5.6
 title:
 - language: en
@@ -11,7 +11,7 @@ source:
 - type: pdf
   content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2026/07/722x1m1s.pdf
 docidentifier:
-- content: CCSDS 722.1-M-1
+- content: CCSDS 722.1-M-1-S
   type: CCSDS
   primary: true
 date:
@@ -42,16 +42,8 @@ abstract:
     reconciles this with the service provided by the Encapsulation Service.</p>\n"
 status:
   stage:
-    content: withdrawn
+    content: published
 relation:
-- type: hasSuccessor
-  bibitem:
-    formattedref:
-      content: CCSDS 722.1-M-1-S
-    docidentifier:
-    - content: CCSDS 722.1-M-1-S
-      type: CCSDS
-      primary: true
 - type: adoptedAs
   bibitem:
     formattedref:
@@ -63,12 +55,12 @@ relation:
     - content: ISO 20105:2015
       type: ISO
       primary: true
-- type: updatedBy
+- type: successorOf
   bibitem:
     formattedref:
-      content: CCSDS 722.1-M-1-S
+      content: CCSDS 722.1-M-1
     docidentifier:
-    - content: CCSDS 722.1-M-1-S
+    - content: CCSDS 722.1-M-1
       type: CCSDS
       primary: true
 ext:

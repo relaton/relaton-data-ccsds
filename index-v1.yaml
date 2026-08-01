@@ -5384,6 +5384,14 @@
     :number: '722'
     :book_color: M
     :part: 1
+    :retired: true
+    :edition: '1'
+  :file: data/ccsds-722-1-m-1-s.yaml
+- :id:
+    :publisher: CCSDS
+    :number: '722'
+    :book_color: M
+    :part: 1
     :retired: false
     :edition: '1'
   :file: data/ccsds-722-1-m-1.yaml
