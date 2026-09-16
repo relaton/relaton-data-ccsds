@@ -1,4 +1,3 @@
----
 id: CCSDS1313B1
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This CCSDS Recommended Standard defines a recommended interface between CCSDS Space Link Protocols and the DVB-S2 telecom standard, and recommends options of the DVB-S2 standard suited to high data rate telemetry applications, such as Earth Exploration Satellite Services (EESS) payload telemetry.</p>
-    <p>This document issue was superseded by CCSDS 131.3-B-2, CCSDS Space Link Protocols over ETSI DVB-S2 Standard (Blue Book, Issue 2), released April 2022.</p>
+  content: "<p>This CCSDS Recommended Standard defines a recommended interface between CCSDS Space Link Protocols and the DVB-S2 telecom standard, and recommends options of the DVB-S2 standard suited to high data rate telemetry applications, such as Earth Exploration Satellite Services (EESS) payload telemetry.</p>\n<p>This document issue was superseded by CCSDS 131.3-B-2, CCSDS Space Link Protocols over ETSI DVB-S2 Standard (Blue Book, Issue 2), released April 2022.</p>\n"
 status:
   stage:
     content: withdrawn

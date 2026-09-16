@@ -1,4 +1,3 @@
----
 id: CCSDS1310B4
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>The Recommended Standard for TM Synchronization and Channel Coding contains specifications to be used by space missions on synchronous communications links. The current update adds support for the Unified Space Data Link Protocol and ground-to-space communications links.</p>
-    <p>This document issue was superseded by CCSDS 131.0-B-5, TM Synchronization and Channel Coding (Blue Book, Issue 5), released September 2023.</p>
+  content: "<p>The Recommended Standard for TM Synchronization and Channel Coding contains specifications to be used by space missions on synchronous communications links. The current update adds support for the Unified Space Data Link Protocol and ground-to-space communications links.</p>\n<p>This document issue was superseded by CCSDS 131.0-B-5, TM Synchronization and Channel Coding (Blue Book, Issue 5), released September 2023.</p>\n"
 status:
   stage:
     content: withdrawn

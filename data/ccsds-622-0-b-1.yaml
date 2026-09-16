@@ -1,4 +1,3 @@
----
 id: CCSDS6220B1
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Recommended Standard defines multiple standard "file pointer" mechanisms that can be embedded into other data structures for the purpose of identifying and annotating a collection of files. It provides several transportable directory/file naming functionalities that may be used for data exchange with disks, tapes, and networks. The form of these "file pointer" mechanisms is based on the Parameter Value Language (PVL) Recommended Standard (CCSDS 641.0-B-2). They may be used with the CCSDS data packaging standard known as Standard Formatted Data Units (CCSDS 620.0-B-2), or they may be used independently.</p>
-    <p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>
+  content: "<p>This Recommended Standard defines multiple standard \"file pointer\" mechanisms that can be embedded into other data structures for the purpose of identifying and annotating a collection of files. It provides several transportable directory/file naming functionalities that may be used for data exchange with disks, tapes, and networks. The form of these \"file pointer\" mechanisms is based on the Parameter Value Language (PVL) Recommended Standard (CCSDS 641.0-B-2). They may be used with the CCSDS data packaging standard known as Standard Formatted Data Units (CCSDS 620.0-B-2), or they may be used independently.</p>\n<p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>\n"
 status:
   stage:
     content: published

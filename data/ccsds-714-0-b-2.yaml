@@ -1,4 +1,3 @@
----
 id: CCSDS7140B2
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>The four Space Communications Protocol Specification (SCPS) Recommendations define a protocol suite that is parallel in function to, and interoperable with, the protocols of the Earth-based Internet (FTP/TCP/IP).  The SCPS protocols have been optimized to overcome problems associated with using Internet protocols in space. This Recommendation defines the transport-layer protocols and services of the SCPS protocol suite. The current issue of Space Communications Protocol Specification (SCPS) Transport Protocol (SCPS-TP) specification: - adds optional support for Selective Acknowledgements (SACK) and Explicit Congestion Notification (ECN)- defines semantics to extend SCPS-TP signaling to allow optional inclusion of vendor- and community-specific options. The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance.</p>
-    <p>This Recommended Standard has been reconfirmed through June 2022.</p>
+  content: "<p>The four Space Communications Protocol Specification (SCPS) Recommendations define a protocol suite that is parallel in function to, and interoperable with, the protocols of the Earth-based Internet (FTP/TCP/IP).  The SCPS protocols have been optimized to overcome problems associated with using Internet protocols in space. This Recommendation defines the transport-layer protocols and services of the SCPS protocol suite. The current issue of Space Communications Protocol Specification (SCPS) Transport Protocol (SCPS-TP) specification: - adds optional support for Selective Acknowledgements (SACK) and Explicit Congestion Notification (ECN)- defines semantics to extend SCPS-TP signaling to allow optional inclusion of vendor- and community-specific options. The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance.</p>\n<p>This Recommended Standard has been reconfirmed through June 2022.</p>\n"
 status:
   stage:
     content: published

@@ -1,11 +1,9 @@
----
 id: CCSDS1230B2
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Low-Complexity Lossless and Near-Lossless  Multispectral and Hyperspectral
-    Image Compression
+  content: Low-Complexity Lossless and Near-Lossless  Multispectral and Hyperspectral Image Compression
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3217/
@@ -35,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>The Recommended Standard for multispectral and hyperspectral image compression specifies a data compression algorithm applied to digital three-dimensional image data from payload instruments, such as multispectral and hyperspectral imagers. Lossless and near-lossless methods are specified, along with a format for storing the compressed data.</p>
-    <p>The current version of this document contains all updates through technical corrigendum 3, dated February 2021.</p>
+  content: "<p>The Recommended Standard for multispectral and hyperspectral image compression specifies a data compression algorithm applied to digital three-dimensional image data from payload instruments, such as multispectral and hyperspectral imagers. Lossless and near-lossless methods are specified, along with a format for storing the compressed data.</p>\n<p>The current version of this document contains all updates through technical corrigendum 3, dated February 2021.</p>\n"
 status:
   stage:
     content: published

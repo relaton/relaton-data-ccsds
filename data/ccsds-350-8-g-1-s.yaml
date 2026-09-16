@@ -1,4 +1,3 @@
----
 id: CCSDS3508G1S
 schema_version: v1.5.6
 title:
@@ -34,10 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document provides a central source of information security terms
-    and their respective definitions.nThis document issue was superseded by CCSDS
-    350.8-M-2, Information Security Glossary of Terms (Magenta Book, Issue 2, February
-    2020), released February 2020.</p>\n"
+  content: "<p>This document provides a central source of information security terms and their respective definitions.nThis document issue was superseded by CCSDS 350.8-M-2, Information Security Glossary of Terms (Magenta Book, Issue 2, February 2020), released February 2020.</p>\n"
 status:
   stage:
     content: published

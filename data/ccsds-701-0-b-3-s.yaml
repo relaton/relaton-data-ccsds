@@ -1,4 +1,3 @@
----
 id: CCSDS7010B3S
 schema_version: v1.5.6
 title:
@@ -34,15 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation extends the previous set of CCSDS Recommendations
-    for conventional missions to accommodate extra services needed by Advanced Orbiting
-    Systems. Target Advanced Orbiting Systems include manned and man-tended space
-    stations, unmanned space platforms, free-flying spacecraft, and new space transportation
-    systems, many of which require a richer repertoire of data handling services than
-    are provided by the conventional Recommendations. The current issue adds specifications
-    that allow the CCSDS Version-2 Transfer Frame (AOS VCDU) to be used to transport
-    other types of packets in addition to CCSDS Version-1 Packets (CP_PDUs), including
-    CCSDS Network Protocol (NP) Packets and Internet Protocol (IP) packets.</p>\n"
+  content: "<p>This Recommendation extends the previous set of CCSDS Recommendations for conventional missions to accommodate extra services needed by Advanced Orbiting Systems. Target Advanced Orbiting Systems include manned and man-tended space stations, unmanned space platforms, free-flying spacecraft, and new space transportation systems, many of which require a richer repertoire of data handling services than are provided by the conventional Recommendations. The current issue adds specifications that allow the CCSDS Version-2 Transfer Frame (AOS VCDU) to be used to transport other types of packets in addition to CCSDS Version-1 Packets (CP_PDUs), including CCSDS Network Protocol (NP) Packets and Internet Protocol (IP) packets.</p>\n"
 status:
   stage:
     content: published

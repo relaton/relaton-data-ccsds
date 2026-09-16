@@ -1,4 +1,3 @@
----
 id: CCSDS4110G3
 schema_version: v1.5.6
 title:
@@ -34,11 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report contains specific Radio Frequency and Modulation characteristics
-    of the spacecraft tracking and data-capture networks operated by the CCSDS Agencies.
-    \ It is intended as a high-level compendium of information for use by flight projects
-    and others wishing to ensure compatibility with these Agencies' tracking and data-collection
-    facilities. This document replaces CCSDS 400.0-G-2.</p>\n"
+  content: "<p>This Report contains specific Radio Frequency and Modulation characteristics of the spacecraft tracking and data-capture networks operated by the CCSDS Agencies.  It is intended as a high-level compendium of information for use by flight projects and others wishing to ensure compatibility with these Agencies' tracking and data-collection facilities. This document replaces CCSDS 400.0-G-2.</p>\n"
 status:
   stage:
     content: withdrawn

@@ -1,4 +1,3 @@
----
 id: CCSDS4151B1
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Recommended Standard specifies a set of Code Division Multiple Access (CDMA) spread spectrum modulation schemes for CCSDS Users.  These schemes are intended to be used over space-to-space communications links by space missions. </p>
-    <p>This document has been reconfirmed by the CCSDS Management Council through October 2021.</p>
+  content: "<p>This Recommended Standard specifies a set of Code Division Multiple Access (CDMA) spread spectrum modulation schemes for CCSDS Users.  These schemes are intended to be used over space-to-space communications links by space missions. </p>\n<p>This document has been reconfirmed by the CCSDS Management Council through October 2021.</p>\n"
 status:
   stage:
     content: published

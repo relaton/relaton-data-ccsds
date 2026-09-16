@@ -1,4 +1,3 @@
----
 id: CCSDS1313B2
 schema_version: v1.5.6
 title:
@@ -34,14 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Recommended Standard defines a recommended interface between
-    CCSDS Space Link Protocols and the DVB-S2 telecom standard, and recommends options
-    of the DVB-S2 standard suited to high-data-rate telemetry applications, such as
-    Earth Exploration Satellite Services (EESS) payload telemetry. The current update
-    adds support for the Unified Space Data Link Protocol (USLP); extends use for
-    ground-to-space and space-to-space applications; adds applicability of CCSDS Radio
-    Frequency and Modulation Standard; replaces CADU with SMTF; and changes the number
-    of MODCOD to include the Dummy PLFrame.</p>\n"
+  content: "<p>This CCSDS Recommended Standard defines a recommended interface between CCSDS Space Link Protocols and the DVB-S2 telecom standard, and recommends options of the DVB-S2 standard suited to high-data-rate telemetry applications, such as Earth Exploration Satellite Services (EESS) payload telemetry. The current update adds support for the Unified Space Data Link Protocol (USLP); extends use for ground-to-space and space-to-space applications; adds applicability of CCSDS Radio Frequency and Modulation Standard; replaces CADU with SMTF; and changes the number of MODCOD to include the Dummy PLFrame.</p>\n"
 status:
   stage:
     content: published

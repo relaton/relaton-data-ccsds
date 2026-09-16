@@ -1,4 +1,3 @@
----
 id: CCSDS8500G2
 schema_version: v1.5.6
 title:
@@ -34,14 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report describes the concept and supporting rationale
-    for the Spacecraft Onboard Interface Services (SOIS).  It is intended to provide
-    an introduction and overview of the SOIS services concept upon which the detailed
-    CCSDS SOIS recommendations are based, as well as to summarize the specific individual
-    service recommendations and rationale.  The concepts described in this Informational
-    Report are the baseline concepts for the CCSDS standardization activities with
-    respect to services and generic support services to be used in the flight segment
-    of spacecraft systems.</p>\n"
+  content: "<p>This Informational Report describes the concept and supporting rationale for the Spacecraft Onboard Interface Services (SOIS).  It is intended to provide an introduction and overview of the SOIS services concept upon which the detailed CCSDS SOIS recommendations are based, as well as to summarize the specific individual service recommendations and rationale.  The concepts described in this Informational Report are the baseline concepts for the CCSDS standardization activities with respect to services and generic support services to be used in the flight segment of spacecraft systems.</p>\n"
 status:
   stage:
     content: published

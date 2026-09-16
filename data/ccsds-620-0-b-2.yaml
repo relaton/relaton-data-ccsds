@@ -1,4 +1,3 @@
----
 id: CCSDS6200B2
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Recommended Standard defines Standard Formatted Data Unit (SFDU) structures that will handle some of the problems of digital data interchange and several construction rules that will limit the SFDUs to a practical set that can exist in an open data system environment.</p>
-    <p>This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>
+  content: "<p>This Recommended Standard defines Standard Formatted Data Unit (SFDU) structures that will handle some of the problems of digital data interchange and several construction rules that will limit the SFDUs to a practical set that can exist in an open data system environment.</p>\n<p>This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>\n"
 status:
   stage:
     content: published

@@ -1,4 +1,3 @@
----
 id: CCSDS5210B2
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>The Mission Operations Message Abstraction Layer (MAL) Recommended Standard defines the MAL in conformance with the service framework specified in the Mission Operations Services Concept Green Book (CCSDS 520.0-G-3).  The current issue addresses the request to add a slight restriction to the MAL data model regarding polymorphism. In addition the WG took the opportunity to make a few additional changes: external data type specifications such as XML Schemas can now be used; XML is being moved to the SANA registry; type short forms are now integers rather than strings; optional fields in composites are now shown; lists are now a template rather than explicit types; unsigned integer and File data types have been added.</p>
-    <p>This document issue was superseded by CCSDS 521.0-B-3, Mission Operations Message Abstraction Layer (Blue Book, Issue 3), released March 2024.</p>
+  content: "<p>The Mission Operations Message Abstraction Layer (MAL) Recommended Standard defines the MAL in conformance with the service framework specified in the Mission Operations Services Concept Green Book (CCSDS 520.0-G-3).  The current issue addresses the request to add a slight restriction to the MAL data model regarding polymorphism. In addition the WG took the opportunity to make a few additional changes: external data type specifications such as XML Schemas can now be used; XML is being moved to the SANA registry; type short forms are now integers rather than strings; optional fields in composites are now shown; lists are now a template rather than explicit types; unsigned integer and File data types have been added.</p>\n<p>This document issue was superseded by CCSDS 521.0-B-3, Mission Operations Message Abstraction Layer (Blue Book, Issue 3), released March 2024.</p>\n"
 status:
   stage:
     content: withdrawn

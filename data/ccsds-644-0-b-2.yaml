@@ -1,4 +1,3 @@
----
 id: CCSDS6440B2
 schema_version: v1.5.6
 title:
@@ -34,11 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This update to the original Data Description Language EAST Recommendation
-    extends EAST ability to handle repeated data items where repetition is terminated
-    by a marker. The previous specification allowed this only at the first level of
-    data hierarchy. These updates allow it at any level in the data hierarchy. This
-    document has been reconfirmed by the CCSDS management Council through March 2011.</p>\n"
+  content: "<p>This update to the original Data Description Language EAST Recommendation extends EAST ability to handle repeated data items where repetition is terminated by a marker. The previous specification allowed this only at the first level of data hierarchy. These updates allow it at any level in the data hierarchy. This document has been reconfirmed by the CCSDS management Council through March 2011.</p>\n"
 status:
   stage:
     content: withdrawn

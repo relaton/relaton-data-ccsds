@@ -1,4 +1,3 @@
----
 id: CCSDS1420B1
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Recommended Standard specifies channel coding and synchronization schemes for free space optical communications systems used by space missions.</p>
-    <p>This document issue was superseded by 142.0-B-2, Non-Coherent Optical Communications Coding and Synchronization, Blue Book, Issue 2, released in March 2026.</p>
+  content: "<p>This Recommended Standard specifies channel coding and synchronization schemes for free space optical communications systems used by space missions.</p>\n<p>This document issue was superseded by 142.0-B-2, Non-Coherent Optical Communications Coding and Synchronization, Blue Book, Issue 2, released in March 2026.</p>\n"
 status:
   stage:
     content: withdrawn

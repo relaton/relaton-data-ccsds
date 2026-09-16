@@ -1,4 +1,3 @@
----
 id: CCSDS1320B2
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>The CCSDS Recommended Standard for TM Space Data Link Protocol specifies the protocol, services, and procedures pertaining to the CCSDS Version-1 Synchronous Transfer Frame.  The current issue adds specifications to support  the Space Data Link Security Protocol.</p>
-    <p>This document issue was superseded by CCSDS 132.0-B-3, TM Space Data Link Protocol (Blue Book, Issue 3), released October 2021.</p>
+  content: "<p>The CCSDS Recommended Standard for TM Space Data Link Protocol specifies the protocol, services, and procedures pertaining to the CCSDS Version-1 Synchronous Transfer Frame.  The current issue adds specifications to support  the Space Data Link Security Protocol.</p>\n<p>This document issue was superseded by CCSDS 132.0-B-3, TM Space Data Link Protocol (Blue Book, Issue 3), released October 2021.</p>\n"
 status:
   stage:
     content: withdrawn

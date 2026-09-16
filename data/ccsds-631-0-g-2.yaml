@@ -1,4 +1,3 @@
----
 id: CCSDS6310G2
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Report describes the Control Authority (CA) organization from both an implementer's and a user's perspective.  This document serves as a companion document to Control Authority Procedures (CAP), CCSDS 630.0-B-1, and Control Authority Data Structures (CADS), CCSDS 632.0-B-1, and as such is intended to provide a tutorial for the procedures and services identified in the CAP and CADS Recommended Standards, background to assist in the effective implementation of the CAP and CADS Recommended Standards, and rationale and requirements for the CA organization.  </p>
-    <p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This Informational Report has been reconfirmed through May 2018.</p>
+  content: "<p>This Report describes the Control Authority (CA) organization from both an implementer's and a user's perspective.  This document serves as a companion document to Control Authority Procedures (CAP), CCSDS 630.0-B-1, and Control Authority Data Structures (CADS), CCSDS 632.0-B-1, and as such is intended to provide a tutorial for the procedures and services identified in the CAP and CADS Recommended Standards, background to assist in the effective implementation of the CAP and CADS Recommended Standards, and rationale and requirements for the CA organization.  </p>\n<p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This Informational Report has been reconfirmed through May 2018.</p>\n"
 status:
   stage:
     content: published

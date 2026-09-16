@@ -1,4 +1,3 @@
----
 id: CCSDS7170B1S
 schema_version: v1.5.6
 title:
@@ -34,10 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Recommendation defines the SCPS** file transfer protocol and services.<br/>
-    -------------------------------Warning--------------------------------<br/>
-    This document is being considered to be retired (converted to historical status as a silver book) and removed from the CCSDS library as an active recommended document.  The planned timeframe to take action on retiring this document is April 2009.  This is being done because we believe that the document is not in use by programs or projects at this time. If this action could have a detrimental effect on your program or project, please notify the CCSDS Secretariat mailto:secretariat@mailman.ccsds.org.</p>
+  content: "<p>This Recommendation defines the SCPS** file transfer protocol and services.<br/>\n-------------------------------Warning--------------------------------<br/>\nThis document is being considered to be retired (converted to historical status as a silver book) and removed from the CCSDS library as an active recommended document.  The planned timeframe to take action on retiring this document is April 2009.  This is being done because we believe that the document is not in use by programs or projects at this time. If this action could have a detrimental effect on your program or project, please notify the CCSDS Secretariat mailto:secretariat@mailman.ccsds.org.</p>\n"
 status:
   stage:
     content: published

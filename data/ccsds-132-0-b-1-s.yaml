@@ -1,4 +1,3 @@
----
 id: CCSDS1320B1S
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Recommendation specifies the Data Link layer protocol, services, and procedures pertaining to the CCSDS Version-1 Synchronous Transfer Frame. These specifications correspond with the Data Link layer specifications contained in Packet Telemetry and Packet Telemetry Service Specification, respectively.  (Note: This is a restructured Recommendation*.)  </p>
-    <p>The current version of this document contains all updates through technical corrigendum 1, dated September 2012.</p>
+  content: "<p>This Recommendation specifies the Data Link layer protocol, services, and procedures pertaining to the CCSDS Version-1 Synchronous Transfer Frame. These specifications correspond with the Data Link layer specifications contained in Packet Telemetry and Packet Telemetry Service Specification, respectively.  (Note: This is a restructured Recommendation*.)  </p>\n<p>The current version of this document contains all updates through technical corrigendum 1, dated September 2012.</p>\n"
 status:
   stage:
     content: published

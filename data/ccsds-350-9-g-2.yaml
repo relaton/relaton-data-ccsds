@@ -1,4 +1,3 @@
----
 id: CCSDS3509G2
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report provides background information regarding
-    the standard CCSDS cryptographic algorithms specified in CCSDS 352.0-B-1, CCSDS
-    Cryptographic Algorithms.</p>\n"
+  content: "<p>This Informational Report provides background information regarding the standard CCSDS cryptographic algorithms specified in CCSDS 352.0-B-1, CCSDS Cryptographic Algorithms.</p>\n"
 status:
   stage:
     content: published

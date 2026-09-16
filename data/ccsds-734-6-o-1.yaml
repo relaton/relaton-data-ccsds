@@ -1,4 +1,3 @@
----
 id: CCSDS7346O1
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This specification defines a method for enhancing hop-by-hop and end-to-end
-    reliability in bundle transmissions through the use of Custody Transfer (CT) and
-    Compressed Bundle Status Reporting (CBSR).</p>\n"
+  content: "<p>This specification defines a method for enhancing hop-by-hop and end-to-end reliability in bundle transmissions through the use of Custody Transfer (CT) and Compressed Bundle Status Reporting (CBSR).</p>\n"
 status:
   stage:
     content: published

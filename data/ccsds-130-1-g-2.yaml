@@ -1,4 +1,3 @@
----
 id: CCSDS1301G2
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Informational Report contains the concept and supporting rationale for the TM Synchronization and Channel Coding Recommended Standard and includes performance data and historical background information on code selection.</p>
-    <p>This document issue was superseded by CCSDS 130.1-G-3, TM Synchronization and Channel Coding-Summary of Concept and Rationale (Green Book, Issue 3, June 2020), released June 2020.</p>
+  content: "<p>This Informational Report contains the concept and supporting rationale for the TM Synchronization and Channel Coding Recommended Standard and includes performance data and historical background information on code selection.</p>\n<p>This document issue was superseded by CCSDS 130.1-G-3, TM Synchronization and Channel Coding-Summary of Concept and Rationale (Green Book, Issue 3, June 2020), released June 2020.</p>\n"
 status:
   stage:
     content: withdrawn

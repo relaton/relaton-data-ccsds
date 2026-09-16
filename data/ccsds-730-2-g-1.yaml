@@ -1,4 +1,3 @@
----
 id: CCSDS7302G1
 schema_version: v1.5.6
 title:
@@ -34,10 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The purpose of this document is to discuss concepts and rationale for
-    real-time video streaming services over Bundle Protocol. Previous testing of video
-    streams over Bundle Protocol is documented.  A common test configuration for continued
-    testing and benchmarking of video (and other streaming data) is also documented.</p>\n"
+  content: "<p>The purpose of this document is to discuss concepts and rationale for real-time video streaming services over Bundle Protocol. Previous testing of video streams over Bundle Protocol is documented.  A common test configuration for continued testing and benchmarking of video (and other streaming data) is also documented.</p>\n"
 status:
   stage:
     content: published

@@ -1,4 +1,3 @@
----
 id: CCSDS1202G1
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Informational Report presents a summary of the key operational concepts and rationale that underlie the requirements for the CCSDS Recommended Standard for Lossless Multispectral &amp; Hyperspectral Image Compression, CCSDS 123.0-B-1, and provides a broad tutorial overview of algorithm.</p>
-    <p>This document issue was superseded by CCSDS 120.2-G-2, Lossless Multispectral and Hyperspectral Image Compression (Green Book, Issue 2), released December 2022.</p>
+  content: "<p>This Informational Report presents a summary of the key operational concepts and rationale that underlie the requirements for the CCSDS Recommended Standard for Lossless Multispectral &amp; Hyperspectral Image Compression, CCSDS 123.0-B-1, and provides a broad tutorial overview of algorithm.</p>\n<p>This document issue was superseded by CCSDS 120.2-G-2, Lossless Multispectral and Hyperspectral Image Compression (Green Book, Issue 2), released December 2022.</p>\n"
 status:
   stage:
     content: withdrawn

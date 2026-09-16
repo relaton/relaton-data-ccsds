@@ -1,11 +1,9 @@
----
 id: CCSDS9102G1
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Standard Terminology, Conventions, and Methodology (TCM) for Defining Data
-    Services
+  content: Standard Terminology, Conventions, and Methodology (TCM) for Defining Data Services
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/2980/
@@ -35,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Report is a summary of, and cross-reference to, internationally adopted standards for defining data services, and is the result of a study of different data service definition conventions conducted in support of the definition of CCSDS Space Link Extension services. The material contained in the Report is not limited to Space Link Extension services and may be applicable to other data service definition activities of CCSDS and its member Agencies. </p>
-    <p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance.  This Informational Report has been reconfirmed through June 2022.</p>
+  content: "<p>This Report is a summary of, and cross-reference to, internationally adopted standards for defining data services, and is the result of a study of different data service definition conventions conducted in support of the definition of CCSDS Space Link Extension services. The material contained in the Report is not limited to Space Link Extension services and may be applicable to other data service definition activities of CCSDS and its member Agencies. </p>\n<p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance.  This Informational Report has been reconfirmed through June 2022.</p>\n"
 status:
   stage:
     content: published

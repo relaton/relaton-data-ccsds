@@ -1,4 +1,3 @@
----
 id: CCSDS5050B3
 schema_version: v1.5.6
 title:
@@ -34,13 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The XML Specification for Navigation Data Messages Recommended Standard
-    describes an integrated XML schema set that is suited to interagency exchanges
-    of navigation data messages. The current issue removes detailed material related
-    to creating XML instantiations of the Orbit Data Messages (ODM) (this material
-    is now described in the ODM version 3) and rearranges the document annexes relative
-    to the previous version to conform to a guideline developed for all of the CCSDS
-    Navigation Working Group documents.</p>\n"
+  content: "<p>The XML Specification for Navigation Data Messages Recommended Standard describes an integrated XML schema set that is suited to interagency exchanges of navigation data messages. The current issue removes detailed material related to creating XML instantiations of the Orbit Data Messages (ODM) (this material is now described in the ODM version 3) and rearranges the document annexes relative to the previous version to conform to a guideline developed for all of the CCSDS Navigation Working Group documents.</p>\n"
 status:
   stage:
     content: published

@@ -1,4 +1,3 @@
----
 id: CCSDS7061G2
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This document provides a common reference and framework for development of standards for digital video and motion imagery for use in space missions, and it provides a foundation for future recommendations for utilization of international standards for sharing or distributing video and motion imagery between spacecraft elements and ground distribution systems.</p>
-    <p>This document was retired by CCSDS Management Council resolution CMC-R-2024-07-004, dated 23 July 2024.</p>
+  content: "<p>This document provides a common reference and framework for development of standards for digital video and motion imagery for use in space missions, and it provides a foundation for future recommendations for utilization of international standards for sharing or distributing video and motion imagery between spacecraft elements and ground distribution systems.</p>\n<p>This document was retired by CCSDS Management Council resolution CMC-R-2024-07-004, dated 23 July 2024.</p>\n"
 status:
   stage:
     content: withdrawn

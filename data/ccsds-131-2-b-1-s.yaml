@@ -1,11 +1,9 @@
----
 id: CCSDS1312B1S
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Flexible Advanced Coding and Modulation Scheme for High Rate Telemetry
-    Applications
+  content: Flexible Advanced Coding and Modulation Scheme for High Rate Telemetry Applications
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3578/
@@ -35,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Recommended Standard defines a Serially Concatenated Convolutional turbo Coding (SCCC) scheme for telemetry applications.</p>
-    <p>This document issue was superseded by CCSDS 131.2-B-2, Flexible Advanced Coding and Modulation Scheme for High Rate Telemetry Applications (Blue Book, Issue 2), released February 2023.</p>
+  content: "<p>This Recommended Standard defines a Serially Concatenated Convolutional turbo Coding (SCCC) scheme for telemetry applications.</p>\n<p>This document issue was superseded by CCSDS 131.2-B-2, Flexible Advanced Coding and Modulation Scheme for High Rate Telemetry Applications (Blue Book, Issue 2), released February 2023.</p>\n"
 status:
   stage:
     content: published

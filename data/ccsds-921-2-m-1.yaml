@@ -1,4 +1,3 @@
----
 id: CCSDS9212M1
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Recommended Practice defines the guidelines for the specification of CCSDS-standard Cross Support Transfer Services based on the CSTS Specification Framework.</p>
-    <p>The current version of this document contains all updates through technical corrigendum 1, dated August 2020.</p>
+  content: "<p>This Recommended Practice defines the guidelines for the specification of CCSDS-standard Cross Support Transfer Services based on the CSTS Specification Framework.</p>\n<p>The current version of this document contains all updates through technical corrigendum 1, dated August 2020.</p>\n"
 status:
   stage:
     content: published

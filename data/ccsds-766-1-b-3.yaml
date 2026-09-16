@@ -1,4 +1,3 @@
----
 id: CCSDS7661B3
 schema_version: v1.5.6
 title:
@@ -34,10 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard provides a common reference and framework
-    of standards for digital motion imagery and provides recommendations for utilization
-    of international standards for capturing and transferring motion imagery between
-    spacecraft elements and ground systems. The current update adds support for H.265.</p>\n"
+  content: "<p>This Recommended Standard provides a common reference and framework of standards for digital motion imagery and provides recommendations for utilization of international standards for capturing and transferring motion imagery between spacecraft elements and ground systems. The current update adds support for H.265.</p>\n"
 status:
   stage:
     content: published

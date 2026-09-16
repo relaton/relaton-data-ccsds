@@ -1,4 +1,3 @@
----
 id: CCSDS8111O1
 schema_version: v1.5.6
 title:
@@ -34,10 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The purpose of this Experimental Specification is to design and implement
-    a Flexible and Unified Flight Software Architecture (FUHSI) of China Academy of
-    Space Technology (CAST) to provide standardized basic service support for future
-    spacecraft avionics systems.</p>\n"
+  content: "<p>The purpose of this Experimental Specification is to design and implement a Flexible and Unified Flight Software Architecture (FUHSI) of China Academy of Space Technology (CAST) to provide standardized basic service support for future spacecraft avionics systems.</p>\n"
 status:
   stage:
     content: published

@@ -1,4 +1,3 @@
----
 id: CCSDS3520B2
 schema_version: v1.5.6
 title:
@@ -34,10 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard provides the basis for standard CCSDS security
-    algorithms.  The document recommends a single symmetric block-cipher encryption
-    algorithm and several authentication algorithms. This update increases the specified
-    key size for greater security.</p>\n"
+  content: "<p>This Recommended Standard provides the basis for standard CCSDS security algorithms.  The document recommends a single symmetric block-cipher encryption algorithm and several authentication algorithms. This update increases the specified key size for greater security.</p>\n"
 status:
   stage:
     content: published

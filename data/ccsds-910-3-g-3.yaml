@@ -1,4 +1,3 @@
----
 id: CCSDS9103G3
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Report presents the cross support concept for CCSDS Space Link Extension (SLE) services.  It identifies the functional components of the ground-resident portion of a space data system and defines the interface points where agency interoperations may occur.  This Report summarizes the technical considerations for all cross support of CCSDS-compliant space data systems.</p>
-    <p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance.  This Informational Report has been reconfirmed through June 2022.</p>
+  content: "<p>This Report presents the cross support concept for CCSDS Space Link Extension (SLE) services.  It identifies the functional components of the ground-resident portion of a space data system and defines the interface points where agency interoperations may occur.  This Report summarizes the technical considerations for all cross support of CCSDS-compliant space data systems.</p>\n<p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance.  This Informational Report has been reconfirmed through June 2022.</p>\n"
 status:
   stage:
     content: published

@@ -1,4 +1,3 @@
----
 id: CCSDS73420O1
 schema_version: v1.5.6
 title:
@@ -34,10 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document establishes a CCSDS Experimental Specification for Bundle
-    Protocol (BP), based on the bundle protocol of Request for Comments (RFC) 9171.
-    This specification is applicable to any space mission or space mission network
-    infrastructure that might benefit from delay and/or disruption tolerance.</p>\n"
+  content: "<p>This document establishes a CCSDS Experimental Specification for Bundle Protocol (BP), based on the bundle protocol of Request for Comments (RFC) 9171. This specification is applicable to any space mission or space mission network infrastructure that might benefit from delay and/or disruption tolerance.</p>\n"
 status:
   stage:
     content: published

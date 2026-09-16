@@ -1,4 +1,3 @@
----
 id: CCSDS6610B1
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Recommended Standard defines a technique for the packaging of data and metadata, including software, into a single package (e.g., file or message) to facilitate information transfer and archiving.  It provides a detailed specification of core packaging structures and mechanisms that meet current CCSDS agency requirements and that augment the current CCSDS packaging and language Recommended Standards to accommodate the current computing environment and meet evolving requirements.  This Recommended Standards leverages the wide community acceptance and usage of XML technologies by making the packaging manifest an XML document defined by the XML Schema specified in the document.</p>
-    <p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance.  This Recommended Standard has been reconfirmed through June 2022.</p>
+  content: "<p>This Recommended Standard defines a technique for the packaging of data and metadata, including software, into a single package (e.g., file or message) to facilitate information transfer and archiving.  It provides a detailed specification of core packaging structures and mechanisms that meet current CCSDS agency requirements and that augment the current CCSDS packaging and language Recommended Standards to accommodate the current computing environment and meet evolving requirements.  This Recommended Standards leverages the wide community acceptance and usage of XML technologies by making the packaging manifest an XML document defined by the XML Schema specified in the document.</p>\n<p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance.  This Recommended Standard has been reconfirmed through June 2022.</p>\n"
 status:
   stage:
     content: published

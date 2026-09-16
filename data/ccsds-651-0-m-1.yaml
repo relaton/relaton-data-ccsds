@@ -1,4 +1,3 @@
----
 id: CCSDS6510M1
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: |
-    <p>This Recommended Practice identifies, defines, and provides structure  to the relationships and interactions between an information Producer  and an Archive.  This Recommended Practice defines the methodology for the structure of actions that are required from the initial time of contact between the Producer and the Archive until the objects of information are received and validated by the Archive. These actions cover the first stage of the Ingest Process as defined in the Open Information System (OAIS) Reference Model.  This Recommended Practice describes parts of the functional entities Administration ('Negotiate Submission Agreement') and Ingest ('Receive Submission' and 'Quality Assurance'). The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. </p>
-    <p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This Recommended Practice has been reconfirmed through June 2022.</p>
+  content: "<p>This Recommended Practice identifies, defines, and provides structure  to the relationships and interactions between an information Producer  and an Archive.  This Recommended Practice defines the methodology for the structure of actions that are required from the initial time of contact between the Producer and the Archive until the objects of information are received and validated by the Archive. These actions cover the first stage of the Ingest Process as defined in the Open Information System (OAIS) Reference Model.  This Recommended Practice describes parts of the functional entities Administration ('Negotiate Submission Agreement') and Ingest ('Receive Submission' and 'Quality Assurance'). The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. </p>\n<p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This Recommended Practice has been reconfirmed through June 2022.</p>\n"
 status:
   stage:
     content: published

@@ -1,4 +1,3 @@
----
 id: CCSDS7221M1S
 schema_version: v1.5.6
 title:
@@ -34,12 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Recommended Practice specifies how to operate the CCSDS
-    File Delivery Protocol (CFDP) over the CCSDS Encapsulation Service as provided
-    for Earth-to-spacecraft, spacecraft-to-Earth, and spacecraft-to-spacecraft communications.
-    It sets out the communications architecture for CFDP operating over the Encapsulation
-    Service.  It describes the service expected by CFDP of the underlying layers and
-    reconciles this with the service provided by the Encapsulation Service.</p>\n"
+  content: "<p>This CCSDS Recommended Practice specifies how to operate the CCSDS File Delivery Protocol (CFDP) over the CCSDS Encapsulation Service as provided for Earth-to-spacecraft, spacecraft-to-Earth, and spacecraft-to-spacecraft communications. It sets out the communications architecture for CFDP operating over the Encapsulation Service.  It describes the service expected by CFDP of the underlying layers and reconciles this with the service provided by the Encapsulation Service.</p>\n"
 status:
   stage:
     content: published

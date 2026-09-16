@@ -1,11 +1,9 @@
----
 id: CCSDS9155M1S
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Space Link Extension—Application Program Interface for Return Operational
-    Control Fields
+  content: Space Link Extension—Application Program Interface for Return Operational Control Fields
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3802/
@@ -35,10 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice specifies a C++ Application Program Interface
-    (API) for  the CCSDS Space Link Extension Return Operational Control Fields (ROCF)
-    Service.  The API is intended for use by application programs implementing the
-    SLE ROCF Service.</p>\n"
+  content: "<p>This Recommended Practice specifies a C++ Application Program Interface (API) for  the CCSDS Space Link Extension Return Operational Control Fields (ROCF) Service.  The API is intended for use by application programs implementing the SLE ROCF Service.</p>\n"
 status:
   stage:
     content: published
