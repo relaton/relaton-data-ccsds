@@ -1,9 +1,11 @@
+---
 id: CCSDS7330O1
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Next Generation Space Internet—Supporting Spacecraft IP Mobility. Experimental Specification
+  content: Next Generation Space Internet—Supporting Spacecraft IP Mobility. Experimental
+    Specification
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3753/
@@ -33,7 +35,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Experimental Specification describes the role of Internet Protocol (IP) Mobility Support within the proposed Next Generation Space Internet (NGSI) architecture.</p>\n"
+  content: "<p>This Experimental Specification describes the role of Internet Protocol
+    (IP) Mobility Support within the proposed Next Generation Space Internet (NGSI)
+    architecture.</p>\n"
 status:
   stage:
     content: withdrawn

@@ -1,3 +1,4 @@
+---
 id: CCSDS9211B2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Cross Support Transfer Services—Specification Framework Recommended Standard defines the various logical components required for specifying Cross Support Transfer Services. The current update introduces improvements to provide better support for the development of services in charge of handling data units on a forward link.</p>\n"
+  content: "<p>The Cross Support Transfer Services—Specification Framework Recommended
+    Standard defines the various logical components required for specifying Cross
+    Support Transfer Services. The current update introduces improvements to provide
+    better support for the development of services in charge of handling data units
+    on a forward link.</p>\n"
 status:
   stage:
     content: published

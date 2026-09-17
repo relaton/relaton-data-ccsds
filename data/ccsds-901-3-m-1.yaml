@@ -1,3 +1,4 @@
+---
 id: CCSDS9013M1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice defines the concepts and organizing principles of Functional Resources (FRs), identifies FRs needed to model the functions of an Earth Space Link Terminal, and specifies the behavior of each of the FRs.</p>\n"
+  content: "<p>This Recommended Practice defines the concepts and organizing principles
+    of Functional Resources (FRs), identifies FRs needed to model the functions of
+    an Earth Space Link Terminal, and specifies the behavior of each of the FRs.</p>\n"
 status:
   stage:
     content: published

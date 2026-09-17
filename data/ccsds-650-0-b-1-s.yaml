@@ -1,3 +1,4 @@
+---
 id: CCSDS6500B1S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,16 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Recommendation identified above defines the ISO Reference Model for an Open Archival Information System (OAIS). An OAIS is an archive, consisting of an organization of people and systems, that has accepted the responsibility to preserve information and make it available for a Designated Community. It meets a set of such responsibilities as defined in this document and this allows an OAIS archive to be distinguished from other uses of the term ‘archive’. The model provides a framework for the understanding and increased awareness of archival concepts needed for long-term digital information preservation and access, and for describing and comparing architectures and operations of existing and future archives. It also guides the identification and production of OAIS related standards.</p>\n"
+  content: "<p>The Recommendation identified above defines the ISO Reference Model
+    for an Open Archival Information System (OAIS). An OAIS is an archive, consisting
+    of an organization of people and systems, that has accepted the responsibility
+    to preserve information and make it available for a Designated Community. It meets
+    a set of such responsibilities as defined in this document and this allows an
+    OAIS archive to be distinguished from other uses of the term ‘archive’. The model
+    provides a framework for the understanding and increased awareness of archival
+    concepts needed for long-term digital information preservation and access, and
+    for describing and comparing architectures and operations of existing and future
+    archives. It also guides the identification and production of OAIS related standards.</p>\n"
 status:
   stage:
     content: published

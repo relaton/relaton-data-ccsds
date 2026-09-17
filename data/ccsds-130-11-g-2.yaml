@@ -1,3 +1,4 @@
+---
 id: CCSDS13011G2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document provides additional informative material for CCSDS 131.2-B-2, Flexible Advanced Coding and Modulation Scheme for High Rate Telemetry Applications (Blue Book, Issue 2, February 2023) and includes a tutorial overview of the CCSDS specification in the Blue Book (aimed at helping first-time readers understand the recommendation) together with performance information supported by illustrations.</p>\n"
+  content: "<p>This document provides additional informative material for CCSDS 131.2-B-2,
+    Flexible Advanced Coding and Modulation Scheme for High Rate Telemetry Applications
+    (Blue Book, Issue 2, February 2023) and includes a tutorial overview of the CCSDS
+    specification in the Blue Book (aimed at helping first-time readers understand
+    the recommendation) together with performance information supported by illustrations.</p>\n"
 status:
   stage:
     content: published

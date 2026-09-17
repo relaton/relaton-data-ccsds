@@ -1,3 +1,4 @@
+---
 id: CCSDS3200M7
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice defines the procedures governing assignment, relinquishment, and management of CCSDS Spacecraft Identification (SCID) codes.  The current update adds frequency band as a qualifier for SCID assignment, names the SCID qualified by version number and frequency band the Qualified SCID (Q-SCID), and replaces the outdated hard-copy request form with instruction to use the online form on the Space Assigned Numbers Authority (SANA) Web site.</p>\n<p>The current version of this document contains all updates through technical corrigendum 1, dated July 2019.</p>\n"
+  content: |
+    <p>This Recommended Practice defines the procedures governing assignment, relinquishment, and management of CCSDS Spacecraft Identification (SCID) codes.  The current update adds frequency band as a qualifier for SCID assignment, names the SCID qualified by version number and frequency band the Qualified SCID (Q-SCID), and replaces the outdated hard-copy request form with instruction to use the online form on the Space Assigned Numbers Authority (SANA) Web site.</p>
+    <p>The current version of this document contains all updates through technical corrigendum 1, dated July 2019.</p>
 status:
   stage:
     content: published

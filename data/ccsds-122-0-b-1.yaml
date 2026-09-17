@@ -1,3 +1,4 @@
+---
 id: CCSDS1220B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard defines an image-data compression algorithm applicable to digital data from payload instruments and specifies means to control compression rate and how these compressed data shall be inserted into source packets for retrieval and decoding. The current version of this document contains all updates through technical corrigendum 3, dated September 2011.</p>\n"
+  content: "<p>This Recommended Standard defines an image-data compression algorithm
+    applicable to digital data from payload instruments and specifies means to control
+    compression rate and how these compressed data shall be inserted into source packets
+    for retrieval and decoding. The current version of this document contains all
+    updates through technical corrigendum 3, dated September 2011.</p>\n"
 status:
   stage:
     content: withdrawn

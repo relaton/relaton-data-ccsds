@@ -1,3 +1,4 @@
+---
 id: CCSDS2111B4
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The CCSDS Recommended Standard for Proximity-1 Space Link Protocol—Physical Layer specifies the Physical Layer procedures used with the Proximity-1 Data Link Layer.  The current issue includes several improvements and clarifications, accomplishing better alignment and consistency with the other Proximity-1 Blue Books.</p>\n<p>This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>\n"
+  content: |
+    <p>The CCSDS Recommended Standard for Proximity-1 Space Link Protocol—Physical Layer specifies the Physical Layer procedures used with the Proximity-1 Data Link Layer.  The current issue includes several improvements and clarifications, accomplishing better alignment and consistency with the other Proximity-1 Blue Books.</p>
+    <p>This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>
 status:
   stage:
     content: published

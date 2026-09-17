@@ -1,3 +1,4 @@
+---
 id: CCSDS6601G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report provides information for using Extensible Markup Language (XML) Telemetric and Command Exchange (XTCE) 1.1.</p>\n<p>This document issue was superseded by CCSDS 660.1-G-2, XML Telemetric and Command Exchange (XTCE)—Element Description (Green Book, Issue 2), released August 2021.</p>\n"
+  content: |
+    <p>This Informational Report provides information for using Extensible Markup Language (XML) Telemetric and Command Exchange (XTCE) 1.1.</p>
+    <p>This document issue was superseded by CCSDS 660.1-G-2, XML Telemetric and Command Exchange (XTCE)—Element Description (Green Book, Issue 2), released August 2021.</p>
 status:
   stage:
     content: withdrawn

@@ -1,3 +1,4 @@
+---
 id: CCSDS6472B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Data Entity Dictionary Specification Language (DEDSL) Recommended Standard provides the Parameter Value Language (PVL) (CCSDS 641.0-B-2) implementation for the DEDSL--Abstract Syntax Recommended Standard (CCSDS 647.1-B-1) in order to provide a standardized computer processable expression of the semantic information which to be carried with data.  The Recommended Standard for PVL Syntax provides a standard method to represent the attributes and their values, as defined by the Recommended Standard for Abstract Syntax, using the Parameter Value Language for the construction and interchange of data entity dictionaries.  </p>\n<p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>\n"
+  content: |
+    <p>This Data Entity Dictionary Specification Language (DEDSL) Recommended Standard provides the Parameter Value Language (PVL) (CCSDS 641.0-B-2) implementation for the DEDSL--Abstract Syntax Recommended Standard (CCSDS 647.1-B-1) in order to provide a standardized computer processable expression of the semantic information which to be carried with data.  The Recommended Standard for PVL Syntax provides a standard method to represent the attributes and their values, as defined by the Recommended Standard for Abstract Syntax, using the Parameter Value Language for the construction and interchange of data entity dictionaries.  </p>
+    <p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>
 status:
   stage:
     content: published

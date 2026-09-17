@@ -1,3 +1,4 @@
+---
 id: CCSDS8800G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,16 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report contains background and explanatory material to support the CCSDS wireless network communications Best Practices for networked wireless communications in support of space missions.  It examines the possibilities and advantages of the onboard application of wireless communications technology to space missions, describes a set of driving use cases in the space domain, and evaluates the utilization of existing technologies and related terrestrial commercial standards to meet the resulting space-based use case requirements.  Also included is relevant tutorial information intended to assist the reader in understanding basic concepts of wireless transmission and networking along with possible issues related to the deployment of wireless networks.</p>\n"
+  content: "<p>This Informational Report contains background and explanatory material
+    to support the CCSDS wireless network communications Best Practices for networked
+    wireless communications in support of space missions.  It examines the possibilities
+    and advantages of the onboard application of wireless communications technology
+    to space missions, describes a set of driving use cases in the space domain, and
+    evaluates the utilization of existing technologies and related terrestrial commercial
+    standards to meet the resulting space-based use case requirements.  Also included
+    is relevant tutorial information intended to assist the reader in understanding
+    basic concepts of wireless transmission and networking along with possible issues
+    related to the deployment of wireless networks.</p>\n"
 status:
   stage:
     content: withdrawn

@@ -1,3 +1,4 @@
+---
 id: CCSDSA201Y1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Record defines the minimum requirements for CCSDS Implementation Conformance Statement (ICS) and Protocol ICS (PICS) proformas.</p>\n"
+  content: "<p>This CCSDS Record defines the minimum requirements for CCSDS Implementation
+    Conformance Statement (ICS) and Protocol ICS (PICS) proformas.</p>\n"
 status:
   stage:
     content: published

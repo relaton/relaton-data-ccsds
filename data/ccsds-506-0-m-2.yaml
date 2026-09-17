@@ -1,3 +1,4 @@
+---
 id: CCSDS5060M2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,12 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice specifies a set of standard practices and message formats for use in the navigation technique known as Delta Differential One-Way Ranging (Delta-DOR). The current issue adds clarifications, adds a subsection on quantitative validation criteria, renames 'Service Request' to 'Support Request', adds Support Request specifications, adds examples of Support Requests as new annex, deletes section 7 in favor of reference to the Delta-DOR Quasar Catalogue.</p>\n"
+  content: "<p>This Recommended Practice specifies a set of standard practices and
+    message formats for use in the navigation technique known as Delta Differential
+    One-Way Ranging (Delta-DOR). The current issue adds clarifications, adds a subsection
+    on quantitative validation criteria, renames 'Service Request' to 'Support Request',
+    adds Support Request specifications, adds examples of Support Requests as new
+    annex, deletes section 7 in favor of reference to the Delta-DOR Quasar Catalogue.</p>\n"
 status:
   stage:
     content: published

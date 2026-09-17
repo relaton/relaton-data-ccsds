@@ -1,3 +1,4 @@
+---
 id: CCSDS9100G2S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Administrative Report provides an overview of Space Link Extension (SLE) Services.  It is designed to assist readers with their review of existing and future SLE documentation.</p>\n<p>This document was retired by CCSDS Management Council resolution CMC-R-2021-09-001, dated 14 September 2021.</p>\n"
+  content: |
+    <p>This Administrative Report provides an overview of Space Link Extension (SLE) Services.  It is designed to assist readers with their review of existing and future SLE documentation.</p>
+    <p>This document was retired by CCSDS Management Council resolution CMC-R-2021-09-001, dated 14 September 2021.</p>
 status:
   stage:
     content: published

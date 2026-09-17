@@ -1,3 +1,4 @@
+---
 id: CCSDS13121O1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Experimental Specification extends the existing CCSDS Recommended Standard for Flexible Advanced Coding and Modulation Scheme for High Rate Telemetry Applications (CCSDS 131.2-B-1, ), in order to add new Modulation and Coding (MODCODs) options, thereby increasing the range of operating conditions to higher signal-to-noise ratios.</p>\n<p>The current version of this document contains all updates through technical corrigendum 1, dated April 2022</p>\n"
+  content: |
+    <p>This CCSDS Experimental Specification extends the existing CCSDS Recommended Standard for Flexible Advanced Coding and Modulation Scheme for High Rate Telemetry Applications (CCSDS 131.2-B-1, ), in order to add new Modulation and Coding (MODCODs) options, thereby increasing the range of operating conditions to higher signal-to-noise ratios.</p>
+    <p>The current version of this document contains all updates through technical corrigendum 1, dated April 2022</p>
 status:
   stage:
     content: published

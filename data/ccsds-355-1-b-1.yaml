@@ -1,3 +1,4 @@
+---
 id: CCSDS3551B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard specifies a set of auxiliary services that are necessary to operate an implementation of the SDLS protocol. These services are categorized into Key Management, Security Association (SA) Management, and SDLS Monitoring &amp; Control.</p>\n"
+  content: "<p>This Recommended Standard specifies a set of auxiliary services that
+    are necessary to operate an implementation of the SDLS protocol. These services
+    are categorized into Key Management, Security Association (SA) Management, and
+    SDLS Monitoring &amp; Control.</p>\n"
 status:
   stage:
     content: published

@@ -1,3 +1,4 @@
+---
 id: CCSDS1210B3
 schema_version: v1.5.6
 title:
@@ -33,7 +34,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Recommended Standard for Lossless Data Compression defines a source-coding data-compression algorithm and specifies how data compressed using the algorithm are inserted into source packets for retrieval and decoding.  The current update addresses potential ambiguities and adds an option for a file header.</p>\n"
+  content: "<p>The Recommended Standard for Lossless Data Compression defines a source-coding
+    data-compression algorithm and specifies how data compressed using the algorithm
+    are inserted into source packets for retrieval and decoding.  The current update
+    addresses potential ambiguities and adds an option for a file header.</p>\n"
 status:
   stage:
     content: published

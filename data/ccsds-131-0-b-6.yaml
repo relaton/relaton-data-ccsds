@@ -1,3 +1,4 @@
+---
 id: CCSDS1310B6
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Recommended Standard for TM Synchronization and Channel Coding contains specifications to be used by space missions on synchronous communications links.</p>\n"
+  content: "<p>The Recommended Standard for TM Synchronization and Channel Coding
+    contains specifications to be used by space missions on synchronous communications
+    links.</p>\n"
 status:
   stage:
     content: published

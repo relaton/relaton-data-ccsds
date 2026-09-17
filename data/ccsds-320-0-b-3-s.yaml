@@ -1,3 +1,4 @@
+---
 id: CCSDS3200B3S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation specifies the procedures for obtaining and relinquishing CCSDS Global Spacecraft Identifiers for use in CCSDS Transfer Frames.</p>\n"
+  content: "<p>This Recommendation specifies the procedures for obtaining and relinquishing
+    CCSDS Global Spacecraft Identifiers for use in CCSDS Transfer Frames.</p>\n"
 status:
   stage:
     content: published

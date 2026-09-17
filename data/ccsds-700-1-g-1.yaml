@@ -1,3 +1,4 @@
+---
 id: CCSDS7001G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation specifies a communications protocol to be used by space missions to transfer space application data over space-to-ground or space-to-space communications links.</p>\n"
+  content: "<p>This Recommendation specifies a communications protocol to be used
+    by space missions to transfer space application data over space-to-ground or space-to-space
+    communications links.</p>\n"
 status:
   stage:
     content: published

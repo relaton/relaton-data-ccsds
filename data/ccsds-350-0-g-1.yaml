@@ -1,3 +1,4 @@
+---
 id: CCSDS3500G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report is intended to provide guidance to missions that wish to use the CCSDS Recommendations for spacecraft control and data handling but also require a level of security or data protection.  The report provides background information on security, details various options for security implementation in space missions, and outlines the impact of security on defined CCSDS services.</p>\n"
+  content: "<p>This Report is intended to provide guidance to missions that wish to
+    use the CCSDS Recommendations for spacecraft control and data handling but also
+    require a level of security or data protection.  The report provides background
+    information on security, details various options for security implementation in
+    space missions, and outlines the impact of security on defined CCSDS services.</p>\n"
 status:
   stage:
     content: withdrawn

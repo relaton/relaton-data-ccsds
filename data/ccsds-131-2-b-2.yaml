@@ -1,9 +1,11 @@
+---
 id: CCSDS1312B2
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Flexible Advanced Coding and Modulation Scheme for High Rate Telemetry Applications
+  content: Flexible Advanced Coding and Modulation Scheme for High Rate Telemetry
+    Applications
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3196/
@@ -33,7 +35,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard defines a Serially Concatenated Convolutional turbo Coding (SCCC) scheme for telemetry applications. The current update adds support for the Unified Space Data Link Protocol and replaces the term Channel Access Data Unit (CADU) with Synch-Marked Transfer Frame (SMTF).</p>\n"
+  content: "<p>This Recommended Standard defines a Serially Concatenated Convolutional
+    turbo Coding (SCCC) scheme for telemetry applications. The current update adds
+    support for the Unified Space Data Link Protocol and replaces the term Channel
+    Access Data Unit (CADU) with Synch-Marked Transfer Frame (SMTF).</p>\n"
 status:
   stage:
     content: published

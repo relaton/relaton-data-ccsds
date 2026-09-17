@@ -1,3 +1,4 @@
+---
 id: CCSDS7270B2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,12 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation defines a protocol suitable for the transmission of files to and from spacecraft data storage and capable of operating in a wide variety of mission configurations. In addition to the purely file delivery related functions, the protocol includes file management services to allow control over the storage medium. Although the protocol can operate over a wide range of subnetwork services, this Recommendation assumes the use of existing CCSDS packet services.</p>\n"
+  content: "<p>This Recommendation defines a protocol suitable for the transmission
+    of files to and from spacecraft data storage and capable of operating in a wide
+    variety of mission configurations. In addition to the purely file delivery related
+    functions, the protocol includes file management services to allow control over
+    the storage medium. Although the protocol can operate over a wide range of subnetwork
+    services, this Recommendation assumes the use of existing CCSDS packet services.</p>\n"
 status:
   stage:
     content: withdrawn

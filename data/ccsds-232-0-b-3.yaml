@@ -1,3 +1,4 @@
+---
 id: CCSDS2320B3
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Recommended Standard for TC Space Data Link Protocol specifies the protocol, services, and procedures pertaining to the CCSDS Version-1 Asynchronous Transfer Frame.  The current issue adds specifications to support the Space Data Link Security Protocol.</p>\n<p>This document issue was superseded by CCSDS 232.0-B-4, TC Space Data Link Protocol (Blue Book, Issue 4), released October 2021.</p>\n"
+  content: |
+    <p>The Recommended Standard for TC Space Data Link Protocol specifies the protocol, services, and procedures pertaining to the CCSDS Version-1 Asynchronous Transfer Frame.  The current issue adds specifications to support the Space Data Link Security Protocol.</p>
+    <p>This document issue was superseded by CCSDS 232.0-B-4, TC Space Data Link Protocol (Blue Book, Issue 4), released October 2021.</p>
 status:
   stage:
     content: withdrawn

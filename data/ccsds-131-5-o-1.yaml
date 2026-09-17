@@ -1,3 +1,4 @@
+---
 id: CCSDS1315O1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Experimental Specification defines efficient erasure coding and decoding strategies for future space missions.</p>\n<p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This Experimental Specification has been reconfirmed through July 2028.</p>\n<p>The current version of this document contains all updates through technical corrigendum 1, dated December 2024.</p>\n"
+  content: |
+    <p>This Experimental Specification defines efficient erasure coding and decoding strategies for future space missions.</p>
+    <p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This Experimental Specification has been reconfirmed through July 2028.</p>
+    <p>The current version of this document contains all updates through technical corrigendum 1, dated December 2024.</p>
 status:
   stage:
     content: published

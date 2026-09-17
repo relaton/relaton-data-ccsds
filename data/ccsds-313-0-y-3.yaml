@@ -1,9 +1,11 @@
+---
 id: CCSDS3130Y3
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Space Assigned Numbers Authority (SANA)—Role, Responsibilities, Policies, and Procedures
+  content: Space Assigned Numbers Authority (SANA)—Role, Responsibilities, Policies,
+    and Procedures
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3513/
@@ -33,7 +35,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Record defines the Space Assigned Numbers Authority (SANA), its role, responsibilities, policies, and procedures within the Consultative Committee for Space Data Systems (CCSDS).</p>\n"
+  content: "<p>This CCSDS Record defines the Space Assigned Numbers Authority (SANA),
+    its role, responsibilities, policies, and procedures within the Consultative Committee
+    for Space Data Systems (CCSDS).</p>\n"
 status:
   stage:
     content: published

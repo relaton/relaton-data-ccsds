@@ -1,3 +1,4 @@
+---
 id: CCSDS9020G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report documents a concept for Space Communication Cross Support Service Management that spans the space mission lifecycle and enables the graceful evolution of Space Communication Cross Support Service Management in step with the evolution of space communication technology.</p>\n"
+  content: "<p>This Informational Report documents a concept for Space Communication
+    Cross Support Service Management that spans the space mission lifecycle and enables
+    the graceful evolution of Space Communication Cross Support Service Management
+    in step with the evolution of space communication technology.</p>\n"
 status:
   stage:
     content: published

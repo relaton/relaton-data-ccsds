@@ -1,3 +1,4 @@
+---
 id: CCSDS3120G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report presents a reference space information management architecture that encompasses the capture, management, access, and exchange of data for both flight and ground systems across the operational mission lifecycle.</p>\n"
+  content: "<p>This Informational Report presents a reference space information management
+    architecture that encompasses the capture, management, access, and exchange of
+    data for both flight and ground systems across the operational mission lifecycle.</p>\n"
 status:
   stage:
     content: published

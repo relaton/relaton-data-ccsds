@@ -1,3 +1,4 @@
+---
 id: CCSDS4010B31
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>Numerous concise recommendations appear in the notebook volume bearing the number 401.0-B.  Each recommendation is dated, and the most recent revision is shown in the table of contents.  These Recommendations are developed for conventional near-Earth and deep-space missions having moderate communications requirements.  The current issue updates recommendations 2.5.6B and 3.1.6B.</p>\n<p>This document issue was superseded by CCSDS 401.0-B-32, Radio Frequency and Modulation Systems—Part 1: Earth Stations and Spacecraft (Blue Book, Issue 32), released October 2021.</p>\n"
+  content: |
+    <p>Numerous concise recommendations appear in the notebook volume bearing the number 401.0-B.  Each recommendation is dated, and the most recent revision is shown in the table of contents.  These Recommendations are developed for conventional near-Earth and deep-space missions having moderate communications requirements.  The current issue updates recommendations 2.5.6B and 3.1.6B.</p>
+    <p>This document issue was superseded by CCSDS 401.0-B-32, Radio Frequency and Modulation Systems—Part 1: Earth Stations and Spacecraft (Blue Book, Issue 32), released October 2021.</p>
 status:
   stage:
     content: withdrawn

@@ -1,3 +1,4 @@
+---
 id: CCSDS3200B4
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This procedural Recommendation establishes control procedures for Spacecraft Identification (SCID) codes.  As such, it defines the procedure governing assignment, use, relinquishment, and management of SCIDs.  This Recommendation also provides a list of the CCSDS Agencies' Representatives as of the date of this document and a form for requesting and relinquishing SCIDs.</p>\n"
+  content: "<p>This procedural Recommendation establishes control procedures for Spacecraft
+    Identification (SCID) codes.  As such, it defines the procedure governing assignment,
+    use, relinquishment, and management of SCIDs.  This Recommendation also provides
+    a list of the CCSDS Agencies' Representatives as of the date of this document
+    and a form for requesting and relinquishing SCIDs.</p>\n"
 status:
   stage:
     content: withdrawn

@@ -1,3 +1,4 @@
+---
 id: CCSDS6500M2S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice defines the Reference Model for an Open Archival Information System (OAIS).  The current issue includes clarifications to many concepts, in particular, Authenticity with the concept of Transformational Information Property introduced; corrections and improvements in diagrams; addition of Access Rights Information to PDI.</p>\n<p>This document issue was superseded by CCSDS 650.0-M-3</p>\n"
+  content: |
+    <p>This Recommended Practice defines the Reference Model for an Open Archival Information System (OAIS).  The current issue includes clarifications to many concepts, in particular, Authenticity with the concept of Transformational Information Property introduced; corrections and improvements in diagrams; addition of Access Rights Information to PDI.</p>
+    <p>This document issue was superseded by CCSDS 650.0-M-3</p>
 status:
   stage:
     content: published

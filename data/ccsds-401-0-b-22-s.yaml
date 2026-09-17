@@ -1,3 +1,4 @@
+---
 id: CCSDS4010B22S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,12 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>Numerous concise recommendations appear in the notebook volume bearing the number 401.0-B. Each recommendation is dated, and the most recent revision is shown in the table of contents.  These Recommendations are developed for conventional near-Earth and deep-space missions having moderate communications requirements.  The current update adds a new recommendation 2.4.21A and updates recommendations 2.4.12A, 2.4.12B, and 2.4.20B.</p>\n"
+  content: "<p>Numerous concise recommendations appear in the notebook volume bearing
+    the number 401.0-B. Each recommendation is dated, and the most recent revision
+    is shown in the table of contents.  These Recommendations are developed for conventional
+    near-Earth and deep-space missions having moderate communications requirements.
+    \ The current update adds a new recommendation 2.4.21A and updates recommendations
+    2.4.12A, 2.4.12B, and 2.4.20B.</p>\n"
 status:
   stage:
     content: published

@@ -1,3 +1,4 @@
+---
 id: CCSDS3502G1S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report presents the results of a survey conducted by the CCSDS Security Working Group.</p>\n"
+  content: "<p>This Report presents the results of a survey conducted by the CCSDS
+    Security Working Group.</p>\n"
 status:
   stage:
     content: published

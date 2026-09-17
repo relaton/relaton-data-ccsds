@@ -1,3 +1,4 @@
+---
 id: CCSDS3200B6
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard defines the procedures governing assignment, relinquishment, and management of CCSDS Spacecraft Identification (SCID) codes.  The current issue designates SANA as official registrar for SCIDs and Agency Representatives, reorganizes the document for conformance with modern CCSDS publication requirements, rephrases some statements for clarity, and eliminates obsolete material.  </p>\n<p>The current version of this document contains all updates through technical corrigendum 1, dated December 2013.</p>\n"
+  content: |
+    <p>This Recommended Standard defines the procedures governing assignment, relinquishment, and management of CCSDS Spacecraft Identification (SCID) codes.  The current issue designates SANA as official registrar for SCIDs and Agency Representatives, reorganizes the document for conformance with modern CCSDS publication requirements, rephrases some statements for clarity, and eliminates obsolete material.  </p>
+    <p>The current version of this document contains all updates through technical corrigendum 1, dated December 2013.</p>
 status:
   stage:
     content: withdrawn

@@ -1,3 +1,4 @@
+---
 id: CCSDS1300G2S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report provides an architectural overview of the space link protocols recommended by CCSDS and shows how these protocols are used in space mission data systems.</p>\n"
+  content: "<p>This Report provides an architectural overview of the space link protocols
+    recommended by CCSDS and shows how these protocols are used in space mission data
+    systems.</p>\n"
 status:
   stage:
     content: published

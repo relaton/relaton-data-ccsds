@@ -1,3 +1,4 @@
+---
 id: CCSDS8550M1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice defines the services and service interfaces provided by the Spacecraft Onboard Interface Services (SOIS) Subnetwork Test Service.</p>\n"
+  content: "<p>This Recommended Practice defines the services and service interfaces
+    provided by the Spacecraft Onboard Interface Services (SOIS) Subnetwork Test Service.</p>\n"
 status:
   stage:
     content: published

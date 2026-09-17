@@ -1,3 +1,4 @@
+---
 id: CCSDS4010B15S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,16 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>Numerous concise recommendations appear in the notebook volume bearing the number 401.0-B.  Each recommendation is dated, and the date of the most recent revision is shown in the table of contents.  These recommendations are developed for conventional near-Earth and deep-space missions having moderate communications requirements.  The current version includes all updates approved by the CCSDS Management Council through August 2005.  The most recent release updates the following recommendations: 2.1.8B, 2.2.4, 2.2.6, 2.3.3A, 2.3.5, 2.4.2, 2.4.10, 2.4.14A, 2.4.14B, 2.4.15A, 2.4.15B, 2.4.16, 2.4.6, 2.4.7, 2.4.9, 2.5.6B, 3.1.1, 3.1.6B, 3.2.1A, 3.3.1, 3.3.2A, 3.6.2A, 4.1.5, 4.2.1, 4.2.2,n4.2.3.  Terminology subsection 5.1 has also been updated with this release.</p>\n"
+  content: "<p>Numerous concise recommendations appear in the notebook volume bearing
+    the number 401.0-B.  Each recommendation is dated, and the date of the most recent
+    revision is shown in the table of contents.  These recommendations are developed
+    for conventional near-Earth and deep-space missions having moderate communications
+    requirements.  The current version includes all updates approved by the CCSDS
+    Management Council through August 2005.  The most recent release updates the following
+    recommendations: 2.1.8B, 2.2.4, 2.2.6, 2.3.3A, 2.3.5, 2.4.2, 2.4.10, 2.4.14A,
+    2.4.14B, 2.4.15A, 2.4.15B, 2.4.16, 2.4.6, 2.4.7, 2.4.9, 2.5.6B, 3.1.1, 3.1.6B,
+    3.2.1A, 3.3.1, 3.3.2A, 3.6.2A, 4.1.5, 4.2.1, 4.2.2,n4.2.3.  Terminology subsection
+    5.1 has also been updated with this release.</p>\n"
 status:
   stage:
     content: published

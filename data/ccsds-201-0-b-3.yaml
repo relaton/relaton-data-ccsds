@@ -1,3 +1,4 @@
+---
 id: CCSDS2010B3
 schema_version: v1.5.6
 title:
@@ -33,7 +34,12 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation was developed within the layered architectural framework and embraces the standard data structures and data communication procedures that may be used by conventional missions within the lowest telecommand system layers. In this update to CCSDS 201.0-B-2, codeblock length options have been eliminated in favor of a single standard length of 64 bits (the longest and most efficient of the options specified in the previous issues).</p>\n"
+  content: "<p>This Recommendation was developed within the layered architectural
+    framework and embraces the standard data structures and data communication procedures
+    that may be used by conventional missions within the lowest telecommand system
+    layers. In this update to CCSDS 201.0-B-2, codeblock length options have been
+    eliminated in favor of a single standard length of 64 bits (the longest and most
+    efficient of the options specified in the previous issues).</p>\n"
 status:
   stage:
     content: withdrawn

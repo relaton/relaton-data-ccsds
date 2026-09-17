@@ -1,3 +1,4 @@
+---
 id: CCSDS6520M1S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice defines an audit and certification process for assessing the trustworthiness of digital repositories.</p>\n<p>This document issue was superseded by CCSDS 652.0-M-2, Audit and Certification of Trustworthy Digital Repositories (Magenta Book, Issue 2), released December 2024.</p>\n"
+  content: |
+    <p>This Recommended Practice defines an audit and certification process for assessing the trustworthiness of digital repositories.</p>
+    <p>This document issue was superseded by CCSDS 652.0-M-2, Audit and Certification of Trustworthy Digital Repositories (Magenta Book, Issue 2), released December 2024.</p>
 status:
   stage:
     content: published

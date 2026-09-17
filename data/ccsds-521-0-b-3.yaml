@@ -1,3 +1,4 @@
+---
 id: CCSDS5210B3
 schema_version: v1.5.6
 title:
@@ -33,7 +34,12 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Mission Operations Message Abstraction Layer (MAL) Recommended Standard defines the MAL in conformance with the service framework specified in the Mission Operations Services Concept Green Book (CCSDS 520.0-G-3). The current update simplifies and clarifies text as part of an overall effort tonimprove MO framework specifications, corrects major deviations from CCSDS style guidelines, and attempts to better differentiate normative from informative text.</p>\n"
+  content: "<p>The Mission Operations Message Abstraction Layer (MAL) Recommended
+    Standard defines the MAL in conformance with the service framework specified in
+    the Mission Operations Services Concept Green Book (CCSDS 520.0-G-3). The current
+    update simplifies and clarifies text as part of an overall effort tonimprove MO
+    framework specifications, corrects major deviations from CCSDS style guidelines,
+    and attempts to better differentiate normative from informative text.</p>\n"
 status:
   stage:
     content: published

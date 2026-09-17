@@ -1,3 +1,4 @@
+---
 id: CCSDS6210G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report explains the rationale of the Standard Formatted Data Unit (SFDU) concept and outlines the Structure and Construction Rules with the help of examples.  It supports the main SFDU Recommended Standard, CCSDS 620.0-B-2.  </p>\n<p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>\n"
+  content: |
+    <p>This Informational Report explains the rationale of the Standard Formatted Data Unit (SFDU) concept and outlines the Structure and Construction Rules with the help of examples.  It supports the main SFDU Recommended Standard, CCSDS 620.0-B-2.  </p>
+    <p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>
 status:
   stage:
     content: published

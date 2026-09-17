@@ -1,3 +1,4 @@
+---
 id: CCSDS5511O1S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Experimental Specification specifies a method for correlated data generation through the use of data acquired from diverse channels. </p>\n<p>This document issue was superseded by CCSDS 551.1-O-2, Correlated Data Generation (Orange Book, Issue 2), released August 2020.\"</p>\n"
+  content: |
+    <p>This CCSDS Experimental Specification specifies a method for correlated data generation through the use of data acquired from diverse channels. </p>
+    <p>This document issue was superseded by CCSDS 551.1-O-2, Correlated Data Generation (Orange Book, Issue 2), released August 2020."</p>
 status:
   stage:
     content: published

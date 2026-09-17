@@ -1,3 +1,4 @@
+---
 id: CCSDS5001G2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,14 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report describes the theoretical aspects of and discusses trade-offs and system performance for the navigation technique known as Delta Differential One-Way Ranging (Delta-DOR).  The topics covered include a general description of the technique, theoretical background, definition of observables, estimates of system performance, system trade-offs, and descriptions of existing systems.  This Report deals explicitly with the technical definitions and conventions associated with inter-Agency cross-support situations involving Delta Differential One-way Ranging operations.</p>\n"
+  content: "<p>This Informational Report describes the theoretical aspects of and
+    discusses trade-offs and system performance for the navigation technique known
+    as Delta Differential One-Way Ranging (Delta-DOR).  The topics covered include
+    a general description of the technique, theoretical background, definition of
+    observables, estimates of system performance, system trade-offs, and descriptions
+    of existing systems.  This Report deals explicitly with the technical definitions
+    and conventions associated with inter-Agency cross-support situations involving
+    Delta Differential One-way Ranging operations.</p>\n"
 status:
   stage:
     content: published

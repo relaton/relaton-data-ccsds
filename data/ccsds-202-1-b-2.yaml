@@ -1,3 +1,4 @@
+---
 id: CCSDS2021B2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Command Operation Procedure forms a subpart of the Data Routing Service, which is described in CCSDS 202.0-B-3. This Recommendation contains the definition of the Command Operation Procedure in the form of state tables at the level of detail necessary to allow cross support. The current issue clarifies and improves the specification based on experience with real implementations.</p>\n"
+  content: "<p>The Command Operation Procedure forms a subpart of the Data Routing
+    Service, which is described in CCSDS 202.0-B-3. This Recommendation contains the
+    definition of the Command Operation Procedure in the form of state tables at the
+    level of detail necessary to allow cross support. The current issue clarifies
+    and improves the specification based on experience with real implementations.</p>\n"
 status:
   stage:
     content: withdrawn

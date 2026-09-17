@@ -1,3 +1,4 @@
+---
 id: CCSDS5244B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard defines the binding between the Mission Operations (MO) Message Abstraction Layer (MAL) and the ZeroMQ Message Transport Protocol (ZMTP). This binding allows MO Services to use ZMTP as messaging technology in all situations where this may be required.</p>\n"
+  content: "<p>This Recommended Standard defines the binding between the Mission Operations
+    (MO) Message Abstraction Layer (MAL) and the ZeroMQ Message Transport Protocol
+    (ZMTP). This binding allows MO Services to use ZMTP as messaging technology in
+    all situations where this may be required.</p>\n"
 status:
   stage:
     content: published

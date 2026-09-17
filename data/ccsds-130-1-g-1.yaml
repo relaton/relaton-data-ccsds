@@ -1,3 +1,4 @@
+---
 id: CCSDS1301G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report contains the concept and supporting rationale for the TM Synchronization and Channel Coding Recommended Standard and includes performance data and historical background information on code selection.</p>\n"
+  content: "<p>This Informational Report contains the concept and supporting rationale
+    for the TM Synchronization and Channel Coding Recommended Standard and includes
+    performance data and historical background information on code selection.</p>\n"
 status:
   stage:
     content: withdrawn

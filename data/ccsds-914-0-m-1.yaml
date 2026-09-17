@@ -1,9 +1,11 @@
+---
 id: CCSDS9140M1
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Space Link Extension—Application Program Interface for Transfer Services—Core Specification
+  content: Space Link Extension—Application Program Interface for Transfer Services—Core
+    Specification
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3798/
@@ -33,7 +35,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice defines a C++ Application Program Interface (API) for CCSDS Space Link Extension (SLE) Transfer Services.  The API is intended for use by application programs implementing SLE services.</p>\n"
+  content: "<p>This Recommended Practice defines a C++ Application Program Interface
+    (API) for CCSDS Space Link Extension (SLE) Transfer Services.  The API is intended
+    for use by application programs implementing SLE services.</p>\n"
 status:
   stage:
     content: withdrawn

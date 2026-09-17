@@ -1,3 +1,4 @@
+---
 id: CCSDS1310B1S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation contains specifications for synchronization and channel coding to be used on synchronous data channels. These specifications correspond with those contained in Telemetry Channel Coding.   (Note: This is a restructured Recommendation*.)</p>\n"
+  content: "<p>This Recommendation contains specifications for synchronization and
+    channel coding to be used on synchronous data channels. These specifications correspond
+    with those contained in Telemetry Channel Coding.   (Note: This is a restructured
+    Recommendation*.)</p>\n"
 status:
   stage:
     content: published

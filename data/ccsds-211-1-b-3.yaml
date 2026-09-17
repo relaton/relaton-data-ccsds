@@ -1,3 +1,4 @@
+---
 id: CCSDS2111B3
 schema_version: v1.5.6
 title:
@@ -33,7 +34,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard contains the Physical layer specification for Proximity space links.  It was originally published as part of CCSDS 211.0-B-1, Proximity-1 Space Link Protocol.  The current issue adds requirements for data rate offset and short- and long-term rate stability.</p>\n"
+  content: "<p>This Recommended Standard contains the Physical layer specification
+    for Proximity space links.  It was originally published as part of CCSDS 211.0-B-1,
+    Proximity-1 Space Link Protocol.  The current issue adds requirements for data
+    rate offset and short- and long-term rate stability.</p>\n"
 status:
   stage:
     content: withdrawn

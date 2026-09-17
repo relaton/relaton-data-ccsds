@@ -1,3 +1,4 @@
+---
 id: CCSDS6110Y1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report details the methodology adopted by CCSDS Panel 2 for the development of Recommendations.</p>\n"
+  content: "<p>This Report details the methodology adopted by CCSDS Panel 2 for the
+    development of Recommendations.</p>\n"
 status:
   stage:
     content: withdrawn

@@ -1,3 +1,4 @@
+---
 id: CCSDS2110B4S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The CCSDS Recommended Standard for Proximity-1 Space Link Protocol--Data Link Layer specifies the protocol, services, and procedures pertaining to the CCSDS Version-3 Transfer Frame.</p>\n"
+  content: "<p>The CCSDS Recommended Standard for Proximity-1 Space Link Protocol--Data
+    Link Layer specifies the protocol, services, and procedures pertaining to the
+    CCSDS Version-3 Transfer Frame.</p>\n"
 status:
   stage:
     content: published

@@ -1,3 +1,4 @@
+---
 id: CCSDS5210B1S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard defines the Mission Operations Message Abstraction Layer in conformance with the service framework specified in the Mission Operations Services Concept Green Book (CCSDS 520.0-G-3).</p>\n"
+  content: "<p>This Recommended Standard defines the Mission Operations Message Abstraction
+    Layer in conformance with the service framework specified in the Mission Operations
+    Services Concept Green Book (CCSDS 520.0-G-3).</p>\n"
 status:
   stage:
     content: published

@@ -1,3 +1,4 @@
+---
 id: CCSDS1314M1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice provides guidance to users in the choice of coding schemes for telemetry links in different mission profiles.</p>\n"
+  content: "<p>This Recommended Practice provides guidance to users in the choice
+    of coding schemes for telemetry links in different mission profiles.</p>\n"
 status:
   stage:
     content: withdrawn

@@ -1,3 +1,4 @@
+---
 id: CCSDS7270B5
 schema_version: v1.5.6
 title:
@@ -33,7 +34,13 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The CFDP Recommended Standard defines a protocol suitable for the transmission of files to and from spacecraft data storage and capable of operating in a wide variety of mission configurations.  In addition to the purely file delivery related functions, the protocol includes file management services to allow control over the storage medium.  The current update  adds support for choice of checksum algorithm from a new SANA Checksum Types registry and updates/clarifies some text based on interoperability testing.</p>\n"
+  content: "<p>The CFDP Recommended Standard defines a protocol suitable for the transmission
+    of files to and from spacecraft data storage and capable of operating in a wide
+    variety of mission configurations.  In addition to the purely file delivery related
+    functions, the protocol includes file management services to allow control over
+    the storage medium.  The current update  adds support for choice of checksum algorithm
+    from a new SANA Checksum Types registry and updates/clarifies some text based
+    on interoperability testing.</p>\n"
 status:
   stage:
     content: published

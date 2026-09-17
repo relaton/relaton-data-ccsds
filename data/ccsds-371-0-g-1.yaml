@@ -1,3 +1,4 @@
+---
 id: CCSDS3710G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,12 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This reference architecture is intended to inform developers of mission operations systems and associated spacecraft about how features available in CCSDS standards and practices may be effectively combined to create interoperable space data systems.  It provides descriptions of the primary features of a broad set of standards as well as pointers to where additional, in depth, information may be found.</p>\n"
+  content: "<p>This reference architecture is intended to inform developers of mission
+    operations systems and associated spacecraft about how features available in CCSDS
+    standards and practices may be effectively combined to create interoperable space
+    data systems.  It provides descriptions of the primary features of a broad set
+    of standards as well as pointers to where additional, in depth, information may
+    be found.</p>\n"
 status:
   stage:
     content: published

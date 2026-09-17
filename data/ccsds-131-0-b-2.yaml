@@ -1,3 +1,4 @@
+---
 id: CCSDS1310B2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,12 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Recommended Standard for TM Synchronization and Channel Coding contains specifications to be used by space missions on synchronous communications links.  The current issue adds Low Density Parity Check (LDPC) codes, applies various editorial changes intended to improve the presentation and clarity of all the specifications, and adds new informative material for consistency with current CCSDS publications practices.</p>\n"
+  content: "<p>The Recommended Standard for TM Synchronization and Channel Coding
+    contains specifications to be used by space missions on synchronous communications
+    links.  The current issue adds Low Density Parity Check (LDPC) codes, applies
+    various editorial changes intended to improve the presentation and clarity of
+    all the specifications, and adds new informative material for consistency with
+    current CCSDS publications practices.</p>\n"
 status:
   stage:
     content: withdrawn

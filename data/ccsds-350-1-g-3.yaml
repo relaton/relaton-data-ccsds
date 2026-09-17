@@ -1,3 +1,4 @@
+---
 id: CCSDS3501G3
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Informational Report provides an overview of potential threats against various categories of civilian space missions and provides illustrative security threat data for mission planners.</p>\n"
+  content: "<p>This CCSDS Informational Report provides an overview of potential threats
+    against various categories of civilian space missions and provides illustrative
+    security threat data for mission planners.</p>\n"
 status:
   stage:
     content: published

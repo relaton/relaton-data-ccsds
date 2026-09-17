@@ -1,9 +1,11 @@
+---
 id: CCSDS4210G1
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Report of the Proceedings of the RF and Modulation  Subpanel Meeting at the Ames Research Center, April 11-20, 1989
+  content: Report of the Proceedings of the RF and Modulation  Subpanel Meeting at
+    the Ames Research Center, April 11-20, 1989
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3251/
@@ -33,7 +35,12 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report is a collection of papers presented to the CCSDS RF and Modulation Subpanel Meeting in April 1989. The original printed volume has been scanned in order to make it available for on-lineviewing and downloading. Optical Character Recognition (OCR) has been applied to the file in order to make it searchable; however, OCR errors are to be expected, and only the scanned page images can be considered to represent original document content with fidelity.</p>\n"
+  content: "<p>This Report is a collection of papers presented to the CCSDS RF and
+    Modulation Subpanel Meeting in April 1989. The original printed volume has been
+    scanned in order to make it available for on-lineviewing and downloading. Optical
+    Character Recognition (OCR) has been applied to the file in order to make it searchable;
+    however, OCR errors are to be expected, and only the scanned page images can be
+    considered to represent original document content with fidelity.</p>\n"
 status:
   stage:
     content: published

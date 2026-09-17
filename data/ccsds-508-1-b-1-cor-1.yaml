@@ -1,3 +1,4 @@
+---
 id: CCSDS5081B1Cor1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 508.1-B-1, Re-entry Data Message (Blue Book, Issue 1, November 2019).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 508.1-B-1, Re-entry
+    Data Message (Blue Book, Issue 1, November 2019).</p>\n"
 status:
   stage:
     content: published

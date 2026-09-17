@@ -1,3 +1,4 @@
+---
 id: CCSDS6320B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard extends the standardization of the Standard Formatted Data Unit (SFDU) concept in support of the digital transfer of space-related information.  It specifies standards for expressing selected data description attributes and for their packaging with the data description.  The resulting packages, called Control Authority Data Structures (CADS), are used to submit data descriptions to Control Authorities for registration and to disseminate data descriptions from Control Authorities.  The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. </p>\n<p>This Recommended Standard has been reconfirmed through May 2018.</p>\n"
+  content: |
+    <p>This Recommended Standard extends the standardization of the Standard Formatted Data Unit (SFDU) concept in support of the digital transfer of space-related information.  It specifies standards for expressing selected data description attributes and for their packaging with the data description.  The resulting packages, called Control Authority Data Structures (CADS), are used to submit data descriptions to Control Authorities for registration and to disseminate data descriptions from Control Authorities.  The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. </p>
+    <p>This Recommended Standard has been reconfirmed through May 2018.</p>
 status:
   stage:
     content: published

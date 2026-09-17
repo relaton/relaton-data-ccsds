@@ -1,3 +1,4 @@
+---
 id: CCSDS4010B14S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,15 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>Numerous concise recommendations appear in the notebook volume bearing the number 401.0-B. Each recommendation is dated, and the most recent revision is shown in the table of contents. These Recommendations are developed for conventional near-Earth and deep-space missions having moderate communications requirements.  The current version includes all updates approved by the CCSDS Management Council through March 2003. The most recent release adds one new recommendation: 2.2.8, Suppressed Carrier Telecommand Systems\" (Issue 1).\"</p>\n"
+  content: '<p>Numerous concise recommendations appear in the notebook volume bearing
+    the number 401.0-B. Each recommendation is dated, and the most recent revision
+    is shown in the table of contents. These Recommendations are developed for conventional
+    near-Earth and deep-space missions having moderate communications requirements.  The
+    current version includes all updates approved by the CCSDS Management Council
+    through March 2003. The most recent release adds one new recommendation: 2.2.8,
+    Suppressed Carrier Telecommand Systems" (Issue 1)."</p>
+
+    '
 status:
   stage:
     content: published

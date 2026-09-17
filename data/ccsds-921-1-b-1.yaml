@@ -1,3 +1,4 @@
+---
 id: CCSDS9211B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard defines the various logical components required for specifying Cross Support Transfer Services.</p>\n<p>This document issue was superseded by CCSDS 921.1-B-2, Cross Support Transfer Service—Specification Framework (Blue Book, Issue 2), released February 2021.</p>\n"
+  content: |
+    <p>This Recommended Standard defines the various logical components required for specifying Cross Support Transfer Services.</p>
+    <p>This document issue was superseded by CCSDS 921.1-B-2, Cross Support Transfer Service—Specification Framework (Blue Book, Issue 2), released February 2021.</p>
 status:
   stage:
     content: withdrawn

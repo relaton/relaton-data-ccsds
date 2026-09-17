@@ -1,3 +1,4 @@
+---
 id: CCSDS6500M3
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Recommended Practice defines the Reference Model for an Open Archival Information System (OAIS). The current update adds to and clarifies concepts and terminology.</p>\n"
+  content: "<p>The Recommended Practice defines the Reference Model for an Open Archival
+    Information System (OAIS). The current update adds to and clarifies concepts and
+    terminology.</p>\n"
 status:
   stage:
     content: published

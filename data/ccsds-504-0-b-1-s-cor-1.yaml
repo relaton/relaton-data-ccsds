@@ -1,3 +1,4 @@
+---
 id: CCSDS5040B1SCor1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Corrigendum documents changes to CCSDS 504.0-B-1-S, Attitude Data Messages (Blue Book, Issue 1, May 2008).</p>\n"
+  content: "<p>This Corrigendum documents changes to CCSDS 504.0-B-1-S, Attitude Data
+    Messages (Blue Book, Issue 1, May 2008).</p>\n"
 status:
   stage:
     content: published

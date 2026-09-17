@@ -1,3 +1,4 @@
+---
 id: CCSDS1210B1SCor1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 121.0-B-1-S, Lossless Data Compression (Sliver Book, Issue 1, May 1997)</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 121.0-B-1-S,
+    Lossless Data Compression (Sliver Book, Issue 1, May 1997)</p>\n"
 status:
   stage:
     content: published

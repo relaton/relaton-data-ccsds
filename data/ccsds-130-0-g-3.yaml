@@ -1,3 +1,4 @@
+---
 id: CCSDS1300G3
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report provides an architectural overview of the space link protocols recommended by CCSDS and shows how these protocols are used in space mission data systems.</p>\n<p>This document issue was superseded by CCSDS 130.0-G-4, Overview of Space Communications Protocols (Green Book, Issue 4), released April 2023.</p>\n"
+  content: |
+    <p>This Report provides an architectural overview of the space link protocols recommended by CCSDS and shows how these protocols are used in space mission data systems.</p>
+    <p>This document issue was superseded by CCSDS 130.0-G-4, Overview of Space Communications Protocols (Green Book, Issue 4), released April 2023.</p>
 status:
   stage:
     content: withdrawn

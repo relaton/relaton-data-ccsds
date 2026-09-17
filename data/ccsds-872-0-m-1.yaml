@@ -1,3 +1,4 @@
+---
 id: CCSDS8720M1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Recommended Practice defines services and service interfaces provided by the SOIS Time Access Service, which provides a user entity with a consistent interface to a local time source that is correlated to some centrally maintained master onboard time source.</p>\n"
+  content: "<p>This CCSDS Recommended Practice defines services and service interfaces
+    provided by the SOIS Time Access Service, which provides a user entity with a
+    consistent interface to a local time source that is correlated to some centrally
+    maintained master onboard time source.</p>\n"
 status:
   stage:
     content: withdrawn

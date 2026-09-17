@@ -1,3 +1,4 @@
+---
 id: CCSDS91011B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard defines a set of Service Management services by which space link service providers and space missions exchange information needed to arrange spacecraft contact periods and establish the operating parameters of the space link services and space link extension transfer services during those contact periods.</p>\n"
+  content: "<p>This Recommended Standard defines a set of Service Management services
+    by which space link service providers and space missions exchange information
+    needed to arrange spacecraft contact periods and establish the operating parameters
+    of the space link services and space link extension transfer services during those
+    contact periods.</p>\n"
 status:
   stage:
     content: withdrawn

@@ -1,3 +1,4 @@
+---
 id: CCSDS1000G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report presents the conceptual framework and rationale for the CCSDS Telemetry System. It provides background information supporting the two CCSDS technical Recommendations for Telemetry, Telemetry Channel Coding and Packet Telemetry.</p>\n"
+  content: "<p>This Report presents the conceptual framework and rationale for the
+    CCSDS Telemetry System. It provides background information supporting the two
+    CCSDS technical Recommendations for Telemetry, Telemetry Channel Coding and Packet
+    Telemetry.</p>\n"
 status:
   stage:
     content: withdrawn

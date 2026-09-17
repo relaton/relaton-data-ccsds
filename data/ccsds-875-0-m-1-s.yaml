@@ -1,3 +1,4 @@
+---
 id: CCSDS8750M1S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice specifies a set of related services to be used by space missions to command and acquire data from devices over an onboard subnetwork.  The SOIS Message Transfer Service provides quality of service features and also provides a common service interface regardless of the particular type of data link or protocol being used for communication.</p>\n"
+  content: "<p>This Recommended Practice specifies a set of related services to be
+    used by space missions to command and acquire data from devices over an onboard
+    subnetwork.  The SOIS Message Transfer Service provides quality of service features
+    and also provides a common service interface regardless of the particular type
+    of data link or protocol being used for communication.</p>\n"
 status:
   stage:
     content: published

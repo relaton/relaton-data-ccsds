@@ -1,3 +1,4 @@
+---
 id: CCSDSA310G1S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report defines the highest-level CCSDS identifiers available to distinguish among types of CCSDS-defined objects and services at the CCSDS level, and it describes how to construct unique identifiers in the larger context of International Organization for Standardization (ISO) and International Telegraph and Telephone Consultative Committee (CCITT) identifiers.</p>\n"
+  content: "<p>This Report defines the highest-level CCSDS identifiers available to
+    distinguish among types of CCSDS-defined objects and services at the CCSDS level,
+    and it describes how to construct unique identifiers in the larger context of
+    International Organization for Standardization (ISO) and International Telegraph
+    and Telephone Consultative Committee (CCITT) identifiers.</p>\n"
 status:
   stage:
     content: published

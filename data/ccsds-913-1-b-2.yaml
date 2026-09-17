@@ -1,3 +1,4 @@
+---
 id: CCSDS9131B2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Recommended Standard for Space Link Extension-Internet Protocol for Transfer Services defines a protocol for transfer of SLE Protocol Data Units using TCP/IP.  The current issue changes the hash function algorithm for secure one-way hash function from SHA-1 to SHA-256.</p>\n"
+  content: "<p>The Recommended Standard for Space Link Extension-Internet Protocol
+    for Transfer Services defines a protocol for transfer of SLE Protocol Data Units
+    using TCP/IP.  The current issue changes the hash function algorithm for secure
+    one-way hash function from SHA-1 to SHA-256.</p>\n"
 status:
   stage:
     content: published

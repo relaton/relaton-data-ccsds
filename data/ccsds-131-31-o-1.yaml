@@ -1,3 +1,4 @@
+---
 id: CCSDS13131O1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Experimental Specification defines a recommended interface between CCSDS Space Link Protocols and the DVB-S2(X) telecom standard and recommends options of the DVB-S2(X) standard suited to high data rate transmission applications, such as Earth Exploration Satellite Services payload telemetry, ground-to-space, and space-to-space applications (e.g., Space Research Services, inter-satellite links).</p>\n<p>The current version of this document contains all updates through technical corrigendum 1, dated April 2022.</p>\n"
+  content: |
+    <p>This Experimental Specification defines a recommended interface between CCSDS Space Link Protocols and the DVB-S2(X) telecom standard and recommends options of the DVB-S2(X) standard suited to high data rate transmission applications, such as Earth Exploration Satellite Services payload telemetry, ground-to-space, and space-to-space applications (e.g., Space Research Services, inter-satellite links).</p>
+    <p>The current version of this document contains all updates through technical corrigendum 1, dated April 2022.</p>
 status:
   stage:
     content: published

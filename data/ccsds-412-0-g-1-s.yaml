@@ -1,9 +1,11 @@
+---
 id: CCSDS4120G1S
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Radio Frequency and Modulation Systems—Spacecraft-Earth Station Compatibility Test Procedures
+  content: Radio Frequency and Modulation Systems—Spacecraft-Earth Station Compatibility
+    Test Procedures
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3683/
@@ -33,7 +35,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document is a CCSDS Report that contains explanatory material to supplement and clarify information contained in CCSDS 401-B. In particular, this Report contains the procedures to be used in implementing Recommendation 401 (3.5.1) B-1, Minimum Set of Spacecraft - Earth Station Tests Required to Ensure Compatibility.</p>\n"
+  content: "<p>This document is a CCSDS Report that contains explanatory material
+    to supplement and clarify information contained in CCSDS 401-B. In particular,
+    this Report contains the procedures to be used in implementing Recommendation
+    401 (3.5.1) B-1, Minimum Set of Spacecraft - Earth Station Tests Required to Ensure
+    Compatibility.</p>\n"
 status:
   stage:
     content: published

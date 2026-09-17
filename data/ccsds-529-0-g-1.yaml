@@ -1,3 +1,4 @@
+---
 id: CCSDS5290G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report documents mission planning scenarios, use cases, and deployment architectures relevant to the creation of standards for mission planning and scheduling.</p>\n"
+  content: "<p>This Informational Report documents mission planning scenarios, use
+    cases, and deployment architectures relevant to the creation of standards for
+    mission planning and scheduling.</p>\n"
 status:
   stage:
     content: published

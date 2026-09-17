@@ -1,9 +1,11 @@
+---
 id: CCSDS1312O1
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Flexible Serially Concatenated Convolutional Turbo Codes with Near-Shannon Bound Performance for Telemetry Applications
+  content: Flexible Serially Concatenated Convolutional Turbo Codes with Near-Shannon
+    Bound Performance for Telemetry Applications
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3579/
@@ -33,7 +35,12 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Experimental Specification describes a new coding/modulation scheme that provides a wide range of spectral efficiency values that can be reconfigured without interrupting the data transfer over the physical channel.  The implementation of the encoder can be realized with certain degrees of parallelism without any significant increase in memory or computation requirements. This feature makes the scheme attractive in particular for on-board</p>\n"
+  content: "<p>This Experimental Specification describes a new coding/modulation scheme
+    that provides a wide range of spectral efficiency values that can be reconfigured
+    without interrupting the data transfer over the physical channel.  The implementation
+    of the encoder can be realized with certain degrees of parallelism without any
+    significant increase in memory or computation requirements. This feature makes
+    the scheme attractive in particular for on-board</p>\n"
 status:
   stage:
     content: withdrawn

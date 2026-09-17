@@ -1,3 +1,4 @@
+---
 id: CCSDS9011M1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice defines a set of requirements for CCSDS-recommended configurations for secure Space Communications Cross Support (SCCS) architectures.</p>\n"
+  content: "<p>This Recommended Practice defines a set of requirements for CCSDS-recommended
+    configurations for secure Space Communications Cross Support (SCCS) architectures.</p>\n"
 status:
   stage:
     content: published

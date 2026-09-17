@@ -1,3 +1,4 @@
+---
 id: CCSDS1310B3S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Recommended Standard for TM Synchronization and Channel Coding contains specifications to be used by space missions on synchronous communications links.  The current update adds LCPC coding for a stream of Sync-Marked Transfer Frames (SMTFs).</p>\n<p>This document issue was superseded by CCSDS 131.0-B-4, TM Synchronization and Channel Coding (Blue Book, Issue 4), released April 2022.</p>\n"
+  content: |
+    <p>The Recommended Standard for TM Synchronization and Channel Coding contains specifications to be used by space missions on synchronous communications links.  The current update adds LCPC coding for a stream of Sync-Marked Transfer Frames (SMTFs).</p>
+    <p>This document issue was superseded by CCSDS 131.0-B-4, TM Synchronization and Channel Coding (Blue Book, Issue 4), released April 2022.</p>
 status:
   stage:
     content: published

@@ -1,3 +1,4 @@
+---
 id: CCSDS6500B1FrenchTranslated
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>Modèle de référence pour un Système ouvert d’archivage d’information (OAIS)</p>\n"
+  content: "<p>Modèle de référence pour un Système ouvert d’archivage d’information
+    (OAIS)</p>\n"
 status:
   stage:
     content: withdrawn

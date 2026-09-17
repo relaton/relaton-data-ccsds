@@ -1,3 +1,4 @@
+---
 id: CCSDS1200G3S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report presents a summary of the key operational concepts and rationale underlying the requirements for the CCSDS Recommended Standard for Lossless Data Compression.  Supporting performance information along with illustrations are also included. This Report also provides a broad tutorial overview of the CCSDS Lossless Data Compression algorithm and is aimed at helping first-time readers to understand the Recommended Standard.  The current issue updates material affected by revision of the Lossless Data Compression Blue Book.</p>\n<p>This document issue was superseded by CCSDS 120.0-G-4, Lossless Data Compression (Green Book, Issue 4), released November 2021.</p>\n"
+  content: |
+    <p>This Report presents a summary of the key operational concepts and rationale underlying the requirements for the CCSDS Recommended Standard for Lossless Data Compression.  Supporting performance information along with illustrations are also included. This Report also provides a broad tutorial overview of the CCSDS Lossless Data Compression algorithm and is aimed at helping first-time readers to understand the Recommended Standard.  The current issue updates material affected by revision of the Lossless Data Compression Blue Book.</p>
+    <p>This document issue was superseded by CCSDS 120.0-G-4, Lossless Data Compression (Green Book, Issue 4), released November 2021.</p>
 status:
   stage:
     content: published

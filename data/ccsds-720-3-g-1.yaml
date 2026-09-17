@@ -1,3 +1,4 @@
+---
 id: CCSDS7203G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report describes and discusses the results of CFDP interoperability testing conducted among CCSDS Agencies.</p>\n"
+  content: "<p>This Informational Report describes and discusses the results of CFDP
+    interoperability testing conducted among CCSDS Agencies.</p>\n"
 status:
   stage:
     content: published

@@ -1,3 +1,4 @@
+---
 id: CCSDS1210B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation defines a source-coding data-compression algorithm and specifies how data compressed using the algorithm are inserted into source packets for retrieval and decoding.  </p>\n<p>This document has been reconfirmed by the CCSDS Management Council through November 2011.  The current version of this document contains all updates through Technical Corrigendum 2, dated September 2007.</p>\n"
+  content: |
+    <p>This Recommendation defines a source-coding data-compression algorithm and specifies how data compressed using the algorithm are inserted into source packets for retrieval and decoding.  </p>
+    <p>This document has been reconfirmed by the CCSDS Management Council through November 2011.  The current version of this document contains all updates through Technical Corrigendum 2, dated September 2007.</p>
 status:
   stage:
     content: withdrawn

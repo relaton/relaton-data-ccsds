@@ -1,3 +1,4 @@
+---
 id: CCSDS8712M1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice defines the SOIS Device Virtualization Service (DVS). The definition encompasses specification of the service interface exposed to onboard software (user applications and libraries) as well as the conceptual mapping of the DVS primitives to the protocols implementing such services.</p>\n"
+  content: "<p>This Recommended Practice defines the SOIS Device Virtualization Service
+    (DVS). The definition encompasses specification of the service interface exposed
+    to onboard software (user applications and libraries) as well as the conceptual
+    mapping of the DVS primitives to the protocols implementing such services.</p>\n"
 status:
   stage:
     content: withdrawn

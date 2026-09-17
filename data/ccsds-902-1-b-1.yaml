@@ -1,3 +1,4 @@
+---
 id: CCSDS9021B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard specifies a standard format for use in transferring scheduling information related to ground stations and/or relay satellites between space agencies and commercial or governmental spacecraft operators.</p>\n<p>The current version of this document contains all updates through technical corrigendum 1, dated December 2021.</p>\n"
+  content: |
+    <p>This Recommended Standard specifies a standard format for use in transferring scheduling information related to ground stations and/or relay satellites between space agencies and commercial or governmental spacecraft operators.</p>
+    <p>The current version of this document contains all updates through technical corrigendum 1, dated December 2021.</p>
 status:
   stage:
     content: published

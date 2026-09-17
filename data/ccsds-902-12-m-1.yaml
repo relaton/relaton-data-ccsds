@@ -1,3 +1,4 @@
+---
 id: CCSDS90212M1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice defines various data entities that are applicable to more than one Service Management Blue Book. These data entities are referred to as 'Common' data entities.</p>\n"
+  content: "<p>This Recommended Practice defines various data entities that are applicable
+    to more than one Service Management Blue Book. These data entities are referred
+    to as 'Common' data entities.</p>\n"
 status:
   stage:
     content: published

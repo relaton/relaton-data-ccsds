@@ -1,3 +1,4 @@
+---
 id: CCSDS6600G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Informational Report presents a set of concepts and tutorial on the XML Telemetric and Command Exchange (XTCE). XTCE is an XML based format aim at facilitating the exchange of spacecraft telemetry and command databases between different organizations and systems during any mission phase. Such a non-proprietary format avoids the need for customized import/export tools, and the validation and new implementation of mission databases, which are often error-prone. The scope of XTCE is limited to the exchange of satellite telemetry and commanding databases. XTCE can be used to exchange a database between spacecraft manufacturers, instrument manufacturers, and different systems of the ground segment. It can also be used as an exchange mechanism between different development teams or between missions, which enhances database re-use.</p>\n<p>This document issue was superseded by CCSDS 660.2-G-2, XML Telemetric and Command Exchange (XTCE) (Green Book, Issue 2), released February 2021.</p>\n"
+  content: |
+    <p>This CCSDS Informational Report presents a set of concepts and tutorial on the XML Telemetric and Command Exchange (XTCE). XTCE is an XML based format aim at facilitating the exchange of spacecraft telemetry and command databases between different organizations and systems during any mission phase. Such a non-proprietary format avoids the need for customized import/export tools, and the validation and new implementation of mission databases, which are often error-prone. The scope of XTCE is limited to the exchange of satellite telemetry and commanding databases. XTCE can be used to exchange a database between spacecraft manufacturers, instrument manufacturers, and different systems of the ground segment. It can also be used as an exchange mechanism between different development teams or between missions, which enhances database re-use.</p>
+    <p>This document issue was superseded by CCSDS 660.2-G-2, XML Telemetric and Command Exchange (XTCE) (Green Book, Issue 2), released February 2021.</p>
 status:
   stage:
     content: withdrawn

@@ -1,3 +1,4 @@
+---
 id: CCSDS2112B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation specifies Proximity space links. This Recommendation contains the Coding and Synchronization Sublayer specification originally published as part of CCSDS 211.0-B-1, Proximity-1 Space Link Protocol.</p>\n"
+  content: "<p>This Recommendation specifies Proximity space links. This Recommendation
+    contains the Coding and Synchronization Sublayer specification originally published
+    as part of CCSDS 211.0-B-1, Proximity-1 Space Link Protocol.</p>\n"
 status:
   stage:
     content: withdrawn

@@ -1,9 +1,11 @@
+---
 id: CCSDS8761M1
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Spacecraft Onboard Interface Services—Specification for Dictionary of Terms for Electronic Data Sheets
+  content: Spacecraft Onboard Interface Services—Specification for Dictionary of Terms
+    for Electronic Data Sheets
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3295/
@@ -33,7 +35,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice defines the SOIS Specification for Dictionary ofnTerms (DoT) for Electronic Data Sheet (EDS). The SOIS DoT provides thenvocabulary for electronically defining the interfaces offered by flightncomponents such as sensors, actuators, and software components over the SOISnServices.</p>\n"
+  content: "<p>This Recommended Practice defines the SOIS Specification for Dictionary
+    ofnTerms (DoT) for Electronic Data Sheet (EDS). The SOIS DoT provides thenvocabulary
+    for electronically defining the interfaces offered by flightncomponents such as
+    sensors, actuators, and software components over the SOISnServices.</p>\n"
 status:
   stage:
     content: published

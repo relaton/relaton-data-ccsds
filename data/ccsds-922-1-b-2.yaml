@@ -1,3 +1,4 @@
+---
 id: CCSDS9221B2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard defines the Monitored Data Cross Support Transfer Service (CSTS), which allows a spaceflight mission to receive cyclic reports on, and to query the current values of, the parameters that are pertinent to cross support services being provided by a Cross Support Complex. The Monitored Data service also allows a spaceflight mission to receive notifications of the occurrence of events of interest associated with the services that are being provided by a Cross Support Complex.</p>\n<p>The current update brings the specification up to date with issue 2 of the CSTS Specification Framework, CCSDS 921.1-B-2.</p>\n"
+  content: |
+    <p>This Recommended Standard defines the Monitored Data Cross Support Transfer Service (CSTS), which allows a spaceflight mission to receive cyclic reports on, and to query the current values of, the parameters that are pertinent to cross support services being provided by a Cross Support Complex. The Monitored Data service also allows a spaceflight mission to receive notifications of the occurrence of events of interest associated with the services that are being provided by a Cross Support Complex.</p>
+    <p>The current update brings the specification up to date with issue 2 of the CSTS Specification Framework, CCSDS 921.1-B-2.</p>
 status:
   stage:
     content: published

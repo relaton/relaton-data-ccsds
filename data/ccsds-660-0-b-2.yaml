@@ -1,3 +1,4 @@
+---
 id: CCSDS6600B2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,12 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The XML Telemetric and Command Exchange (XTCE) data specification provides an information model and data exchange format for telemetry and commanding in all phases of the a spacecraft, payload, and ground segment life cycle: system design, development, test, validation, and mission operations. The current CCSDS issue is version 1.2 of the specification as published by the Object Management Group (OMG) in January 2019.</p>\n"
+  content: "<p>The XML Telemetric and Command Exchange (XTCE) data specification provides
+    an information model and data exchange format for telemetry and commanding in
+    all phases of the a spacecraft, payload, and ground segment life cycle: system
+    design, development, test, validation, and mission operations. The current CCSDS
+    issue is version 1.2 of the specification as published by the Object Management
+    Group (OMG) in January 2019.</p>\n"
 status:
   stage:
     content: published

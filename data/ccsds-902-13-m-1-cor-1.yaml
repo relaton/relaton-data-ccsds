@@ -1,3 +1,4 @@
+---
 id: CCSDS90213M1Cor1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 902.13-M-1, Abstract Event Definition (Magenta Book, Issue 1, February 2021).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 902.13-M-1, Abstract
+    Event Definition (Magenta Book, Issue 1, February 2021).</p>\n"
 status:
   stage:
     content: published

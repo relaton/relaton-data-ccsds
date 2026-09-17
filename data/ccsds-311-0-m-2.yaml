@@ -1,3 +1,4 @@
+---
 id: CCSDS3110M2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,12 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>Reference Architecture for Space Data Systems (RASDS) is intended to provide a standardized approach for description of data system architectures and high-level designs, which individual CCSDS working groups may use withinnCCSDS. This update is an extended approach, RASDSv2, specifically adapted for the space domain and aligned with best current practices in the fields of system and software architecture and modeling.</p>\n"
+  content: "<p>Reference Architecture for Space Data Systems (RASDS) is intended to
+    provide a standardized approach for description of data system architectures and
+    high-level designs, which individual CCSDS working groups may use withinnCCSDS.
+    This update is an extended approach, RASDSv2, specifically adapted for the space
+    domain and aligned with best current practices in the fields of system and software
+    architecture and modeling.</p>\n"
 status:
   stage:
     content: published

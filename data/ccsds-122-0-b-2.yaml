@@ -1,3 +1,4 @@
+---
 id: CCSDS1220B2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard defines an image-data compression algorithm applicable to digital data from payload instruments and specifies means to control compression rate and how these compressed data shall be inserted into source packets for retrieval and decoding. The current issue adds modifications to support the Recommended Standard for Spectral Pre-Processing Transform for Multispectral and Hyperspectral Image Compression.</p>\n<p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This Recommended Standard has been reconfirmed through July 2028.</p>\n"
+  content: |
+    <p>This Recommended Standard defines an image-data compression algorithm applicable to digital data from payload instruments and specifies means to control compression rate and how these compressed data shall be inserted into source packets for retrieval and decoding. The current issue adds modifications to support the Recommended Standard for Spectral Pre-Processing Transform for Multispectral and Hyperspectral Image Compression.</p>
+    <p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This Recommended Standard has been reconfirmed through July 2028.</p>
 status:
   stage:
     content: published

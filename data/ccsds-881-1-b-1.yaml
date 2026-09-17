@@ -1,3 +1,4 @@
+---
 id: CCSDS8811B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard specifies tag-encoding options that augment, yet remain compatible with, a legacy ISS Inventory Management System tag encoding schema established for early flight experiments.</p>\n"
+  content: "<p>This Recommended Standard specifies tag-encoding options that augment,
+    yet remain compatible with, a legacy ISS Inventory Management System tag encoding
+    schema established for early flight experiments.</p>\n"
 status:
   stage:
     content: published

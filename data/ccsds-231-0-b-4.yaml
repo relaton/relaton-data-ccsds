@@ -1,3 +1,4 @@
+---
 id: CCSDS2310B4
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Recommended Standard for TC Synchronization and Channel Coding contains specifications for synchronization and channel coding to be used by space missions on asynchronous communications links.  The current update clarifies procedures related to short Low-Density Parity-Check (LDPC) codes and adds support for the Unified Space Data Link Protocol (USLP).</p>\n<p>The current version of this document contains all updates through technical corrigendum 1, dated July 2026.</p>\n"
+  content: |
+    <p>The Recommended Standard for TC Synchronization and Channel Coding contains specifications for synchronization and channel coding to be used by space missions on asynchronous communications links.  The current update clarifies procedures related to short Low-Density Parity-Check (LDPC) codes and adds support for the Unified Space Data Link Protocol (USLP).</p>
+    <p>The current version of this document contains all updates through technical corrigendum 1, dated July 2026.</p>
 status:
   stage:
     content: published

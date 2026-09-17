@@ -1,3 +1,4 @@
+---
 id: CCSDS2320B4
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Recommended Standard for TC Space Data Link Protocol specifies the protocol, services, and procedures pertaining to the CCSDS Version-1 Asynchronous Transfer Frame. The current update adds corrections and clarifications.</p>\n<p>The current version of this document contains all updates through technical corrigendum 1, dated October 2023.</p>\n"
+  content: |
+    <p>The Recommended Standard for TC Space Data Link Protocol specifies the protocol, services, and procedures pertaining to the CCSDS Version-1 Asynchronous Transfer Frame. The current update adds corrections and clarifications.</p>
+    <p>The current version of this document contains all updates through technical corrigendum 1, dated October 2023.</p>
 status:
   stage:
     content: published

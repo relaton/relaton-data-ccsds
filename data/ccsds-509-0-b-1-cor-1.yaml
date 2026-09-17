@@ -1,3 +1,4 @@
+---
 id: CCSDS5090B1Cor1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 509.0-B-1, Pointing Request Message (Blue Book, Issue 1, February 2018).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 509.0-B-1, Pointing
+    Request Message (Blue Book, Issue 1, February 2018).</p>\n"
 status:
   stage:
     content: published

@@ -1,3 +1,4 @@
+---
 id: CCSDS4141B2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Pseudo-Noise (PN) Ranging Systems Recommended Standard defines both transparent and regenerative PN ranging systems.</p>\n<p>This document issue was superseded by CCSDS 414.1-B-3, Pseudo-Noise (PN) Ranging Systems (Blue Book, Issue 3), released January 2022.</p>\n"
+  content: |
+    <p>The Pseudo-Noise (PN) Ranging Systems Recommended Standard defines both transparent and regenerative PN ranging systems.</p>
+    <p>This document issue was superseded by CCSDS 414.1-B-3, Pseudo-Noise (PN) Ranging Systems (Blue Book, Issue 3), released January 2022.</p>
 status:
   stage:
     content: withdrawn

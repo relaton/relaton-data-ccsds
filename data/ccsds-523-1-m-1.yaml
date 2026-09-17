@@ -1,3 +1,4 @@
+---
 id: CCSDS5231M1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice defines a Java API for the Mission Operations (MO) Message Abstraction Layer (MAL) specified in CCSDS 521.0-B-2.</p>\n<p>This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>\n"
+  content: |
+    <p>This Recommended Practice defines a Java API for the Mission Operations (MO) Message Abstraction Layer (MAL) specified in CCSDS 521.0-B-2.</p>
+    <p>This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>
 status:
   stage:
     content: published

@@ -1,9 +1,11 @@
+---
 id: CCSDS13012G2
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: CCSDS Protocols over DVB-S2-Summary of Definition, Implementation, and Performance
+  content: CCSDS Protocols over DVB-S2-Summary of Definition, Implementation, and
+    Performance
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3189/
@@ -33,7 +35,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report contains background and explanatory material to support the CCSDS Recommended Standard for CCSDS Space Link Protocols over ETSI DVB-S2 Standard, CCSDS 131.3-B-2. It provides some useful material for engineers defining systems, or equipment manufacturers developing products, according to the CCSDS Recommended Standard 130x12g2.pdf.</p>\n"
+  content: "<p>This Informational Report contains background and explanatory material
+    to support the CCSDS Recommended Standard for CCSDS Space Link Protocols over
+    ETSI DVB-S2 Standard, CCSDS 131.3-B-2. It provides some useful material for engineers
+    defining systems, or equipment manufacturers developing products, according to
+    the CCSDS Recommended Standard 130x12g2.pdf.</p>\n"
 status:
   stage:
     content: published

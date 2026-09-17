@@ -1,3 +1,4 @@
+---
 id: CCSDSA131Y1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Record specifies a recommended practice for performing inter-agency CCSDS standards interoperability testing using cloud technologies.</p>\n"
+  content: "<p>This CCSDS Record specifies a recommended practice for performing inter-agency
+    CCSDS standards interoperability testing using cloud technologies.</p>\n"
 status:
   stage:
     content: published

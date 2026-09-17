@@ -1,3 +1,4 @@
+---
 id: CCSDS9115B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard defines the Space Link Extension (SLE) Return Operational Control Fields (ROCF) service in conformance with the SLE Reference Model.  The ROCF service is an SLE transfer service that delivers to a mission user all operational control fields from one master channel or one virtual channel.</p>\n"
+  content: "<p>This Recommended Standard defines the Space Link Extension (SLE) Return
+    Operational Control Fields (ROCF) service in conformance with the SLE Reference
+    Model.  The ROCF service is an SLE transfer service that delivers to a mission
+    user all operational control fields from one master channel or one virtual channel.</p>\n"
 status:
   stage:
     content: withdrawn

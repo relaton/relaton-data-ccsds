@@ -1,3 +1,4 @@
+---
 id: CCSDS6450G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report describes the usage of the EAST language, its format, and construction rules as well as suggested practices.  It is a companion document to CCSDS 644.0-B-3, The Data Description Language EAST Specification (CCSD0010).  </p>\n<p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This Informational Report has been reconfirmed through June 2022.</p>\n"
+  content: |
+    <p>This Informational Report describes the usage of the EAST language, its format, and construction rules as well as suggested practices.  It is a companion document to CCSDS 644.0-B-3, The Data Description Language EAST Specification (CCSD0010).  </p>
+    <p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This Informational Report has been reconfirmed through June 2022.</p>
 status:
   stage:
     content: published

@@ -1,3 +1,4 @@
+---
 id: CCSDS4141B3
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Pseudo-Noise (PN) Ranging Systems Recommended Standard defines both transparent and regenerative PN ranging systems. The current issue adds a ranging-signal-chip-rate parameter value for Ka-Band uplinks.</p>\n"
+  content: "<p>The Pseudo-Noise (PN) Ranging Systems Recommended Standard defines
+    both transparent and regenerative PN ranging systems. The current issue adds a
+    ranging-signal-chip-rate parameter value for Ka-Band uplinks.</p>\n"
 status:
   stage:
     content: published

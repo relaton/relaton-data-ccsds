@@ -1,3 +1,4 @@
+---
 id: CCSDS1315O1Cor1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 131.5-O-1, Erasure Correcting Codes for Use in Near-Earth and Deep-Space Communications (OrangenBook, Issue 1, November 2014).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 131.5-O-1, Erasure
+    Correcting Codes for Use in Near-Earth and Deep-Space Communications (OrangenBook,
+    Issue 1, November 2014).</p>\n"
 status:
   stage:
     content: published

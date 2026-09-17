@@ -1,3 +1,4 @@
+---
 id: CCSDS8710M1S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,13 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice defines services and service interfaces provided by the Spacecraft Onboard Interface Services Device Enumeration Service (DES), which provides management and user spacecraft. The main goal of DES is to assist onboard reconfiguration functions, such as mode management or fault detection, isolation, and recovery regarding the notification of changes in the spacecraft configuration, and the execution of operations needed to adjust the onboard software to the new configuration.</p>\n"
+  content: "<p>This Recommended Practice defines services and service interfaces provided
+    by the Spacecraft Onboard Interface Services Device Enumeration Service (DES),
+    which provides management and user spacecraft. The main goal of DES is to assist
+    onboard reconfiguration functions, such as mode management or fault detection,
+    isolation, and recovery regarding the notification of changes in the spacecraft
+    configuration, and the execution of operations needed to adjust the onboard software
+    to the new configuration.</p>\n"
 status:
   stage:
     content: published

@@ -1,3 +1,4 @@
+---
 id: CCSDS5081B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard specifies a standard message format to be used in the exchange of spacecraft re-entry information between Space Situational Awareness (SSA) or Space Surveillance and Tracking (SST) data providers, satellite owners/operators, and other parties. These messages can be used to inform spacecraft owners/operators of predicted re-entries or warn civil protection agencies about potential ground impacts.</p>\n<p>The current version of this document contains all updates through technical corrigendum 1, dated May 2021.</p>\n"
+  content: |
+    <p>This Recommended Standard specifies a standard message format to be used in the exchange of spacecraft re-entry information between Space Situational Awareness (SSA) or Space Surveillance and Tracking (SST) data providers, satellite owners/operators, and other parties. These messages can be used to inform spacecraft owners/operators of predicted re-entries or warn civil protection agencies about potential ground impacts.</p>
+    <p>The current version of this document contains all updates through technical corrigendum 1, dated May 2021.</p>
 status:
   stage:
     content: published

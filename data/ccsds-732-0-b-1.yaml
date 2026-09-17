@@ -1,3 +1,4 @@
+---
 id: CCSDS7320B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation specifies the protocol, services, and procedures pertaining to the CCSDS Version-2 Transfer Frame. These specifications correspond with the VCDU/SLS service and protocol specifications contained in Advanced Orbiting Systems, Networks and Data Links: Architectural Specification.  (Note: This is a restructured Recommendation.*)</p>\n"
+  content: "<p>This Recommendation specifies the protocol, services, and procedures
+    pertaining to the CCSDS Version-2 Transfer Frame. These specifications correspond
+    with the VCDU/SLS service and protocol specifications contained in Advanced Orbiting
+    Systems, Networks and Data Links: Architectural Specification.  (Note: This is
+    a restructured Recommendation.*)</p>\n"
 status:
   stage:
     content: withdrawn

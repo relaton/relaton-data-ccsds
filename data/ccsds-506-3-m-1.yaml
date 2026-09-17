@@ -1,3 +1,4 @@
+---
 id: CCSDS5063M1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice provides specifications for a quasar catalogue to be used in Delta-DOR measurements; description of the catalogue update process; procedures and qualitative criteria to evaluate whether the updates of such catalogues are acceptable; description of the registries to be included in a quasar catalogue; and rules to update SANA entries.</p>\n"
+  content: "<p>This Recommended Practice provides specifications for a quasar catalogue
+    to be used in Delta-DOR measurements; description of the catalogue update process;
+    procedures and qualitative criteria to evaluate whether the updates of such catalogues
+    are acceptable; description of the registries to be included in a quasar catalogue;
+    and rules to update SANA entries.</p>\n"
 status:
   stage:
     content: published

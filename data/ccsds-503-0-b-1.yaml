@@ -1,3 +1,4 @@
+---
 id: CCSDS5030B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Tracking Data Message (TDM) Recommended Standard specifies a standard message format for use in exchanging spacecraft tracking data between space agencies.  The current version of this document contains all updates through technical corrigendum 1, dated September 2010.nThis document issue was superseded by CCSDS 503.0-B-2, Tracking Data Message (Blue Book, Issue 2), released June 2020.</p>\n"
+  content: "<p>The Tracking Data Message (TDM) Recommended Standard specifies a standard
+    message format for use in exchanging spacecraft tracking data between space agencies.
+    \ The current version of this document contains all updates through technical
+    corrigendum 1, dated September 2010.nThis document issue was superseded by CCSDS
+    503.0-B-2, Tracking Data Message (Blue Book, Issue 2), released June 2020.</p>\n"
 status:
   stage:
     content: withdrawn

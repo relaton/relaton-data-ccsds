@@ -1,3 +1,4 @@
+---
 id: CCSDS9104B2S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation establishes a common framework and provides a common basis for the specification of data services that extend the space-to-ground communication services previously defined by CCSDS.  It allows implementing with the development of compatible derived standards for the ground systems that are within their cognizance.  The current issue updates terminology to be consistent with current CCSDS usage and adds new subsections on cross support security and the time span of SLE agreements and packages.</p>\n<p>This document was retired by CCSDS Management Council resolution CMC-R-2023-12-001, dated 29 December 2023.</p>\n"
+  content: |
+    <p>This Recommendation establishes a common framework and provides a common basis for the specification of data services that extend the space-to-ground communication services previously defined by CCSDS.  It allows implementing with the development of compatible derived standards for the ground systems that are within their cognizance.  The current issue updates terminology to be consistent with current CCSDS usage and adds new subsections on cross support security and the time span of SLE agreements and packages.</p>
+    <p>This document was retired by CCSDS Management Council resolution CMC-R-2023-12-001, dated 29 December 2023.</p>
 status:
   stage:
     content: published

@@ -1,3 +1,4 @@
+---
 id: CCSDS1201G2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report presents a summary of the key operational concepts and rationale which underlie the requirements for the CCSDS Recommended Standard, Image Data Compression (CCSDS 122.0-B-1).  Supporting performance information along with illustrations are also included.  This report provides a broad tutorial overview of the CCSDS Image Data Compression algorithm and is aimed at helping first-time readers to understand the Recommended Standard.</p>\n<p>This document issue was superseded by CCSDS 120.1-G-3, Image Data Compression (Green Book, Issue 3), released November 2021.</p>\n"
+  content: |
+    <p>This Informational Report presents a summary of the key operational concepts and rationale which underlie the requirements for the CCSDS Recommended Standard, Image Data Compression (CCSDS 122.0-B-1).  Supporting performance information along with illustrations are also included.  This report provides a broad tutorial overview of the CCSDS Image Data Compression algorithm and is aimed at helping first-time readers to understand the Recommended Standard.</p>
+    <p>This document issue was superseded by CCSDS 120.1-G-3, Image Data Compression (Green Book, Issue 3), released November 2021.</p>
 status:
   stage:
     content: withdrawn

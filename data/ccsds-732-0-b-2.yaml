@@ -1,3 +1,4 @@
+---
 id: CCSDS7320B2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The CCSDS Recommended Standard for AOS Space Data Link Protocol specifies the protocol, services, and procedures pertaining to the CCSDS Version-2 Transfer Frame.  The current issue defines two new subfields within the Transfer Frame Primary Header Signaling Field: a Virtual Channel (VC) Frame Count Cycle Use Flag and a VC Frame Count Cycle subfield, effectively extending the VC Frame Count from 24 to 28 bits.  </p>\n<p>The current version of this document contains all updates through technical corrigendum 1, dated September 2012.</p>\n"
+  content: |
+    <p>The CCSDS Recommended Standard for AOS Space Data Link Protocol specifies the protocol, services, and procedures pertaining to the CCSDS Version-2 Transfer Frame.  The current issue defines two new subfields within the Transfer Frame Primary Header Signaling Field: a Virtual Channel (VC) Frame Count Cycle Use Flag and a VC Frame Count Cycle subfield, effectively extending the VC Frame Count from 24 to 28 bits.  </p>
+    <p>The current version of this document contains all updates through technical corrigendum 1, dated September 2012.</p>
 status:
   stage:
     content: withdrawn

@@ -1,3 +1,4 @@
+---
 id: CCSDS7343B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard specifies Schedule-Aware Bundle Routing (SABR) for the forwarding of Delay-Tolerant Networking (DTN) bundles in the space environment.  SABR provides dynamic route computation in an environment of stable topology but time-varying connectivity when  instances of connectivity are scheduled rather than opportunistic.</p>\n"
+  content: "<p>This Recommended Standard specifies Schedule-Aware Bundle Routing (SABR)
+    for the forwarding of Delay-Tolerant Networking (DTN) bundles in the space environment.
+    \ SABR provides dynamic route computation in an environment of stable topology
+    but time-varying connectivity when  instances of connectivity are scheduled rather
+    than opportunistic.</p>\n"
 status:
   stage:
     content: published

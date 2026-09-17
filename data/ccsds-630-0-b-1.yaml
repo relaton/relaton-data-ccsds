@@ -1,3 +1,4 @@
+---
 id: CCSDS6300B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard defines the responsibilities that must be assumed and the services that must be provided by the participating CCSDS Agencies in order to facilitate the creation and operation of the Control Authority organization.  The primary function of this organization is to register and disseminate data description information.  </p>\n<p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This Recommended Standard has been reconfirmed through May 2018.</p>\n"
+  content: |
+    <p>This Recommended Standard defines the responsibilities that must be assumed and the services that must be provided by the participating CCSDS Agencies in order to facilitate the creation and operation of the Control Authority organization.  The primary function of this organization is to register and disseminate data description information.  </p>
+    <p>The CCSDS conducts periodic reconfirmation reviews of its publications to assure their continued relevance. This Recommended Standard has been reconfirmed through May 2018.</p>
 status:
   stage:
     content: published

@@ -1,3 +1,4 @@
+---
 id: CCSDS6421G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report is a tutorial on the use of languages for descriptive purposes in information interchange. It discusses some of the challenges involved in the interchange of information in the international space community. It assumes the use of the Standard Formatted Data Unit (SFDU) as a methodology for information interchange.</p>\n"
+  content: "<p>This Report is a tutorial on the use of languages for descriptive purposes
+    in information interchange. It discusses some of the challenges involved in the
+    interchange of information in the international space community. It assumes the
+    use of the Standard Formatted Data Unit (SFDU) as a methodology for information
+    interchange.</p>\n"
 status:
   stage:
     content: withdrawn

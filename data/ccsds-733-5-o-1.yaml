@@ -1,3 +1,4 @@
+---
 id: CCSDS7335O1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Experimental Specification describes the implementation of end-to-end security for space mission communications within the proposed Next Generation Space Internet (NGSI) architecture.</p>\n"
+  content: "<p>This Experimental Specification describes the implementation of end-to-end
+    security for space mission communications within the proposed Next Generation
+    Space Internet (NGSI) architecture.</p>\n"
 status:
   stage:
     content: withdrawn

@@ -1,9 +1,11 @@
+---
 id: CCSDSB200Y2
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Proceedings of the CCSDS RF and Modulation Subpanel 1E on Bandwidth-Efficient Modulations
+  content: Proceedings of the CCSDS RF and Modulation Subpanel 1E on Bandwidth-Efficient
+    Modulations
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3253/
@@ -33,7 +35,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report consists of comparative and technical studies prepared for CCSDS Subpanel 1E concerning bandwidth-efficient modulations.  These studies were conducted to evaluate existing and new technologies in an effort to improve RF communication channel efficiencies.</p>\n"
+  content: "<p>This Report consists of comparative and technical studies prepared
+    for CCSDS Subpanel 1E concerning bandwidth-efficient modulations.  These studies
+    were conducted to evaluate existing and new technologies in an effort to improve
+    RF communication channel efficiencies.</p>\n"
 status:
   stage:
     content: published

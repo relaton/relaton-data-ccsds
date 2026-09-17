@@ -1,3 +1,4 @@
+---
 id: CCSDS5200G2S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,14 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Report presents a set of concepts, reference architecture, and service framework for spacecraft monitoring and control. The ability to standardize the interfaces for Spacecraft Monitoring and Control (SM&amp;C) by means of a service oriented architecture will allow significant saving in the development of the flight components and the ground segment of future space missions. In fact, it will be possible to use standardized SM&amp;C infrastructure systems to seamlessly transfer data across systems, and to adopt commercial-off-the-shelf applications for monitoring and control purposes.</p>\n"
+  content: "<p>This CCSDS Report presents a set of concepts, reference architecture,
+    and service framework for spacecraft monitoring and control. The ability to standardize
+    the interfaces for Spacecraft Monitoring and Control (SM&amp;C) by means of a
+    service oriented architecture will allow significant saving in the development
+    of the flight components and the ground segment of future space missions. In fact,
+    it will be possible to use standardized SM&amp;C infrastructure systems to seamlessly
+    transfer data across systems, and to adopt commercial-off-the-shelf applications
+    for monitoring and control purposes.</p>\n"
 status:
   stage:
     content: published

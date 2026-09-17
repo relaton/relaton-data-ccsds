@@ -1,3 +1,4 @@
+---
 id: CCSDS2110B3
 schema_version: v1.5.6
 title:
@@ -33,7 +34,12 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation details Space Data System Standards in the area of Proximity space links.  Proximity space links are defined to be short-range, bi-directional, fixed or mobile radio links, generally used to communicate among probes, landers, rovers, orbiting constellations, and orbiting relays.  These links are characterized by short time delays, moderate (not weak) signals, and short, independent sessions.</p>\n"
+  content: "<p>This Recommendation details Space Data System Standards in the area
+    of Proximity space links.  Proximity space links are defined to be short-range,
+    bi-directional, fixed or mobile radio links, generally used to communicate among
+    probes, landers, rovers, orbiting constellations, and orbiting relays.  These
+    links are characterized by short time delays, moderate (not weak) signals, and
+    short, independent sessions.</p>\n"
 status:
   stage:
     content: withdrawn

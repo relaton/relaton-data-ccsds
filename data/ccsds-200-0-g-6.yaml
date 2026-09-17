@@ -1,3 +1,4 @@
+---
 id: CCSDS2000G6
 schema_version: v1.5.6
 title:
@@ -33,7 +34,17 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>In order to establish a common framework within which the Agencies may develop standardized telecommand services, the CCSDS advocates adoption of a layered systems architecture. Within this approach, specific layers of service (including their operational protocol and data structuring techniques) may be selected for implementation according to mission requirements. The current layered set of CCSDS telecommand Recommendations was developed to match the conventional free-flying mission environment, as characterized by the transmission of command data at relatively low uplink data rates to spacecraft of moderate complexity. This Report summarizes the principal concepts associated with the CCSDS recommended space mission telecommanding architecture.  This document has been reconfirmed by the CCSDS Management Council through October 2021.</p>\n"
+  content: "<p>In order to establish a common framework within which the Agencies
+    may develop standardized telecommand services, the CCSDS advocates adoption of
+    a layered systems architecture. Within this approach, specific layers of service
+    (including their operational protocol and data structuring techniques) may be
+    selected for implementation according to mission requirements. The current layered
+    set of CCSDS telecommand Recommendations was developed to match the conventional
+    free-flying mission environment, as characterized by the transmission of command
+    data at relatively low uplink data rates to spacecraft of moderate complexity.
+    This Report summarizes the principal concepts associated with the CCSDS recommended
+    space mission telecommanding architecture.  This document has been reconfirmed
+    by the CCSDS Management Council through October 2021.</p>\n"
 status:
   stage:
     content: published

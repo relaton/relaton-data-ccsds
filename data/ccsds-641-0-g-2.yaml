@@ -1,3 +1,4 @@
+---
 id: CCSDS6410G2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report describes the Parameter Value Language (PVL) and provides a description of how and why one would use this language for information interchange.  publications to assure their continued relevance. </p>\n<p>This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>\n"
+  content: |
+    <p>This Informational Report describes the Parameter Value Language (PVL) and provides a description of how and why one would use this language for information interchange.  publications to assure their continued relevance. </p>
+    <p>This document has been reconfirmed by the CCSDS Management Council through June 2024.</p>
 status:
   stage:
     content: published

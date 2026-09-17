@@ -1,3 +1,4 @@
+---
 id: CCSDS9131B1S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard defines a protocol for transfer of SLE Protocol Data Units using TCP/IP.</p>\n"
+  content: "<p>This Recommended Standard defines a protocol for transfer of SLE Protocol
+    Data Units using TCP/IP.</p>\n"
 status:
   stage:
     content: published

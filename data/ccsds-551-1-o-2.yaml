@@ -1,3 +1,4 @@
+---
 id: CCSDS5511O2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Experimental Specification specifies a method for correlated data generation through the use of data acquired from diverse channels.</p>\n"
+  content: "<p>This CCSDS Experimental Specification specifies a method for correlated
+    data generation through the use of data acquired from diverse channels.</p>\n"
 status:
   stage:
     content: published

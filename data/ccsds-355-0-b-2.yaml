@@ -1,3 +1,4 @@
+---
 id: CCSDS3550B2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,13 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard specifies a security protocol for CCSDS data links. The protocol provides a security header and trailer along with associated procedures that may be used with the CCSDS Telemetry, Telecommand, and Advanced Orbiting Systems Space Data Link Protocols to provide a structured method for applying data authentication and/or data confidentiality at the Data Link layer. The current issue adds specifications for Unified Space Data Link Protocol support and adds normative reference to Space Data Link Security Protocol Extended Procedures.</p>\n"
+  content: "<p>This Recommended Standard specifies a security protocol for CCSDS data
+    links. The protocol provides a security header and trailer along with associated
+    procedures that may be used with the CCSDS Telemetry, Telecommand, and Advanced
+    Orbiting Systems Space Data Link Protocols to provide a structured method for
+    applying data authentication and/or data confidentiality at the Data Link layer.
+    The current issue adds specifications for Unified Space Data Link Protocol support
+    and adds normative reference to Space Data Link Security Protocol Extended Procedures.</p>\n"
 status:
   stage:
     content: published

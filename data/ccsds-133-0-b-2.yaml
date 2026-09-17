@@ -1,3 +1,4 @@
+---
 id: CCSDS1330B2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation specifies the protocols, services, and procedures pertaining to the CCSDS Packet.  The current update removes networking-type terminology and implied functionality and updates the specification for consistency with modern data communication practices.</p>\n"
+  content: "<p>This Recommendation specifies the protocols, services, and procedures
+    pertaining to the CCSDS Packet.  The current update removes networking-type terminology
+    and implied functionality and updates the specification for consistency with modern
+    data communication practices.</p>\n"
 status:
   stage:
     content: published

@@ -1,3 +1,4 @@
+---
 id: CCSDS5002G2
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report contains background and explanatory material to supplement the CCSDS Recommended Standards for spacecraft navigation data.</p>\n<p>This document issue was superseded by CCSDS 500.2-G-3, Navigation Data Messages Overview (Green Book, Issue 3), released March 2023.</p>\n"
+  content: |
+    <p>This Informational Report contains background and explanatory material to supplement the CCSDS Recommended Standards for spacecraft navigation data.</p>
+    <p>This document issue was superseded by CCSDS 500.2-G-3, Navigation Data Messages Overview (Green Book, Issue 3), released March 2023.</p>
 status:
   stage:
     content: withdrawn

@@ -1,3 +1,4 @@
+---
 id: CCSDS2030B2S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,16 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation was developed within the layered architectural framework and embraces the standard data structures and data communication procedures that may be used by conventional missions within the highest telecommand layers. The current issue adds specifications that allow the CCSDS Version-1 Telecommand Transfer Frame to be used to transport other types of packets in addition to CCSDS Version-1 Telecommand Packets, including CCSDS Network Protocol (NP) Packets and Internet Protocol (IP) packets. This enhanced functionality is added to the Transfer Frame through the introduction of a standardized approach to interpreting the packet version number field. The format of the Transfer Frame is not changed from the previous issue.</p>\n"
+  content: "<p>This Recommendation was developed within the layered architectural
+    framework and embraces the standard data structures and data communication procedures
+    that may be used by conventional missions within the highest telecommand layers.
+    The current issue adds specifications that allow the CCSDS Version-1 Telecommand
+    Transfer Frame to be used to transport other types of packets in addition to CCSDS
+    Version-1 Telecommand Packets, including CCSDS Network Protocol (NP) Packets and
+    Internet Protocol (IP) packets. This enhanced functionality is added to the Transfer
+    Frame through the introduction of a standardized approach to interpreting the
+    packet version number field. The format of the Transfer Frame is not changed from
+    the previous issue.</p>\n"
 status:
   stage:
     content: published

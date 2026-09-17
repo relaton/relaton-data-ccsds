@@ -1,3 +1,4 @@
+---
 id: CCSDS6530M1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,11 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice provides guidance for projects about the metadata that needs to be captured and/or generated and retained in order to ensure that the information created by the project, either as part of its main objectives or as a by-product of achieving those objectives, can be exploited over the short, medium, and long term.</p>\n"
+  content: "<p>This Recommended Practice provides guidance for projects about the
+    metadata that needs to be captured and/or generated and retained in order to ensure
+    that the information created by the project, either as part of its main objectives
+    or as a by-product of achieving those objectives, can be exploited over the short,
+    medium, and long term.</p>\n"
 status:
   stage:
     content: published

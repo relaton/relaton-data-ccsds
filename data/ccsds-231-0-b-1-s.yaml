@@ -1,3 +1,4 @@
+---
 id: CCSDS2310B1S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation contains specifications for synchronization and channel coding to be used by space missions on asynchronous communications links. These specifications correspond with those contained in Telecommand Part 1—Channel Service.   (Note: This is a restructured Recommendation*.)  </p>\n<p>The current version of this document contains all updates through corrigendum 1.</p>\n"
+  content: |
+    <p>This Recommendation contains specifications for synchronization and channel coding to be used by space missions on asynchronous communications links. These specifications correspond with those contained in Telecommand Part 1—Channel Service.   (Note: This is a restructured Recommendation*.)  </p>
+    <p>The current version of this document contains all updates through corrigendum 1.</p>
 status:
   stage:
     content: published

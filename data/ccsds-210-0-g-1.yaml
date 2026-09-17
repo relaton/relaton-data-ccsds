@@ -1,3 +1,4 @@
+---
 id: CCSDS2100G1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report contains background and explanatory material to support the CCSDS Recommended Standards for Proximity-1 Space Link Protocol (CCSDS 211.0-B, CCSDS 211.1-B, and CCSDS 211.2-B).</p>\n"
+  content: "<p>This Report contains background and explanatory material to support
+    the CCSDS Recommended Standards for Proximity-1 Space Link Protocol (CCSDS 211.0-B,
+    CCSDS 211.1-B, and CCSDS 211.2-B).</p>\n"
 status:
   stage:
     content: withdrawn

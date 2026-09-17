@@ -1,3 +1,4 @@
+---
 id: CCSDSA200Y4
 schema_version: v1.5.6
 title:
@@ -33,7 +34,13 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The CCSDS Publications Manual defines a set of style specifications intended to standardize the appearance and format of CCSDS publications.  It is intended to serve as both a guide for CCSDS document developers and an editorial manual for publishers of CCSDS Documents.  The current issue adds material indicated by CCSDS A02.1-Y-4, Organization and Processes for the Consultative Committee for Space Data Systems (Yellow Book, Issue 4, April 2014).  The current version of this document contains all updates through corrigendum 1, dated February 2015.</p>\n"
+  content: "<p>The CCSDS Publications Manual defines a set of style specifications
+    intended to standardize the appearance and format of CCSDS publications.  It is
+    intended to serve as both a guide for CCSDS document developers and an editorial
+    manual for publishers of CCSDS Documents.  The current issue adds material indicated
+    by CCSDS A02.1-Y-4, Organization and Processes for the Consultative Committee
+    for Space Data Systems (Yellow Book, Issue 4, April 2014).  The current version
+    of this document contains all updates through corrigendum 1, dated February 2015.</p>\n"
 status:
   stage:
     content: published

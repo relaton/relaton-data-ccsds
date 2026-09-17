@@ -1,3 +1,4 @@
+---
 id: CCSDS2310B3S
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Recommended Standard for TC Synchronization and Channel Coding contains specifications for synchronization and channel coding to be used by space missions on asynchronous communications links.  The current issue adds LCPC coding; globally changes 'codeblock' to 'codeword' for consistency with modern usage; deletes obsolete annex detailing changes from documents retired in 2005.</p>\n<p>This document issue was superseded by CCSDS 231.0-B-4, TC Synchronization and Channel Coding (Blue Book, Issue 4), released July 2021.</p>\n"
+  content: |
+    <p>The Recommended Standard for TC Synchronization and Channel Coding contains specifications for synchronization and channel coding to be used by space missions on asynchronous communications links.  The current issue adds LCPC coding; globally changes 'codeblock' to 'codeword' for consistency with modern usage; deletes obsolete annex detailing changes from documents retired in 2005.</p>
+    <p>This document issue was superseded by CCSDS 231.0-B-4, TC Synchronization and Channel Coding (Blue Book, Issue 4), released July 2021.</p>
 status:
   stage:
     content: published

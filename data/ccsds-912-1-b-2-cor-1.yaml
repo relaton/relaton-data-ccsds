@@ -1,3 +1,4 @@
+---
 id: CCSDS9121B2Cor1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 912.1-B-2, Space Link Extension—Forward CLTU Service Specification (Blue Book, Issue 2, December 2004).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 912.1-B-2, Space
+    Link Extension—Forward CLTU Service Specification (Blue Book, Issue 2, December
+    2004).</p>\n"
 status:
   stage:
     content: withdrawn

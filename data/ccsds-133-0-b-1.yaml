@@ -1,3 +1,4 @@
+---
 id: CCSDS1330B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation specifies the protocols, services, and procedures pertaining to the CCSDS Packet. These specifications correspond with CCSDS Source Packet specifications contained in Packet Telemetry, Packet Telemetry Service Specification, Telecommand Part 3—Data Management Service, and Advanced Orbiting Systems, Networks and Data Links: Architectural Specification.   (Note: This is a restructured Recommendation*.)  </p>\n<p>The current version of this document contains all updates through technical corrigendum 2, dated September 2012.nThis document issue was superseded by CCSDS 133.0-B-2, Space Packet Protocol (Blue Book, Issue 2, June 2020), released June 2020.</p>\n"
+  content: |
+    <p>This Recommendation specifies the protocols, services, and procedures pertaining to the CCSDS Packet. These specifications correspond with CCSDS Source Packet specifications contained in Packet Telemetry, Packet Telemetry Service Specification, Telecommand Part 3—Data Management Service, and Advanced Orbiting Systems, Networks and Data Links: Architectural Specification.   (Note: This is a restructured Recommendation*.)  </p>
+    <p>The current version of this document contains all updates through technical corrigendum 2, dated September 2012.nThis document issue was superseded by CCSDS 133.0-B-2, Space Packet Protocol (Blue Book, Issue 2, June 2020), released June 2020.</p>
 status:
   stage:
     content: withdrawn

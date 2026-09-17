@@ -1,3 +1,4 @@
+---
 id: CCSDS9111B1
 schema_version: v1.5.6
 title:
@@ -33,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document issue was superseded by CCSDS 911.1-B-2, Space Link Extension-Return All Frames Service Specification (Blue Book, Issue 2), released November 2024.</p>\n"
+  content: "<p>This document issue was superseded by CCSDS 911.1-B-2, Space Link Extension-Return
+    All Frames Service Specification (Blue Book, Issue 2), released November 2024.</p>\n"
 status:
   stage:
     content: withdrawn

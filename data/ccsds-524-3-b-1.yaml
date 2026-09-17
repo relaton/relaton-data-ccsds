@@ -1,9 +1,11 @@
+---
 id: CCSDS5243B1
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Mission Operations—Message Abstraction Layer Binding to HTTP Transport and XML Encoding
+  content: Mission Operations—Message Abstraction Layer Binding to HTTP Transport
+    and XML Encoding
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3100/
@@ -33,7 +35,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard specifies the binding between the Mission Operations (MO) Message Abstraction Layer (MAL) and the Hypertext Transfer Protocol (HTTP) and defines an XML encoding for MAL data types.</p>\n"
+  content: "<p>This Recommended Standard specifies the binding between the Mission
+    Operations (MO) Message Abstraction Layer (MAL) and the Hypertext Transfer Protocol
+    (HTTP) and defines an XML encoding for MAL data types.</p>\n"
 status:
   stage:
     content: published
