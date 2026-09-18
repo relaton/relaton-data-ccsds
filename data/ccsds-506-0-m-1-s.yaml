@@ -1,4 +1,3 @@
----
 id: CCSDS5060M1S
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice specifies a set of standard practices and
-    message formats for use in the navigation technique known as Delta Differential
-    One-Way Ranging (Delta-DOR).</p>\n"
+  content: "<p>This Recommended Practice specifies a set of standard practices and message formats for use in the navigation technique known as Delta Differential One-Way Ranging (Delta-DOR).</p>\n"
 status:
   stage:
     content: published

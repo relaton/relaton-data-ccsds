@@ -1,4 +1,3 @@
----
 id: CCSDS5400G1
 schema_version: v1.5.6
 title:
@@ -34,10 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Informational Report contains overview and descriptive material
-    supporting analysis, requirements, descriptions of use, scenarios, etc., pertinent
-    to the development of standards that support the safe, collaborative operation
-    of mixed teams of human and robotic assets in the exploration of space.</p>\n"
+  content: "<p>This CCSDS Informational Report contains overview and descriptive material supporting analysis, requirements, descriptions of use, scenarios, etc., pertinent to the development of standards that support the safe, collaborative operation of mixed teams of human and robotic assets in the exploration of space.</p>\n"
 status:
   stage:
     content: published

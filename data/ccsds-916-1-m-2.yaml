@@ -1,11 +1,9 @@
----
 id: CCSDS9161M2
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Space Link Extension—Application Program Interface for the Forward CLTU
-    Service
+  content: Space Link Extension—Application Program Interface for the Forward CLTU Service
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/2988/
@@ -35,12 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice specifies a C++ Application Program Interface
-    (API) for the CCSDS Space Link Extension Forward CLTU (FCLTU) Service.  The API
-    is intended for use by application programs implementing the SLE FCLTU Service.
-    \ The current issue updates text to be consistent with the current version of
-    the SLE FCLTU service specification and differentiates applicability by SLE FCLTU
-    service specification version.</p>\n"
+  content: "<p>This Recommended Practice specifies a C++ Application Program Interface (API) for the CCSDS Space Link Extension Forward CLTU (FCLTU) Service.  The API is intended for use by application programs implementing the SLE FCLTU Service.  The current issue updates text to be consistent with the current version of the SLE FCLTU service specification and differentiates applicability by SLE FCLTU service specification version.</p>\n"
 status:
   stage:
     content: published

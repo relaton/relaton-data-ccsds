@@ -1,4 +1,3 @@
----
 id: CCSDS3505G2
 schema_version: v1.5.6
 title:
@@ -34,8 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report presents the concept and rationale for the
-    CCSDS Recommended Standard on the Space Data Link Security Protocol.</p>\n"
+  content: "<p>This Informational Report presents the concept and rationale for the CCSDS Recommended Standard on the Space Data Link Security Protocol.</p>\n"
 status:
   stage:
     content: published

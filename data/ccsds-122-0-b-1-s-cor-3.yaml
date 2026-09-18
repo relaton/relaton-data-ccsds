@@ -1,4 +1,3 @@
----
 id: CCSDS1220B1SCor3
 schema_version: v1.5.6
 title:
@@ -34,8 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 122.0-B-1-S,
-    Image Data Compression (Silver Book, Issue 1, November 2005).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 122.0-B-1-S, Image Data Compression (Silver Book, Issue 1, November 2005).</p>\n"
 status:
   stage:
     content: published

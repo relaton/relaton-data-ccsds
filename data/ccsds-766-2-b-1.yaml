@@ -1,4 +1,3 @@
----
 id: CCSDS7662B1
 schema_version: v1.5.6
 title:
@@ -34,10 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard specifies the technologies, services, and
-    service interfaces for real-time or near real-time voice and audio communications
-    among terrestrial facilities and space systems in support of the mission operations
-    of space flight.</p>\n"
+  content: "<p>This Recommended Standard specifies the technologies, services, and service interfaces for real-time or near real-time voice and audio communications among terrestrial facilities and space systems in support of the mission operations of space flight.</p>\n"
 status:
   stage:
     content: published

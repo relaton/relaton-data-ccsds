@@ -1,4 +1,3 @@
----
 id: CCSDS7135B1SCor1
 schema_version: v1.5.6
 title:
@@ -34,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 713.5-B-1-S,
-    Space Communications Protocol Specification (SCPS)--Security Protocol (SCPS-SP)
-    (Silver Book, Issue 1, May 1999).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 713.5-B-1-S, Space Communications Protocol Specification (SCPS)--Security Protocol (SCPS-SP) (Silver Book, Issue 1, May 1999).</p>\n"
 status:
   stage:
     content: published

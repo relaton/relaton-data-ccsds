@@ -1,11 +1,9 @@
----
 id: CCSDS3200B1Cor1
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Global Spacecraft Identification Field Code Assignment Control Procedures.
-    CCSDS 320.0-B-1 Cor. 1
+  content: Global Spacecraft Identification Field Code Assignment Control Procedures. CCSDS 320.0-B-1 Cor. 1
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3637/

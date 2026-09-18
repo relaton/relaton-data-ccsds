@@ -1,11 +1,9 @@
----
 id: CCSDS9141G1
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Space Link Extension—Application Program Interface for Transfer Services—Summary
-    of Concept and Rationale
+  content: Space Link Extension—Application Program Interface for Transfer Services—Summary of Concept and Rationale
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3005/

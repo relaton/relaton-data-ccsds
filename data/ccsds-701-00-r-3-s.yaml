@@ -1,4 +1,3 @@
----
 id: CCSDS70100R3S
 schema_version: v1.5.6
 title:
@@ -34,10 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Red Book is a draft CCSDS Recommendation that was released for
-    CCSDS Agency review in June 1989.  In October 1989 it was superseded by a CCSDS
-    Blue Book, CCSDS 701.0-B-1.  This June 1989 draft is maintained here for historical
-    purposes.  It should not be used as the basis for new implementations.</p>\n"
+  content: "<p>This Red Book is a draft CCSDS Recommendation that was released for CCSDS Agency review in June 1989.  In October 1989 it was superseded by a CCSDS Blue Book, CCSDS 701.0-B-1.  This June 1989 draft is maintained here for historical purposes.  It should not be used as the basis for new implementations.</p>\n"
 status:
   stage:
     content: published

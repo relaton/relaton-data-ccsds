@@ -1,11 +1,9 @@
----
 id: CCSDS7325O1
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Next Generation Space Internet—End-to-End Resource Provisioning for Orbiting
-    Missions
+  content: Next Generation Space Internet—End-to-End Resource Provisioning for Orbiting Missions
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3752/
@@ -35,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Experimental Specification describes end-to-end resource provisioning
-    for orbiting missions within the proposed Next Generation Space Internet (NGSI)
-    architecture.</p>\n"
+  content: "<p>This Experimental Specification describes end-to-end resource provisioning for orbiting missions within the proposed Next Generation Space Internet (NGSI) architecture.</p>\n"
 status:
   stage:
     content: withdrawn

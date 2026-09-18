@@ -1,4 +1,3 @@
----
 id: CCSDS4131G2
 schema_version: v1.5.6
 title:
@@ -34,10 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report is an adjunct document to the CCSDS Recommended
-    Standard for Pseudo-Noise (PN) Ranging Systems (CCSDS 414.1-B-1). It provides
-    background information and discussion of technical details related to the PN ranging
-    systems defined by the CCSDS Recommended Standard.</p>\n"
+  content: "<p>This Informational Report is an adjunct document to the CCSDS Recommended Standard for Pseudo-Noise (PN) Ranging Systems (CCSDS 414.1-B-1). It provides background information and discussion of technical details related to the PN ranging systems defined by the CCSDS Recommended Standard.</p>\n"
 status:
   stage:
     content: published

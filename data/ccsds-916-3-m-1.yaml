@@ -1,11 +1,9 @@
----
 id: CCSDS9163M1
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Space Link Extension—Application Program Interface for the Forward Space
-    Packet Service
+  content: Space Link Extension—Application Program Interface for the Forward Space Packet Service
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3804/
@@ -35,9 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice specifies a C++ Application Program Interface
-    (API) for the CCSDS Space Link Extension Forward Space Packet (FSP) Service.  The
-    API is intended for use by application programs implementing the SLE FSP Service.</p>\n"
+  content: "<p>This Recommended Practice specifies a C++ Application Program Interface (API) for the CCSDS Space Link Extension Forward Space Packet (FSP) Service.  The API is intended for use by application programs implementing the SLE FSP Service.</p>\n"
 status:
   stage:
     content: withdrawn

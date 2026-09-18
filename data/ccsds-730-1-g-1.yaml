@@ -1,4 +1,3 @@
----
 id: CCSDS7301G1
 schema_version: v1.5.6
 title:
@@ -34,11 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Informational Report provides a top-level architecture of
-    the Solar System Internetwork (SSI).  It defines the features, elements, principles,
-    and procedures of the SSI, consistent with the SSI Operations Concept that was
-    produced by the Space Internetworking Strategy Group and approved by the Interagency
-    Operations Advisory Group in 2010.</p>\n"
+  content: "<p>This CCSDS Informational Report provides a top-level architecture of the Solar System Internetwork (SSI).  It defines the features, elements, principles, and procedures of the SSI, consistent with the SSI Operations Concept that was produced by the Space Internetworking Strategy Group and approved by the Interagency Operations Advisory Group in 2010.</p>\n"
 status:
   stage:
     content: published

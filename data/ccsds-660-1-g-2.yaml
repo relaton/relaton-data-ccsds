@@ -1,4 +1,3 @@
----
 id: CCSDS6601G2
 schema_version: v1.5.6
 title:
@@ -34,8 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report provides information for using Extensible
-    Markup Language (XML) Telemetric and Command Exchange (XTCE) 1.1.</p>\n"
+  content: "<p>This Informational Report provides information for using Extensible Markup Language (XML) Telemetric and Command Exchange (XTCE) 1.1.</p>\n"
 status:
   stage:
     content: published

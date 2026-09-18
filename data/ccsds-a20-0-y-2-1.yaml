@@ -1,4 +1,3 @@
----
 id: CCSDSA200Y21
 schema_version: v1.5.6
 title:
@@ -34,10 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The CCSDS Publications Manual defines a set of style specifications
-    intended to standardize the appearance and format of CCSDS publications.  It is
-    intended to serve as both a guide for CCSDS document developers and an editorial
-    Manual for publishers of CCSDS Documents.</p>\n"
+  content: "<p>The CCSDS Publications Manual defines a set of style specifications intended to standardize the appearance and format of CCSDS publications.  It is intended to serve as both a guide for CCSDS document developers and an editorial Manual for publishers of CCSDS Documents.</p>\n"
 status:
   stage:
     content: withdrawn

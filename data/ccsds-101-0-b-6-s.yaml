@@ -1,4 +1,3 @@
----
 id: CCSDS1010B6S
 schema_version: v1.5.6
 title:
@@ -34,12 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation establishes a common framework and provides a common
-    basis for the coding schemes used on spacecraft telemetry streams. The telemetry
-    channel coding concept described is the baseline concept for spacecraft-to-ground
-    data communication within missions that are cross supported between Agencies of
-    the CCSDS. The current Issue adds Reed-Solomon interleaving depth 8 and clarifies
-    text regarding use of the Pseudo-Randomizer.</p>\n"
+  content: "<p>This Recommendation establishes a common framework and provides a common basis for the coding schemes used on spacecraft telemetry streams. The telemetry channel coding concept described is the baseline concept for spacecraft-to-ground data communication within missions that are cross supported between Agencies of the CCSDS. The current Issue adds Reed-Solomon interleaving depth 8 and clarifies text regarding use of the Pseudo-Randomizer.</p>\n"
 status:
   stage:
     content: published

@@ -1,4 +1,3 @@
----
 id: CCSDS6500M2FrenchTranslated
 schema_version: v1.5.6
 title:
@@ -34,15 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>Cette Pratique recommandée définit une base commune de termes et de
-    concepts s’appliquant à un Système ouvert d’archivage d’information (OAIS - Open
-    Archival Information System). Elle est la traduction française du modèle de référence
-    CCSDS 650.0-M-2 « Reference Model for an Open Archival Information System (OAIS).
-    Magenta Book. Issue 2. June 2012 ». La version actuelle inclut des clarifications
-    à propos des clarifications de nombreux concepts, en particulier celui d’Authenticité
-    avec l’introduction du concept de Propriété d’information de transformation ;
-    des corrections et améliorations dans les diagrammes ; l’ajout de l’Information
-    de droits d’accès à la PDI.</p>\n"
+  content: "<p>Cette Pratique recommandée définit une base commune de termes et de concepts s’appliquant à un Système ouvert d’archivage d’information (OAIS - Open Archival Information System). Elle est la traduction française du modèle de référence CCSDS 650.0-M-2 « Reference Model for an Open Archival Information System (OAIS). Magenta Book. Issue 2. June 2012 ». La version actuelle inclut des clarifications à propos des clarifications de nombreux concepts, en particulier celui d’Authenticité avec l’introduction du concept de Propriété d’information de transformation ; des corrections et améliorations dans les diagrammes ; l’ajout de l’Information de droits d’accès à la PDI.</p>\n"
 status:
   stage:
     content: published

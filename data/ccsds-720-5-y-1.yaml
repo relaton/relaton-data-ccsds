@@ -1,11 +1,9 @@
----
 id: CCSDS7205Y1
 schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: CCSDS File Delivery Protocol (CFDP)—Notebook of Common Inter-Agency Tests
-    for Extended Procedures-Word Version
+  content: CCSDS File Delivery Protocol (CFDP)—Notebook of Common Inter-Agency Tests for Extended Procedures-Word Version
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3158/
@@ -37,8 +35,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document is a notebook intended to help those planning, participating
-    in, and/or evaluating inter-Agency testing of the CFDP Extended Procedures.</p>\n"
+  content: "<p>This document is a notebook intended to help those planning, participating in, and/or evaluating inter-Agency testing of the CFDP Extended Procedures.</p>\n"
 status:
   stage:
     content: published

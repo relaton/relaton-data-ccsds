@@ -1,4 +1,3 @@
----
 id: CCSDS5000G3S
 schema_version: v1.5.6
 title:
@@ -34,15 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report contains technical material to supplement the CCSDS Recommended
-    Standards for spacecraft navigation data.  The topics covered include radiometric
-    data content, spacecraft ephemeris, planetary ephemeris, tracking station locations,
-    coordinate systems, and attitude data.  This Report deals explicitly with the
-    technical definitions and conventions associated with interagency cross-support
-    situations involving the transfer of ephemeris, tracking, and attitude data.  The
-    current issue brings the Green Book up to date with the current issue of Orbit
-    Data Messages (CCSDS 502.0-B-2) as well as the new Recommended Standards for Tracking
-    Data Message and Attitude Data Messages (CCSDS 503.0-B1 and CCSDS 504.0-B-1, respectively).</p>\n"
+  content: "<p>This Report contains technical material to supplement the CCSDS Recommended Standards for spacecraft navigation data.  The topics covered include radiometric data content, spacecraft ephemeris, planetary ephemeris, tracking station locations, coordinate systems, and attitude data.  This Report deals explicitly with the technical definitions and conventions associated with interagency cross-support situations involving the transfer of ephemeris, tracking, and attitude data.  The current issue brings the Green Book up to date with the current issue of Orbit Data Messages (CCSDS 502.0-B-2) as well as the new Recommended Standards for Tracking Data Message and Attitude Data Messages (CCSDS 503.0-B1 and CCSDS 504.0-B-1, respectively).</p>\n"
 status:
   stage:
     content: published

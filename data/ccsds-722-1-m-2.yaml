@@ -1,4 +1,3 @@
----
 id: CCSDS7221M2
 schema_version: v1.5.6
 title:
@@ -34,13 +33,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Recommended Practice is to specify the operation of CFDP
-    over the CCSDS Encapsulation Packet Protocol (EPP), CCSDS Space Packet Protocol
-    (SPP), CCSDS Bundle Protocol (BP), and CCSDS Licklider Transmission Protocol (LTP)
-    as provided for Earth-to-spacecraft, spacecraft-to-Earth, and spacecraft-to-spacecraft
-    communications. In addition, it specifies CFDP UT Layers for User Datagram Protocol
-    (UDP) and Transmission Control Protocol (TCP), which might be used in terrestrial
-    testing or in combination with CCSDS IP Encapsulation.</p>\n"
+  content: "<p>This CCSDS Recommended Practice is to specify the operation of CFDP over the CCSDS Encapsulation Packet Protocol (EPP), CCSDS Space Packet Protocol (SPP), CCSDS Bundle Protocol (BP), and CCSDS Licklider Transmission Protocol (LTP) as provided for Earth-to-spacecraft, spacecraft-to-Earth, and spacecraft-to-spacecraft communications. In addition, it specifies CFDP UT Layers for User Datagram Protocol (UDP) and Transmission Control Protocol (TCP), which might be used in terrestrial testing or in combination with CCSDS IP Encapsulation.</p>\n"
 status:
   stage:
     content: published
