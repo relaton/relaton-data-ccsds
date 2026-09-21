@@ -4399,14 +4399,6 @@
   :file: data/ccsds-529-0-g-1.yaml
 - :id:
     :publisher: CCSDS
-    :number: '529'
-    :book_color: B
-    :part: 1
-    :retired: false
-    :edition: '1'
-  :file: data/ccsds-529-1-b-1.yaml
-- :id:
-    :publisher: CCSDS
     :number: '540'
     :book_color: G
     :part: 0
@@ -6220,25 +6212,9 @@
     :number: '902'
     :book_color: M
     :part: 12
-    :retired: true
-    :edition: '1'
-  :file: data/ccsds-902-12-m-1-s.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '902'
-    :book_color: M
-    :part: 12
     :retired: false
     :edition: '1'
   :file: data/ccsds-902-12-m-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '902'
-    :book_color: M
-    :part: 12
-    :retired: false
-    :edition: '2'
-  :file: data/ccsds-902-12-m-2.yaml
 - :id:
     :publisher: CCSDS
     :number: '1'
@@ -6270,14 +6246,6 @@
     :retired: false
     :edition: '1'
   :file: data/ccsds-902-2-b-1.yaml
-- :id:
-    :publisher: CCSDS
-    :number: '902'
-    :book_color: B
-    :part: 4
-    :retired: false
-    :edition: '1'
-  :file: data/ccsds-902-4-b-1.yaml
 - :id:
     :publisher: CCSDS
     :number: '910'

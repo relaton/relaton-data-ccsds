@@ -3618,13 +3618,6 @@
   :file: data/ccsds-529-0-g-1.yaml
 - :id:
     _type: pubid:ccsds:base
-    number: '529'
-    part: '1'
-    edition: '1'
-    type: B
-  :file: data/ccsds-529-1-b-1.yaml
-- :id:
-    _type: pubid:ccsds:base
     number: '540'
     part: '0'
     edition: '1'
@@ -5252,21 +5245,6 @@
 - :id:
     _type: pubid:ccsds:base
     number: '902'
-    part: '12'
-    edition: '1'
-    type: M
-    suffix: S
-  :file: data/ccsds-902-12-m-1-s.yaml
-- :id:
-    _type: pubid:ccsds:base
-    number: '902'
-    part: '12'
-    edition: '2'
-    type: M
-  :file: data/ccsds-902-12-m-2.yaml
-- :id:
-    _type: pubid:ccsds:base
-    number: '902'
     part: '13'
     edition: '1'
     type: M
@@ -5288,13 +5266,6 @@
     edition: '1'
     type: B
   :file: data/ccsds-902-2-b-1.yaml
-- :id:
-    _type: pubid:ccsds:base
-    number: '902'
-    part: '4'
-    edition: '1'
-    type: B
-  :file: data/ccsds-902-4-b-1.yaml
 - :id:
     _type: pubid:ccsds:base
     number: '910'
