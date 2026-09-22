@@ -1,4 +1,4 @@
-id: CCSDS90212M1
+id: CCSDS90212M1S
 schema_version: v1.5.6
 title:
 - language: en
@@ -10,7 +10,7 @@ source:
 - type: pdf
   content: https://ccsds.org/wp-content/uploads/gravity_forms/5-448e85c647331d9cbaf66c096458bdd5/2026/09/902x12m1s.pdf
 docidentifier:
-- content: CCSDS 902.12-M-1
+- content: CCSDS 902.12-M-1-S
   type: CCSDS
   primary: true
 date:
@@ -38,22 +38,14 @@ abstract:
     <p>This document issue was superseded by 902.12-M-2, Cross Support Service Management—Common Data Entities (Magenta Book, Issue 2), released September 2026.</p>
 status:
   stage:
-    content: withdrawn
+    content: published
 relation:
-- type: hasSuccessor
+- type: successorOf
   bibitem:
     formattedref:
-      content: CCSDS 902.12-M-1-S
+      content: CCSDS 902.12-M-1
     docidentifier:
-    - content: CCSDS 902.12-M-1-S
-      type: CCSDS
-      primary: true
-- type: updatedBy
-  bibitem:
-    formattedref:
-      content: CCSDS 902.12-M-1-S
-    docidentifier:
-    - content: CCSDS 902.12-M-1-S
+    - content: CCSDS 902.12-M-1
       type: CCSDS
       primary: true
 ext:
