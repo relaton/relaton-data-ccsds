@@ -824,6 +824,16 @@
     type: B
   :file: data/ccsds-131-2-b-2.yaml
 - :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '131'
+      part: '2'
+      edition: '2'
+      type: B
+  :file: data/ccsds-131-2-b-2-cor-1.yaml
+- :id:
     _type: pubid:ccsds:base
     number: '131'
     part: '2'
@@ -3210,6 +3220,16 @@
     edition: '3'
     type: B
   :file: data/ccsds-502-0-b-3.yaml
+- :id:
+    _type: pubid:ccsds:corrigendum
+    number: '1'
+    base:
+      _type: pubid:ccsds:base
+      number: '502'
+      part: '0'
+      edition: '3'
+      type: B
+  :file: data/ccsds-502-0-b-3-cor-1.yaml
 - :id:
     _type: pubid:ccsds:base
     number: '502'
