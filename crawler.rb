@@ -7,11 +7,12 @@ require 'bundler'
 require 'relaton/ccsds/processor'
 
 FileUtils.rm Dir.glob('index-*')
-FileUtils.rm_rf 'data'
 
 # Fetch into data/ and build index-v2 (identifiers parsed with pubid v2).
+# Incremental crawl (relaton#328): byte-identical records are skipped and
+# stale files pruned behind the 90% guard; an empty fetch prunes nothing.
 processor = Relaton::Ccsds::Processor.new
-processor.fetch_data
+processor.fetch_data("ccsds", prune: true)
 
 # Rebuild index-v1 (the released gem line, identifiers parsed with pubid v1) in
 # a separate process with its own pubid-v1 bundle: pubid v1 and the pubid v2
