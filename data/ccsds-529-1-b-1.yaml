@@ -34,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard has the objective of specifying generic, interoperable mission planning and scheduling interfaces, for all typical space mission use cases.</p>\n"
+  content: "<p>This Recommended Standard has the objective of specifying generic,
+    interoperable mission planning and scheduling interfaces, for all typical space
+    mission use cases.</p>\n"
 status:
   stage:
     content: published

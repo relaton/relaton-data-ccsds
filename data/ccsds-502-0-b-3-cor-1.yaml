@@ -34,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 502.0-B-3, Orbit Data Messages (Blue Book, Issue 3, April 2023).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 502.0-B-3, Orbit
+    Data Messages (Blue Book, Issue 3, April 2023).</p>\n"
 status:
   stage:
     content: published

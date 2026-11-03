@@ -34,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 131.2-B-2, Flexible Advanced Coding and Modulation Scheme for High Rate Telemetry Applications (Blue Book, Issue 2, February 2023).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 131.2-B-2, Flexible
+    Advanced Coding and Modulation Scheme for High Rate Telemetry Applications (Blue
+    Book, Issue 2, February 2023).</p>\n"
 status:
   stage:
     content: published

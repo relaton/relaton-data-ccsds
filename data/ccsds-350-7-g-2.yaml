@@ -34,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report provides guidance to mission planners in developing the management, operational, and technical security controls appropriate to the value of their system and the information processed in it.</p>\n"
+  content: "<p>This Informational Report provides guidance to mission planners in
+    developing the management, operational, and technical security controls appropriate
+    to the value of their system and the information processed in it.</p>\n"
 status:
   stage:
     content: published

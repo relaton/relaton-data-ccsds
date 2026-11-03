@@ -34,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation documents the identifiers that are defined or reserved by CCSDS as part of the specification of the CCSDS space link protocols, and it shows how these identifiers are managed at the CCSDS level.</p>\n"
+  content: "<p>This Recommendation documents the identifiers that are defined or reserved
+    by CCSDS as part of the specification of the CCSDS space link protocols, and it
+    shows how these identifiers are managed at the CCSDS level.</p>\n"
 status:
   stage:
     content: withdrawn

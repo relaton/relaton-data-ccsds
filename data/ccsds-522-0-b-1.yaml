@@ -34,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard defines the Mission Operations (MO) Common Services in terms of the Common Object Model (COM) and the Message Abstraction Layer (MAL).</p>\n"
+  content: "<p>This Recommended Standard defines the Mission Operations (MO) Common
+    Services in terms of the Common Object Model (COM) and the Message Abstraction
+    Layer (MAL).</p>\n"
 status:
   stage:
     content: published
