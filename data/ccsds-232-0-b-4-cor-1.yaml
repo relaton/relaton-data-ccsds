@@ -34,8 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 232.0-B-4, TC
-    Space Data Link Protocol (Blue Book, Issue 4, October 2021).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 232.0-B-4, TC Space Data Link Protocol (Blue Book, Issue 4, October 2021).</p>\n"
 status:
   stage:
     content: published

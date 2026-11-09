@@ -34,8 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard specifies the Delta-DOR raw data exchange
-    format to be used for cross support among CCSDS Agencies.</p>\n"
+  content: "<p>This Recommended Standard specifies the Delta-DOR raw data exchange format to be used for cross support among CCSDS Agencies.</p>\n"
 status:
   stage:
     content: published

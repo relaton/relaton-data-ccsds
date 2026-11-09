@@ -34,9 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard specifies a method for lossless compression
-    of multispectral and hyperspectral image data and a format for storing the compressed
-    data.</p>\n"
+  content: "<p>This Recommended Standard specifies a method for lossless compression of multispectral and hyperspectral image data and a format for storing the compressed data.</p>\n"
 status:
   stage:
     content: withdrawn

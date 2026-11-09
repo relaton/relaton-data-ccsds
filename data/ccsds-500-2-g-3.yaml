@@ -34,8 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report contains background and explanatory material
-    to supplement the CCSDS Recommended Standards for spacecraft navigation data.</p>\n"
+  content: "<p>This Informational Report contains background and explanatory material to supplement the CCSDS Recommended Standards for spacecraft navigation data.</p>\n"
 status:
   stage:
     content: published

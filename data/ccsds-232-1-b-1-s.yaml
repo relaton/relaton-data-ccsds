@@ -34,10 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation specifies the Communications Operation Procedure-1
-    used by the TC Space Data Link Protocol. This specification corresponds with that
-    of Telecommand Part 2.1—Command Operation Procedures.  (Note: This is a restructured
-    Recommendation*.)</p>\n"
+  content: "<p>This Recommendation specifies the Communications Operation Procedure-1 used by the TC Space Data Link Protocol. This specification corresponds with that of Telecommand Part 2.1—Command Operation Procedures.  (Note: This is a restructured Recommendation*.)</p>\n"
 status:
   stage:
     content: published

@@ -34,10 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice presents a Security Reference Architecture
-    for Space Data Systems (SASDS) based on the Reference Architecture for Space Data
-    Systems (RASDS) and is intended to provide a standardized approach for description
-    of security within data system architectures and high-level designs.</p>\n"
+  content: "<p>This Recommended Practice presents a Security Reference Architecture for Space Data Systems (SASDS) based on the Reference Architecture for Space Data Systems (RASDS) and is intended to provide a standardized approach for description of security within data system architectures and high-level designs.</p>\n"
 status:
   stage:
     content: published

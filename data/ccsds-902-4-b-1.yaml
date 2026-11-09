@@ -34,13 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Service Package Data Formats (SPDF) Recommended Standard specifies
-    a standard for expressing a package of one or more services from a service provider
-    to a mission user. The services are typically telecommand, telemetry, and tracking.
-    The SPDF is generally expected to be utilized in support of mission operations
-    in order to inform spacecraft operators of resource allocation and configuration
-    data pertaining to ground-station or relay-spacecraft resources scheduled to serve
-    their missions.</p>\n"
+  content: "<p>This Service Package Data Formats (SPDF) Recommended Standard specifies a standard for expressing a package of one or more services from a service provider to a mission user. The services are typically telecommand, telemetry, and tracking. The SPDF is generally expected to be utilized in support of mission operations in order to inform spacecraft operators of resource allocation and configuration data pertaining to ground-station or relay-spacecraft resources scheduled to serve their missions.</p>\n"
 status:
   stage:
     content: published

@@ -34,11 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The Recommended Standard for multispectral and hyperspectral image
-    compression specifies a data compression algorithm applied to digital three-dimensional
-    image data from payload instruments, such as multispectral and hyperspectral imagers.
-    Lossless and near-lossless methods are specified, along with a format for storing
-    the compressed data.</p>\n"
+  content: "<p>The Recommended Standard for multispectral and hyperspectral image compression specifies a data compression algorithm applied to digital three-dimensional image data from payload instruments, such as multispectral and hyperspectral imagers. Lossless and near-lossless methods are specified, along with a format for storing the compressed data.</p>\n"
 status:
   stage:
     content: published

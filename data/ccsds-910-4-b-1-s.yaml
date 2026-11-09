@@ -34,11 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation establishes a common framework and provides a common
-    basis for the specification of data services that extend the space-to-ground communication
-    services previously defined by CCSDS. It allows implementing organizations within
-    each agency to proceed coherently with the development of compatible derived standards
-    for the ground systems that are within their cognizance.</p>\n"
+  content: "<p>This Recommendation establishes a common framework and provides a common basis for the specification of data services that extend the space-to-ground communication services previously defined by CCSDS. It allows implementing organizations within each agency to proceed coherently with the development of compatible derived standards for the ground systems that are within their cognizance.</p>\n"
 status:
   stage:
     content: published

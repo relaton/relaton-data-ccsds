@@ -34,11 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Informational Report is an adaptation of United States National
-    Institute of Standards and Technology (NIST) Security Guide for Interconnecting
-    Information Technology Systems (NIST Special Publication 800-47).  The CCSDS Report
-    is tailored for the space community and provides a guide for secure space agency
-    interconnections.</p>\n"
+  content: "<p>This CCSDS Informational Report is an adaptation of United States National Institute of Standards and Technology (NIST) Security Guide for Interconnecting Information Technology Systems (NIST Special Publication 800-47).  The CCSDS Report is tailored for the space community and provides a guide for secure space agency interconnections.</p>\n"
 status:
   stage:
     content: published

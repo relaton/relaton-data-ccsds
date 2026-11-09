@@ -34,8 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 135.0-B-3, Space
-    Link Identifiers (Blue Book, Issue 3, October 2006).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 135.0-B-3, Space Link Identifiers (Blue Book, Issue 3, October 2006).</p>\n"
 status:
   stage:
     content: published

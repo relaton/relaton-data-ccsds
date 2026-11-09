@@ -34,11 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report establishes a common framework and provides a common basis
-    for the development of SLE services. It allows the development of compatible derived
-    Standards for the SLE services that are within their cognizance. Derived Agency
-    Standards may implement only a subset of the optional features allowed by the
-    Cross Support Recommendations.</p>\n"
+  content: "<p>This Report establishes a common framework and provides a common basis for the development of SLE services. It allows the development of compatible derived Standards for the SLE services that are within their cognizance. Derived Agency Standards may implement only a subset of the optional features allowed by the Cross Support Recommendations.</p>\n"
 status:
   stage:
     content: published

@@ -34,8 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation defines the SCPS** transport-layer protocols and
-    services. SCPS-TP is also known as TCP Tranquility.</p>\n"
+  content: "<p>This Recommendation defines the SCPS** transport-layer protocols and services. SCPS-TP is also known as TCP Tranquility.</p>\n"
 status:
   stage:
     content: published

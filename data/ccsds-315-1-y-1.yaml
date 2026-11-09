@@ -34,9 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document describes the CCSDS Uniform Resource Name (URN) policy
-    and structure.  This document is a product of the CCSDS XML Standards and Guidelines
-    Special Interest Group (XSG SIG).</p>\n"
+  content: "<p>This document describes the CCSDS Uniform Resource Name (URN) policy and structure.  This document is a product of the CCSDS XML Standards and Guidelines Special Interest Group (XSG SIG).</p>\n"
 status:
   stage:
     content: published

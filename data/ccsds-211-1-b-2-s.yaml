@@ -34,10 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation defines the Proximity-1 Space Link Protocol Physical
-    Layer.  The specification for the channel connection process, provision for frequency
-    bands and assignments, hailing channel, polarization, modulation, data rates,
-    and performance requirements are defined in this document.</p>\n"
+  content: "<p>This Recommendation defines the Proximity-1 Space Link Protocol Physical Layer.  The specification for the channel connection process, provision for frequency bands and assignments, hailing channel, polarization, modulation, data rates, and performance requirements are defined in this document.</p>\n"
 status:
   stage:
     content: published

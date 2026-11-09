@@ -34,9 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard for Terrestrial Generic File Transfernspecifies
-    a standard mechanism for transferring files and associated metadata between space
-    agencies.</p>\n"
+  content: "<p>This Recommended Standard for Terrestrial Generic File Transfernspecifies a standard mechanism for transferring files and associated metadata between space agencies.</p>\n"
 status:
   stage:
     content: published

@@ -34,8 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 502.0-B-2-S,
-    Orbit Data Messages (Blue Book, Issue 2, November 2009).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 502.0-B-2-S, Orbit Data Messages (Blue Book, Issue 2, November 2009).</p>\n"
 status:
   stage:
     content: withdrawn

@@ -34,8 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Informational Report presents a set of concepts and tutorial
-    on a telemetry and telecommand database format for spacecraft monitoring and control.</p>\n"
+  content: "<p>This CCSDS Informational Report presents a set of concepts and tutorial on a telemetry and telecommand database format for spacecraft monitoring and control.</p>\n"
 status:
   stage:
     content: published
