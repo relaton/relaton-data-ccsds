@@ -34,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report provides supporting descriptive and tutorial material with regard to the framework for all of the Cross Support Transfer Services used in exchanging data between spacecraft mission operations centers and ground stations.</p>\n"
+  content: "<p>This Report provides supporting descriptive and tutorial material with
+    regard to the framework for all of the Cross Support Transfer Services used in
+    exchanging data between spacecraft mission operations centers and ground stations.</p>\n"
 status:
   stage:
     content: published

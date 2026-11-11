@@ -34,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report provides an introduction to the concepts, features and characteristics of the CCSDS File Delivery Protocol (CFDP).</p>\n"
+  content: "<p>This Report provides an introduction to the concepts, features and
+    characteristics of the CCSDS File Delivery Protocol (CFDP).</p>\n"
 status:
   stage:
     content: withdrawn

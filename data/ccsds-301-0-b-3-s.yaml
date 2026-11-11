@@ -34,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommendation establishes a common framework and provides a common basis for the formats of time code data.</p>\n"
+  content: "<p>This Recommendation establishes a common framework and provides a common
+    basis for the formats of time code data.</p>\n"
 status:
   stage:
     content: published

@@ -34,7 +34,9 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 123.0-B-2, Low-Complexity Lossless and Near-Lossless Multispectral and Hyperspectral Image Compression (Blue Book, Issue 2, February 2019).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 123.0-B-2, Low-Complexity
+    Lossless and Near-Lossless Multispectral and Hyperspectral Image Compression (Blue
+    Book, Issue 2, February 2019).</p>\n"
 status:
   stage:
     content: published

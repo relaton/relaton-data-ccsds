@@ -34,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Record describes how Functional Resources (FRs) are registered atnSANA and defines the interface for FRs between the CCSDS CSS Area and SANA.</p>\n"
+  content: "<p>This CCSDS Record describes how Functional Resources (FRs) are registered
+    atnSANA and defines the interface for FRs between the CCSDS CSS Area and SANA.</p>\n"
 status:
   stage:
     content: published

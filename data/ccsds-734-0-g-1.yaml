@@ -34,7 +34,10 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Informational Report contains background and explanatory material to support forthcoming CCSDS Recommendations for a Delay-Tolerant Networking protocol suite.  It describes the rationale, scenarios/use cases, and requirements for a proposed DTN service targeted at the space internetworking environment.</p>\n"
+  content: "<p>This Informational Report contains background and explanatory material
+    to support forthcoming CCSDS Recommendations for a Delay-Tolerant Networking protocol
+    suite.  It describes the rationale, scenarios/use cases, and requirements for
+    a proposed DTN service targeted at the space internetworking environment.</p>\n"
 status:
   stage:
     content: published

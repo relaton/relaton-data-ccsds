@@ -34,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Experimental Specification defines channel coding and synchronization schemes for free-space optical communications systems used by spacenmissions.</p>\n"
+  content: "<p>This Experimental Specification defines channel coding and synchronization
+    schemes for free-space optical communications systems used by spacenmissions.</p>\n"
 status:
   stage:
     content: published

@@ -34,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 231.0-B-4, TC Synchronization and Channel Coding (Blue Book, Issue 4, July 2021).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 231.0-B-4, TC
+    Synchronization and Channel Coding (Blue Book, Issue 4, July 2021).</p>\n"
 status:
   stage:
     content: published

@@ -34,7 +34,8 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 732.0-B-2-S, AOS Space Data Link Protocol (Silver Book, Issue 2, July 2006).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 732.0-B-2-S,
+    AOS Space Data Link Protocol (Silver Book, Issue 2, July 2006).</p>\n"
 status:
   stage:
     content: published
