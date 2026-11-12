@@ -34,8 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice specifies symmetric key management to support
-    cryptographic operations.</p>\n"
+  content: "<p>This Recommended Practice specifies symmetric key management to support cryptographic operations.</p>\n"
 status:
   stage:
     content: published

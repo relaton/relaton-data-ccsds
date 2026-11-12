@@ -35,12 +35,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Experimental Specification describes a new coding/modulation scheme
-    that provides a wide range of spectral efficiency values that can be reconfigured
-    without interrupting the data transfer over the physical channel.  The implementation
-    of the encoder can be realized with certain degrees of parallelism without any
-    significant increase in memory or computation requirements. This feature makes
-    the scheme attractive in particular for on-board</p>\n"
+  content: "<p>This Experimental Specification describes a new coding/modulation scheme that provides a wide range of spectral efficiency values that can be reconfigured without interrupting the data transfer over the physical channel.  The implementation of the encoder can be realized with certain degrees of parallelism without any significant increase in memory or computation requirements. This feature makes the scheme attractive in particular for on-board</p>\n"
 status:
   stage:
     content: withdrawn

@@ -37,8 +37,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document is a notebook intended to help those planning, participating
-    in, and/or evaluating inter-Agency testing of the CFDP Extended Procedures.</p>\n"
+  content: "<p>This document is a notebook intended to help those planning, participating in, and/or evaluating inter-Agency testing of the CFDP Extended Procedures.</p>\n"
 status:
   stage:
     content: published

@@ -35,10 +35,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice specifies a C++ Application Program Interface
-    (API) for  the CCSDS Space Link Extension Return Operational Control Fields (ROCF)
-    Service.  The API is intended for use by application programs implementing the
-    SLE ROCF Service.</p>\n"
+  content: "<p>This Recommended Practice specifies a C++ Application Program Interface (API) for  the CCSDS Space Link Extension Return Operational Control Fields (ROCF) Service.  The API is intended for use by application programs implementing the SLE ROCF Service.</p>\n"
 status:
   stage:
     content: withdrawn

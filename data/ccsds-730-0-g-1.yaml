@@ -34,8 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report describes the proposed Next Generation Space Internet (NGSI)
-    architecture.</p>\n"
+  content: "<p>This Report describes the proposed Next Generation Space Internet (NGSI) architecture.</p>\n"
 status:
   stage:
     content: withdrawn

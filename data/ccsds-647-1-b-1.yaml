@@ -4,7 +4,8 @@ schema_version: v1.5.6
 title:
 - language: en
   script: Latn
-  content: Data Entity Dictionary Specification Language (DEDSL)—Abstract Syntax (CCSD0011)
+  content: Data Entity Dictionary Specification Language (DEDSL)—Abstract Syntax
+    (CCSD0011)
 source:
 - type: src
   content: https://ccsds.org/publications/ccsdsallpubs/entry/3041/

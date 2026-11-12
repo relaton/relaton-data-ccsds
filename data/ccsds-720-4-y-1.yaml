@@ -37,8 +37,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Record is a notebook intended to help those planning, participating
-    in, and/or evaluating inter-Agency testing of the CFDP Protocol.</p>\n"
+  content: "<p>This CCSDS Record is a notebook intended to help those planning, participating in, and/or evaluating inter-Agency testing of the CFDP Protocol.</p>\n"
 status:
   stage:
     content: published

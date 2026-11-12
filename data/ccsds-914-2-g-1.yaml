@@ -35,11 +35,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Application Programmer's Guide provides tutorial material for
-    software developers wishing to integrate the API into SLE user applications or
-    SLE provider applications.  In particular, it explains how to create and configure
-    API components and discusses a number of scenarios demonstrating how an application
-    can use the API.</p>\n"
+  content: "<p>This Application Programmer's Guide provides tutorial material for software developers wishing to integrate the API into SLE user applications or SLE provider applications.  In particular, it explains how to create and configure API components and discusses a number of scenarios demonstrating how an application can use the API.</p>\n"
 status:
   stage:
     content: withdrawn

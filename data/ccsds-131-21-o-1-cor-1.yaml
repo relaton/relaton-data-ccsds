@@ -34,9 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Technical Corrigendum documents changes to CCSDS 131.21-O-1, Serially
-    Concatenated Convolutional Codes—Extension (SCCC-X) (Orange Book, Issue 1, May
-    2021).</p>\n"
+  content: "<p>This Technical Corrigendum documents changes to CCSDS 131.21-O-1, Serially Concatenated Convolutional Codes—Extension (SCCC-X) (Orange Book, Issue 1, May 2021).</p>\n"
 status:
   stage:
     content: published

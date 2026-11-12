@@ -35,9 +35,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Restructured Organization and Processes document was initially
-    created in response to calls to update and re-engineer the CCSDS organization
-    at its autumn 2002 meeting. As a result, CCSDS RECORD A02.1-Y-1</p>\n"
+  content: "<p>This Restructured Organization and Processes document was initially created in response to calls to update and re-engineer the CCSDS organization at its autumn 2002 meeting. As a result, CCSDS RECORD A02.1-Y-1</p>\n"
 status:
   stage:
     content: withdrawn

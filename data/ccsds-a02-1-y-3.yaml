@@ -35,10 +35,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Record merges Restructured Organization and Processes for
-    the CCSDS (CCSDS A02.1-Y-2) and Procedures Manual for the Consultative Committee
-    for Space Data Systems (CCSDS A00.0-Y-9) and updates the result to reflect the
-    current CCSDS organization and its processes.</p>\n"
+  content: "<p>This CCSDS Record merges Restructured Organization and Processes for the CCSDS (CCSDS A02.1-Y-2) and Procedures Manual for the Consultative Committee for Space Data Systems (CCSDS A00.0-Y-9) and updates the result to reflect the current CCSDS organization and its processes.</p>\n"
 status:
   stage:
     content: withdrawn

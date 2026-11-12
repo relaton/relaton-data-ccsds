@@ -35,10 +35,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Record describes the CCSDS organization and defines procedures
-    used by the CCSDS. The current issue clarifies/expands online polling procedures
-    and adds procedures for online charter and project definition.  The current version
-    of this document contains all updates through corrigendum 2, dated January 2016.</p>\n"
+  content: "<p>This CCSDS Record describes the CCSDS organization and defines procedures used by the CCSDS. The current issue clarifies/expands online polling procedures and adds procedures for online charter and project definition.  The current version of this document contains all updates through corrigendum 2, dated January 2016.</p>\n"
 status:
   stage:
     content: published

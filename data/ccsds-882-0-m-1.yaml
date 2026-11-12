@@ -35,9 +35,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Recommended Practice presents the recommended practices
-    for the utilization of low-data-rate wireless communication technologies in support
-    of spacecraft ground testing and flight monitoring and control applications.</p>\n"
+  content: "<p>This CCSDS Recommended Practice presents the recommended practices for the utilization of low-data-rate wireless communication technologies in support of spacecraft ground testing and flight monitoring and control applications.</p>\n"
 status:
   stage:
     content: published

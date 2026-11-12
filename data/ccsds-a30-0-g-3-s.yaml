@@ -34,8 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Report consolidates glossaries provided by the active technical
-    panels of the CCSDS.</p>\n"
+  content: "<p>This Report consolidates glossaries provided by the active technical panels of the CCSDS.</p>\n"
 status:
   stage:
     content: published

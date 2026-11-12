@@ -35,11 +35,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard specifies wireless proximity network communications
-    protocol and communication standards for use in support ofnactivities associated
-    with space missions. The current update adds 3GPP Gateway Core Networking (GWCN)
-    capabilities, IEEE 802.11 Wi-Fi security specification (WPA-3 Enterprise), and
-    Enumeration of specific Wi-Fi Alliance (WFA) subcertifications.</p>\n"
+  content: "<p>This Recommended Standard specifies wireless proximity network communications protocol and communication standards for use in support ofnactivities associated with space missions. The current update adds 3GPP Gateway Core Networking (GWCN) capabilities, IEEE 802.11 Wi-Fi security specification (WPA-3 Enterprise), and Enumeration of specific Wi-Fi Alliance (WFA) subcertifications.</p>\n"
 status:
   stage:
     content: published

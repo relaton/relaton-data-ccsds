@@ -35,10 +35,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard defines the XML Specification for SOIS Electronic
-    Data Sheet (SEDS). The SEDS is for use in electronically describing the data interfaces
-    offered by flight hardware such as sensors and actuators over the SOIS Subnetwork
-    Services.</p>\n"
+  content: "<p>This Recommended Standard defines the XML Specification for SOIS Electronic Data Sheet (SEDS). The SEDS is for use in electronically describing the data interfaces offered by flight hardware such as sensors and actuators over the SOIS Subnetwork Services.</p>\n"
 status:
   stage:
     content: published

@@ -34,13 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard provides the abstract syntax and an XML implementation
-    of descriptions of data to be sent to an archive.  These descriptions are negotiated
-    agreements between the data Producer and the Archive and facilitate production
-    of agreed data by the Producer and validation of received data by the Archive.
-    \ The Recommended Standard includes an abstract syntax for describing how these
-    data will be aggregated into packages for transmission and one concrete implementation
-    for the packages based on the XML Formatted Data Unit (XFDU) standard.</p>\n"
+  content: "<p>This Recommended Standard provides the abstract syntax and an XML implementation of descriptions of data to be sent to an archive.  These descriptions are negotiated agreements between the data Producer and the Archive and facilitate production of agreed data by the Producer and validation of received data by the Archive.  The Recommended Standard includes an abstract syntax for describing how these data will be aggregated into packages for transmission and one concrete implementation for the packages based on the XML Formatted Data Unit (XFDU) standard.</p>\n"
 status:
   stage:
     content: published

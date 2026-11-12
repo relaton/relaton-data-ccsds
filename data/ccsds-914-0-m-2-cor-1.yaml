@@ -34,9 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This corrigendum documents changes to CCSDS 914.0-M-2, Space Link Extension—Application
-    Program Interface for Transfer Services—Core Specification (Magenta Book, Issue
-    2, September 2015).</p>\n"
+  content: "<p>This corrigendum documents changes to CCSDS 914.0-M-2, Space Link Extension—Application Program Interface for Transfer Services—Core Specification (Magenta Book, Issue 2, September 2015).</p>\n"
 status:
   stage:
     content: published

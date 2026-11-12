@@ -34,9 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document defines procedures for CCSDS Working Group (WG) interactions
-    with the CCSDS Space Assigned Numbers Authority (SANA) for the purpose of creating
-    and modifying SANA registries.</p>\n"
+  content: "<p>This document defines procedures for CCSDS Working Group (WG) interactions with the CCSDS Space Assigned Numbers Authority (SANA) for the purpose of creating and modifying SANA registries.</p>\n"
 status:
   stage:
     content: published

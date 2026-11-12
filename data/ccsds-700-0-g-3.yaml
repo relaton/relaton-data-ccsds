@@ -35,10 +35,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Report contains background and explanatory material to supplement
-    the CCSDS Recommendation, Advanced Orbiting Systems, Network and Data Links: Architectural
-    Specification, 701.0-B-2.  This document has been reconfirmed by the CCSDS Management
-    Council through October 2021.</p>\n"
+  content: "<p>This CCSDS Report contains background and explanatory material to supplement the CCSDS Recommendation, Advanced Orbiting Systems, Network and Data Links: Architectural Specification, 701.0-B-2.  This document has been reconfirmed by the CCSDS Management Council through October 2021.</p>\n"
 status:
   stage:
     content: published

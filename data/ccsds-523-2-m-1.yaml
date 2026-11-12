@@ -34,8 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice defines a C++ API for the Mission Operations
-    Message Abstraction Layer specified in CCSDS 521.0-B-2.</p>\n"
+  content: "<p>This Recommended Practice defines a C++ API for the Mission Operations Message Abstraction Layer specified in CCSDS 521.0-B-2.</p>\n"
 status:
   stage:
     content: published

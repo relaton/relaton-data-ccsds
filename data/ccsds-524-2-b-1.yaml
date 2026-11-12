@@ -35,9 +35,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Recommended Standard specifies a binding of the Mission
-    Operations Message Abstraction Layer (MAL) to TCP/IP using a split binary encoding
-    for MAL data types.</p>\n"
+  content: "<p>This CCSDS Recommended Standard specifies a binding of the Mission Operations Message Abstraction Layer (MAL) to TCP/IP using a split binary encoding for MAL data types.</p>\n"
 status:
   stage:
     content: published

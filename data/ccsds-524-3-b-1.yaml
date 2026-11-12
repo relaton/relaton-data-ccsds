@@ -35,9 +35,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Standard specifies the binding between the Mission
-    Operations (MO) Message Abstraction Layer (MAL) and the Hypertext Transfer Protocol
-    (HTTP) and defines an XML encoding for MAL data types.</p>\n"
+  content: "<p>This Recommended Standard specifies the binding between the Mission Operations (MO) Message Abstraction Layer (MAL) and the Hypertext Transfer Protocol (HTTP) and defines an XML encoding for MAL data types.</p>\n"
 status:
   stage:
     content: published

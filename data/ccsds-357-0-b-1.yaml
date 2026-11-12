@@ -34,8 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This CCSDS Recommended Standard provides the specification for credentials
-    to be used for authentication by CCSDS missions and ground systems.</p>\n"
+  content: "<p>This CCSDS Recommended Standard provides the specification for credentials to be used for authentication by CCSDS missions and ground systems.</p>\n"
 status:
   stage:
     content: published

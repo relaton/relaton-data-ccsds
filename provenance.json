@@ -1,9 +1,9 @@
 {
   "repository": "relaton/relaton-data-ccsds",
   "workflow": "Crawler",
-  "run_id": "43099414959",
+  "run_id": "43308491548",
   "run_attempt": "1",
-  "source_revision": "f322608eaf31e309a2b0bb8ddd249230ec9f9d56",
+  "source_revision": "2b1985e7d02477f99e9bae3cf48c1d7431ffa353",
   "crawler": "bundle exec ruby crawler.rb",
-  "crawled_at": "2026-11-11T21:01:59Z"
+  "crawled_at": "2026-11-12T21:16:39Z"
 }

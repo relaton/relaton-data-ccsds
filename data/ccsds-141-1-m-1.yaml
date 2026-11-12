@@ -34,9 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This Recommended Practice provides a set of recommendations to facilitate
-    interagency collection of atmospheric data and characterization of atmospheric
-    parameters that affect space-to-ground free-space optical communications.</p>\n"
+  content: "<p>This Recommended Practice provides a set of recommendations to facilitate interagency collection of atmospheric data and characterization of atmospheric parameters that affect space-to-ground free-space optical communications.</p>\n"
 status:
   stage:
     content: published

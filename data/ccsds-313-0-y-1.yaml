@@ -34,8 +34,7 @@ edition:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This document describes the CCSDS Space Assigned Numbers Authority
-    (SANA) Registry Management Policy and related procedures.</p>\n"
+  content: "<p>This document describes the CCSDS Space Assigned Numbers Authority (SANA) Registry Management Policy and related procedures.</p>\n"
 status:
   stage:
     content: withdrawn
